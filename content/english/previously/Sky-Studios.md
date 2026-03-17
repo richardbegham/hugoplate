@@ -21,9 +21,12 @@ summary: "Lists the many fixed Studios Designed and Deployed whilst at Sky. All 
   - Millbank various including major Refurb 2020 (Pandemic install single-handed)
   - Tardis Control Systen (2016-2023)
     - Live simultaneous control of 7 studios across 4 sites on 2 continents
-    - Remote control but also local- control handed-over or overridable
+    - All consoles independant - resilliant to intermittent disconnections and latency.
+    - Remote or Local control, with clear intuiative indication at a glance of status of all studios.
+    - Two-way interfaces with other control systenms, safely and securely firewalled by DMX
+    - Harddware VPN used to encapusulate and route traffic across internal networks with no Corporate IT complications.
     - largest ETC Eos Network in world (by geography)
-    - Entirely macro and magic-sheet driven
+    - Conditional and Sequential controls whilst being entirely macro and magic-sheet driven
     - Develioped and entirely Programmed by RB
 
 ### Studio 21 - The Glass Box Flagship

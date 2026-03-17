@@ -1,11 +1,11 @@
 ---
 title: "Sky News"
-date: 17 Feb 2026
+date: 17 Mar 2026
 draft: false
 language: en
 description: The Sky Years - Sky News
 weight: 12
-featured_image: images/SkyNews/Big-Ideas-Rotherham-2.jpg"
+featured_image: "featured.png"
 summary: "Responsible for the Lighting for all Sky News output for over 10 years. Numerous Elections, Party Leadership Debates, Prime Minister Debates, Studio Panel Debates, Flagship Outside Broadcasts, Studio Design and Builds...and more."
 ---
 
