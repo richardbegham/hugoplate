@@ -7,6 +7,9 @@
             class="text-[8rem] block font-bold text-text-dark dark:text-darkmode-text-dark">
             404
           </span>
+          {{ if .Params.image }}
+            {{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Title "Class" "mx-auto rounded mb-6" ) }}
+          {{ end }}
           <h1 class="h2 mb-4">Page not found</h1>
           <div class="content">
             <p>

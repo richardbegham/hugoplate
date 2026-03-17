@@ -13,13 +13,16 @@ summary: "Not entirely News and Sport, occasionally Richard was able to do somet
 
 Various studio and OB shows for Sky Arts, Sky Atlantic, etc.
 
-Westworld spim-off show.
+- Westworld spim-off show.
 
-DC Heroes fan-show (Batman, Arrow, The Flash, etc)
+- DC Heroes fan-show (Batman, Arrow, The Flash, etc)
 
 ### Thronecast
 
+Fan spin-off shown hosted by Sue Perkins.  
 (final series after being requested every series but unable to be released previously due to MNF)
+
+Also a one-off quiz _Gameshow of Thrones_
 
 ### Sky Sessions
 
@@ -28,10 +31,10 @@ Bands on their way back from Glastonbury (etc) - half a day each, 4 songs (3 sho
 
 > The best Studio 4/5 ever looked!
 
-### Oscars coverage
+### Sky Cinema
 
-UK-based studio Presentation around these award shows.
-Various years - pictures are 2018
+Oscars wrap-around live build-up and coverage - sadly done in chilly west london not california.  
+Various years, these pictures are from 2018
 
 ### The Great Culture Quicz
 

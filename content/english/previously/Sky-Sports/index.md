@@ -5,15 +5,15 @@ draft: false
 language: en
 description: Sky Sports
 weight: 11
-# featured_image: /assets/images/featured/featured-img-placeholder.png
+#featured_image: images/.png
+summary: "Football. A LOT of people talking about football on MNF, SNF, FNF, WSL, EFL, WCQ..,! Also Formula 1! Boxing! Rugby! NFL! NBA! Golf! Bog Snorkling! ...and more..."
 ---
 
 ## Series / Lead Lighting Director for :
 
 ### Sky Sports - Football
 
-- Way way way more studio football punditry than can be counted...
-  *...but still don’t understand the offside rule.*
+- Lit studio discussionss with way way way more studio football punditry than can be counted...
 
 #### Monday Night Football (MNF)
 
@@ -24,7 +24,6 @@ weight: 11
 - Pioneered the use of interactive touch-screens, automated player-tracking, and incredibly detailed informatinon on every player, to deliver unprecedented levels of wrap-around analysis.
 
 - World-leading technologies peaked with the Mixed-Reality Studio F set from 2013-2017, lead by Director Duncan East and Producer Scott Melvin:
-
   - Sky's first million-pound Production.
 
   - Featured Live walks for the Presenter (Ed Chamberlin and Dave Jones) around a 3-sided entirely virtual Green-Screen area out into a Real studio immediatly adjacent - very technically challenging to change environment in-vision.
@@ -60,6 +59,35 @@ weight: 11
 
         The legend that was Jeff Stelling, Paul Merson, and of course... [Chris Kamara](https://www.youtube.com/watch?v=rHyrN9PRioY) (Supervisory LD)
         Who else could make 4 hours of watching other people watch football that you aren't allowed to see, so good?
+
+{{< accordion "And, after over 15 years of football, does Richard understand the offside rule?" >}}
+No.
+
+{{< rawhtml >}}
+
+<section class="relative isolate overflow-hidden bg-gray-900 px-6 py-24 sm:py-32 lg:px-8">
+  <div class="absolute inset-0 -z-10 bg-[radial-gradient(45rem_50rem_at_top,var(--color-indigo-500),transparent)] opacity-10"></div>
+  <div class="absolute inset-y-0 right-1/2 -z-10 mr-16 w-[200%] origin-bottom-left skew-x-[-30deg] bg-gray-900 shadow-xl ring-1 shadow-indigo-500/5 ring-white/5 sm:mr-28 lg:mr-0 xl:mr-16 xl:origin-center"></div>
+  <div class="mx-auto max-w-2xl lg:max-w-4xl">
+    <img src="https://www.lightingdir.com/images/SkySports/offsiderule.jpg" alt="" class="mx-auto h-12" />
+    <figure class="mt-10">
+      <blockquote class="text-center text-xl/8 font-semibold text-white sm:text-2xl/9">
+        <p>Don't worry Richard, neither do most Referees!</p>
+      </blockquote>
+      <figcaption class="mt-10">
+        <div class="mt-4 flex items-center justify-center space-x-3 text-base">
+          <div class="font-semibold text-white">Duncan East</div>
+          <svg viewBox="0 0 2 2" width="3" height="3" aria-hidden="true" class="fill-white">
+            <circle r="1" cx="1" cy="1" />
+          </svg>
+          <div class="text-gray-400">Original MNF Director</div>
+        </div>
+      </figcaption>
+    </figure>
+  </div>
+</section>
+{{< /rawhtml >}}
+{{</accordion>}}
 
 ## Boxing
 
