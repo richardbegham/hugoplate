@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "concurrently \"node scripts/themeGenerator.js --watch\" \"hugo server\"",
     "build": "node scripts/themeGenerator.js && hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
-    "preview": "node scripts/themeGenerator.js && hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
+    "preview": "npx hugo && wrangler dev",
     "dev:example": "concurrently \"node scripts/themeGenerator.js --watch\" \"hugo server -s exampleSite\"",
     "build:example": "cd exampleSite && node ../scripts/themeGenerator.js && hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
     "preview:example": "cd exampleSite && node ../scripts/themeGenerator.js && hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
@@ -18,7 +18,7 @@
     "theme-setup": "node ./scripts/themeSetup.js",
     "update-theme": "node ./scripts/themeUpdate.js",
     "format": "prettier -w .",
-    "postinstall": "node -e \"const fs=require('fs'),p='node_modules/.bin/tailwindcss';try{fs.lstatSync(p).isSymbolicLink()||((fs.unlinkSync(p)),fs.symlinkSync('../@tailwindcss/cli/dist/index.mjs',p))}catch(e){}\""
+    "deploy": "npx hugo && wrangler deploy"
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.3.0",
@@ -29,6 +29,7 @@
     "prettier-plugin-go-template": "0.0.15",
     "prettier-plugin-tailwindcss": "^0.8.0",
     "tailwind-bootstrap-grid": "^7.0.0",
-    "tailwindcss": "^4.3.0"
+    "tailwindcss": "^4.2.1",
+    "wrangler": "^4.74.0"
   }
 }
