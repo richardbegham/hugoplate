@@ -13,20 +13,20 @@ summary: "Football. A LOT of people talking about football on MNF, SNF, FNF, WSL
 
 ### Sky Sports - Football
 
-- Lit studio discussionss with way way way more studio football punditry than can be counted...
+- From almost the very first day as a Freelancer, Richard was lighting studio show discussing football. Mostly the usual "game of two halves" and so on, but there was one production he was closely associated with that took things seriously. Very, very, seriously... And Richard lit almost every broadcast of this for 10 years.
 
 #### Monday Night Football (MNF)
 
 - Sky's Flagship production with lead pundits Gary Neville and Jamie Carragher delivering unusually long and serious pre- and post- match coverage.
 
-- LD for almost every single episode from 2011 until 2020
+- Pioneered the use of huge interactive touch-screens for analysis, combined with incredibly detailed tracking and statistical analysis of every player in every Premier League (PL) match, together with cutting-edge realtime 3d graphics, mixed with insightful, passionate, commentry to deliver unprecedented quality and duration of wrap-around analysis before, during, and after a single match..
 
-- Pioneered the use of interactive touch-screens, automated player-tracking, and incredibly detailed informatinon on every player, to deliver unprecedented levels of wrap-around analysis.
+- World-leading technologies stretched the boundaries of what could be achieved in a live studio environment with the Mixed-Reality set from 2013-2017 in Studio F, powerfully led by Senior Director Duncan East and Executive Producer Scott Melvin, who listened to and then demanded - and got - the best out of every single person working on the show, every single time.
 
-- World-leading technologies peaked with the Mixed-Reality Studio F set from 2013-2017, lead by Director Duncan East and Producer Scott Melvin:
-  - Sky's first million-pound Production.
+- - Sky's first million-pound Production.
 
-  - Featured Live walks for the Presenter (Ed Chamberlin and Dave Jones) around a 3-sided entirely virtual Green-Screen area out into a Real studio immediatly adjacent - very technically challenging to change environment in-vision.
+  - Featured walks for the Presenter (Ed Chamberlin and Dave Jones) around a Virtual Reeality 3-walled Green-Screen area then out into the Real studio immediatly adjacent - a very technically challenging transition to achieve without being too obvious.
+  - Extensive used of matt black paint (real) and textures (virtual) were used to conceal the join between the Real and the Virtual. Trying to keep the floor free from dust was a nightmare, despite the entire crew wearing overshoes and a constant clean-up...the breakthrough came when Richard released what was needed was not trying to make Reality impossibly perfect, but to make the Virtual a bit scruffy. Sales of blue plastic shoes plummerted.
 
   - 24x Motion Analysis cameras providing 6-D positional data to 3 cameras (first production run of Sony 4300 cameras) each with Ultimatte & Viz-RT graphics to give 360-degree VR and AR virtual set, together with the abilty to weave through life-size player line-ups
 
@@ -69,7 +69,7 @@ No.
   <div class="absolute inset-0 -z-10 bg-[radial-gradient(45rem_50rem_at_top,var(--color-indigo-500),transparent)] opacity-10"></div>
   <div class="absolute inset-y-0 right-1/2 -z-10 mr-16 w-[200%] origin-bottom-left skew-x-[-30deg] bg-gray-900 shadow-xl ring-1 shadow-indigo-500/5 ring-white/5 sm:mr-28 lg:mr-0 xl:mr-16 xl:origin-center"></div>
   <div class="mx-auto max-w-2xl lg:max-w-4xl">
-    <img src="https://www.lightingdir.com/images/SkySports/offsiderule.jpg" alt="" class="mx-auto h-12" />
+    <img src="https://www.lightingdir.com/images/SkySports/offsiderule2.jpg" alt="" class="mx-auto h-12" />
     <figure class="mt-10">
       <blockquote class="text-center text-xl/8 font-semibold text-white sm:text-2xl/9">
         <p>Don't worry Richard, neither do most Referees!</p>
