@@ -6,7 +6,11 @@
     "enabled": true
   },
   "assets": {
-    "directory": "public"
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  },
+  "build": {
+    "command": "chmod a+x build.sh && ./build.sh"
   },
   "compatibility_flags": [
     "nodejs_compat"
