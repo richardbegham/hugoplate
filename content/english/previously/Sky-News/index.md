@@ -13,12 +13,14 @@ summary: "Responsible for the Lighting for all Sky News output for over 10 years
 
 - Oversaw the visual output for all Sky News studios for over a decade.
 
-- Primary direct point of contact for the Sky News Leadership Studio Directors and Technical Supervisors for all lighting matters.
+- Primary direct point of contact for all lighting matters to both the Sky News Studio Directors and the Technical Supervisors for all lighting matters.
 - Ensured a clear visual presentation to a worldwide audience throughout this period, delivered with smooth operations and a consistent visual identity. This was achieved despite the constantly evolving production requirements and the unpredictable nature of live events often with little or no advance notice.
 
-- Successfully managed the transition from a tight team of dedicated lighting operators working in a single traditional large flagship studio with tungsten lighting to six fully remote studios across three London sites. One of these studios had to fit within another broadcaster’s studio with control being exchanged. Flexible fully remote Down-The-Line setups were also implemented spanning the Atlantic to Washington DC. These could be quickly established anywhere via secure VPN links and commodity routers.
+- Successfully managed the transition from a tight team of dedicated lighting operators working in a single traditional large flagship studio with tungsten lighting to six primary fully remote studios across three London sites. Two of these had to fit within another broadcaster, with shared control. Various flexible fully remote Down-The-Line (DTL) areas were also implemented remotely, eveen crossingthe Atlantic to Washington DC.
 
-- All studios are run by a pool of non-lighting specialist Technical Supervisors with no dedicated lighting training and competing calls for their attention in a high-pressure environment.
+- All studios were run by a pool of non-lighting specialist Technical Supervisors with no dedicated lighting training and competing calls for their attention in a high-pressure environment.
+
+For more about some of the major studio build projects done by Richard : {{< button label="Studio Builds" link="/Sky=Studios" style="solid" >}}
 
 ## Lighting Director for
 
@@ -42,22 +44,27 @@ summary: "Responsible for the Lighting for all Sky News output for over 10 years
 
 #### Brexit debate (Cameron vs Gove)
 
-- Great natural mixed-source lighting mixing natural daylight with LED sources as the sun set during the two live broadcasts.
-- A near-impossible venue -an very awkardly-shaped atrium where nothing was symetrical. Rigging points were nearly non-existant, oh and there was a coffee shop and pedestrian gates in the middle of the audience seating. Plus absolutly no infrastructure, everything had to be done via OB trucks and long 63A 3ph cables from another building. And did we mention the open plan offices on 3 levels that were in use throughout...?
-- Unfortunatly this wwas the moment that Gove made the infamous “I think we've all had enough of experts” quote)
+- A very challenging venue of a very awkardly-shaped atrium where nothing was symetrical. Daylight falling on the area and two live shows each going out around sunset. Rigging points were nearly non-existant, and there was a coffee shop on one side, pedestrian gates in the middle, open-plan offices on 3 levels in use throughout. Plus absolutly no infrastructure and everything had to be done as a full OB despite being in centre of the Sky Campus surrounded by studio buildings. And, due to prior committments, no staff available and would have to use external crew.
+- Great natural looks achived with tungsten and led lighting mixed with the natural daylight as the sun set during the two live broadcasts.
+- Unfortunatly this when the moment that Gove made the infamous “I think we've all had enough of experts” quote)
+  {{< youtube 0BFSJRH1q-A >}}
+  {{< youtube GGgiGtJk7MA >}}
 
 #### Various Party Leadership debates for both Labour and Conservative
 
 ## LD for Flagship all-day Outside Broadcasts
 
-#### Rotherham
+### Big Ideas - Rotherham
+
+{{<slider dir="images/gallery/BigIdeas-1" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 #### Shoreditch
 
 ## Series LD for The Pledge
 
 - Provokative weekly Debate show
-- 5 opinonated pundits each presented their idea, and the others would argue against.
+- 5 opinonated pundits each presented their idea, and then the others would argue against.
+- Designed to provoke conversations and reactions by viewers
 - No moderator or presenter
 - filmed in the round with a glass set
-- ran weekly from 20167-2020 after no less than 9 months of weekly pilots...!
+- ran weekly from 2016-2020 - after no less than 9 months of weekly pilots...!

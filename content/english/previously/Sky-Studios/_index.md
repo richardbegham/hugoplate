@@ -13,31 +13,47 @@ summary: "Lists the many fixed Studios Designed and Deployed whilst at Sky. All 
 
 ### Technology Innovations
 
-- Introduced LED lighting (ETC Source 4 S2 Daylight, Arri S30/S60/L7, Lightpanel Gemini)
-  - Remote Studio Operations
+- Introduced **LED lighting** (ETC Source 4 S2 Daylight, Arri S30/S60/L7, Lightpanel Gemini) for both energy-efficency and reduced maintenance, as well as making remote operations possible.
+- From 2013, all new spaces and refurbishment of existing spaces were fully LED-lit. By 2017 all studios except Millbank were fully LED - Millbank was 50% by this point, became fully in 2020.
 
-  - Glass Box (initial design by Dave Evans)
-  - Tardis studio move - Studio 6 (mixed VR & Real) Studio 22 (self-op), Galleries 21 & 22
-  - Millbank various including major Refurb 2020 (Pandemic install single-handed)
-  - Tardis Control Systen (2016-2023)
-    - Live simultaneous control of 7 studios across 4 sites on 2 continents
-    - All consoles independant - resilliant to intermittent disconnections and latency.
-    - Remote or Local control, with clear intuiative indication at a glance of status of all studios.
-    - Two-way interfaces with other control systenms, safely and securely firewalled by DMX
-    - Harddware VPN used to encapusulate and route traffic across internal networks with no Corporate IT complications.
-    - largest ETC Eos Network in world (by geography)
-    - Conditional and Sequential controls whilst being entirely macro and magic-sheet driven
-    - Develioped and entirely Programmed by RB
+- - **Remote Studio Operations**
+
+- Glass Box (initial design by Dave Evans)
+- Tardis studio move - Studio 6 (mixed VR & Real) Studio 22 (self-op), Galleries 21 & 22
 
 ### Studio 21 - The Glass Box Flagship
 
+  <div class="max-w-3xl px-4 mx-auto">
+      <img src="https://www.lightingdir.com/images/SkyBuilds/studio22.jpg" alt="Left" class="h-auto" title="Giant Envelope saying 'get in touch'"  height=384px webp="false">
 ### Studio 6 - Real and Virtual Reality
 
 ### Studio 22 - Self-Op
 
+<div class="max-w-3xl px-4 mx-auto">
+  <img src="https://www.lightingdir.com/images/SkyBuilds/studio22.jpg" alt="Left" class="h-auto" title="Giant Envelope saying 'get in touch'"  height=384px webp="false">
+</div>
+
+## Tardis Control Systen (2016-2023)
+
+- As part of this 18 month project, there were also two new Production Control Rooms to build, and a new control system required. As part of the push towards studio automation, it was decided at the highest level that lighting operators could be replace by automation and technology.
+
+- To fill this breid, a unique and unprecedentene control system had to be developed. This was done entirely by Richard, and once on-air this system ran 24/7 for 7 years as further studio spaces were developed.
+
+- Live simultaneous control of 7 studios across 4 sites on 2 continents
+- All consoles independant - resilliant to intermittent disconnections and latency.
+- Remote or Local control, with clear intuiative indication at a glance of status of all studios.
+- Two-way interfaces with other control systenms, safely and securely firewalled by DMX
+- Harddware VPN used to encapusulate and route traffic across internal networks with no Corporate IT complications.
+- largest ETC Eos Network in world (by geography)
+- Conditional and Sequential controls whilst being entirely macro and magic-sheet driven
+- Develioped and entirely Programmed by RB
+-
+
 ### City Studios 2 & 3 - Shared-use space with CNBC-B
 
 ### Millbank Main - Multi-use space
+
+- Millbank various relights including major Refurb 2020 (during Pandemic - had to install mostly single-handedly)
 
 ## Sky Sport Racing
 
