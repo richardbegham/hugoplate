@@ -142,8 +142,7 @@ And, yes, he did have all the flights into Heathrow diverted... on to the North 
 
 {{<slider dir="images/gallery/Exterior" class="max-w-[640px] ml-0"  height="256" width="320" webp="true" command="Fit" option="" zoomable="true" >}}
 
-{{< video src="https://images/videos/SkyNewsExterior.mp4" width="100%" height="auto" autoplay="true" loop="true" muted="true" controls="true" class="rounded-lg"  >}}
-
+{{< youtube "NaJCwy4HIao" >}}
 {{< /tab >}}
 {{< /tabs >}}
 
