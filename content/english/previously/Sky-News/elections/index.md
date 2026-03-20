@@ -1,10 +1,10 @@
 ---
-title: "Sky New - Elections"
+title: "Sky News - Elections"
 date: 20 Mar 2026
 draft: false
 language: en
 description: The Sky Years - Sky Newss- Election Nights"
-weight: 12
+weight: 14
 featured_image: "featured.png"
 summary: "Responsible for the Lighting for Sky Ners Election Night stuiods since 2015 ondwards"
 ---

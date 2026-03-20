@@ -4,7 +4,7 @@ date: 17 Feb 2026
 draft: false
 language: en
 description: The Sky Years - Sky Entertainemnt
-weight: 15
+weight: 20
 featured_image: images/SkyLE/oscars-2018.png
 summary: "Not entirely News and Sport, occasionally Richard was able to do something more ...Entertaining... for Sky Arts, Sky Atlantic, Sky Cinema, and Sky One. And also internal Corporate productions for the top-level executives and managers."
 ---
