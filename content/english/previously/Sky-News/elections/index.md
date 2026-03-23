@@ -3,22 +3,24 @@ title: "Sky News - Elections"
 date: 20 Mar 2026
 draft: false
 language: en
-description: The Sky Years - Sky Newss- Election Nights"
+description: The Sky Years - Sky News- Election Nights"
 weight: 14
 featured_image: "featured.png"
-summary: "Responsible for the Lighting for Sky Ners Election Night stuiods since 2015 ondwards"
+summary: "Responsible for the main studio lighting for the through-the-night coverage of the many Elections between 2015 and 2021...!"
 ---
 
-Richard designed, built, and ran these for the UK in 2015, 2017, 2019, and for the USA in 2020.
+Richard designed, built, and ran the through-the-night results coverage for the UK General Elections in 2015, 2017, and 2019, together with various Local Elections around the same time, and unusually, for the US Election in 2020 (from London due to Covid restrcictions).
 
-The most spectacular studio was the 2019 UK General Election, where large parts of the huge Sky Central office build were taken-over.
+The most visually spectacular studio was the 2019 UK General Election, where large parts of the huge Sky Central office building were taken-over.  
+An outline of some of these are shown below in Tabs.
 
 {{< tabs >}}
 {{< tab "2015 UK" >}}
 
 #### 2015 UK General Election (Studio C)
 
-Studio C, adjacent to the then-main Studio News Studio A, had previously only been used as a Green-Screen studio during the set refurbishment in 2010, and as a small situation room during the MH370 mystery. Apart from that, its only other appearance on-air was as an Election Night Speical room in 2015. Presented by Adam Boulton surrounded by a room full of analysists and large monitors. At the same time, at the 5m high videowall (lit by Richard back in 2013) out in the main studio, Ed Conway and the Graphics team got very excitedto stretch their legs... and arms...
+Studio C, adjacent to the then-main Studio News Studio A, had previously only been used as a Green-Screen studio during the set refurbishment in 2010, and as a small _Situation Room_ during the MH370 mystery. Apart from that, its only other appearance on-air was for the General Election Night Special.  
+ Presented by Adam Boulton surrounded by a room tightly packed full of the analysists, with a extensive collection of large monitors. At the same time, in the main studio at the 5m high videowall (lit by Richard back in 2013) out in the main studio, Ed Conway and the Graphics team got very excitedto stretch their legs... and arms...
 
 {{< youtube "HlZMORFyS7U" >}}
 
@@ -35,7 +37,7 @@ And, yes, he did have all the flights into Heathrow diverted - to the North Runw
 {{< youtube "NaJCwy4HIao" >}}
 {{< /tab >}}
 
-{{< tab "2016 Referrendum" >}}
+{{< tab "2016 Referrndum" >}}
 
 #### Giant Letters (The Hub)
 

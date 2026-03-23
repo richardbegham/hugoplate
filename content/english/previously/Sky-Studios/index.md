@@ -97,14 +97,14 @@ On-screen transmissoThe existing Studio 6 The Glass Box was used to enable the t
 
 Conversion of old Studio C (previously the Channel 5 News Studio) into a fixed studio. Used for a few years before they moved up north. Was when it opened the only studio Sky had that was still operating in SD (Standard Defintiion)
 
-## And also - design & support for >10 general-purpose studios.
+## The General-Purpose Studios (Sports, Entertainment, etc)
 
-- On arrival, he found there were at least 4 different and incompatible varieties of lighting control in use, with each studio having its unique setup, and the majority of operation was done manually with faders.
+- When Richard first arrived, he found there was a multitude of different and incompatible lighting control systems in use, with the majority of presentation being done with manual faders. Each studio had its own unique technical infrastructure and challenges, and although there were some moving lights and early led effects units, these were little understood by most of the team.
 
-Within just a couple of years, this had been drastically simplified and unified into a single family (ETC Eos), with standardised show file structures, and the infrastructure migrated towards a standard methodolgy with local constraints. Over time, all operators were successfully encouraged to see the benefits of consistent and repeatable cue-based operation, along with the gradual introduction of new techonolgy such as LED and moving-lights to all users, all whilst raising the general standards of lighting faces - something critical as the cameras move evolved from SD to HD and then UHD within 10 years, whilst at the same time many of the lights in use were 20-30 years old (and still working perfectly and totally suitable for use with UHD when used sympathetically!)
+Within just a couple of years, continuing the work of his predecesor Don Hart, he succeeded in drastically simplifing and unifing the control consoles into a single family (ETC Eos - eventually purchasing over 30 assorted models all the way from Nomad to Apex), and enhanced this by standardising the show file structure across site. The infrastructure migrated towards a standard methodolgy as much as possible, aand all new builds followed the same structure.
 
-Long term lobbying by Richard eventually led to the Refurbishment and Upgrading of all the original ETC consoles and Sensor dimmer racks
+Over time, all the lighting electricians were successfully encouraged to embrace the benefits of consistent, quick, and repeatable cue-based operation, and the general standards of lighting faces improved - something critical as the studio cameras used during this timee quickly moved from SD to HD, side-tracked briefly into 3D, and then increased in resolution and colour-space to UHD. During this 10 years of rapid technology change, many of the lights in used were 20 years old at the start, and 30 years old at the end - and still pefectly suitable when used appropriately,
 
-### Gallery
+### Studio Builds
 
 {{< gallery dir="images/SkyBuilds" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
