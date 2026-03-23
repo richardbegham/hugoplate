@@ -6,24 +6,28 @@ language: en
 description: The Sky Years - Sky News
 weight: 12
 featured_image: "featured.png"
-summary: "Responsible for the Lighting for all Sky News output for over 10 years. Numerous Elections, Party Leadership Debates, Prime Minister Debates, Studio Panel Debates, Flagship Outside Broadcasts, Studio Design and Builds...and more."
+summary: "Responsible for the Lighting for all Sky News output for over 10 years. Design and Oversight for all the recurring daily shows in Studios across London as well as many New and Refurbished Studios builds. LD for numerous Elections, Prime Ministerial Debates, Party Leadership Debates, Other Panel Debates, Flagship Outside Broadcasts and recurring full production shows... and lots more!"
 ---
 
-# Summary
+{{< image src="images/logos/sky-news-logo.png" caption="" alt="Sky News Logo" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Sky News Logo"  webp="false" >}}
 
-This section is split across various sub-sections, or the page would take too long to load for some poeople.
+This section is split across various sub-sections
 
-## LD oversight
+## Lighting Oversight
 
 - Oversaw the visual output for all Sky News studios for over a decade.
 
-- Primary direct point of contact for all lighting matters to both the Sky News Studio Directors and the Technical Supervisors for all lighting matters.
+- Primary point of direct contact for all lighting matters to both the Sky News Studio Directors and the Technical Supervisors for all lighting matters.
 
-- Ensured a clear visual presentation to a worldwide audience throughout this period, delivered with smooth operations and a consistent visual identity. This was achieved despite the constantly evolving production requirements and the unpredictable nature of live events and guests, often with little - or no - advance notice.
+- Ensured a clear and consistent visual presentation to a worldwide audience throughout this period, delivered with no on-air issues throughout thanks to a resiliant system of hardware and software designed around the needs and feedback of the end-users and personal operational experience.This was achieved despite the constantly evolving production requirements and the unpredictable nature of live events, guests, and technologies.
 
-- He designed almost all the dedicated Sky News studios used during this time, and was the Lighting Direction for most of their ad-hoc studio productions elsewhere - including multiple Prime Ministerial debates for General Elections and through the Brexit and Covid periods, as well as the Series Lighting Designer for the long-running weekly shows The Pledge and The Great Debate.
+- He designed the numerous dedicated Sky News studios built or refurbished during this time, and was the Lighting Direction for most of their ad-hoc and recurring studio productions in the General-Purpose Studios, Office, and Exterior spaces across the Sky Campus at Osterley. These included multiple Prime Ministerial, Leadership, and Vox Pops debates for the many General Elections throughout the Brexit and Covid periods, as well as being the Series Lighting Designer for their long-running weekly shows The Pledge and The Great Debate.
 
-- Successfully managed the transition from a tight team of dedicated lighting operators working in a single traditional large flagship studio with tungsten lighting to six smaller fully-remote LED lit studios across three London sites. Two of these even had to fit within another broadcaster studios! Along with various flexible remote Down-The-Line (DTL) areas that even spanned across the Atlantic to Washington DC.
+- He successfully steared-through the transistion from a single studio equipped with older tungsten lighting sources with precise positioning and a traditional operational control system and practices, to multiple studios amd locations all using state-of-the-art energy efficient, safer, long-lasting LED luminaires designed with a wide allowance for production variance and fluidity. This was delivered1 together with a fully-bespoke multi-site remote control system used by a diverse team of non-lighting specialists. Two of these new studios were even flawlessly integrated into another broadcaster's studios!
+
+- Although all of the design and development together with much of the studio tweaking and support was done by Richard, none of it coould have realised without the support of a great team of Sky Production Electricians together with skilled Freelance Console Operators. The support and feedback from Sky News throughout was essential, starting with the always conscise, and always absolutely spot-on, comments by the then-Head of Sky News, John Ryley - to the indispensible guidance, and total trust and backing, given by the Head of Studio Output Jon Bennet and Ben Wickeham - through to the many Directors, Producers, and the wider team in Sky News...far too many to name-check!
+- And of course, the coopoeration and trust of the on-screen Talent whenever they were launching their latest regular strands or presenting one-off specials, with each of whom Richard developed a professional relationship customised to their respective needs, most noteably Kay Burley.
+- Although all of the design and development was donw by Richard, none of it coould have realised without the support of a great team of Sky Production Electricians together with skilled Freelance Console Operators.
 
 <hr>
 
@@ -101,6 +105,13 @@ This series of 3 shows presented by Sophie Ridge. a year after things started, s
 {{< youtube "LrplanIc8qc" >}}
 
 <hr>
+
+#### One Hundred Women (2018, Studio 4/5)
+
+- Kay Burley hosted all-female debate and audience to see what's improved, and what still needs to improve, for women.
+- Noteable for all the keylights being VL-1000 to cope with the continous walking and 360-degree shooting style used - due to the studio size giving a very short throwm the ones on Key were tracking back and forth genthly between preset positionsthrough the show.
+
+{{< youtube "xot9Hap0HZU" >}}
 
 #### Entire Series LD for The Great Debate (2021-2022, Studio F)
 

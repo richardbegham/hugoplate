@@ -32,7 +32,9 @@ Lots of ground-supported truss, and as is often the way, not enough height.
 
 <hr>
 
-## NHS Future Funding from Guy's Hospital, London Bridge
+## NHS Future Funding
+
+### Guy's Hospital, London Bridge, 2018
 
 {{< youtube "iVmBsBKUBo8" >}}
 
