@@ -6,7 +6,7 @@ language: en
 description: The Sky Years - Studio Design
 weight: 19
 featured_image: /assets/images/SkyBuilds/SafetyFirst.jpg
-summary: "Lists the many fixed Studios Designed and Deployed whilst at Sky. All of which were delivered on budget, on time, and proved to be very reliable and exceed their intial requirements"
+summary: "Lists the many fixed Studios Designed and Deployed whilst at Sky. All of which were delivered on budget, on time, and proved to be very reliable and exceed their initial requirements"
 ---
 
 ## Sky News
@@ -38,11 +38,11 @@ That's the operation... but why the strange hanging cameras? This was the rest o
 
 And...then...News insists that the cameras have to be respositionable, prefreably like their existing robotic cameras they had got used in thei from the flagship demands the ability to move the cameras up/down/side-to-side, ideally with live tracking shots. At which point physics becomes a big problem! Without getting into the weeds of Angles of Incidence, Inverse-Square Law, and son on, basically the cameras and lights were going to end up directly in front of each other one way or another!
 
-(...never mind the camera's view...) the floor had to be kept clear of all technical equipment - including cameras..hein Unit end galllery control) space that had to keep changing set and and lighting etc, it was possible to build a dedicated News set. However, nothing is straightforward when trying to build a studio in the middle of one of the 3rd largest construction site in London at that time.
+(...never mind the camera's view...) the floor had to be kept clear of all technical equipment - everything. No camersincluding cameras..hein Unit end galllery control) space that had to keep changing set and and lighting etc, it was possible to build a dedicated News set. However, nothing is straightforward when trying to build a studio in the middle of one of the 3rd largest construction site in London at that time.
 
 Not least of which, was that the space was very small, and after some test shots in the middle of the building site, it was quickly decided that the main shooting direction would be across the narrow width of the space, giving very short and steep angles to any lights.
 
-And then things got even ~~worse~~ better. An edict came from the then-CEO of Sky UK, Jeremey Durrock, that in order to keep the view from the outside (...never mind the camera's view...) the floor had to be kept clear of all technical equipment - including cameras...!
+And then things got even ~~worse~~ better. An edict came from the (then) CEO of Sky UK, Jeremey Durrock, that in order to keep the view from the outside (...never mind the camera's view...) the floor had to be kept clear of all technical equipment - including cameras...!
 
 Original lighting design was by Dave Evens, this then was handed-over to Richard before launch to supervise and evolve the lighting of this space.
 
@@ -75,7 +75,9 @@ On-screen transmissoThe existing Studio 6 The Glass Box was used to enable the t
 - Develioped and entirely Programmed by RB
 -
 
-### City Studios 2 & 3 - Shared-use space with CNBC-B
+### City Studios 2 & 3 (At CNBC's studios in The City of London)
+
+Located in the distant back of show, one studio in and beside CNBC's studio in the City - prefect for getting highly-busy guests to get to -Shared-use space with CNBC-B
 
 ### Millbank Main - Multi-use space
 

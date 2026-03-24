@@ -13,7 +13,7 @@ featured_image: images/VeryOldShows/Austin2.png
 
 After four years as an enthusiastic and dedicated amateur at University, with its strong ties to the early Rave ..and also the local crusty folk-rock scene - in North Wales, Richard without declined the career he was offered as a project manager in the defence industry for the insecurity of being a freelancer in the entertainment industry. He found sleeping on cold stages being paid in bread and beer more interesting, although financially dubious.
 
-This decision proved to be a good one, and the pay increased. Well, it couldn't really decrease. His first year continued along the same lines, except scalled-up. Early shows were often large-scale all-night raves at legendary venues such as the Sanctuary in Milton Keynes. These shows were awash with the then new-fangled moving-lights with which Richard was deeply infatuated, seeing their serious and artisic uses beyond the flash'n'trash and unreliability most others did at that point. He established himself as an expert in the use of ground-breaking units such as the _Golden Scan 3, VL-5/6, NAT, Cyberlight,_ and later the _Mac-500 & 600_. And also using the revolutionary new digital control systems that abstractred the controls from their phyiscial values, cheifly the WholeHog II, ScanCommander (predecessor to the GrandMA) and then later the Compulite Sabre and Vector.
+This decision proved to be a good one, and the pay increased. Well, it couldn't really decrease. His first year continued along the same lines, except scaled-up. Early shows were often large-scale all-night raves at legendary venues such as the Sanctuary in Milton Keynes. These shows were awash with the then new-fangled moving-lights with which Richard was at the time deeply obsessed by, seeing their serious and artistic uses beyond the flash'n'trash and unreliability most others did at that point. He established himself as an expert in the use of ground-breaking units such as the _Golden Scan 3, VL-5/6, NAT, Cyberlight,_ and later the _Mac-500 & 600_. And also using the revolutionary new digital control systems that abstractred the controls from their phyiscial values, chiefly the WholeHog II, ScanCommander (predecessor to the GrandMA) and then later the Compulite Sabre and Vector.
 
 ### Early Goals
 
@@ -28,31 +28,24 @@ So, as the great adventure into the unknown started, he was put on the spot on h
 
 _And then, just 6 months later, on the last day of the year - and still not yet 25...!_
 
-Madonna, on the other hand, took a further 11 years. _...So, a pretty good estimate!_
+#### Well...
 
-{{< accordion title="Ok, sort of..." >}}
+#### ...sort of...
 
-  <div class="flex flex-row items-center justify-between gap-4">
-    <div class="flex-1">
-      <img src="images/VeryOldShows/Wembley/Wembley-conference-centre.jpg" alt="Left" class="w-full h-auto" title="The old Conference Cantre"  height=365px webp="false">
-    </div>
+{{< slider dir="images/VeryOldShows/Wembley" class="max-w-[600px] ml-0" height="273" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
-    <div class="flex-1 text-center">
-      <p>Ok, so it was actually the >b>Wembley Exhibtion & Conference Center<b>, not the <i>Wembley Arena</i> next door (which has been lit by Richard several times). And definataly NOT the famous <b><i>Wembley Stadium</b></i> ...which is what he meant, but didn't clearly state.
-      <br>He's still not done that one.</p>
-    </div>
+Ok, so it was actually the _Wembley Exhibition & Conference Center_, not the _Wembley Arena_ next door, and definitely NOT the adjacent world-famous _*Wembley Stadium*_ ...which is what he meant...but didn't clearly state. Still, it's made a good story when down the pub ever since...
 
-    <div class="flex-1">
-      <img src="images/VeryOldShows/Wembley/WembleyOld.png" alt="Right" class="w-full h-auto" title="The old Stadim"  webp="false">
-    </div>
+Three decades on, he's still not done the Stadium, but he has done the Arena a few times.
 
-  </div>>
-{{< /accordion >}}
+Madonna, on the other hand, took a further 11 years. _...So, a pretty good estimate all-in-all then...!_
+
+#### OK, we're not setting goals any more!
 
 <hr>
-### OK, we're not setting goals any more!
+Which is just as well, because any further goals that might then have been set would probably have been way off, as direction of travel changed many times in those early years. But, long-term, many achievements happened instead that he would never have dreamed-of; taking him to places, situations, and meeting people from the very top to the very bottom.
 
-Which is just as well, beacuse any further goals that might then have been set would probably have been way off, as direction of travel changed many times in those early years. But, long-term, many achivements that he would never have dreamed-of happened instead - taking him to places, situations, and meeting people from the very top to the very bottom. And a lot of people talking about football. A LOT of people.
+Plus a lot of people talking about football. A LOT of people. Oh, Balls...
 
 Anyway, we're getting ahead of ourselves.
 

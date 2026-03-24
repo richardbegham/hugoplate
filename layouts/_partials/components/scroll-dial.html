@@ -1,0 +1,48 @@
+<div
+  class="fixed bottom-6 right-6 z-50 flex items-center justify-center w-12 h-12 bg-white dark:bg-neutral-900 rounded-full shadow-lg cursor-pointer group">
+  <svg class="absolute w-full h-full transform -rotate-90">
+    <circle
+      cx="24"
+      cy="24"
+      r="20"
+      class="stroke-current text-neutral-200 dark:text-neutral-800"
+      stroke-width="3"
+      fill="transparent" />
+    <circle
+      id="scroll-circle"
+      cx="24"
+      cy="24"
+      r="20"
+      class="stroke-current text-primary"
+      stroke-width="3"
+      fill="transparent"
+      stroke-dasharray="125.6"
+      stroke-dashoffset="125.6" />
+  </svg>
+
+  <span
+    id="scroll-text"
+    class="absolute text-xs font-bold text-neutral-700 dark:text-neutral-300"
+    >0%</span
+  >
+</div>
+
+<script>
+  window.addEventListener("scroll", () => {
+    const winScroll = document.documentElement.scrollTop;
+    const height =
+      document.documentElement.scrollHeight -
+      document.documentElement.clientHeight;
+    const scrolled = (winScroll / height) * 100;
+
+    // Update Text
+    document.getElementById("scroll-text").innerText =
+      Math.round(scrolled) + "%";
+
+    // Update Circle (Radius of 20 = Circumference of ~125.6)
+    const circle = document.getElementById("scroll-circle");
+    const circumference = 2.0 * Math.PI * 20.0;
+    const offset = circumference - (scrolled / 100) * circumference;
+    circle.style.strokeDashoffset = offset;
+  });
+</script>
