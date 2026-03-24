@@ -1,0 +1,19 @@
+<div
+  class="fixed right-4 top-1/4 h-1/2 w-1.5 bg-neutral-200 dark:bg-neutral-800 z-50 rounded-full overflow-hidden">
+  <div
+    id="vertical-scroll-bar"
+    class="w-full bg-primary transition-all duration-100"
+    style="height: 0%;"></div>
+</div>
+
+<script>
+  window.addEventListener("scroll", () => {
+    const winScroll = document.documentElement.scrollTop;
+    const height =
+      document.documentElement.scrollHeight -
+      document.documentElement.clientHeight;
+    const scrolled = (winScroll / height) * 100;
+    document.getElementById("vertical-scroll-bar").style.height =
+      scrolled + "%";
+  });
+</script>

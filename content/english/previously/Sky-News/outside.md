@@ -14,9 +14,9 @@ summary: "Discussion, Debates, and Arm Waving - but this time On Location instea
 ## Big Ideas (Magna, Rotherham, 2021)
 
 A vast space.  
-Thanks to the amazing Darren Fletcher at ELP and his team, this looked spectacular on a shoestring budget.
+Thanks to the amazing Darren Fletcher at ELP and his team, this looked spectacular on a small budget and working within the "don't stand too close to me" period of Covid restrictions.
 
-{{<slider dir="images/gallery/BigIdeas-1" class="max-w-[640px] ml-0"  height="256" width="320" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery/BigIdeas-1" class="max-w-[640px] ml-0"  height="256" width="320" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< youtube "PN1HoqkzuIU" >}}
 
@@ -39,3 +39,11 @@ Lots of ground-supported truss, and as is often the way, not enough height.
 {{< youtube "iVmBsBKUBo8" >}}
 
 {{< button label="Back to Sky News" link="/previously/sky-news" style="solid" >}}
+
+# Shortcut to sub-sections:
+
+- {{< button label="Sky News - Main Page" >}}
+- {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="solid" >}}
+- {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="solid" >}}
+- {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="solid" >}}
+- {{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="solid" >}}
