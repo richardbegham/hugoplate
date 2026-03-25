@@ -5,13 +5,13 @@ draft: false
 language: en
 weight: 1
 description: The early years
-summary: "The story of the begining - from Raves to Globetrotting, and this section ends with a couple of Films..."
+summary: "The story of the beginning - from Raves to Globetrotting, and this section ends with a couple of Films..."
 featured_image: images/VeryOldShows/Austin2.png
 ---
 
 ## The Early Years
 
-After four years as an enthusiastic and dedicated amateur at University, with its strong ties to the early Rave ..and also the local crusty folk-rock scene - in North Wales, Richard without declined the career he was offered as a project manager in the defence industry for the insecurity of being a freelancer in the entertainment industry. He found sleeping on cold stages being paid in bread and beer more interesting, although financially dubious.
+As the 1990's dawned, [Richard](/about) plunged head-first into his University's Student's Union voluntary Stage Crew organisation; initially focusing on live Sound, but rapidly discovering that his real interest and instinctive abilities were in lighting. This gave him a great insight in to all the roles in Event Production as everyone had to be able to do everything! The first key skill everyone had to learn was coiling cables... which is something you never stop doing, although they are less coated in stale beer nowadays. whilst discovering and learning all about Event Production - and, of course, how to coil cables, something you never stop doing ... although they are less likely to be coated in beer on the floor of Buckingham Palace.), but rapidly discovering that his real interest was in lighting,. as an enthusiastic and dedicated amateur learning the basics of events and lighting at his University's Student Union, which had strong ties to the underground early Rave scene _(...with its surprisingly close cross-over with the local crusty folk-rock scene...)_ in North Wales, Richard without declined the career he was offered as a project manager in the defense industry for the insecurity of being a freelancer in the entertainment industry. He found sleeping on cold stages being paid in bread and beer more interesting, although financially dubious.
 
 This decision proved to be a good one, and the pay increased. Well, it couldn't really decrease. His first year continued along the same lines, except scaled-up. Early shows were often large-scale all-night raves at legendary venues such as the Sanctuary in Milton Keynes. These shows were awash with the then new-fangled moving-lights with which Richard was at the time deeply obsessed by, seeing their serious and artistic uses beyond the flash'n'trash and unreliability most others did at that point. He established himself as an expert in the use of ground-breaking units such as the _Golden Scan 3, VL-5/6, NAT, Cyberlight,_ and later the _Mac-500 & 600_. And also using the revolutionary new digital control systems that abstractred the controls from their phyiscial values, chiefly the WholeHog II, ScanCommander (predecessor to the GrandMA) and then later the Compulite Sabre and Vector.
 
@@ -43,9 +43,12 @@ Madonna, on the other hand, took a further 11 years. _...So, a pretty good estim
 #### OK, we're not setting goals any more!
 
 <hr>
-Which is just as well, because any further goals that might then have been set would probably have been way off, as direction of travel changed many times in those early years. But, long-term, many achievements happened instead that he would never have dreamed-of; taking him to places, situations, and meeting people from the very top to the very bottom.
 
-Plus a lot of people talking about football. A LOT of people. Oh, Balls...
+Which is just as well, because any further goals that might then have been set would probably have been way off, as direction of travel changed many times in those early years.
+
+But, long-term, many achievements happened instead that he would never have dreamed-of; taking him to places, situations, and meeting people from the very top to the very bottom.
+
+Plus a lot of people talking about football. A LOT of people. Football. Oh, Balls...
 
 Anyway, we're getting ahead of ourselves.
 
@@ -55,15 +58,13 @@ And aren't, mostly, football.
 
 At some point in this year, did The Prodigy for the third time. Although, due to an staffing problem, rather bizarrely Richard ended-up doing their FOH sound instead of the lights. P
 
-### WHat else happened in this early period after going "Pro"?
+#### What else happened in this very early period after going "Pro"?
 
-Quite a bit of time was spent touring round Europe, mostly Germany, and an amazing month in Vienna as the snow melted.
+Quite a bit of time was spent touring round Europe, mostly Germany, including an amazing month in Vienna as the snow melted.
 
-Through a very complicated story involving the early Internet, Richard ended-up working for High End Systems After about a year spent touring round Europe, inclusing a momorabl;e Several years were spent touring and working around the Europe and everywhere from the USA 🇺🇸 to the Ukraine 🇺🇦 !
+Through a very complicated story involving the early Internet, Richard ended-up working for High End Systems for a while, and travelled from the USA 🇺🇸 to the Ukraine 🇺🇦
 
-  </p>
-<</div>>
-- Towards the end of that seminal first decade, the opportuntiy arose - thanks to a very opportune random cup of tea at the fabulous Spot Co - to make the bold leap into Television Production. Starting with LDs *Chris Rigby* & Oli Richards on The Pepsi Chart Show (C5) & at MTV Studios in Camden, things expanded to include the very delliberatly chaotically only half rehearsed - but a sememeorable - SM:TV/CD:UK (ITV).
+- Towards the end of that seminal first decade, the opportuntiy arose - thanks to a very opportune random cup of tea at the fabulous Spot Co - to make the bold leap into Television Production. Starting with LDs _Chris Rigby_ & Oli Richards on The Pepsi Chart Show (C5) & at MTV Studios in Camden, things expanded to include the very delliberatly chaotically only half rehearsed - but a sememeorable - SM:TV/CD:UK (ITV).
 
 There's many moemnts from that show that have been lovingly recovered from old VHS recordings and put on YouTube. One histoiric moment though was one everyone involved in wish had stayed dumped in the bin of history and forgotten about though : Britney Spear's UK TV Debut. [^2] -
 

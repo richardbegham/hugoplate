@@ -1,17 +1,18 @@
 ---
 title: "Richard Bowles, Lighting Designer and Director."
 meta_title: "About"
-description: “This is a summary of Richard Bowles."
+description: “This is a summary of Richard Boules."
 image: "/images/Richard-Thronecast2.jpg"
 layout: "about"
+date: 20 Mar 2026
 draft: false
 ---
 
 {{< notice "info" >}}
 Please bear with any errors, typos, and incomplete text; this site is new, March 2026, and is rapidly evolving!
-
-Last update: 13th March 2026
 {{< /notice >}}
+
+{{<image src="/images/Under-Construction-smaller.jpg" caption="" alt="Under Construction graphic" height="878px" width="298px" position="center" option="q100" class="img-fluid" title="image title" webp="false">}}
 
 ## Introduction
 

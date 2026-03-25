@@ -29,14 +29,15 @@ Presented by Adam Boulton, purched on a little island surrounded a room full of 
 
 #### Exterior Lighting
 
-Just 4 days beforehand, Richard was asked if he could jazz-up the exterior of the site somehow as some Graphics weren't going to be ready in time, here's a large pot of money, a helicopter, oh, and let us know if you need all the flights into Heathrow diverted...  
-Thanks to a top crew from ELP (Barry Dennison, Seb Williams) and the CAA being unusually cooperative, 48x Mythos II were used to make a giant X in the sky, with VL-3500, P7's, PixelPars, and probably a load more used to light up 3 Buildings - The best that could be obtained at short-notice, and the footage kept randomly being "borrowed" and used by other Productions for many years afterwards. Visable from Central London, apparently.
+Just 4 days beforehand, Richard was asked if he could jazz-up the exterior of the site somehow as some Graphics weren't going to be ready in time, here's a large pot of money, a helicopter, oh, and let us know if you need all the flights into Heathrow diverted...
+
+Thanks to a top crew from ELP (organised by Barry Dennison, led by Seb Williams) and the CAA being unusually cooperative, 48x Mythos II were used to make a giant X in the sky, with VL-3500, P7's, PixelPars, and probably a load more used to light up 3 Buildings - The best that could be obtained at short-notice, and the footage kept randomly being "borrowed" and used by other Productions for many years afterwards. Visable from Central London, apparently.
 
 The colours were the colours of the 7 main parties - for example, Gold is SNP and Yellow is Lib Dem - as total balance must always be shown on-air.
 
 And, yes, he did have all the incoming flights to Heathrow diverted in the end - but to the North Runway, not Stansted...
 
-{{< gallery dir="images/gallery/Exterior/" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/gallery/Exterior" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< youtube "NaJCwy4HIao" >}}
 {{< /tab >}}
