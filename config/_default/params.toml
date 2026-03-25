@@ -37,9 +37,9 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = false
-label = "Github"
-link = "https://github.com/zeon-studio/hugoplate"
+enable = true
+label = "The STLD"
+link = "https://www.stld.org.uk/"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search

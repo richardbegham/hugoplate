@@ -18,7 +18,9 @@ summary: "Television gets more bread'n'butter. Medai Servers and LED's start to 
 
 ### James Campbell
 
-- For a good chunk of the naughties, Richard worked closely with LD James Campbell (...RIP), intiially just a moving light programmer on long-running household names such as _Mastermind_, _Question of Sport_, and even, oddly _Crimewatch_. Over time, as Production requirements and Technology evolved, and shows started to shrink from full-size to fun-size studios, he also started opeering the Key (face) lighting on show such as _Morgan & Platell_, _The Golden Lot_, etc. James gently imparted his great skill and craft for portraiture in a multi-camera enviroment, vital skills that have stood him in great stead ever since.
+- For a good chunk of the naughties, Richard worked closely with LD James Campbell (...RIP), intiially just a moving light programmer on long-running household names such as _Mastermind_, _Question of Sport_, and even (slightly bizarrely) _Crimewatch_. Over time, as Production requirements and Technology evolved, and shows started to shrink from full-size to fun-size studios, he started also operating the Key (face) lighting on show such as _Morgan & Platell_, _The Golden Lot_, etc. James gently imparted his great skill and craft for portraiture in a multi-camera enviroment, vital skills that have stood Richard in great stead ever since.
+
+{{< gallery dir="images/OldShows/James" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 ### Corporate Events
 
@@ -28,9 +30,17 @@ summary: "Television gets more bread'n'butter. Medai Servers and LED's start to 
 
 - two notable series in 2007, this time with LD Geoff Thonger, who was a joy to work with on*Space Pirates* for CBeebies was shot in Elstree Film Studios, next door to _Who Wants to be a Millionaire_ - although not working with their budgets, and a vision gallery that was literally the back of a small van, rabbits were pulled-out of the proverbial hat, thanks to great team work and helpful suppliers. It also was the first time Richard encountered the brilliant work of Set Designer Jason Underwood, who later designed many of Richard's favourite sets at Sky.
 
+{{< gallery dir="images/OldShows/Space" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
 ### 2008 - Starts Freelancing for Sky
 
 - Intially brought in to help program the lights for the refurbishment of Studio A for Sky News, this expanded into being asked to come back to provide ad-hoc relief cover for the staff Lighting Technical Operators. And, not long after, being asked to light various of their other in-house products, the first of which was, of course - _Football First_ (Sky Sport's version of Match of the Day, except with an actual Match not just bits of Matches.)
+
+{{< gallery dir="images/OldShows/SkyFL" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
+#### Richard in 2011
+
+{{< image src="images/Richard2011.jpg" caption="" alt="Richard in 2011" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Richard in 2011"  webp="false" >}}
 
 ### 2011 - His Biggest Show ...Ever?
 
@@ -53,6 +63,6 @@ Only about 30,000 of them were watching in the UK though za
 
 Also its alleged to be the biggest _annual_ TV show in the world.
 
-### Gallery
+Also that year, Richard was in Trafalgar Square for a week for someone's wedding.
 
-{{< gallery dir="images/OldShows" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/OldShows/2011" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
