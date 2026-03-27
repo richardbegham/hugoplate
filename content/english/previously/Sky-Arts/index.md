@@ -52,23 +52,24 @@ And... the CosPlay audience...
 
 ### Sky Sessions - Sky Arts
 
+Bands on their way back from Glastonbury (etc) stopped-off for half a day, which gave them time for 4 songs (3 broadcast) as full production Live recordings, interspersed with talking about themselves - no presenter, just their music and words.
+
 #### Season 1 : Studio F
+
+The first series was done on an absolute shoe-string of a budget, squashed into Studio F almost knocking their heads on the Sharpie Washes. Jason Underwood did one of his classic sets, complete with giant rusty nuts (of course...).  
+Martin Profession very kindly loaned some Vi+-pers to add the basic rig of SharpieWashes and Generics, together with LED Creative's tubes, which the cameras loved shooting through and around. Andy Harris joined with his Vector, and did a sterling job programming all the lights.
+{{< slider dir="images/gallery/Sessions-1" class="max-w-[600px] ml-0" height="400" width="1400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 #### Season 2 : Studio 4/5
 
-Bands on their way back from Glastonbury (etc) - half a day each, 4 songs (3 shown) full production live recordings, interspersed with interviews - and no presenter!
+A year later, there was a better budget - and then some more was found, which gave enough for each act to have their own lighting "special" to give each their own look - from giant hanging bulbs to MORE sharpies, etc 🎉🥳 🍾. And this time, upgraded to the biggest studio, which was much better to rig moving lights in, as well as a decent ceiling height! This time could afford two dek operators, so Andy concentrated on the faces and the LED tubes, with the great _(...and greatly missed...)_ Alan Boyd joining to do all the movers on a GrandMA 2.
 
-First one was done on an absolute shoe-string of a budget, Martin Profession very kindly leant some Vipers to add the basic rig of SharpieWashes and Generics, together with LED Creative's tubes, which the cameras loved shooting through and around. Andy Harris joined with his Vector, and did a sterling job programming all the lights.
-{{< slider dir="images/gallery/Sessions-1" class="max-w-[600px] ml-0" height="400" width="1400" webp="true" command="Fit" option="" zoomable="true" >}}
+> The best Studio 4/5 has ever looked and sounded!
 
-A year later, there was a better budget (even had enough for a unique lighting "special" for every act 🎉🥳 🍾 ) as well as a much better studio to rig moving lights in with a far bigger ceiling. Also meant could have two desk operators this time, with the great (...and greatly missed...) Alan Boyd joining to do the effects movers with a GrandMA 2.
+This 2 week period remains the only time this studio has ever had the substantial live music performances it was partly conceived to have,
+top credits to Alex May, the Sound Supervisor, for doing a great job from the middle of the studio floor, mixing monitors and live sound with all the different mixes.
 
-The less than 2 weeks of this production are still the only time this studio has ever had the substantial live music performences it was concieved to have - and
-top credits to Alex May, the Sound Supervisor, for doing a great job from the middle of the studio floor with all the different mixes.
-
-> The best Studio 4/5 ever looked and sounded!
-
-{{< gallery dir="images/gallery/Sessions-2" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery/Sessions-2" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
