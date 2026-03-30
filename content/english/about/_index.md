@@ -47,12 +47,12 @@ To find out more, please explore the {{< button label="Previously..." link="/pre
 
 - Unexpected issues in a high-pressure, real-time environment
   - Won't make a Drama out of a Crisis
-  - Will find a way out of the Crisis
+  - Will quickly determine a way out of the Crisis
 - No Silos here
   - Understanding of
   - Consideration of
-  - Liason with
-  - Other Crafts
+  - Liaison with
+  - Assist
 - Fixed studio installations
 - Temporary spaces / Locations
 - Remotely operated studios

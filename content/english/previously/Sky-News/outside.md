@@ -9,6 +9,18 @@ featured_image: "featured.png"
 summary: "Discussion, Debates, and Arm Waving - but this time On Location instead of the Studio."
 ---
 
+<hr>
+### HM The Queen Elizabeth II Christmas Speach 2018
+
+- Buckingham Palace
+- Kings Collage Chapel, Cambridge.
+
+Can't say too much about this, but this was unique and very special opportunity. Never have so many people been involved for a 3 minute piece to camera!
+We can show you the end result - this was very heavily softened in post-production, but everything was actually shot using some prototype Sony 4k Film cameras that produced really stunning and amazingly 3-dimensional pictures...
+
+{{< youtube ZlnESDCDj9o >}}
+
+<hr>
 # Flagship all-day channel takeovers
 
 ## Big Ideas (Magna, Rotherham, 2021)
@@ -40,10 +52,11 @@ Lots of ground-supported truss, and as is often the way, not enough height.
 
 {{< button label="Back to Sky News" link="/previously/sky-news" style="solid" >}}
 
-# Shortcut to sub-sections:
+### Shortcuts
 
-- {{< button label="Sky News - Main Page" >}}
 - {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="solid" >}}
 - {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="solid" >}}
 - {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="solid" >}}
 - {{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="solid" >}}
+- {{< button label="Sky News - Main Page" link="/previously/sky-news" style="solid" >}}
+- {{< button label="...Previously" link="/previously" style="solid" >}}
