@@ -1,5 +1,5 @@
 ---
-title: "Sky News - Elections"
+title: "Sky News - Election Nights"
 date: 24 Mar 2026
 draft: false
 language: en
@@ -88,10 +88,11 @@ This time the desk was spun round, and Ed was up on the Mez with a real video wa
 
 <hr>
 
-### Shortcut to sub-sections:
+### Shortcuts
 
-- {{< button label="Sky News - Main Page" >}}
 - {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="solid" >}}
 - {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="solid" >}}
 - {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="solid" >}}
 - {{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="solid" >}}
+- {{< button label="Sky News - Main Page" link="/previously/sky-news" style="solid" >}}
+- {{< button label="...Previously" link="/previously" style="solid" >}}

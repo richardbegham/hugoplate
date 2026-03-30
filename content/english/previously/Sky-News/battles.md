@@ -109,15 +109,16 @@ Richard was chased by a giant Boris, like the killer beachball in The Prisoner..
 ### Sunack vs Truss (Studio F)
 
 _(in Studio F)_
-Turned-out thay they both "won" in the end, although Sunack lasted in the job far longer than Truss did...
+Turned-out they they both "won" not long afterwards - although Sunack lasted in the job far longer than Truss did...
 {{< youtube "hP1NsMZ5iNY" >}}
 {{< /tab >}}
 {{< /tabs >}}
 
-### Shortcut to sub-sections:
+### Shortcuts
 
-- {{< button label="Sky News - Main Page" >}}
 - {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="solid" >}}
 - {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="solid" >}}
 - {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="solid" >}}
 - {{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="solid" >}}
+- {{< button label="Sky News - Main Page" link="/previously/sky-news" style="solid" >}}
+- {{< button label="...Previously" link="/previously" style="solid" >}}

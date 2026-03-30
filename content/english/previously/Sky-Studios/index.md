@@ -9,9 +9,9 @@ featured_image: /assets/images/SkyBuilds/SafetyFirst.jpg
 summary: "Lists the many fixed Studios Designed and Deployed whilst at Sky. All of which were delivered on budget, on time, and proved to be very reliable and exceed their initial requirements."
 ---
 
-# Sky News
+## Sky News
 
-## Technology Innovation
+### Technology Innovation
 
 Richard introduced **LED lighting** for both energy-efficency and reduced maintenance reasons, amd also to make **Remote Operations** of these spaces; omething that simply wasn't practical with previoud tungsten luminaries for many reasons - most critically fire safety.
 
@@ -26,13 +26,16 @@ By 2018 all studios except Millbank were fully LED-lit. Millbank was c.50% by th
 
 <hr>
 
-## Project Tardis
+### Project Tardis - Introduction
 
-A whole series of changes for Sky News come under the umbrella of _Project Tardis_. This mammoth project to move Sky News out of their own building (Unit 1) across the Sky Studios, was originally expected to take 6 months, but unsurprisingly, due to the amount of rebulding required to shuffle existing users of the building around, this eventually grew to 18 months from start to launch, and occoupied Richard for a minimum of 2 days every week throughout.
+A whole series of changes for Sky News come under the umbrella of _Project Tardis_ and its follow-on the City Studios. This mammoth project to move Sky News out of their own building (Unit 1) across the Sky Studios, and introduce cost savings by automating almost every Craft was originally expected to take 6 months, but unsurprisingly, it took 18 months, and the overallnumber of production staff reduced was a tiny handful - Vision Mixers and Director's Assistants went, but were replaced by "Co-Producers", Cameras and Sound ended-up much the same as before, but sadly the Lighting Technical Operators went - as everyone in that team was well over retirement age anyway, they hung-on as long as they could in order to get their redundancy payments as a well-deserved bonus!
+
+To fit Sky News into Sky Studios took substantial internal rebuilding efforts on all levels - everything from dressing rooms to edit suits had to be moved-about - something that became a recurring theme over the next few years, as ever-more techncial things were squeezed into a build that had already been squeezed when it was built. Hence "tardis"... trying to make lots of big things fit in a seemingly-impossibly small space; although with less space-time distortion...well, apart from the dark mysterious bit at the back of the 4th floor with the gibbering and screaming... oh wait, that's Engineering Support.
+Anyway, getting all this built and (eventually) on-air took-up for Richard a minimum of 2 days every week for 18 months, working on attachemnt to the loverly Project Team, and gave valuable experience as part of the technical evaluation team for various bid proposals for things such as the robotic cameras.
 
 <hr>
 
-### Project Tardis - Studio 21 (2016) "The Glass Box" Flagship
+#### Project Tardis - Studio 21 (2016) "The Glass Box" Flagship
 
 This is, quite literally, a Glass Box that was intended by the architects of the huge Sky Central office building (basically a 33-story building lying down) as a general-purpose studio space to be on view whilst in use to all visitors and staff in the building, instead of hidden-away and inpenetrable as most studios are - an important move in a company which whilst its roots were in broadcasting, that function had lost its prominence within a massive IT & Telecommunications orgnisation.
 
@@ -40,17 +43,17 @@ However, after various other parts (Sports, Entertainments, etc.) had been consu
 
 For the glass box, as the Tardis project had begone, they dediced to takte this one step further, and have just a Floor Manager in the actual studios, and have all the technical control done remotely from the Gallery. Due to delays in Tardis, this remote control was temporarily re-routed to the old PCR (Production Control Room, or "Gallery") for the first year after the building amd studio opened.
 
-That's the operation... but why the strange hanging cameras? This was the rest of the collision between the desire by News for a simple, static space with freedom to use the whole area, together with an edit from the then-CEO of Sky UK, Jeremey Durrock, that the view from the outside should be clear of ALL technical equipment, including the cameras! _Nerve mind what the viewrs at home see, the viewers outside are more important...He did have a point about the TV Production on-site being invisible to everyone else though..._ Ok, fair enough, we'll hang the cameras down on fixed bars in the corners, we can get them just about far enough away, and can have the lights as far back as possible with obstructing them.
+That's the operation... but why the strange hanging cameras? This was the rest of the collision between the desire by News for a simple, static space with freedom to use the whole area, together with an edit from the then-CEO of Sky UK, Jeremy Durrock, that the view from the outside should be clear of ALL technical equipment, including the cameras! _Never mind what the viewers at home see, the viewers outside the studio are more important...He did have a point about the TV Production on-site being invisible to everyone else though..._ Ok, fair enough, we'll hang the cameras down on fixed bars in the corners, we can get them just about far enough away, and can have the lights as far back as possible with obstructing them.
 
-And...then...News insists that the cameras have to be respositionable, prefreably like their existing robotic cameras they had got used in their flagship Studio A, so this means cameras hae to move up & down and side-to-side. And they are hanging so its not like a floor camera that can move around on a different plane to the lights, they are on the same plane now. Oh, and no cheating by fixed repo's between shows, live tracking shots as well please! At this point, physics becomes a really big problem! Without getting into the weeds of Angles of Incidence, Inverse-Square Law, and soon, basically the cameras and lights were going to end up directly in front of each other one way or another! So how was this resolved?
+And then...News insists that the cameras have to be respositionable live in-vision (as they had been expecting robotic peds as per their exisiting main Studio A.), Unlike floor cameras that can (reasonably), moving cameras handing down are going to get in the way. A full 6-axis movement wouldn't be possible without removing all the lights, so two neat arcs were drawn up, running up and down the studio front to back. Unfortuneatly, after these camera tracks were design and ordering, News had a wobbly moment and decide to spin all their positions round by 90-degrees. And now the cameras are tracking on the wrong axis. Doh! Anyway, back to lighting : Physics (or Optics) has now becomee a really big problem! Up to this stage, the SKy News Lighting Style was very traditional Hard Key / Fill / Kick / Backlight person. But either the cameras would in moving in front of these hard lights, or the angles would be horribly steep!
 
-To Be Continued...
+Jon Bennett decided to bring in Dave Evans LD, who had worldwide News Studio design experience, to come up with a solution to this dilemma. His solution was both elegant and effective, and also determined the lighting style desired by Sky News for the rest of the decade, due to its flexibilty about where people could go and be lit, and because of the minimal adjustments needed for different skin tones etc. This was a dense 360-degree ring of Arri S60 Softlights, all with very tight eggcrates to minimise spill onto walls or flares into camera - but also removing about 70% of their light output- togther with clusters of ETC S2 Source-4 LED profiles to give a sparkle in people's eyes - however these had to be a very low level, to avoid camera shadows (or as often happened, a camera parked right in front of a keylight because the eyeline to camera was spot on in that position...and it wasn't cameras who then go moaned at because the person with the perfect eyeling also looked flat and gloomy...
 
 {{< gallery dir="images/SkyBuilds/GlassBox" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
-### Project Tardis - Studio 6 (2017) - Real and Virtual Reality spaces
+#### Project Tardis - Studio 6 (2017) - Real and Virtual Reality spaces
 
 TBA
 
@@ -58,7 +61,7 @@ TBA
 
 <hr>
 
-### Project Tardis - Studio 22 - Self-Op & Shared use (2017)
+#### Project Tardis - Studio 22 - Self-Op & Shared use (2017)
 
 TBA
 
@@ -66,7 +69,7 @@ TBA
 
 <hr>
 
-### Project Tardis - New Control System with Remote Operations (2017-2023)
+#### Project Tardis - New Control System with Remote Operations (2017-2023)
 
 The first stage was relatively straightforward. Studio 6 was chosen as the new, much smaller, presentation space (along with the just-built Glass Box)been earmarked as suitable, where Soccer Saturday had been permanetally located since before the building even officially opened in 2011. Studio 6, what had previously been used by Sky Sports News for Soccer Saturday, was the first to move
 On-screen transmissoThe existing Studio 6 The Glass Box was used to enable the transition to happen, and
@@ -87,7 +90,108 @@ On-screen transmissoThe existing Studio 6 The Glass Box was used to enable the t
 
 <hr>
 
-### City Studios 2 & 3 (At CNBC's studios in The City of London)
+### Tardis II - the Rise of the Tardis.
+
+This wasn't really called Tardis II, but that's what the revised control system got called.
+
+The success of the Millbank remote studios resulted in a push to do the same with other remote studios. A minor Down-The-Line setup in Washington, DC, USA, extended the reach of the lighting network across the Atlantic, making this probably the largest (by distance) lighting network in continous real-time use. Latency was surprisingly low, although the local control was used most of the time. And then there was the relocation of the City Studio out of the Gerkin.
+
+This prompted a significant re-thinking of the control system - out went the original concept of the two gallery consoles each having effectively two users - which saved a huge amount of duplicated work, thankfully - along with the manual hand-over between the Osterley and Millbank TS, and in came a universal automatic system of sharing of control between Osterley and any Local consoles. This was done via an ingenious system of "DMX smoke signals" - basically, one sACN universe was dedicated to each studio, with one set of channels being patched + used by Osterley, and another set of channels by the "local" console, etc. Further channels would indicate Blackout and so forth. This was a completly automated sequence of triggers, and was even integrated the famous "Default Values" as taking control of the studio was implicit.
+.which eliminated any human-error (or hunan simply not being anywhere near their console!) problems of the old system, as either end could force control to themselves, or even push it to the other end. Changes to these would automaticaly trigger submaster changes t001 being Osterley, expansion to includ both "Locking" controls, "Lock Overrides", and "Crash Change" were designed but in practive were found not to be needed and would just add unnecessary complexity for edge case scenarios such as a TS being suddenly taken ill mid-show.
+
+This exchange of control extended downstairs to Sky Sports News, so that a section their studio used by Sky News could be controlled by either of them, without actually connecting their networks except via 2-way DMX "Firewall".
+
+But that wasn't all. for the two studios at CNBC, control had to be given \***\*or taken\*\*** not just by a local SKy console (ETC Nomad PC with Touchscreen) but by CNBC, with their own entirely different lighting control system. In the middle of the night, and without relying on any human intervention such as repatching. sACN merging of different networks was way too risky, however, dropping down again to DMX, XTBA had the solution with their Smart Switch 2:1 - combining this with the Sky dual-source system meant each studio had triple control sources - and this worked flawlessly all the time the Tardis II system was operational.
+
+{{< accordion "Expand to see the final very simple control block diagram" >}}
+
+```mermaid
+flowchart LR
+    OstA([Osterley PCR-21])
+    OstB([Osterley PCR-22])
+    Ost[Mikrotik Router]
+
+    M([Millbank PCR])
+    N[Millbank Node]
+    S(((Millbank Studio)))
+    NR(((Newsroom)))
+    ENG(((ENG)))
+
+    FW1[Sky News Firewall In / Out]
+    FW2[Sky Sports News Firewall In / Out]
+    SS(((SNAP Position)))
+    SSNHQ([Sky Sports News Floor MSO])
+    SSNHQ2([Sky Sports News PCR TS])
+
+    C[City Node]
+    CP([City Sky PCR])
+    CP2([CNBC PCR])
+    CX2["XTBA 2-1 Priority Sky"]
+    CX3["XTRA 2-1 Priority CNBC"]
+    CS2(((City Studio 2)))
+    CS3(((City Studio 3)))
+
+    W[Washington Node]
+    WS(((Washington DTL)))
+    WP([Washington Local Faders])
+
+    ST6[Studio 6 Node]
+    ST6S(((Studio 6)))
+    ST21[Studio 21 Node]
+    ST21S(((Studio 21)))
+    ST22[Studio 22 Node]
+    ST22R([DMX Replay Unit self-op])
+    ST22S(((Studio 22)))
+
+    OstA <== "Tracking Backup" ==> OstB
+    OstA --> Ost
+    OstB --> Ost
+
+    SSNHQ2 <== "Tracking Backup" ==> SSNHQ
+    SSNHQ -- "sACN to firewall" --> FW2
+    FW2 -- "sACN to console" --> SSNHQ
+    Ost <--> FW1
+    FW2 -- "DMX" --> SS
+    FW1 -- "DMX FIREWALL" --> FW2
+    FW2 -- "DMX FIREWALL" --> FW1
+    Ost <== "VPN Tunnel" ==> N
+    M <--> N
+    N --> S
+    N --> NR
+    N --> ENG
+
+    Ost <== "VPN Tunnel" ==> C
+    CP <--> C
+    CP2 -- "DMX FIREWALL" --> CX2
+    CP2 -- "DMX FIREWALL" --> CX3
+
+    C == "dmx" ==> CX2
+    C -- "dmx" --> CX3
+
+    CX2 -- "dmx" --> CS2
+    CX3 == "dmx" ==> CS3
+
+    WP --> W
+    W == "dmx" ==> WS
+    Ost <== "VPN Tunnel" ==> W
+
+    Ost --> ST6
+    Ost --> ST21
+    ST6 -- "dmx" --> ST6S
+    ST21 -- "dmx" --> ST21S
+
+    Ost --> ST22
+    ST22 --> ST22R
+    ST22R -- "dmx" --> ST22S
+
+```
+
+*you may be tested on your understanding of this...pay close attention to the arrow heads...*🤣
+{{< /accordion  >}}
+
+#### City Studios 2 & 3
+
+##### At CNBC's studios in The City of London
 
 Located very unusually in the corner of CNBC's London Studio, and going On-Air just as they went Off-Air, this was a pair of two small studio spaces. This was triggered by the Sky News needing to move out of their existing studio space, and the then-recent takeover of Sky by Comcast looking to save money by reducing sites together with a hasty change of US News Network partnership (previously Fox, who were now no longer Friends...).
 
@@ -157,3 +261,11 @@ MORE TO COME
 Within just a couple of years, continuing the work of his predecesor Don Hart, he succeeded in drastically simplifing and unifing the control consoles into a single family (ETC Eos - eventually purchasing over 30 assorted models all the way from Nomad to Apex), and enhanced this by standardising the show file structure across site. The infrastructure migrated towards a standard methodolgy as much as possible, aand all new builds followed the same structure.
 
 Over time, all the lighting electricians were successfully encouraged to embrace the benefits of consistent, quick, and repeatable cue-based operation, and the general standards of lighting faces improved - something critical as the studio cameras used during this timee quickly moved from SD to HD, side-tracked briefly into 3D, and then increased in resolution and colour-space to UHD. During this 10 years of rapid technology change, many of the lights in used were 20 years old at the start, and 30 years old at the end - and still pefectly suitable when used appropriately,
+
+```
+
+```
+
+```
+
+```

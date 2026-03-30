@@ -1,0 +1,83 @@
+{{/* This file is an override of the default template from the Typo theme project:
+  https://github.com/tomfran/typo/blob/main/layouts/_default/_markup/render-image.html
+
+  Based on commit 44e0b4b — "fix: fix svg render, ignore width/height for now (#160)"
+*/}}
+{{- $u := urls.Parse .Destination -}}
+{{- $url := $u.String -}}
+{{- $imgResource := .Page.Scratch.Get "typoNilVariable" -}}
+{{- if not $u.IsAbs -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path -}}
+  {{/* Check if this is a page bundle or standalone page */}}
+  {{- if .PageInner.Resources -}}
+    {{- $imgResource = .PageInner.Resources.Get $path -}}
+  {{- else if (or .PageInner.Parent .PageInner.Parent.Resources) -}}
+    {{- $imgResource = .PageInner.Parent.Resources.Get $path -}}
+  {{- end -}}
+  {{- $imgResource := or $imgResource (resources.Get $path) -}}
+  {{- with $imgResource -}}
+    {{- $url = .RelPermalink -}}
+    {{- with $u.RawQuery -}}
+      {{- $url = printf "%s?%s" $url . -}}
+    {{- end -}}
+    {{- with $u.Fragment -}}
+      {{- $url = printf "%s#%s" $url . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* Split URL at # */}}
+{{ $url = $url | safeURL }}
+{{ $file_name_array := split $url "#" }}
+
+{{/* Iterate over all tags, which are in pos 1 to len array - 1,
+  and build the img class string as "img-tag1 img-tag2 ..."
+*/}}
+
+{{ $classes := "" }}
+
+{{ range $idx := seq (sub (len $file_name_array) 1) }}
+  {{ $tag := index $file_name_array $idx }}
+  {{ $classes = printf "%s img-%s" $classes $tag }}
+{{ end }}
+
+{{/* Use the computed classes on the rendered figure */}}
+<figure class="{{ $classes }}">
+  {{ $text := .Text }}
+  {{ with $imgResource }}
+    {{ if eq $imgResource.MediaType.SubType "svg" }}
+      <div class="img-container">
+        <img loading="lazy" alt="{{ $text }}" src="{{ $url }}" />
+      </div>
+    {{ else }}
+      <!-- Process the image to convert it to WebP and 90% quality -->
+      {{- $webpImage := $imgResource.Process "webp q90" -}}
+      <!-- Process the fallback image (when browser doesn't supports webp) to reduce quality to 75% -->
+      {{- $fallbackImage := $imgResource.Process "q75" -}}
+
+
+      <div class="img-container" style="--w: {{ .Width }}; --h: {{ .Height }};">
+        <!-- Serve the original image without optimization or WebP conversion to preserve its full quality. 
+                  This allows users to view or download the image in its original format, avoiding automatic 
+                  conversion to WebP, which some users find inconvenient when downloading images from web. -->
+        <a href="{{ $url }}">
+          <picture>
+            <source srcset="{{ $webpImage.RelPermalink }}" type="image/webp" />
+            <img
+              loading="lazy"
+              alt="{{ $text }}"
+              src="{{ $fallbackImage.RelPermalink }}"
+              width="{{ $fallbackImage.Width }}"
+              height="{{ $fallbackImage.Height }}" />
+          </picture>
+        </a>
+      </div>
+    {{ end }}
+  {{ end }}
+
+  {{ with .Title }}
+    <div class="caption-container">
+      <figcaption>{{ . | markdownify }}</figcaption>
+    </div>
+  {{ end }}
+</figure>
