@@ -22,6 +22,15 @@ summary: "Responsible for the Lighting Design and Support for all of Sky News (U
 
 - He successfully steared-through the transistion from a single studio equipped with older tungsten lighting sources with precise positioning and a traditional operational control system and practices, to multiple studios amd locations all using state-of-the-art energy efficient, safer, long-lasting LED luminaires designed with a wide allowance for production variance and fluidity. This was delivered1 together with a fully-bespoke multi-site remote control system used by a diverse team of non-lighting specialists. Two of these new studios were even flawlessly integrated into another broadcaster's studios!
 
+To keep this readable, some of the content is presented in Tabular format in subsections - you can jump ahead now, or scroll down for more.
+
+{{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="solid" >}}
+{{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="solid" >}}
+{{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="solid" >}}
+{{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="solid" >}}
+{{< button label="Sky News - Main Page" link="/previously/sky-news" style="solid" >}}
+{{< button label="...Previously" link="/previously" style="solid" >}}
+
 <hr>
 
 ## Lighting Direction :
