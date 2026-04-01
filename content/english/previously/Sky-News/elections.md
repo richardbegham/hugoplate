@@ -46,9 +46,10 @@ And, yes, he did have all the incoming flights to Heathrow diverted in the end -
 
 #### Giant Letters (The Hub)
 
-The Sky Hub building - standing-in visually for the final time as Sky News's "lming from a drone instead of a heliopter meant tighter shooting from a loer hevight. Custom gobos were used, one per letter, to project the words In or Out? flashing alternativeHQ Building" in order to reference the debate a few weeks earlier, (and the use of the building for The Pledge launch earlier in the year), although a much more modest than a year earlier beforeily.
+The Sky Hub building - standing-in visually for the final time as Sky News's studio exterior (which it actually was for the Debate a couple of weeks earler) - was used on more modest scale for The Pledge launch and on Referendum night. These times a drone was used instead of a helicopter, and we didn't need to divert all the planes at Heathrow again, thankfully!. Custom gobos were used in Mythos II - one light per letter - to project the words _*In or Out?*_ flashing alternately on the apex of the building. These were then used to provide a visual grand reveal of the result when the flashing stopped and there was the answer.
 
-This look was used for a dso seondsd onot was used for the grand reveal of the result when the flashing stopped. SurperSharpies were used this time round for beam effects, Mythons II for the letters, and as many P7's and PixelPars as could be fitted on the truck.
+SuperSharpies were used this time round for beam effects, together with as many SGM P7's and PixelPars as could be fitted on the rest of the truck.
+
 {{< gallery dir="images/gallery/InOut/" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< /tab >}}
