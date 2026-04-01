@@ -6,7 +6,7 @@ language: en
 description: The Sky Years - Sky News
 weight: 12
 featured_image: "featured.png"
-summary: "Responsible for the Lighting for all Sky News output for over 10 years. Design and Oversight for all the recurring daily shows in Studios across London as well as many New and Refurbished Studios builds. LD for numerous Elections, Prime Ministerial Debates, Party Leadership Debates, Other Panel Debates, Flagship Outside Broadcasts and recurring full production shows... and lots more!"
+summary: "Responsible for the Lighting Design and Support for all of Sky News (UK)'s studio output for over 10 years, from their regular daily shows to Prime Ministerial Election Debates, with anythign and everything in between. He also designed & built multiple remotely-operated studios across London."
 ---
 
 {{< image src="images/logos/sky-news-logo.png" caption="" alt="Sky News Logo" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Sky News Logo"  webp="false" >}}
@@ -55,6 +55,7 @@ Richard designed, built, and ran the lighting for the main overnight studio pres
 ### Flagship Outside Broadcasts
 
 All-Day Channel Takeovers or just a grand old lady doing a piece to camera - Richard's experience was sometimes called-for outside the studios.
+s
 
 #### Subsection Link - Outside Broadcasts
 
