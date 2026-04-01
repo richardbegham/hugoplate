@@ -48,7 +48,7 @@ Richard designed, built, and ran the lighting for the main overnight studio pres
 
 #### Subsection Link - Election Nights
 
-{{< button label="The Biggest Nights of Political Tension Since The Last One" link="elections" style="solid" >}}
+{{< button label="The Biggest Nights of Political Tension Since The Last One" link="previously/sky-news/elections" style="solid" >}}
 
 <hr>
 
@@ -58,7 +58,7 @@ All-Day Channel Takeovers or just a grand old lady doing a piece to camera - Ric
 
 #### Subsection Link - Outside Broadcasts
 
-{{< button label="Outside Broadcasts" link="outside" style="solid" >}}
+{{< button label="Outside Broadcasts" link="previously/sky-news/outside" style="solid" >}}
 
 <hr>
 
