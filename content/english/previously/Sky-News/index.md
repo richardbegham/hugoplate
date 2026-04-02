@@ -13,25 +13,25 @@ summary: "Responsible for the Lighting Design and Support for all of Sky News (U
 
 ## Lighting Design & Oversight
 
-- Designed and Oversaw the visual output for all the Sky News studios for over a decade.
+- Designed and Oversaw the visual output for all the Sky News studios for over a decade, including the historic political dramas around _Brexit_ and _Covid_.
+- Ensured a clear and consistent visual presentation to a worldwide audience throughout this period, delivered with zero significant on-air issues throughout 24/7/365.
+- Primary point of direct contact and support for all lighting matters to both the Sky News Studio Directors and the Technical Supervisors for all lighting matters.
+- Designed both the studio lighting and a resilient system of hardware and software designed around the needs and feedback of the operational end-users as well as personal operational experience.
+- All this was achieved in an environment of constantly evolving production requirements and the unpredictable nature and number of live events and studio guests.
 
-- Primary point of direct contact for all lighting matters to both the Sky News Studio Directors and the Technical Supervisors for all lighting matters.
-- Ensured a clear and consistent visual presentation to a worldwide audience throughout this period, delivered with no on-air issues throughout thanks to a resiliant system of hardware and software designed around the needs and feedback of the end-users and personal operational experience.This was achieved despite the constantly evolving production requirements and the unpredictable nature of live events, guests, and technologies.
+He designed and built not just the lighting of their regular studio output, but built or refurbished all the dedicated Sky News studios across London. In addition, he was the Lighting Director for their major one-off and recurring productions elsewhere on the Sky Campus in both General Purpose Studios and Office spaces, as well as various major Outside Broadcasts.
 
-- He designed the numerous dedicated Sky News studios built or refurbished during this time, and was the Lighting Direction for most of their ad-hoc and recurring studio productions in the General-Purpose Studios, Office, and Exterior spaces across the Sky Campus at Osterley. These included multiple Prime Ministerial, Leadership, and Vox Pops debates for the many General Elections throughout the Brexit and Covid periods, as well as being the Series Lighting Designer for their long-running weekly shows The Pledge and The Great Debate.
+These included pre-general election debates featuring the (then) Prime Ministers and Leaders of the Opposition, a landmark pre-Brexit Referendum debate, three General and one US Elections, and numerous other debates. He was also the Series Lighting Designer and Director for The Great Debate and the long-running weekly shows The Pledge.
 
-- He successfully steared-through the transistion from a single studio equipped with older tungsten lighting sources with precise positioning and a traditional operational control system and practices, to multiple studios amd locations all using state-of-the-art energy efficient, safer, long-lasting LED luminaires designed with a wide allowance for production variance and fluidity. This was delivered1 together with a fully-bespoke multi-site remote control system used by a diverse team of non-lighting specialists. Two of these new studios were even flawlessly integrated into another broadcaster's studios!
+He successfully steared-through the transistion from a single traditionally-operated studio equipped with elderly tungsten lighting sources to multiple studios across multiple locations all using safer and state-of-the-art energy efficient long-lasting LED luminaires designed with a wide tollerance for production fluidity. This was delivered together with a fully-bespoke multi-site remote control system used by a diverse team of non-lighting specialists.
 
+{{< notice "info" >}}
 To keep this readable, some of the content is presented in Tabular format in subsections - you can jump ahead now, or scroll down for more.
-
-{{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="solid" >}}
-{{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="solid" >}}
-{{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="solid" >}}
-{{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="solid" >}}
-{{< button label="Sky News - Main Page" link="/previously/sky-news" style="solid" >}}
-{{< button label="...Previously" link="/previously" style="solid" >}}
-
-<hr>
+{{< /notice >}}
+{{< button label="The Many Battles for Number 10" link="previously/sky-news/battles" style="outline" >}}
+{{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
+{{< button label="The Studio Productions" link="/previously/sky-news/#full-studio-productions" style="outline" >}}
+{{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="outline" >}}
 
 ## Lighting Direction :
 
@@ -74,27 +74,72 @@ s
 
 ### Full Studio Productions
 
+#### Regular output : Studio 21 (The Glass Box), Studio 6, Millbank, City
+
+The construction and build of these are covered in detail in the {{< button label="Studio Builds section" link="/previously/Sky-Studios" style="outline" >}}
+
+The lighting for all the day-to-day use of these dedicated News studio spaces was designed and set by Richard, and he then provided Oversight and Support to the Technical Supervisors who operated them day-to-day. He was then regularly called-in to revise the lighting ahead of any major changes or unusual one-off usage.
+
+Some examples are shown below :
+
+{{< tabs >}}
+{{< tab "Glass Box" >}}
+
+### Studio 21 - The Glass Box
+
+{{< image src="images/SkyNews/Studio21/GlassBox-1.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/SkyNews/Studio21/GlassBox-2.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/SkyNews/Studio21/GlassBox-4.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="image title"  webp="false" >}}
+{{< /tab >}}
+{{< tab "Studio6" >}}
+{{< gallery dir="images/SkyNews/Studio6" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< /tab >}}
+{{< tab "Millbank" >}}
+{{< gallery dir="images/SkyNews/StudioMillbank" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< /tab >}}
+{{< tab "City Studios" >}}
+{{< gallery dir="images/SkyNews/StudioCity" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< /tab >}}
+{{< /tabs >}}
+
+Other productions took place in the General-Purpose studios on Sky's Campus which were shared with Sky Sports (etc), some of which included :
+
+<hr>
+
+### General-Purpose Studio Productions
+
 #### Covid Crisis - Learning the Lessons (2021, Studio 4/5)
 
-This series of 3 shows presented by Sophie Ridge. a year after things started, started to dig into what when right and what went wrong.
+This series of 3 shows presented by Sophie Ridge, just a year after things started, was the start of a serious inqury into into what when right and what went wrong. Due to continuing proximity rules, all guests were at home and shown on video walls, and the camerawork was all on a Steadicam and Jib, shooting _"in the round"_ (360-degrees).
 
+Also due to distancing, the decision was made to use a lighting rig made-up almost entirely of moving-lights, to reduce the need for people working on the studio floor adjusting lights at the same time as the presenters and camera operators
+
+Vari\*lite VL-1100 were used as Keylights, Martin Mac Aura's as Backlights, Martin TW-1 lit the scenic graphic panels from above together with RobertJuliet Dalis from below.
+
+Comparing with the console MagicSheet, its clear that a lot of existing studio tungsten 2k's had to be used nd used as uplighters / eye-candy on the top side, as Sophie was stood too close to the wall to get anything in from above when facing that screen. The pre-production plot for this one-off production is shown below, as an example of how to approach the challenges of shooting in the round.
 {{< youtube "NVarHuLQNUY" >}}
+{{< image src="images/SkyNews/Studio45/CovidCrisisPlot.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="Lighting Plot for Covid Crisis (Studio 4/5 - 2021)"  webp="false" >}}
+{{< image src="images/SkyNews/Studio45/CovidCrisisMS.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="Magic Sheet Plot for Covid Crisis (Studio 4/5 - 2021)"  webp="false" >}}
 
 <hr>
 
 #### Lead LD for The Pledge (2016-2020, Studio F)
 
-- Provokative weekly Debate show - recorded as-live a few hours before transmission (leaving just enough time for any edits for legal reasons...!)
-- Five highly ...oppionated... pundits each in turn presented their topical idea, from coffee cups to immigration, and then the others would argue against it.
-- No moderator or presenter, and deliberetly designed to provoke reactions, conversations, and hopefully thinking, by viewers.
-- Filmed in the round with a gorgeous £150k glass set - plenty of challenges in a small studio to keep the cameras and operators hidden, including clever AutoCue blanking.
-- ran weekly from 2016-2020 - after no less than 9 (!) months of weekly pilots...!
+A Provocative weekly Debate show - recorded as-live a few hours before transmission (leaving just enough time for any edits for legal reasons...!)
 
-  {{< tabs >}}
-  {{< tab "Ligher Argument" >}} {{< youtube "eHhtKJoFbAU" >}} {{< /tab >}}
-  {{< tab "More Serious" >}} {{< youtube "KmeWvTGaKZc" >}} {{< /tab >}}
-  {{< tab "Outtakes" >}} {{< youtube "LrplanIc8qc" >}} {{< /tab >}}
-  {{< /tabs >}}
+Five highly ...opinionated... pundits each in turn presented their topical idea, from coffee cups to immigration, and then the others would argue against it.
+
+No moderator or presenter, and the show was deliberately designed to provoke reactions & conversations on social media - and hopefully thinking - by viewers.
+
+Filmed in the round with a gorgeous £150k glossy glass set - plenty of challenges in a small studio to keep the cameras and operators hidden, including clever AutoCue blanking.
+
+After **9 months** (...!) of weekly pilots, this ran weekly from 4 years, until cancelled in the first Covid Lockdown.
+
+{{< tabs >}}
+{{< tab "Lighter Argument" >}} {{< youtube "eHhtKJoFbAU" >}} {{< /tab >}}
+{{< tab "More Serious" >}} {{< youtube "KmeWvTGaKZc" >}} {{< /tab >}}
+{{< tab "Outtakes" >}} {{< youtube "LrplanIc8qc" >}} {{< /tab >}}
+{{< /tabs >}}
 
 <hr>
 
@@ -105,11 +150,14 @@ This series of 3 shows presented by Sophie Ridge. a year after things started, s
 
 {{< youtube "xot9Hap0HZU" >}}
 
-#### Entire Series LD for The Great Debate (2021-2022, Studio F)
+<hr>
+
+#### The Great Debate (2021-2022, Studio F)
 
 - Trevor Phillips presented an audience discussion show... where the audience is at home.
 - VR & AR used together with a real set
 - Originally started during Covid restrictions, hence why everyone is so far apart - and why the audience is at home!
+- Every episode was lit by Richard.
 
 {{< youtube "FB-YcxXzpMA" >}}
 

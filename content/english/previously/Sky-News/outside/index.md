@@ -9,7 +9,6 @@ featured_image: "featured.png"
 summary: "Discussion, Debates, and Arm Waving - but this time On Location instead of the Studio."
 ---
 
-<hr>
 ### HM The Queen Elizabeth II Christmas Speach 2018
 
 - Buckingham Palace
@@ -50,13 +49,11 @@ Lots of ground-supported truss, and as is often the way, not enough height.
 
 {{< youtube "iVmBsBKUBo8" >}}
 
-{{< button label="Back to Sky News" link="/previously/sky-news" style="solid" >}}
-
 ### Shortcuts
 
-- {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="solid" >}}
-- {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="solid" >}}
-- {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="solid" >}}
-- {{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="solid" >}}
-- {{< button label="Sky News - Main Page" link="/previously/sky-news" style="solid" >}}
-- {{< button label="...Previously" link="/previously" style="solid" >}}
+{{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
+{{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
+{{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="outline" >}}
+{{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="outline" >}}
+{{< button label="Sky News - Main Page" link="/previously/sky-news" style="solid" >}}
+{{< button label="...Previously" link="/previously" style="solid" >}}
