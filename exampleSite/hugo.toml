@@ -81,17 +81,16 @@ maxAge = "720h"
 
 ############################ Markup ##############################
 [markup]
-[markup.goldmark.renderer]
-unsafe = true
-
-[markup.highlight]
-style = 'monokai' # see https://xyproto.github.io/splash/docs/all.html
-lineNumbersInTable = false
-
-[markup.tableOfContents]
-startLevel = 2
-endLevel = 5
-ordered = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = 'monokai'
+    lineNumbersInTable = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = true
 
 
 ########################### Media types ###########################

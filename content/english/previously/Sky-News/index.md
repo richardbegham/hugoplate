@@ -82,25 +82,34 @@ The lighting for all the day-to-day use of these dedicated News studio spaces wa
 
 Some examples are shown below :
 
+
+### Studio 21 - The Glass Box
+
+{{< rawhtml >}}
 {{< tabs >}}
 {{< tab "Glass Box" >}}
+  {{< gallery dir="images/SkyNews/Studio21" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
+{{< /tab >}}
+
+{{< tab "Studio6" >}}
+  {{< gallery dir="images/SkyNews/Studio6" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
+{{< /tab >}}
+
+{{< tab "Millbank" >}}
+  {{< gallery dir="images/SkyNews/StudioMillbank" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
+{{< /tab >}}
+
+{{< tab "City Studios" >}}
+  {{< gallery dir="images/SkyNews/StudioCity" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
+{{< /tab >}}
+{{< /tabs >}}
+{{< /rawhtml >}}
 
 ### Studio 21 - The Glass Box
 
 {{< image src="images/SkyNews/Studio21/GlassBox-1.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="image title"  webp="false" >}}
 {{< image src="images/SkyNews/Studio21/GlassBox-2.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="image title"  webp="false" >}}
 {{< image src="images/SkyNews/Studio21/GlassBox-4.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="image title"  webp="false" >}}
-{{< /tab >}}
-{{< tab "Studio6" >}}
-{{< gallery dir="images/SkyNews/Studio6" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-{{< /tab >}}
-{{< tab "Millbank" >}}
-{{< gallery dir="images/SkyNews/StudioMillbank" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-{{< /tab >}}
-{{< tab "City Studios" >}}
-{{< gallery dir="images/SkyNews/StudioCity" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-{{< /tab >}}
-{{< /tabs >}}
 
 Other productions took place in the General-Purpose studios on Sky's Campus which were shared with Sky Sports (etc), some of which included :
 
@@ -118,8 +127,9 @@ Vari\*lite VL-1100 were used as Keylights, Martin Mac Aura's as Backlights, Mart
 
 Comparing with the console MagicSheet, its clear that a lot of existing studio tungsten 2k's had to be used nd used as uplighters / eye-candy on the top side, as Sophie was stood too close to the wall to get anything in from above when facing that screen. The pre-production plot for this one-off production is shown below, as an example of how to approach the challenges of shooting in the round.
 {{< youtube "NVarHuLQNUY" >}}
-{{< image src="images/SkyNews/Studio45/CovidCrisisPlot.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="Lighting Plot for Covid Crisis (Studio 4/5 - 2021)"  webp="false" >}}
-{{< image src="images/SkyNews/Studio45/CovidCrisisMS.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="Magic Sheet Plot for Covid Crisis (Studio 4/5 - 2021)"  webp="false" >}}
+{{< image src="images/SkyNews/Studio45/CovidCrisisPlot.jpg" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" caption="Lighting Plot for Covid Crisis (Studio 4/5 - 2021)"  webp="false" >}}
+{{< image src="images/SkyNews/Studio45/CovidCrisisMS.jpg" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" caption="Magic Sheet Plot for Covid Crisis (Studio 4/5 - 2021)"  webp="false" >}}
+{{< image src="images/SkyNews/Studio45/CovidCrisis3D.jpg" alt="3D view" caption="3D view for Covid Crisis (Studio 4/5 - 2021)" >}}
 
 <hr>
 
@@ -128,7 +138,7 @@ Comparing with the console MagicSheet, its clear that a lot of existing studio t
 A Provocative weekly Debate show - recorded as-live a few hours before transmission (leaving just enough time for any edits for legal reasons...!)
 
 Five highly ...opinionated... pundits each in turn presented their topical idea, from coffee cups to immigration, and then the others would argue against it.
-
+G
 No moderator or presenter, and the show was deliberately designed to provoke reactions & conversations on social media - and hopefully thinking - by viewers.
 
 Filmed in the round with a gorgeous £150k glossy glass set - plenty of challenges in a small studio to keep the cameras and operators hidden, including clever AutoCue blanking.
