@@ -6,7 +6,7 @@ language: en
 description: The Sky Years - Sky News
 weight: 12
 featured_image: "featured.png"
-summary: "Responsible for the Lighting Design and Support for all of Sky News (UK)'s studio output for over 10 years, from their regular daily shows to Prime Ministerial Election Debates, with anythign and everything in between. He also designed & built multiple remotely-operated studios across London."
+summary: "Responsible for the Lighting Design and Support for all of Sky News (UK)'s studio output for over 10 years, from their regular daily shows to Prime Ministerial Election Debates, with anything and everything in between. He also designed & built multiple remotely-operated studios across London."
 ---
 
 {{< image src="images/logos/sky-news-logo.png" caption="" alt="Sky News Logo" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Sky News Logo"  webp="false" >}}
@@ -55,7 +55,7 @@ And for Sky News, Election Night is when all the stops come out, records are bro
 
 Richard designed, built, and ran the lighting for the main overnight studio presentation for the UK General Elections in 2015, 2017, 2019, and also for the USA Election in 2020. Plus setup various Local Election Night Specials in the Millbank Newsroom.
 
-#### Subsection Link - Election Nights
+#### Link -> Election Nights
 
 {{< button label="The Biggest Nights of Political Tension Since The Last One" link="previously/sky-news/elections" style="solid" >}}
 
@@ -66,7 +66,7 @@ Richard designed, built, and ran the lighting for the main overnight studio pres
 All-Day Channel Takeovers or just a grand old lady doing a piece to camera - Richard's experience was sometimes called-for outside the studios.
 s
 
-#### Subsection Link - Outside Broadcasts
+#### Link -> Outside Broadcasts
 
 {{< button label="Outside Broadcasts" link="previously/sky-news/outside" style="solid" >}}
 
@@ -82,42 +82,31 @@ The lighting for all the day-to-day use of these dedicated News studio spaces wa
 
 Some examples are shown below :
 
-
 ### Studio 21 - The Glass Box
 
-{{< rawhtml >}}
-{{< tabs >}}
-{{< tab "Glass Box" >}}
-  {{< gallery dir="images/SkyNews/Studio21" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
-{{< /tab >}}
-
-{{< tab "Studio6" >}}
-  {{< gallery dir="images/SkyNews/Studio6" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
-{{< /tab >}}
-
-{{< tab "Millbank" >}}
-  {{< gallery dir="images/SkyNews/StudioMillbank" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
-{{< /tab >}}
-
-{{< tab "City Studios" >}}
-  {{< gallery dir="images/SkyNews/StudioCity" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
-{{< /tab >}}
-{{< /tabs >}}
-{{< /rawhtml >}}
-
-### Studio 21 - The Glass Box
-
-{{< image src="images/SkyNews/Studio21/GlassBox-1.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="image title"  webp="false" >}}
-{{< image src="images/SkyNews/Studio21/GlassBox-2.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="image title"  webp="false" >}}
-{{< image src="images/SkyNews/Studio21/GlassBox-4.jpg" caption="" alt="alter-text" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" title="image title"  webp="false" >}}
-
-Other productions took place in the General-Purpose studios on Sky's Campus which were shared with Sky Sports (etc), some of which included :
+{{< rawhtml >}}{{< tabs >}}
+  {{< tab "Glass Box" >}}
+    {{< gallery dir="images/SkyNews/Studio21" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}  
+  {{< /tab >}}
+  {{< tab "Studio6" >}}
+    {{< gallery dir="images/SkyNews/Studio6" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
+  {{< /tab >}}
+  {{< tab "Millbank" >}}
+    {{< gallery dir="images/SkyNews/StudioMillbank" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
+  {{< /tab >}}
+  {{< tab "City Studios" >}}
+    {{< gallery dir="images/SkyNews/StudioCity" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
+    {{< youtube "ZkEqOGKz4yWeZQlv" >}}
+  {{< /tab >}}{{<  /tabs >}}{{< /rawhtml >}}
 
 <hr>
+Other productions took place in the General-Purpose studios on Sky's Campus which were shared with Sky Sports (etc), some of which included :
 
 ### General-Purpose Studio Productions
 
 #### Covid Crisis - Learning the Lessons (2021, Studio 4/5)
+
+##### Detailed Show Breakdown
 
 This series of 3 shows presented by Sophie Ridge, just a year after things started, was the start of a serious inqury into into what when right and what went wrong. Due to continuing proximity rules, all guests were at home and shown on video walls, and the camerawork was all on a Steadicam and Jib, shooting _"in the round"_ (360-degrees).
 
@@ -125,7 +114,8 @@ Also due to distancing, the decision was made to use a lighting rig made-up almo
 
 Vari\*lite VL-1100 were used as Keylights, Martin Mac Aura's as Backlights, Martin TW-1 lit the scenic graphic panels from above together with RobertJuliet Dalis from below.
 
-Comparing with the console MagicSheet, its clear that a lot of existing studio tungsten 2k's had to be used nd used as uplighters / eye-candy on the top side, as Sophie was stood too close to the wall to get anything in from above when facing that screen. The pre-production plot for this one-off production is shown below, as an example of how to approach the challenges of shooting in the round.
+Comparing with the console MagicSheet, which shows the final version of the show, its clear that a lot of existing studio tungsten 2k's had to be used in a line along the top edge of the studio. Due to the steep video walls, Sophie had to be lit from both sides - but if the light came in from a long way away, it would splash all over the set behind her, as well as have shadows from the cameras. Which is why here's a whole series of them in a line in both directions. As long as can get these a reasonable distance away, once carefully focused  they will evenly merge into one another. If too close, you will get hot spots - the inverse square law is not your friend in a small studio. Fortunately, this studio can have lights up to 9m in the air - in reality they were probably about 5-6m up. as Sophie was stood too close to the wall to get anything in from above when facing that screen. The pre-production plot for this one-off production is shown below, as an example of how to approach the challenges of shooting in the round.  
+
 {{< youtube "NVarHuLQNUY" >}}
 {{< image src="images/SkyNews/Studio45/CovidCrisisPlot.jpg" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" caption="Lighting Plot for Covid Crisis (Studio 4/5 - 2021)"  webp="false" >}}
 {{< image src="images/SkyNews/Studio45/CovidCrisisMS.jpg" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" caption="Magic Sheet Plot for Covid Crisis (Studio 4/5 - 2021)"  webp="false" >}}
