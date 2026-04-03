@@ -189,9 +189,7 @@ flowchart LR
 *you may be tested on your understanding of this...pay close attention to the arrow heads...*🤣
 {{< /accordion  >}}
 
-#### City Studios 2 & 3
-
-##### At CNBC's studios in The City of London
+#### City Studios - within CNBC's studios in The City of London
 
 Located very unusually in the corner of CNBC's London Studio, and going On-Air just as they went Off-Air, this was a pair of two small studio spaces. This was triggered by the Sky News needing to move out of their existing studio space, and the then-recent takeover of Sky by Comcast looking to save money by reducing sites together with a hasty change of US News Network partnership (previously Fox, who were now no longer Friends...).
 
@@ -201,6 +199,7 @@ To keep in-line with the previous Tardis project's naming schemes being both log
 
 {{< image src="images/SkyBuilds/City2.jpg" caption="" alt="City 2 Studio" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="City 2 Studio"  webp="false" >}}
 
+{{< youtube "LlbSJvn9GUM&t=42s" >}}
 #### City 3
 
 {{< image src="images/SkyBuilds/City3.jpg" caption="" alt="City 2 Studio" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="City 3 Studio"  webp="false" >}}
@@ -230,28 +229,39 @@ MUCH MORE TO COME
 ## Sky Sports News
 
 - Overall Supervisory & Support 2018-2023
-- Competely replaced the original 1st generation LED Lights with new fixtures in 2018 with a complex series of overnight changes and reprogramming entirely without distrupting output.
-- In 2020, during the height of Covid lockdowns and with heavy restrictions on movements between studios, completely redesigned the camera track overhead routes and new lighting poseitions; then (mostlya) single-handly derigged and rerigged all the existing lights - plus a set of additonal ones
+
+- Completely replaced the original and worn-out 1st generation LED Lights with new fixtures in 2018 in a rolling series of overnight changes performed in a narrow window (4-5 hours), repatching, reprogramming, and rebalancing the each new block of lights night after night - all without disrupting daily output.
+  
+- In 2020, during the height of Covid lockdown and with very little other than a single presenter talking to camera, who was easily moved to anther studio, and all the journalists, editors, and so on working remotely, it was possible to have the first significant rebuild of the main area of the newsroom/studio since it opened 9 year earlier. However, apart from a couple of new lightboxes, this wasn't about set changes, but putting in flown camera tracks (instead of the manually-operated jib) and replacing the floor robots with new units;..
+
+Two ceiling-mounted camera tracks, similar to the ones used in the glass box, were installed to replace the work previously done by a Jib (although not as flexible of course). The lighting was repositioned to take this into account, and new presentation positions at the main desk were created.
+
+Additional lights were added, giving a new outer 360-degree ring of Arri S60's with 8-cell Eggcrates, allow impromptu Presentation or Guests anywhere in the central area, shot from any direction, for the first time. As at the earlier Millbank refurbishment, Richard had to do the bulk of the work rigging and cabling all the equipment himself due to heavy restrictions on personnel movements between different areas.
+
+Lighting control also shifted from a dedicated Multi-Skilled Operator to the Camera MSO, which was a necessity by this point as none of the remaining MSO team were lighting specialists. A touchscreen system was developed based on feedback from the MSO's, designed to give a rapid recall of a standard base with the ability to tweak as needed. Despite initial request for multiple fader wings, it was notable that these, along with the main Gio console, were generally depreciated in favour of the touch-screen controls.
 
 MORE TO COME
-
-{{< gallery dir="images/SkyBuilds/SSN" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< image src="images/SkyBuilds/SSN/Problematic-Proposal.jpg" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" caption="The original camera track proposal... the lines in red indicate existing keylights that would be blocked"  webp="false" >}}
+{{< image src="images/SkyBuilds/SSN/SSN2020.jpg" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" caption="Refurbishment about to start. Note total lack of any house lighting."  webp="false" >}}
 
 <hr>
 
 ## Sky Studios Cafe
 
-- A Fixed installation of trussing and lights in a public space (in-house coffee shop), originally intended for use for just one hour a week and so very lightly provisioned; this rapidly ended-up being used by up to 3 different productions a day - unil the novelty wore-off!
+A Fixed installation of trussing and lights in a public space (in-house coffee shop), originally intended for use for just one hour a week and so very lightly provisioned; this rapidly ended-up being used by up to 3 different productions a day - until the novelty wore-off after a year...and the space was then then only used a handful of times again!
+
+--> FIND PICTURES <--
 <hr>
 
 ## Sky Poker
 
-Conversion of old Studio C (previously the Channel 5 News Studio) into a fixed studio. Used for a few years before they moved up north. Was when it opened the only studio Sky had that was still operating in SD (Standard Defintiion)
+Conversion of old Studio C (previously the Channel 5 News Studio) into a fixed studio. Used for a few years before they moved up north. Was, at the time this opened, the only studio had that was still operating in SD (Standard Defintion). Years later, this studio became the lighting workshop.
 
-MORE TO COME
+Along with the scavenged-together antique cameras, equally antique lights were found for this, with a mixture of Strand SL Profiles, 1k Pups, Arturo softlights, and a well-used set of Pulsar chromabricks (which were last seen still chugging-away in the SSR set, not bad for 20 year old LED's...)
 
-{{< image src="images/SkyBuilds/SkyPoker.jpg" caption="" alt="Sky Poker } Studios" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Sky Poker Studio"  webp="false" >}}
 
+{{< image src="images/SkyBuilds/SkyPoker.jpg" caption="" alt="Sky Poker Studios" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Sky Poker Studio"  webp="false" >}}
+{{< image src="images/SkyBuilds/SkyPokerPlot.jpg" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" caption="Sky Poker lighting plot. Very straightforward. Just make sure the presenter is sat on (..censored..)  J L-B"  webp="false" >}}
 <hr>
 
 ## The General-Purpose Studios (Sports, Entertainment, etc)
