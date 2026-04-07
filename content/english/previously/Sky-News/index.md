@@ -28,10 +28,11 @@ He successfully steared-through the transistion from a single traditionally-oper
 {{< notice "info" >}}
 To keep this readable, some of the content is presented in Tabular format in subsections - you can jump ahead now, or scroll down for more.
 {{< /notice >}}
-{{< button label="The Many Battles for Number 10" link="previously/sky-news/battles" style="outline" >}}
+{{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
 {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
 {{< button label="The Studio Productions" link="/previously/sky-news/#full-studio-productions" style="outline" >}}
 {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="outline" >}}
+`1
 
 ## Lighting Direction :
 
