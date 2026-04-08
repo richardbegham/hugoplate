@@ -13,11 +13,11 @@ summary: "Responsible for the Lighting Design and Support for all of Sky News (U
 
 ## Lighting Design & Oversight
 
-- Designed and Oversaw the visual output for all the Sky News studios for over a decade, including the historic political dramas around _Brexit_ and _Covid_.
-- Ensured a clear and consistent visual presentation to a worldwide audience throughout this period, delivered with zero significant on-air issues throughout 24/7/365.
-- Primary point of direct contact and support for all lighting matters to both the Sky News Studio Directors and the Technical Supervisors for all lighting matters.
-- Designed both the studio lighting and a resilient system of hardware and software designed around the needs and feedback of the operational end-users as well as personal operational experience.
-- All this was achieved in an environment of constantly evolving production requirements and the unpredictable nature and number of live events and studio guests.
+- Designed and Oversaw the visual output for all the Sky News (UK) studios for over a decade, including the historic political dramas around _Brexit_ and _Covid_.
+- Ensured a clear and consistent visual presentation to a worldwide audience 24 hours a day throughout this period, delivered with zero on-air impacting issues throughout.
+- Primary point of direct contact / support for all lighting matters to the Studio Directors (at a high design level) and the Technical Supervisors (at the operational detail level).
+- Specified and Designed the studio lighting for all studios in use at that time, together with a resilient control system of hardware and software, all bespoke designed around the needs of, and feedback from, the operational end-users, in addition to personal operational experience.
+- All this was achieved in an environment of constantly evolving Production requirements, with their unpredictable studio guests and live events.
 
 He designed and built not just the lighting of their regular studio output, but built or refurbished all the dedicated Sky News studios across London. In addition, he was the Lighting Director for their major one-off and recurring productions elsewhere on the Sky Campus in both General Purpose Studios and Office spaces, as well as various major Outside Broadcasts.
 

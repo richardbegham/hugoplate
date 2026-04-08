@@ -13,35 +13,46 @@ summary: "Lists the many fixed Studios Designed and Deployed whilst at Sky. All 
 
 ### Technology Innovation
 
-Richard introduced **LED lighting** for both energy-efficency and reduced maintenance reasons, amd also to make **Remote Operations** of these spaces; omething that simply wasn't practical with previoud tungsten luminaries for many reasons - most critically fire safety.
+Richard introduced **LED lighting** for initially for energy-efficiency and increased reliability/reduced maintenance reasons, but this also enable the introduction of **Remote Operations** into these spaces; something that simply wasn't practical with traditional tungsten luminaries for many reasons; most critically, fire safety.
 
-From 2013, as many & varied various studios or other spaces were built / refurbished, he ensured that each was also equipped with the best and most suitable LED luminaries then available, including:
+From 2013, as a variety of studio and newsroom spaces were built / refurbished, he ensured that each was equipped with the best and most suitable LED luminaries available at those times, including:
 
-- _ETC Source 4_ Series 1 Studio then Series 2 Daylight
-- _Arri SkyPanel_ S30RP & S60RP. L-series L7-DT
-- _Litepanel Gemini_ 2x1 & 1x1, _Astra_ 3X & 6X, _Sola_ 4+
+- _ETC Source 4 Series 1 Studio initially then Series 2 Daylight_
+- _Arri SkyPanel S30RP & S60RP. L-series L7-DT_
+- _Litepanels Gemini 2x1 & 1x1, Astra 3X & 6X, Sola 4+_
 - _Dedolight DL-9_
 
-By 2018 all studios except Millbank were fully LED-lit. Millbank was c.50% by this point, becoming fully LED-lit in 2020.
+By 2018 all studios were fully LED-lit, except for Millbank (at about 50%), which became fully LED in 2020.
 
 <hr>
 
 ### Project Tardis - Introduction
 
-A whole series of changes for Sky News come under the umbrella of _Project Tardis_ and its follow-on the City Studios. This mammoth project to move Sky News out of their own building (Unit 1) across the Sky Studios, and introduce cost savings by automating almost every Craft was originally expected to take 6 months, but unsurprisingly, it took 18 months, and the overallnumber of production staff reduced was a tiny handful - Vision Mixers and Director's Assistants went, but were replaced by "Co-Producers", Cameras and Sound ended-up much the same as before, but sadly the Lighting Technical Operators went - as everyone in that team was well over retirement age anyway, they hung-on as long as they could in order to get their redundancy payments as a well-deserved bonus!
+A whole series of changes for Sky News came under the umbrella of _Project Tardis_ and its follow-on the City Studios. This mammoth project was to move Sky News out of their own building (Unit 1) across the road to Sky Studios, and in the process introduce cost savings by automating the Production workflow. This was originally expected to take 6 months, but unsurprisingly, it took 18 months, and the overall number of production staff reduced was a tiny handful - for example, Director's Assistants and Vision Mixers went, but were replaced by "Co-Producers" and a lot of faith in the Space Bar. Despite original optimistic promises,Cameras and Sound ended-up much the same as before, but sadly the Lighting Technical Operators did disappear, as that role was taken on by the Technical Supervisors.
 
-To fit Sky News into Sky Studios took substantial internal rebuilding efforts on all levels - everything from dressing rooms to edit suits had to be moved-about - something that became a recurring theme over the next few years, as ever-more techncial things were squeezed into a build that had already been squeezed when it was built. Hence "tardis"... trying to make lots of big things fit in a seemingly-impossibly small space; although with less space-time distortion...well, apart from the dark mysterious bit at the back of the 4th floor with the gibbering and screaming... oh wait, that's Engineering Support.
-Anyway, getting all this built and (eventually) on-air took-up for Richard a minimum of 2 days every week for 18 months, working on attachemnt to the loverly Project Team, and gave valuable experience as part of the technical evaluation team for various bid proposals for things such as the robotic cameras.
+To fit Sky News into Sky Studios took substantial internal rebuilding efforts throughout to make enough space with a completely remodelled second floor, just  5 years after the building opened - everything from dressing rooms to edit suits had to be moved-about  _(something that became a recurring theme over the next few years, as ever-more technical things were squeezed to fit into a building that was compressed from its original intentions during Construction.)_ Hence the "Tardis" name - nothing to do with a rival broadcaster, everything to do with making lots of big things fit into a impossibly small space _although with less space-time distortion...well, apart from the dark mysterious bit at the back of the 4th floor with the mysterious technical equipment and mysterious people... oh wait, that's Engineering Support_.
+
+Anyway, getting all the various aspects of this built and on-air tied-up Richard for a minimum of 2 days a week for 18 months, working on partial attachment to the loverly Projects Department. Whilst the lighting side he developed solo, he also was part of the technical evaluation teams for various related aspects, gaining valuable experience in not just the formal bid processes for multi-million pound contracts, but the disconnect between promises and deliverables.
 
 <hr>
 
 #### Project Tardis - Studio 21 (2016) "The Glass Box" Flagship
 
-This is, quite literally, a Glass Box that was intended by the architects of the huge Sky Central office building (basically a 33-story building lying down) as a general-purpose studio space to be on view whilst in use to all visitors and staff in the building, instead of hidden-away and inpenetrable as most studios are - an important move in a company which whilst its roots were in broadcasting, that function had lost its prominence within a massive IT & Telecommunications orgnisation.
+This is, quite literally, a Glass Box that was originally intended by the architects of the huge Sky Central office building _(basically the size of a 33-story tower block lying on its side)_ as a general-purpose studio space on prominent view whilst in use to all visitors and staff in the building, located directly in middle of the building half way between the main entrances, instead of hidden-away and impenetrable like most studios. This was an important move to make for a company that, which whilst its roots were in broadcasting, was rapidly transforming into a huge Telecommunications & IT orgnisation - at that point, broadcasting was approx. 700 out of 30,000+ people (both figures have since then be reduced considerably).
 
-However, after various other parts (Sports, Entertainments, etc.) had been consulted, only Sky News expressed an interest in actually using on a regular basis within office hours. This meant that, instead of the space being a manned, multi-purpose, area with lots of set / camera / lighting changes, it was possible to build a static set with minimal on-site staffing; something Sky News had started moving-towards at Millbank in 2010-11 (with just 3x technical staff - Technical Manager (also runnnig the lightings), Sound Supervisor, and Floor Manager (also acting as Sound Assistant), with mote galleries and static pan/tilt robotic cameras which could be repositioned to marked positions by the FM and TS.
+However, during Construction, the various broadcasting areas (Sports, Entertainments, etc.) were consulted, and only Sky News expressed an interest in actually using this studio on a regular basis within office hours. This meant that, instead of the space being a manned, multi-purpose, area with (somehow...) lots of set / camera / lighting changes, it was possible to build a static studio set with minimal on-site staffing and fixed technical infrastructure.
 
-For the glass box, as the Tardis project had begone, they dediced to takte this one step further, and have just a Floor Manager in the actual studios, and have all the technical control done remotely from the Gallery. Due to delays in Tardis, this remote control was temporarily re-routed to the old PCR (Production Control Room, or "Gallery") for the first year after the building amd studio opened.
+This was a concept that Sky News had started moving-towards with their Millbank Studio in 2010-11, which was then taken one step further by having just a Floor Manager (assisted by Make-Up and a Runner at busy times) and everything else being controlled from another building 10 minutes walk away.  
+
+{{< accordion "explanatory sidenote : Millbank crewing (2010-19)" >}}
+At Millbank, as originally built, between 2x and 4x technical staff covered the studio with the rest of the production process usually being done remotely - although a full-size gallery was built (partially as Disaster Recovery should the main site go catastrophically offline) this was never fully commissioned or utilised.
+
+The core team was a Technical Director - doing everything Technical from routing video feeds to the lighting - paired with all the studio floor work being done by the Floor Manager (mostly ushering guests in and out, including acting as Sound Assistant, i.e. putting microphones on). Yes, the clue was there all along in the job titles...
+
+ The cameras could be repositioned by these two into pre-marked positions, and then remotely-operated pan/tilt heads allowed for pre-set shots to be quickly recalled by the TD at quieter times. For busier productions, primarily around the evening politics show, and also for pre-recorded shows such as Entertainment Weekly, crewing numbers doubled with the addition of a Sound Supervisor and a Camera Operator - although still controlling the heads remotely. The gallery also made up the background of one of the main shots through a large viewing window (matching the then-main studio design) ...and any visiting Lighting Director would quickly discover that the seat they were in was empty for reason...the back of their head was now very prominently silhouetted on live TV around the world, just behind the presenter's ear...
+{{< /accordion >}}
+
+For the glass box, as the Tardis project had begone, News dediced to takte this one step further, and have just a Floor Manager in the actual studios, and have all the technical control done remotely from the Gallery. Due to delays in Tardis, this remote control was temporarily re-routed to the old PCR (Production Control Room, or "Gallery") for the first year after the building amd studio opened.
 
 That's the operation... but why the strange hanging cameras? This was the rest of the collision between the desire by News for a simple, static space with freedom to use the whole area, together with an edit from the then-CEO of Sky UK, Jeremy Durrock, that the view from the outside should be clear of ALL technical equipment, including the cameras! _Never mind what the viewers at home see, the viewers outside the studio are more important...He did have a point about the TV Production on-site being invisible to everyone else though..._ Ok, fair enough, we'll hang the cameras down on fixed bars in the corners, we can get them just about far enough away, and can have the lights as far back as possible with obstructing them.
 
