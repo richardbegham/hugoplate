@@ -28,9 +28,6 @@
             {{/* image modules comes from https://github.com/gethugothemes/hugo-modules/tree/master/images */}}
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
           </div>
-          <p class="mb-8">
-            {{ .content2 | markdownify }}
-          </p>
         </div>
       </div>
     </section>

@@ -48,15 +48,3 @@
   @apply prose-tr:border-border dark:prose-tr:border-darkmode-border;
   @apply prose-td:relative prose-td:z-10 prose-td:px-3 prose-td:py-[18px] dark:prose-td:text-darkmode-text;
 }
-
-/* Example of replacing bullets with a checkmark in content areas */
-.content ul {
-  list-style: none;
-  padding-left: 0;
-}
-
-.content ul li::before {
-  content: "✔"; /* You can also use an SVG here */
-  margin-right: 10px;
-  color: #10b981; /* Tailwind's emerald-500 */
-}
