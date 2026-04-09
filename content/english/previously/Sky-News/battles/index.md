@@ -11,13 +11,13 @@ summary: "Live Debates between rival candidates for Prime Minster happened far m
 
 ## The many...many...live Election Debates
 
-Attempts to give the UK a version of the head-to-head "US Presidential style" Debates had, for decades, been repeatedly rebuffed by whoever was in power at the time (as they had the most to loose), but in 2010, with no clear result ahead, all the parties gave-in and agreed to a very low-key version for the 2010 General Election. Richard wasn't involved in this, as had only just started Freelancing for Sky at that point; however this us mentioned because both that Debate, and Election that followed, resulted in what can described as a No-Score Draw for all the teams involved...
+Attempts to give the UK a version of the head-to-head "US Presidential style" Debates had, for decades, been repeatedly rebuffed by whoever was in power at the time (as they had the most to loose), but in 2010, with no clear result ahead, all the parties gave-in and agreed to a very low-key version for the 2010 General Election. Richard wasn't involved in this, as had only just started Freelancing for Sky at that point; however this is mentioned because both that Debate, and Election that followed, had a result that can best be described as a **No-Score Draw** for all the teams involved...
 
-So, roll on a then-legally-fixed nice and predictable 5 year delay until the next one. Nobody could then have predicted the utter carnage the next five years would result in! Below some of the most significant PM & Leadership Debates are discussed.
+So, roll on a then-legally-fixed nice and predictable 5 year delay until the next one. Nobody could then have predicted the utter carnage the next five years would result in!
 
-> It quickly became a running joke that the first lighting plot had been used so many times it should have been laminated. Although different studios and different budgets meant this was only true three times...
+Below some of the more significant PM, Party Leadership, and Referendum Debates are outlined.
 
-{{< slider dir="images/gallery/Debates" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/gallery/Debates" class="" height="100" width="100" webp="true" command="Fit" option="" zoomable="true"  >}}
 
 {{< notice "warning" >}}
 The videos shown below are of their time and have highly polarising political content - LightingDir.Com does not either endorse nor oppose any of the views expressed, but does recommend use of the 'mute' button should your blood pressure rise at any point.
@@ -28,7 +28,10 @@ The videos shown below are of their time and have highly polarising political co
 
 ### The Battle for Number 10
 
-#### Cameron vs Millband (Studio 4/5
+#### Cameron vs Millband (Studio 4/5)
+
+
+{{< accordion "Expand for the backstory about how it all began" >}}
 
 Conservative Central Office very much wanted to control the narrative, and didn't like the danger of people asking unpredictable questions, so they stonewalled all attempts for even a repeat of 2010's very flat Debate, to the point that all the broadcasters gave up on the idea. Then, in a last minute in attempt to be clever, they suddenly said _Yes - but we can only do it next week_ - knowing full well that it takes weeks to put a production team together, find and book a suitable location, design & build a set, install all the technical equipment and support infrastructure, and months to design graphics, find an evenly-balanced audience to ask questions, and so on...let alone arranging all the security needed for such a high-profile event. Well, if there's one thing News Broadcasters do differently to their colleagues elsewhere, its speed... and a massive rabbit got pulled-out of the hat in just 5 days...
 
@@ -38,18 +41,27 @@ Counting back from the moment of transmission (TX), allowing for presenter rehea
 
 Jon (somehow) finds-out that Richard was working on _Ringside_ (Sky Sports Boxing magazine show) in the next building, and, highly-unusually, leaves News and has a very quiet and quick discussion in the corridor with Richard. Five minutes later - with Ringside unceremoniously offloaded onto his team with no explanation to anyone beyond "Very Sorry, I have to go. Right now. Will explain later." - the pair of them are in a taxi heading as fast as possible across town to meet with Production designers Jago. A short meeting later, with invaluable advise from Richard about what facilities the studio has (such as seating, cameras, power, rigging, etc) and how its been successfully used (or not) previously, they are heading back to Osterley on a train, which gives Richard the opportunity to sketch something out on the back of an envelope. Phone calls are made, an outline of the logistics involved is determined, many conversations are started with the cryptic phrase "Umm...do you know what I know...?", and that afternoon the schedule for pretty much everyone in the lighting department for the next week was upended without any explanation, as there was extensive knock-on effects with sports productions being relocated - but that's what lighting people are used to - and they all pulled-together magnificently.
 
-After all that, and the hurried nature of these designs, the production and lighting design turned-out to be so successful that it they went on to be repeated in an essentially similar form multiple times over the very turbulent (...!) period of politics that followed, as is shown below :
+After all that, and the hurried nature of these designs, the production and lighting design turned-out to be so successful that it they went on to be repeated in an essentially similar form multiple times over the very turbulent (...!) period of politics that followed, as the rest of this section shows :
+
+{{< /accordion >}}
+
+A simple set - three video walls with a little bit of decorative LED, plus a desk.  
+Richard added a black box truss above each screen with a row of precisely-spaced Martin Mac Auras as visual eye-candy for any vertical shoot off - and also to hide the camera used to shoot backwards at the audience.
+ A U-shaped ring of Sharpie Washes lit the floor, and VL-1000's were used as Keylights for speed and due to limited space to set multiple keylights for the seated positions - the studio being very sausage-shaped.
+
+It quickly became a running joke that this first lighting plot got used so many times it should have been laminated. Although different studios and different budgets meant this was not always true, but it **was** for _three_ occasions in _four_ years - not bad for something only supposed to happen once every 4-5 years ...!
 
 {{< youtube "C9ythLWP54c" >}}
+
 {{< /tab >}}
 
-{{< tab "2015 Labour" >}}
+{{< tab "2015 Labour Leadership" >}}
 
 ### The Battle for the Labour Leadership
 
 #### Corbyn vs Smith (Studio 4/5)
 
-_very cut-down but the only one that actually went go head-to-head_
+A very cut-down version lighting-wise (no budget for movers...) but out of all of them, this was uniquely the only one where the candidates actually went head-to-head against each other - terribly politely, of course.
 
 {{< youtube "8JuASxNuHXk" >}}
 {{< /tab>}}
@@ -62,13 +74,13 @@ _very cut-down but the only one that actually went go head-to-head_
 
 _(OB in atrium of adjacent office building)_
 
-A very challenging venue of a very awkardly-shaped atrium where nothing was symetrical. Daylight falling on the area and two live shows each going out around sunset. Rigging points were nearly non-existant, and there was a coffee shop on one side, pedestrian gates in the middle, open-plan offices on 3 levels in use throughout. Plus absolutly no infrastructure and everything had to be done as a full OB despite being in centre of the Sky Campus surrounded by studio buildings. And, due to prior committments, no staff available and would have to use external crew.
+A very challenging venue of a very awkwardly-shaped atrium where nothing was symmetrical. Daylight falling on the area and two live shows each going out around sunset. Rigging points were nearly non-existent, and there was a coffee shop on one side, pedestrian gates in the middle, open-plan offices on 3 levels in use throughout. Plus absolutely no infrastructure and everything had to be done as a full OB despite being in centre of the Sky Campus surrounded by studio buildings. And, due to prior commitments, no staff electricians available and would have to use external crew.
 
-A Great, very natural, look was achived with very mixed rig of tungsten and led lightingm, carefully balanced with the natural daylight as the sun set, across two days of live broadcasts.
+A Great, very natural, look was achieved with very mixed rig of tungsten and led lighting, carefully balanced with the natural daylight as the sun set, across two days of live broadcasts. Would have put this in for KOI (see below), right up until...
 
 {{< notice "warning" >}}
 
-- Unfortunately this when the Gove made the infamous “I think we've all had enough of experts” quote...
+Unfortunately this when Gove made the infamous “I think we've all had enough of experts” quote... 🤦‍♂️
 
 {{< /notice >}}
 
@@ -85,10 +97,9 @@ A Great, very natural, look was achived with very mixed rig of tungsten and led 
 
 Back in Studio 4/5 for this, and almost a complete re-run of 2 years earlier from a lighting point of view.
 
-The results were very crisp and clean, thanks to a great time all working together, and the show itself went very smoothly () but one unexpected upshot of this was that Richard was amazed to recieve a Nomination for the annual _Knight of Illumination Award_ later in the year for "Best Small Studio" show (yes, Studio 4/5 may be the biggest Sky has, but its still a small studio compared to ones used for _(insert your favourite prime-time show here)_.  
-{{< youtube "1mN_zZqlQts" >}}
+The results were very crisp and clean, thanks to a great time all working together, and the show itself went very smoothly. A totally unexpected upshot of this was that Richard was honoured and amazed to receive a Nomination for the annual _Knight of Illumination Award_ later that year, in the "Best Small Studio" show _(yes, Studio 4/5 may be the biggest Sky has, but its still a small studio compared to the ones used for **(insert your favorite prime-time show here)** _.  
 
-{{<slider dir="images/gallery/KOI" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< youtube "1mN_zZqlQts" >}}
 
 {{< /tab >}}
 
@@ -96,11 +107,11 @@ The results were very crisp and clean, thanks to a great time all working togeth
 
 ## The Battle for Number 10 (2019)
 
-### Johnson vs Corbym (Studio 4/5)
+### Johnson vs Corbyn (Studio 4/5)
 
-_Built, rehearsed, then cancelled due to Boris refusing to come_
+#### Built, rehearsed, then cancelled due to Boris refusing to come
 
-Richard was chased by a giant Boris, like the killer beachball in The Prisoner...
+Richard felt he was being chased by a giant Boris, like the killer beachball in The Prisoner...
 {{< image src="images/SkyNews/Battle-to-turn-up.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 {{< /tab >}}
@@ -112,10 +123,14 @@ Richard was chased by a giant Boris, like the killer beachball in The Prisoner..
 #### Sunack vs Truss (Studio F)
 
 _(in Studio F)_
-Turned-out they they both "won" not long afterwards - although Sunack lasted in the job far longer than Truss did...
+Turned-out they they both "won" in quick succession - although Sunack lasted in the job far longer than Truss did...
 {{< youtube "hP1NsMZ5iNY" >}}
 {{< /tab >}}
 {{< /tabs >}}
+
+### Knights of Illumination Awards 2017 (see 2017 above)
+
+{{<gallery dir="images/gallery/KOI" class="" height="200" width="200" webp="true" command="Fit" option="" zoomable="true"  >}}
 
 ### Shortcuts
 
