@@ -13,42 +13,41 @@ summary: "Responsible for the Lighting Design and Support for all of Sky News (U
 
 ## Lighting Design & Oversight
 
-- Designed and Oversaw the visual output for all the Sky News (UK) studios for over a decade, including the historic political dramas around _Brexit_ and _Covid_.
-- Ensured a clear and consistent visual presentation to a worldwide audience 24 hours a day throughout this period, delivered with zero on-air impacting issues throughout.
+- Designed and Oversaw the visual output for all the Sky News (UK) studios for over a decade which included the historic political dramas around _Brexit_ and the challenges of the _Covid-19 Pandemic_.
+- Ensured a clear and consistent visual presentation to a worldwide audience 24 hours a day throughout this period, delivered with zero on-air impacting issues.
 - Primary point of direct contact / support for all lighting matters to the Studio Directors (at a high design level) and the Technical Supervisors (at the operational detail level).
-- Specified and Designed the studio lighting for all studios in use at that time, together with a resilient control system of hardware and software, all bespoke designed around the needs of, and feedback from, the operational end-users, in addition to personal operational experience.
+- Specified and Designed the studio lighting for all the studios in use and at that time, together with a resilient control system of hardware and software, all bespoke designed around the needs of, and feedback from, the operational end-users, in addition to personal operational experience.
 - All this was achieved in an environment of constantly evolving Production requirements, with their unpredictable studio guests and live events.
 
-He designed and built not just the lighting of their regular studio output, but built or refurbished all the dedicated Sky News studios across London. In addition, he was the Lighting Director for their major one-off and recurring productions elsewhere on the Sky Campus in both General Purpose Studios and Office spaces, as well as various major Outside Broadcasts.
+He designed and built not just the lighting of their regular studio output, but built or refurbished all the dedicated Sky News studios across London. In addition, he was the Lighting Director for the majority of their major one-off and recurring productions elsewhere on the Sky Campus in both General Purpose Studios and Office spaces, as well as their biggest Outside Broadcasts.
 
-These included pre-general election debates featuring the (then) Prime Ministers and Leaders of the Opposition, a landmark pre-Brexit Referendum debate, three General and one US Elections, and numerous other debates. He was also the Series Lighting Designer and Director for The Great Debate and the long-running weekly shows The Pledge.
+These included pre-general election debates featuring the (then) Prime Ministers and Leaders of the Opposition, a landmark pre-Brexit Referendum debate, three General Election (and one US Election) Nights. He was also the Series Lighting Designer and Director for _The Great Debate_, the long-running weekly shows _The Pledge_, and _Big Ideas_.
 
-He successfully steared-through the transistion from a single traditionally-operated studio equipped with elderly tungsten lighting sources to multiple studios across multiple locations all using safer and state-of-the-art energy efficient long-lasting LED luminaires designed with a wide tollerance for production fluidity. This was delivered together with a fully-bespoke multi-site remote control system used by a diverse team of non-lighting specialists.
+He successfully steared-through the transistion from a single large traditional studio equipped with legacy tungsten lighting sources to a interconnected set of specialist studios across multiple locations fully-equiped with state-of-the-art efficient LED sources, designed with a wide tollerance for production fluidity. This was delivered together with a fully-bespoke multi-site remote control system used by a diverse team of non-lighting specialists.
+
+{{< slider dir="images/gallery/NewsTease" class="max-w-[200px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 {{< notice "info" >}}
-To keep this readable, some of the content is presented in Tabular format in subsections - you can jump ahead now, or scroll down for more.
+To keep this readable, some of the content is presented in Tabular format and / or in subsections - you can jump ahead now, or scroll down for more.
 {{< /notice >}}
 {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
 {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
 {{< button label="The Studio Productions" link="/previously/sky-news/#full-studio-productions" style="outline" >}}
 {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="outline" >}}
-`1
 
-## Lighting Direction :
-
-### The many...many...live Election Prime-Ministerial Debates
+## Prime Minister Debates.
 
 Attempts to give the UK a version of the head-to-head "US Presidential style" Debates had for decades been repeatidly rebuffed by whoever is in power at the time, but with no clear result ahed, everyone gave-in and agreed to a very low-key version for the 2010 General Election. Richard wasn't invovlved in this, as had only just started Freelancing for Sky at that point, however the relevant thing is that both this Debate, and Election as a whole, resulted in what can be best described as a No-Score Draw for all teams involved...
 
 So, roll on a then-legally-fixed nice and predictable 5 year delay until the next one. Nobody could then have predicted the utter carnage the next five years would result in!
 
-#### Subsection Link - Election Debates
+{{< button label="Subsection Link - Who Wants To Be a Prime Minister?" link="previously/sky-news/battles" style="solid" >}}
 
-{{< button label="The Many Battles for Number 10" link="previously/sky-news/battles" style="solid" >}}
+{{< image src="images/SkyNews/No-audience-pressure-then.jpg" caption="The Boss is watching...No Audience Pressure, then..." alt="No Audience Pressure" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="No Audience Pressure"  webp="false" >}}
 
 <hr>
 
-### Election Night Specials
+## Election Night Specials
 
 Of course, those verbal fights were just a warm-up before the main event - the General Elections
 
@@ -56,54 +55,91 @@ And for Sky News, Election Night is when all the stops come out, records are bro
 
 Richard designed, built, and ran the lighting for the main overnight studio presentation for the UK General Elections in 2015, 2017, 2019, and also for the USA Election in 2020. Plus setup various Local Election Night Specials in the Millbank Newsroom.
 
-#### Link -> Election Nights
-
-{{< button label="The Biggest Nights of Political Tension Since The Last One" link="previously/sky-news/elections" style="solid" >}}
+{{< button label="Subsection Link - The Biggest Nights of Political Tension ...Since The Last One" link="previously/sky-news/elections" style="solid" >}}
 
 <hr>
 
-### Flagship Outside Broadcasts
+## Flagship Outside Broadcasts
 
 All-Day Channel Takeovers or just a grand old lady doing a piece to camera - Richard's experience was sometimes called-for outside the studios.
-s
 
-#### Link -> Outside Broadcasts
+{{< image src="images/SkyNews/Queen-2.jpg" caption="No introduction needed" alt="The Queen" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="The Queen"  webp="false" >}}
 
-{{< button label="Outside Broadcasts" link="previously/sky-news/outside" style="solid" >}}
+{{< button label="Subsection Link - Outside Broadcasts" link="previously/sky-news/outside" style="solid" >}}
 
 <hr>
 
-### Full Studio Productions
+## Full Studio Productions
 
-#### Regular output : Studio 21 (The Glass Box), Studio 6, Millbank, City
+### Regular studio Output - Introduction
 
 The construction and build of these are covered in detail in the {{< button label="Studio Builds section" link="/previously/Sky-Studios" style="outline" >}}
 
-The lighting for all the day-to-day use of these dedicated News studio spaces was designed and set by Richard, and he then provided Oversight and Support to the Technical Supervisors who operated them day-to-day. He was then regularly called-in to revise the lighting ahead of any major changes or unusual one-off usage.
+The lighting for all the day-to-day use of these dedicated News studio spaces was designed and set by Richard, as well as providing Oversight and Support to the Technical Supervisors who had to operate them day-to-day. He was then frequently called-in to revise the lighting ahead of any major changes or unusual one-off usage. A random selection of example images are shown below :
 
-Some examples are shown below :
+#### Studio A - The Legacy Studio
 
-### Studio 21 - The Glass Box
+Richard expanded and supportered LD Don Hart's work in this space through to its eventually closure. Of particular note was his introduction of the first ETC Source 4 LED fixtures for a vast new Video Wall.
 
-{{< rawhtml >}}{{< tabs >}}
-  {{< tab "Glass Box" >}}
-    {{< gallery dir="images/SkyNews/Studio21" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}  
-  {{< /tab >}}
-  {{< tab "Studio6" >}}
-    {{< gallery dir="images/SkyNews/Studio6" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
-  {{< /tab >}}
-  {{< tab "Millbank" >}}
-    {{< gallery dir="images/SkyNews/StudioMillbank" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
-  {{< /tab >}}
-  {{< tab "City Studios" >}}
-    {{< gallery dir="images/SkyNews/StudioCity" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
-    {{< youtube "ZkEqOGKz4yWeZQlv" >}}
-  {{< /tab >}}{{<  /tabs >}}{{< /rawhtml >}}
+#### Studio 21 - The Glass Box
+
+{{< gallery dir="images/SkyNews/Studio21" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}  
+
+#### Studio 6 - double-ended Real and Virtual Studio
+
+{{< gallery dir="images/SkyNews/Studio6" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
+
+#### Millbank - multi-purpose studio
+{{< gallery dir="images/SkyNews/StudioMillbank" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
+
+Plus other used at various times included the *Newsroom*, an *ENG Studio*, and the constantly-in-use *DTL (Down the Lines)* broom cupboard.
+
+#### City Studios 2 & 3 - shared spaces with CNBC
+
+{{< gallery dir="images/SkyNews/StudioCity" height="400" width="400" webp="true" command="Fit" zoomable="true" >}}
+
+{{< youtube "ZkEqOGKz4yWeZQlv" >}}
 
 <hr>
-Other productions took place in the General-Purpose studios on Sky's Campus which were shared with Sky Sports (etc), some of which included :
 
-### General-Purpose Studio Productions
+### General-purpose studio Productions - Introduction
+
+Other productions took place in the General-Purpose studios on Sky's Campus which were shared with Sky Sports (etc).
+
+The first two were long-running series, and the others were major one-offs :
+
+<hr>
+
+#### The Pledge (2016-2020, Studio F)
+
+Lead Lighting Director for this highly-provocative weekly Debate show; recorded _As-Live_ a few hours before transmission (leaving just enough time for any edits for critical legal reasons...!)
+
+Five _...highly opinionated..._ pundits each in turn presented their topical idea, on everythign from disposable coffee cups to immigration, to which the others panelists would then vocally argue for or against.
+
+No moderator or presenter, and the show was deliberately designed to provoke reactions & conversations on social media - and hopefully thinking - by viewers.
+
+Filmed in the round with a gorgeous £150k glossy glass set - plenty of challenges in a small studio to keep the cameras and operators hidden, including clever AutoCue blanking.
+
+After **9 months** (...!) of weekly pilots, this ran weekly from 4 years, until cancelled in the first Covid Lockdown.
+
+{{< tabs >}}
+{{< tab "Lighter Argument" >}} {{< youtube "eHhtKJoFbAU" >}} {{< /tab >}}
+{{< tab "More Serious" >}} {{< youtube "KmeWvTGaKZc" >}} {{< /tab >}}
+{{< tab "Outtakes" >}} {{< youtube "LrplanIc8qc" >}} {{< /tab >}}
+{{< /tabs >}}
+
+<hr>
+
+#### The Great Debate (2021-2022, Studio F)
+
+- Trevor Phillips presented an audience discussion show... where the audience is at home.
+- VR & AR used together with a real set
+- Originally started during Covid restrictions, hence why everyone is so far apart - and why the audience is at home!
+- Every episode was lit by Richard.
+
+{{< youtube "FB-YcxXzpMA" >}}
+
+<hr>
 
 #### Covid Crisis - Learning the Lessons (2021, Studio 4/5)
 
@@ -124,26 +160,6 @@ Comparing with the console MagicSheet, which shows the final version of the show
 
 <hr>
 
-#### Lead LD for The Pledge (2016-2020, Studio F)
-
-A Provocative weekly Debate show - recorded as-live a few hours before transmission (leaving just enough time for any edits for legal reasons...!)
-
-Five highly ...opinionated... pundits each in turn presented their topical idea, from coffee cups to immigration, and then the others would argue against it.
-G
-No moderator or presenter, and the show was deliberately designed to provoke reactions & conversations on social media - and hopefully thinking - by viewers.
-
-Filmed in the round with a gorgeous £150k glossy glass set - plenty of challenges in a small studio to keep the cameras and operators hidden, including clever AutoCue blanking.
-
-After **9 months** (...!) of weekly pilots, this ran weekly from 4 years, until cancelled in the first Covid Lockdown.
-
-{{< tabs >}}
-{{< tab "Lighter Argument" >}} {{< youtube "eHhtKJoFbAU" >}} {{< /tab >}}
-{{< tab "More Serious" >}} {{< youtube "KmeWvTGaKZc" >}} {{< /tab >}}
-{{< tab "Outtakes" >}} {{< youtube "LrplanIc8qc" >}} {{< /tab >}}
-{{< /tabs >}}
-
-<hr>
-
 #### One Hundred Women (2018, Studio 4/5)
 
 - Kay Burley hosted all-female debate and audience to see what's improved, and what still needs to improve, for women.
@@ -153,14 +169,6 @@ After **9 months** (...!) of weekly pilots, this ran weekly from 4 years, until 
 
 <hr>
 
-#### The Great Debate (2021-2022, Studio F)
-
-- Trevor Phillips presented an audience discussion show... where the audience is at home.
-- VR & AR used together with a real set
-- Originally started during Covid restrictions, hence why everyone is so far apart - and why the audience is at home!
-- Every episode was lit by Richard.
-
-{{< youtube "FB-YcxXzpMA" >}}
 
 ## Credits and Thanks
 
