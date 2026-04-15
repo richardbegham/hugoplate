@@ -6,29 +6,27 @@ language: en
 description: The Sky Years - Sky News - The Political Debates
 weight: 13
 parent: "previously/sky-news"
-summary: "Live Debates between rival candidates for Prime Minster happened far more often than anyone expected from 2015 onwards!"
+summary: "Live Debates between rival candidates for Prime Minster happened far more often from 2015 than anyone expected!"
 ---
 
 ## The many...many...live Election Debates
 
-Attempts to give the UK a version of the head-to-head "US Presidential style" Debates had, for decades, been repeatedly rebuffed by whoever was in power at the time (as they had the most to loose), but in 2010, with no clear result ahead, all the parties gave-in and agreed to a very low-key version for the 2010 General Election. Richard wasn't involved in this, as had only just started Freelancing for Sky at that point; however this is mentioned because both that Debate, and Election that followed, had a result that can best be described as a **No-Score Draw** for all the teams involved...
+Attempts to give the UK a version of the head-to-head "US Presidential style" Debates had, for decades, been repeatedly rebuffed by whoever was in power at the time (as they had the most to loose), but in 2010, with no clear result ahead, all the parties gave-in and agreed to a very low-key version for the 2010 General Election. Richard wasn't involved in this, as had only just started Freelancing for Sky at that point; however this is mentioned because both that Debate - and Election that followed - had a result that can best be described as a **No-Score Draw** for all the teams involved...
 
-So, roll on a then-legally-fixed nice and predictable 5 year delay until the next one. Nobody could then have predicted the utter carnage the next five years would result in!
-
-Below some of the more significant PM, Party Leadership, and Referendum Debates are outlined.
+So, roll on the then-legally-fixed nice and predictable 5 year delay until the next one. And then... nobody could then have predicted the utter carnage the next five years would result in, even those encouraging the chaos from 1500 miles to the east.
 
 {{< gallery dir="images/gallery/Debates" class="" height="100" width="100" webp="true" command="Fit" option="" zoomable="true"  >}}
 
 {{< notice "warning" >}}
-The videos shown below are of their time and have highly polarising political content - LightingDir.Com does not either endorse nor oppose any of the views expressed, but does recommend use of the 'mute' button should your blood pressure rise at any point.
+The videos shown below are of their time and have highly polarising political content - LightingDir.Com neither endorses or opposes any of the views expressed, however we do recommend use of the 'mute' button should your blood pressure rise at any point.
 {{< /notice >}}
 
 {{< tabs >}}
 {{< tab "2015 Election" >}}
 
-### The Battle for Number 10
+## The Battle for Number 10
 
-#### Cameron vs Millband (Studio 4/5)
+### Cameron vs Millband (Studio 4/5)
 
 
 {{< accordion "Expand for the backstory about how it all began" >}}
@@ -57,20 +55,22 @@ It quickly became a running joke that this first lighting plot got used so many 
 
 {{< tab "2015 Labour Leadership" >}}
 
-### The Battle for the Labour Leadership
+## The Battle for the Labour Leadership
 
-#### Corbyn vs Smith (Studio 4/5)
+### Corbyn vs Smith (Studio 4/5)
 
-A very cut-down version lighting-wise (no budget for movers...) but out of all of them, this was uniquely the only one where the candidates actually went head-to-head against each other - terribly politely, of course.
+Technically the only one of these not featuring a sitting or about-to-be prime minister, but very much the same production format. This was also unique for being the only iteration where the candidates actually went head-to-head against each other (terribly politely of course), instead of the Tories consistant avoidance of any direct comparison. 
+
+Lighting-wise very stripped-back, as there was no budget to hire-in moving lights, but the look was still kept very clean and allowed for free movement across the studio floor for Q&A's.
 
 {{< youtube "8JuASxNuHXk" >}}
 {{< /tab>}}
 
 {{< tab "2016 Brexit">}}
 
-### IN or OUT?
+## IN or OUT?
 
-#### Cameron vs Gove (The Hub)
+### Cameron vs Gove (The Hub)
 
 _(OB in atrium of adjacent office building)_
 
@@ -91,13 +91,13 @@ Unfortunately this when Gove made the infamous “I think we've all had enough o
 
 {{< tab "2017 Election" >}}
 
-### The Battle for Number 10 (2017)
+## The Battle for Number 10 (2017)
 
-#### May vs Corbyn (Studio 4/5)
+### May vs Corbyn (Studio 4/5)
 
 Back in Studio 4/5 for this, and almost a complete re-run of 2 years earlier from a lighting point of view.
 
-The results were very crisp and clean, thanks to a great time all working together, and the show itself went very smoothly. A totally unexpected upshot of this was that Richard was honoured and amazed to receive a Nomination for the annual _Knight of Illumination Award_ later that year, in the "Best Small Studio" show _(yes, Studio 4/5 may be the biggest Sky has, but its still a small studio compared to the ones used for **(insert your favorite prime-time show here)** _.  
+The results were very crisp and clean, thanks to a great time all working together, and the show itself went very smoothly.  
 
 {{< youtube "1mN_zZqlQts" >}}
 
@@ -111,28 +111,38 @@ The results were very crisp and clean, thanks to a great time all working togeth
 
 #### Built, rehearsed, then cancelled due to Boris refusing to come
 
-Richard felt he was being chased by a giant Boris, like the killer beachball in The Prisoner...
-{{< image src="images/SkyNews/Battle-to-turn-up.jpg" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+Still, everyone got to rehearse the show again, just in case they had missed the previous four in as many years...
+
+![Shot Blocking](images/Battle-to-turn-up.jpg)
+
+Richard felt he was being chased by a giant Boris - like the killer beachball in The Prisoner...  
+
+![Whats that over your shoulder...](images/Giant-Boris.jpg)
 
 {{< /tab >}}
 
 {{< tab "2022 Conservatives" >}}
 
-### The Battle for the Conservative Leadership
+## The Battle for the Conservative Leadership
 
-#### Sunack vs Truss (Studio F)
+### Sunack vs Truss (Studio F)
 
-_(in Studio F)_
 Turned-out they they both "won" in quick succession - although Sunack lasted in the job far longer than Truss did...
 {{< youtube "hP1NsMZ5iNY" >}}
 {{< /tab >}}
 {{< /tabs >}}
 
-### Knights of Illumination Awards 2017 (see 2017 above)
+<hr>
 
-{{<gallery dir="images/gallery/KOI" class="" height="200" width="200" webp="true" command="Fit" option="" zoomable="true"  >}}
+## Knights of Illumination Awards 2017
 
-### Shortcuts
+A totally unexpected upshot of these debates, was that in 2017 Richard was honoured and amazed to receive a Nomination for **Best Small Studio** in the annual _Knight of Illumination Award_. This peer-nominated and judged award - now superceeded by the [Profile Awards](https://profileawards.com/television-categories/) - was the lighting version of being nominated for a Brit.
+
+_Yes, Studio 4/5 may be the biggest TV studio Sky has, but its still a small studio compared to the ones used for the likes of Strictly / X-Factor / etc, let alone their own Film stages. Its also a very unhelpful sausage shape, but that's another story entirely._ 
+
+{{< image src="images/KOI-2.jpg" caption="Where's Wally?" alt="All Nominiees" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="All Nominiees"  webp="false" >}}
+
+## Shortcuts
 
 {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
 {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
