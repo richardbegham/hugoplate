@@ -9,26 +9,44 @@ weight: 11
 summary: "Football. A LOT of people talking about football on MNF, SNF, FNF, WSL, EFL, WCQ..,! Also Formula 1! Boxing! Rugby! NFL! NBA! Golf! Bog snorkeling! ...and more..."
 ---
 
-## Series / Lead Lighting Director for :
+{{< notice "info" >}}
+For specific sports, you can jump ahead now, or scroll down for more. 
+{{< /notice >}}
+
+{{< button label="⚽️" link="#-football-" style="animated" >}}
+{{< button label="🥊" link="#---boxing---" style="animated" >}}
+{{< button label="🏎️" link="#---f1---" style="animated" >}}
+{{< button label="🏉" link="#-rugby-lions-tours-" style="animated" >}}
+{{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" style="animated" >}}
+{{< button label="🤿" link="#---bog-snorkling---" style="animated" >}}
+
+
+# Series / Lead Lighting Director for :
 
 {{< image src="images/logos/sky-sports-2020.png" caption="" alt="Sky Sports Logo" command="fill" option="q100" class="h-2 max-w-lg mx-auto " title="Sky Sports" webp="false" >}}
 
-### Sky Sports - Football
+## ⚽️ Football ⚽️
 
-From almost his very first day as a Freelancer, Richard was lighting studio shows discussing football.
-Mostly very much was the cliched _"..game of two halves...jumpers for goalposts..."_ and so on, but there was one production that took football very seriously. Very, very, seriously... And Richard lit almost every single broadcast of this for a decade :
+From almost his very first day as a Freelancer, Richard was lighting studio shows that mostly consisiting of between 1 and 3 people, generally sat at a desk wearing suits and discussing football. _"..game of two halves...jumpers for goalposts..."_ and so on, but... there is one long-running production strand that takes football very seriously. 
 
-#### Monday Night Football (MNF)
+Very, very, seriously.
 
-##### The Studio G version - The O.G.
+Which, for a decade, Richard lit virtually every single broadcast of. On top of a myriad of other varieties and levels of football from International to Local, with extended diversion into Women's, Rugby, and Americanm versions of Kick-Ball. _Surely_, after such an intense and extended exposure, a detailed understanding of the so-called _"Beautiful Game"_ of bunch of millionaires running around a cold muddy field in the rain would have rubbed-off on to him... [Surely...](#conclusion)
 
-Sky Sport's Premier League Flagship production with lead pundits Gary Neville and Jamie Carragher delivering unusually long and serious pre- and post- match coverage. This had three different iterations over Richard's time, starting with the original Studio G production first lit by Malcolm Reed (lots of MiStrip, Pixellines, and a very unhelpful header). The first of these that Richard would have gone solo on was the day that the original presenters (Keys & Gray) were very abruptly & publicly sacked (a total coincidence!) after tapes their behavior were [leaked to the Guardian.](https://www.theguardian.com/football/2011/jan/24/andy-gray-richard-keys-sexist-comments)
+### Monday Night Football (MNF)
 
-MNF pioneered the use of huge interactive touch-screens for real-time analysis, combined with the incredibly detailed tracking and statistical analysis of every player in every Premier League (PL) match. They also pushed the limits of realtime cutting-edge 3D graphics with individual footage of every PL player (shot on 2 stacked sideways 4k cameras at a time when HD was still a novelty for most people). This was mixed with insightful and fluff-free passionate commentary, to deliver an unprecedented quality - and duration! - of wrap-around analysis before, during, and after just one match. Even when it's a subject you can have no interest in, you can still tell when its being done better than anywhere else!
+{{< accordion "Expand for the long story" >}}
+#### The Studio G version - The Original
+
+Sky Sport's Premier League flagship production, led by the pundits Gary Neville and Jamie Carragher, delivers unusually long and highly detailed analysis during the studio-based pre-, mid-, & post- match coverage, along with more cameras deployed than for any other match. This had four different iterations over Richard's time, starting with the original Studio G production, first lit by Malcolm Reed (lots of MiStrip, Pixellines, a very unhelpful header, and an even more light-unfriendly £100k (back in 2011...) 103" Touchscreen.
+
+The first day that Richard was due to go solo on this production had, by a total coincidence, unexpectidly had the plug pulled on it for the rest of that season half-way through the Rig, when the original presenters (Keys & Gray) were very abruptly & publicly sacked (a total coincidence!) after tapes of some of their long-running uancceptable off-screen behavior were [leaked to the Guardian.](https://www.theguardian.com/football/2011/jan/24/andy-gray-richard-keys-sexist-comments).
+
+MNF pioneered the use of giant interactive touch-screens for real-time analysis, with 2D and 3D computer graphics driven directly by the pundits controls - something that took the viewers a long time (and a lot of live mistakes!) to believe was actually true rather than pre-rendered. This was connected to incredibly detailed tracking and statistical analysis of every player in every Premier League (PL) match. They also pushed the limits of 3D graphics, with individual Hero / Walk-on clips of every PL player (shot on 2x 4k cameras, double-stacked on their side, at a time when HD was still a novelty for most people). This was mixed with insightful and fluff-free passionate commentary, to deliver an unprecedented quality - and duration! - of wrap-around analysis before, during, and after just one match. Even when it's a subject you can have no interest in, you can still tell when its being done better than anywhere else!
 
 On 30th April 2012, MNF had its highest ever viewing figures - and also the then-highest for any sporting event on Sky _(until a free-to-air match during Covid)_ when 4.8 million tuned-in to watch Manchester City defeat Manchester United 1-0 on their way to their first top flight title since 1968 _(I had to look that bit up)_.
 
-##### The Studio F version - Simply The Best
+#### The Studio F version - Simply The Best
 
 The upshot of this success was Sky Sports putting their hand in their pocket, and giving the go ahead to move into the studio next door for Sky's first-ever *Million Pound Production*.
 
@@ -50,54 +68,85 @@ All the light used to even-out the green surfaces then had to be kept from bounc
 
 If there was one thing that could be guaranteed, with all the bleeding-edge technology deployed across the board, was that something would fail whilst on-air every week. You just had to pray it wasn't your turn for the gremlins to hit...And if getting all this kit working once wasn't hard enough, the entire production, with all its temperamental parts had to be rigged from scratch *every week, in just one day*. An aspect that was a constant point of disbelief by technical visitors from other television networks from around the world.
 
-##### The Studio 1 version - Time to share...
+#### The Studio 1 version - Time to share...
 
-- TO BE CONTINUED -
+After spending 4 years out of the originally-commmissioned 3 years in Studio F, the savings together with another couple of million pounds found down the back of a sofa to address the competition coming from an unexpected new direction (BT Sport) was spent on a new set. This time, instead of moving next door, they moved across the road to a proper purpose-built studio instead of a converted warehouse (finallY!), and built a permanent, dedicated, studio with less bleeding-edge technolody and specialist subcontractors, putting to bed the years of technical gremlins that had plagued MNF since the start (...well, mostly). As a bonus, once built, for the following 13 days the space be used by a host of other Sports Productions, each of whom could have their own corner of the studio, all instantly ready to go...(the instant aspect went straight out the window once the practicalities sunk in of everyone wanting to use all of the studio space and mix things up each week, now that they had at last (in some cases) escaped years of Presentation stuck in glorified broom cupboards where you had 3 chairs, at most 5 shots possible, and no room for anything else. _But I digress..._
+
+The money got spent on lots and lots of video walls and graphics hardware, along with large colour-changing backlit LED panels that gave each sporting strand their own unique visual identity. They even had enough money left over was sufficient to build a similar-looking "little brother" set in an adjacent Studio. Moving across the road into Sky Studios also had the advantagea that the Production Control Rooms and Studios can very quickly change their interconnections, allowing Production teams to set-up in one PCR whilst the studio is used by another, and then flip-over in as little as a single commercical break (provided they use the same or pre-prepared positions, as trying to reset lights, cameras, sound, set, and Talent in 3-5 minutes has physical limits. especially when the set constricts teh flow in and out of the only studio door.
+
+Focusing back onto Monday Night Football, one of the technologies they retained exclusive use of (ish...was borrowed a few times by F1 and Golf) was the Virtual Graphics - this time round, the new buzzing technology was Augmented Reality (AR). This overlays tracked 3D graphics on top of the camera output, without any of the problems caused by having to key of Green surfaces whilst not keying off any reflected or bounced Green lights, so is a fraction of the cost. This is great...right up until the entire illusion is shattered when the camera moves the wrong way and suddendly something that was in the background is now on top of the foregound or Talent. As a consequence of decided they really only needed to track the Jib camera empremental and not bother with having Peds shoot the 3D sequences, they invested in the far simpler and cheaper N-Cam system this tim, which requires far less continous correcting and no magio wands required. But only works on one camera, you can't cut bettwen two AR-equipped cameras. Which also saves on super-expensive Viz graphics machines.
+
+**STORY TO BE CONTINUED**
+
+{{< /accordion >}}
 
 {{< tabs "The Different Sets" >}}
 {{< tab "Studio G - The Original" >}}
-Gary Neville's TV Debut when MNF returned for the start of the next season.
+Gary Neville's TV Debut.
 
 {{< youtube "yHb3QInI6V8" >}}
 {{< /tab >}}
 {{< tab "Studio F - The Best" >}}
-Gary had abruptly left to go and coach Valencia mid-season. This did not go down well with Production, so when he came back from Spain, there was a long pause before he came back to the studio, and right at the end, the viewer's tweets were substituted with some hilarious but barbed questions...with Gary took manfully took on the chin...
+Gary abruptly left Sky to go and coach Valencia mid-season. This did not go down well with Production, so when he came back from Spain a brief and disasterous career as a coach, there was a considerable pause before he was invited back to the studio, and when he did all was normal until the final part of the show, when the usual viewer's tweets during the match were substituted by some hilarious, but very barbed, questions written by Production...which Gary took manfully took on the chin. The VR set can be seen to the left of the desk.
 
 {{< youtube "ywbIm2EZvtA" >}}
 {{< /tab >}}
 {{< tab "Studio 1 - The Longest" >}}
-The longest thanks to Covid extending everything. Also thanks to Covid, Richard finally managed to escape.
+The longest version to date, thanks to Covid extending everything.
 {{< youtube "69ZFRjy0Dcg" >}}
 {{< /tab >}}
 {{< /tabs >}}
 
-#### Other long-running football productions
+### Other long-running football productions
 
-##### Premier League :
+#### Premier League :
 
-        Saturday Night Football (SNF)
-        Football First (FF)
-        Friday Night Football (FNF)
+- FNF : Friday Night Football
 
-##### English Football League (EFL)
+  A very lively show before a single match. Kind of the opposite of MNF in approach.
 
-        The next 3 divisions.
-        With Dave Prutts. Enough said...
+- SNF : Saturday Night Football
 
-##### Women's Super League (WSL)
+  A late kick-off so a saturday match could be shown live (due to a stict FA rules about not broadcasting matches live at 3pm on Saturdays)
 
-##### World Cup Qualifiers (WCQ)
+- FF : Football First 
 
-##### Soccer Saturday
+Goals & bief Highlights of everything played that day, late on a saturday night _(basically, like the BBC's Match of the Day)_  
+Followed by a selected "Game of the day" in (almost) full.  
+Very unusually for a men's football show, this was presented by Sarah-Jane Mee (in the days before she switched-over to exclusively presenting for Sky News.)
 
-        The legend that was Jeff Stelling, Paul Merson, and of course... [Chris Kamara](https://www.youtube.com/watch?v=rHyrN9PRioY) (Supervisory LD)
-        Who else could make 4 hours of watching other people watch football - that you can't - so funny?
+#### English Football League (EFL)
+
+       - The 3 divisions below the Premier League.
+
+         With Dave Prutts.  
+         ...Enough said
+
+#### Women's Super League (WSL)
+
+Set Pink.  
+No, really.
+
+#### World Cup & Euros Qualifiers (WCQ)
+
+All the qualifying matches... apart from England's.
+
+##### Soccer Saturday (Supervisory LD)
+
+        The legend that was Jeff Stelling, Paul Merson, and of course...Chris Kamara.
+        Who else could make 4 hours of watching other people watch live football that you can't...be so funny, or so accessible?
+  
+> I don't know Jeff, you tell me...  
+[Chris Kamara](https://www.youtube.com/watch?v=rHyrN9PRioY) 
+
+
+#### Conclusion
 
 {{< accordion "And, 15+ years of football later, did Richard understand the offside rule? Click to find out..." >}}
 {{< rawhtml >}}
 <section class="relative isolate overflow-hidden bg-gray-700 px-4 py-6">  
   <div class="mx-auto max-w-2xl lg:max-w-4xl">
-    <img src="https://www.lightingdir.com/images/SkySports/offsiderule2.jpg" alt="" class="mx-auto h-12" />
+    <img src="https://www.lightingdir.com/images/SkySports/offsiderule1.jpg" alt="" class="mx-auto h-12" />
     <figure class="mt-10">
       <div class="text-center text-xl/8 font-semibold text-white sm:text-2xl/9">No.<p></p></div>
       <blockquote class="text-center text-xl/8 font-semibold text-white sm:text-2xl/9">
@@ -105,11 +154,11 @@ The longest thanks to Covid extending everything. Also thanks to Covid, Richard 
       </blockquote>
       <figcaption class="mt-10">
         <div class="mt-4 flex items-center justify-center space-x-3 text-base">
-          <div class="font-semibold text-white">Duncan East</div>
+          <div class="font-semibold text-white">( - discretely anonymous -)</div>
           <svg viewBox="0 0 2 2" width="3" height="3" aria-hidden="true" class="fill-white">
             <circle r="1" cx="1" cy="1" />
           </svg>
-          <div class="text-gray-400">Original MNF Director</div>
+          <div class="text-gray-400">MNF Director</div>
         </div>
       </figcaption>
     </figure>
@@ -118,24 +167,67 @@ The longest thanks to Covid extending everything. Also thanks to Covid, Richard 
 {{< /rawhtml >}}
 {{</accordion>}}
 
-## Boxing
+<hr>
 
-#### Ringside
+## 🥊 🥊 🥊 Boxing 🥊 🥊 🥊
+
+### Ringside
+
+Weekly boxing magazine show. Set in a subterranian basement. So deep undergound in fact, that the moon shone _upwards_ thought the slit windows - thanks an inherited not-very-thought-through early decision to put 2k's on stands shining upwards.  Hmmmm....
+
+Anyway, Fascinating psychology. 
+Half-wires in all the 2k's due exceedingly bright white shirts and very low studio ceilings _(the inverse-square law strikes again)_. 
+Packages that were consistently so late in being delivered that you'd start the day doing a Pre-recorded show, but by the time the tapes arrived, there wasn't time to edit it all together and had to overrun and go Live anyway. A precarious and potentially tense situation, delivered into calm happyness by the loverly Sara Chenery directing.
+
+Occasionally escaped Osterley and went on the road with this, too.
+
+{{< image src="images/Ringside.jpg" caption="" alt="Ringside" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Ringside"  webp="false" >}}
+
+### The Gloves are Off
+
+Stripped right back.  
+Chairs backwards.  
+Face to Face build up for a flagship pay-per-view fight.  
+Some times a pair of best mates just doing their job, but ohthers... you really saw the air in the studio suddenly freeze solid from the tension and mutual dislike. Probably got cancelled as often as it was recorded, due to the mind-games the contenders would play with each other by messing with each others schedules. ictures crushed harder than a newcomer's dreams. Even a full-on fight once. Oh yeah, done right, the pay-per-view tickets flew out the
+
+{{<youtube "nTaJmxcTjY">}}
+
+<hr>
+
+## 🏎️ 🏎️ 🏎️ F1 🏎️ 🏎️ 🏎️
 
 (TBA)
 
-#### The Gloves are Off
+### The F1 Show - Studio 6
 
-(TBA)
+(To follow)
 
-## Rugby Lions Tours
+### The F1 Show - Studio 4/5
 
-(TBA)
+(To follow)
 
-## F1
+## 🏉 Rugby Lions Tours 🏉
 
-(TBA)
+(To follow)
 
-#### The Entire run of The F1 Show
+## 🏈 NFL (American Football inc. Superbowl) 🏈
 
-(TBA)
+(to follow)
+
+## 🤿 🏊🏽‍♂️ 🤿 Bog Snorkling 🤿 🏊🏽‍♂️ 🤿
+
+...ok, that was a red herring.
+
+Other Sports had Studio-based commentry from time to time - Golf, Cycling, NBA (Basketball), various non-UK football leagues, etc etc.
+
+In the early days, there were lots of 1-hour long discussion shows with people reminiscing about their past glories, expertly produced and often revealling very moving storeis. These built up to from a vast archive, which continue to be dropped-in to fill in gaps in the schedules. Shows such as _Time of Our Lives_, _Sporting Heroes_, and so on had guests who were so famous that even Richard, with his total disinterest, in sport had heard of - everyone from Mike Tyson to Linford Christie to Sir Sterling Moss.
+
+{{< notice "info" >}}
+p.s.
+...Sky Sports News was witnessed covering Bog Snorkelling one day, so, technically, Richard has lit people sat at a desk talking about Bog Snorkling. 🛁
+{{< /notice >}}
+
+# Shortcuts
+
+- {{< button label="Sky Sports - Top of Page" link="/previously/sky-sport" style="solid" >}}
+- {{< button label="...Previously" link="/previously" style="solid" >}}

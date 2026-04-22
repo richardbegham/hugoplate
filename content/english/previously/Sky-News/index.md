@@ -61,7 +61,7 @@ Richard designed, built, and ran the lighting for the main overnight studio pres
 
 ## Flagship Outside Broadcasts
 
-All-Day Channel Takeovers or just a grand old lady doing a piece to camera - Richard's experience was sometimes called-for outside the studios.
+All-Day Channel Takeovers or just a Very Grand Lady doing a piece to camera;  Richard's experience was sometimes called-for outside the studios.
 
 {{< image src="images/SkyNews/Queen-2.jpg" caption="No introduction needed" alt="The Queen" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="The Queen"  webp="false" >}}
 
@@ -120,7 +120,9 @@ No moderator or presenter, and the show was deliberately designed to provoke rea
 
 Filmed in the round with a gorgeous £150k glossy glass set - plenty of challenges in a small studio to keep the cameras and operators hidden, including clever AutoCue blanking.
 
-After **9 months** (...!) of weekly pilots, this ran weekly from 4 years, until cancelled in the first Covid Lockdown.
+Quite a lot of 2k's to gel and precisely set each week (basically, Key L - Frontal Fill - Key R - Backlight and repeat x5, plus some Decoratives) and a lot of LED to plug up, but it was _proper studio lighting_ and noone minded the early starts and long rig.
+
+After **9 month of weekly pilots** (...!), this ran weekly from 4 years (split between Richard & Malcolm), until cancelled in the first Covid Lockdown.
 
 {{< tabs >}}
 {{< tab "Lighter Argument" >}} {{< youtube "eHhtKJoFbAU" >}} {{< /tab >}}
@@ -143,15 +145,23 @@ After **9 months** (...!) of weekly pilots, this ran weekly from 4 years, until 
 
 #### Covid Crisis - Learning the Lessons (2021, Studio 4/5)
 
-##### Detailed Show Breakdown
+This series of 3 shows presented by Sophie Ridge, just a year after things started, was an attempt to start the serious inqury into what went right, and what went wrong, that was being increasingly demanded by the public at this time. Due to continuing proximity rules, all guests were at home and shown on video walls, and the camerawork was all on a Steadicam and Jib, shooting _"in the round"_ (360-degrees).
 
-This series of 3 shows presented by Sophie Ridge, just a year after things started, was the start of a serious inqury into into what when right and what went wrong. Due to continuing proximity rules, all guests were at home and shown on video walls, and the camerawork was all on a Steadicam and Jib, shooting _"in the round"_ (360-degrees).
+    Also due to the on-going Social Distancing rules at that time _(making the whole permisse of this programme somewhat _premature_, the decision was made to use a lighting rig made-up almost entirely of moving-lights, to reduce the need for people working on the studio floor adjusting lights at the same time as the presenters and camera operators, rapidly using up the limit of 13 people on the floor at any one time.
 
-Also due to distancing, the decision was made to use a lighting rig made-up almost entirely of moving-lights, to reduce the need for people working on the studio floor adjusting lights at the same time as the presenters and camera operators
+{{< accordion "DETAILED STUDY" >}}
+- **Vari*lite VL-1100 LED** were used as _Keylights_ 
+- **Martin Mac Auras** as Backlights
+- **Martin TW-1** lit the scenic graphic panels from above
+- **Robert-Juliet Dalis** from below.
 
-Vari\*lite VL-1100 were used as Keylights, Martin Mac Aura's as Backlights, Martin TW-1 lit the scenic graphic panels from above together with RobertJuliet Dalis from below.
+Comparing with the console MagicSheet, which shows the final version of the show, its clear that a lot more than originally anticipated of the existing studio tungsten 2k's had to be used in a line along the top edge of the studio. The stuff up on the flatform was cut too late to move any lights around to new positions. All of which shows, how ever many angles you thnk you've got covered with moving lights, Pruduction will always find a secret new one you hadn't thought of.
 
-Comparing with the console MagicSheet, which shows the final version of the show, its clear that a lot of existing studio tungsten 2k's had to be used in a line along the top edge of the studio. Due to the steep video walls, Sophie had to be lit from both sides - but if the light came in from a long way away, it would splash all over the set behind her, as well as have shadows from the cameras. Which is why here's a whole series of them in a line in both directions. As long as can get these a reasonable distance away, once carefully focused  they will evenly merge into one another. If too close, you will get hot spots - the inverse square law is not your friend in a small studio. Fortunately, this studio can have lights up to 9m in the air - in reality they were probably about 5-6m up. as Sophie was stood too close to the wall to get anything in from above when facing that screen. The pre-production plot for this one-off production is shown below, as an example of how to approach the challenges of shooting in the round.  
+Due to the steep video walls, when near the wall Sophie had to be lit from both sides - but, if all this light came in from a long way away, it would splash all over the set behind her, as well as have shadows from the cameras operators. Which is why there are a whole series of lights in a row instead of a single key further away. As long as these are at least a moderatly reasonable distance away, once carefully focused with a bit of back and forth and walking around (comparing levels with a light meter for the _Scientific LD, the back of their hand for the Engineering LD, and a pair of sunglasses and "its meant to look lumpy" for the Artistic LD)_ they will evenly merge into one another.
+
+If the source is too close, you will inevitably get hot spots, even if using softer sources than Fresnels, which is why in tiny studios, the inverse square law is most definatly off the xmas card list....
+not your friend in a small studio. Fortunately, this studio can have lights up to 9m in the air - in reality they were probably about 5-6m up. as Sophie was stood too close to the wall to get anything in from above when facing that screen. The pre-production plot for this one-off production is shown below, as an example of how to approach the challenges of shooting in the round.  
+{{< /accordion >}}
 
 {{< youtube "NVarHuLQNUY" >}}
 {{< image src="images/SkyNews/Studio45/CovidCrisisPlot.jpg" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" caption="Lighting Plot for Covid Crisis (Studio 4/5 - 2021)"  webp="false" >}}
@@ -163,31 +173,49 @@ Comparing with the console MagicSheet, which shows the final version of the show
 #### One Hundred Women (2018, Studio 4/5)
 
 - Kay Burley hosted all-female debate and audience to see what's improved, and what still needs to improve, for women.
-- Noteable for all the keylights being VL-1000 to cope with the continous walking and 360-degree shooting style used - due to the studio size giving a very short throwm the ones on Key were tracking back and forth genthly between preset positionsthrough the show.
+- Noteable for all the keylights being VL-1000 to cope with the continous walking and 360-degree shooting style used
+- Due to the studio's sausage-shape resulting in a very short throw, throughout the show, the side keys for Key were very subtly bounced backwards and forwards by a manual LTP fader oscillating between two preset focuses.
 
-{{< youtube "xot9Hap0HZU" >}}
+{{< youtube "xot9Hap0HZU" >}} 
 
 <hr>
 
 
 ## Credits and Thanks
 
-Although all of the design and development together with much of the studio tweaking and support was done by [Richard Bowles](/about)\_ nothing could have got or stayed on air without the continous support of the great team of Sky Production Electricians (at one point there were over 20x Staff plus as many Freelancers!)
+{{< accordion "The Without Whom Section (so many!)" >}}
 
-The day-to-day output was thanks to tha care and attention to detail by the whole team of Technical Supervisors and Technical Operators. The major productions were supported by
-Finally, in particular, none of this would have been possible without the early guidance of Don Hart and his Studio A lighting design, and for Dave Evans for cracking the Glass Box puzzle.
+### ...For I have stood on the Shoulders of Giants...
 
-The support and feedback from Sky News throughout was essential, starting with the always conscise - and always absolutely spot-on - then-Head of Sky News, _John Ryley_ - to the indispensible guidance together with their total trust and backing given by the Head of Studio Output _Jon Bennet_ ssucceeded by _Ben Wickeham_ - through to the many Directors, Producers, and the wider team in Sky News; far too many to name-check!
+**LD Don Hart** for explaining in intricate detail his Studio A lighting design before handing-it over in 2012, with its many quirky zoneing restrictions or even bans on rigging positions ...and even the types of luminaries alloweed in each sone... which were absolute dictates by Structural Engineers back when the studio was built in 2005.
 
-And of course, the coopperation and trust of the on-screen Talent, to whom it was gratifying to see the relief in their eyes when they saw that Richard was present for the launch of their latest regular strands or one-off specials, knowing they could then stop worrying if theyt looked with each of whom Richard developed a professional relationship customised to their respective needs, most notably Kay Burley.
+**LD Dave Evans** for the cracking of the _~~Enigma Code~~_ **Glass Box Camera Challenge** with his original lighting-design, the principles of which he expertely summarised prior to the hand-over at Launch in 2017.
 
-- Although all of the design and development was done by Richard, none of it coould have realised without the support of a great team of Sky Production Electricians together with skilled Freelance Console Operators.
+### ...The Backbone in the Backroom...
 
-## Shortcuts
+Although all of the on-going Design and Development, together with much of the studio Tweaking and Support, was done by [Richard Bowles](/about); nothing would have got or stayed on air without the backbone of the great team of **Sky Production Electricians** _(originally consisting over 20x Staff plus a lot of Freelancers)_
 
-- {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="solid" >}}
-- {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="solid" >}}
-- {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="solid" >}}
+The day-to-day output was thanks to tha care and attention to detail by the expansive team of **Technical Supervisors** and **Technical Operators**, who would internally communicate the essentials of any new production both 1:1 and in writing, which were sometimes ready in less time that it took to reach the Gallery after rehearsals! 
+
+Their end-user feedback on different choices of everything from button size and location to diagramatic and control methodolgy, as well as capturing and then automating any manual adjustments made over time, was absolutely fundamental to the continous evolution of their bespoke Tardis Control System.
+
+### The Lift from Above
+
+The support and feedback from Sky News throughout was essential, starting with the always conscise - and always absolutely spot-on - the (then) **Head of Sky News, John Ryley**, and the indispensible advance information and guidance total trust and backing given by the Head of Studio Output _Jon Bennet_ ssucceeded by _Ben Wickeham_ - through to the many Directors, Producers, and the wider team in Sky News; far too many to name-check!
+
+And of course, the coopperation and trust of the on-screen **Talent** [^1] - most memorably Kay Burley over the years - with each of whom Richard worked to ensure they had very precise but reproducable positions with appropriate lighting customised to their individual needs. He even came up with an invisible-on-camera method to mark positions on the floor to replace the usual gaudy collection of temporary sticky tape...something very important to keep the studio looking crisp and clean with camerashots often taking in the wide expanses of high quality studio floor - which leads me on to thank the great team of Set Designers at **Jago**. 
+
+[^1]: It was gratifying to often see a flicker of relief in their eyes when they saw that Richard was present for the build-up & launch of their latest regular strand or one-off special (often starting at some very unfriendly times of night), as they knew they could then stop worrying if they looked their best on-air (something not helped by the _variable_ setup of various studio monitors)
+
+{{< /accordion >}}
+
+### Navigation
+
+- {{< button label="Top of Page" link="/previously/sky-news" style="animated" >}} 
+- {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="animated" >}} 
+- {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="solid" >}} 
+- {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="solid" >}} 
 - {{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="solid" >}}
-- {{< button label="Sky News - Main Page" link="/previously/sky-news" style="solid" >}}
-- {{< button label="...Previously" link="/previously" style="solid" >}}
+
+- {{< button label="...Previously" link="/previously" style="animated" >}} 
+- {{< button label="Home" link="/" style="animated" >}} 
