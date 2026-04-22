@@ -43,11 +43,18 @@ After all that, and the hurried nature of these designs, the production and ligh
 
 {{< /accordion >}}
 
-A simple set - three video walls with a little bit of decorative LED, plus a desk.  
-Richard added a black box truss above each screen with a row of precisely-spaced Martin Mac Auras as visual eye-candy for any vertical shoot off - and also to hide the camera used to shoot backwards at the audience.
- A U-shaped ring of Sharpie Washes lit the floor, and VL-1000's were used as Keylights for speed and due to limited space to set multiple keylights for the seated positions - the studio being very sausage-shaped.
+A simple set - three video walls with a little bit of decorative LED, plus quite a nice desk. As much as could be order & built in 4 days!
+Richard added a black box truss above each screen with a row of precisely-spaced Martin Mac Auras as visual eye-candy for any vertical shoot off - and also to hide the camera used to shoot backwards at the audience. _(which was perched up on top of a wobbly Highlift with a 500:1 lens)_
 
-It quickly became a running joke that this first lighting plot got used so many times it should have been laminated. Although different studios and different budgets meant this was not always true, but it **was** for _three_ occasions in _four_ years - not bad for something only supposed to happen once every 4-5 years ...!
+A U-shaped arc of Sharpie Washes lit the grey bits of flooring, and VL-1000's were used as Keylights for flexibility and limited space.
+
+{{< notice "info" >}}
+It quickly became a running joke that this first lighting plot got used so many times it should have been laminated. 
+
+Although different studios and different budgets meant this was not _always_ true... it **was** for _three_ occasions in _four_ years.  
+Not bad for something only supposed to happen once every 4-5 years ...!
+
+{{< /notice >}}
 
 {{< youtube "C9ythLWP54c" >}}
 
@@ -142,7 +149,7 @@ _Yes, Studio 4/5 may be the biggest TV studio Sky has, but its still a small stu
 
 {{< image src="images/KOI-2.jpg" caption="Where's Wally?" alt="All Nominiees" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="All Nominiees"  webp="false" >}}
 
-## Shortcuts
+## Navigation
 
 {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
 {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}

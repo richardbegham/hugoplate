@@ -1,0 +1,11 @@
+{{ $label := .Get "label" }}
+{{ $link := .Get "link" | safeURL }}
+{{ $class := .Get "class" }}
+{{ $external := hasPrefix $link "http" }}
+
+<a 
+  href="{{ $link }}" 
+  class="btn {{ if eq $class "animated" }}btn-border-animate{{ else if eq $class "outline" }}btn-outline-primary{{ else }}btn-primary{{ end }}"
+  {{ if $external }} target="_blank" rel="noopener noreferrer" {{ end }}>
+  <span class="relative z-10">{{ $label }}</span>
+</a>
