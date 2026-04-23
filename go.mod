@@ -14,6 +14,7 @@ require (
 	github.com/gethugothemes/hugo-modules/icons/font-awesome v0.0.0-20260413075351-1f929f6a07bb // indirect
 	github.com/gethugothemes/hugo-modules/icons/themify-icons v0.0.0-20260413075351-1f929f6a07bb // indirect
 	github.com/gethugothemes/hugo-modules/images v0.0.0-20260413075351-1f929f6a07bb // indirect
+	github.com/gethugothemes/hugo-modules/llms-txt v0.0.0-20260413075351-1f929f6a07bb // indirect
 	github.com/gethugothemes/hugo-modules/modal v0.0.0-20260413075351-1f929f6a07bb // indirect
 	github.com/gethugothemes/hugo-modules/pwa v0.0.0-20260413075351-1f929f6a07bb // indirect
 	github.com/gethugothemes/hugo-modules/search v0.0.0-20260413075351-1f929f6a07bb // indirect
