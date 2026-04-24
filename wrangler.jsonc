@@ -1,13 +1,13 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "hugoplate",
-  "compatibility_date": "2025-09-27",
+  "compatibility_date": "2026-04-24",
   "observability": {
     "enabled": true
   },
   "assets": {
     "directory": "./public",
-    "not_found_handling": "404-page"
+    "not_found_handling": "404"
   },
   "build": {
     "command": "chmod a+x build.sh && ./build.sh"
