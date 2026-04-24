@@ -1,0 +1,35 @@
+name: Update Security.txt Expiry
+
+on:
+  schedule:
+    # Runs at 00:00 on the 1st of every month
+    - cron: '0 0 1 * *'
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-expiry:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Calculate and Update Expiry
+        run: |
+          # Calculate date 1 year from now in ISO 8601 format
+          NEW_DATE=$(date -d "+1 year" +"%Y-%m-%dT%H:%M:%SZ")
+          
+          # Path to your security.txt (adjust if it's in a different folder)
+          FILE_PATH=".well-known/security.txt"
+          
+          # Use sed to find the line starting with Expires: and replace it
+          sed -i "s/^Expires: .*/Expires: $NEW_DATE/" $FILE_PATH
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .well-known/security.txt
+          git commit -m "chore: auto-update security.txt expiry date" || echo "No changes to commit"
+          git push
