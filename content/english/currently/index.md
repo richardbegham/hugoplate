@@ -21,7 +21,9 @@ This led to an interesting trip to see BBC Belfast Studios - as well as the city
 
 In addition, his small stock of PSC lights have been used as part of on-going voluntary support of the [Brooklands Museum Members' Talks](https://youtube.com/playlist?list=PLx4w0Uz8rNl-JqwKiLz6OENRh0v0L_h46&si=AeVNxjiS1AWpSFJo) to improve both the Live and YouTube visuals 
 
-{{< image src="images/Feedback1.jpg" caption="" alt="Unsolicited Feedback" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Unsolicited Feedback" >}}
+{{< image src="images/Brooklands2.jpg" alt="Brooklands Members Talk" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Brooklands Members Talk - Tom Crean - April 2026" >}}
+
+{{< image src="images/Feedback1.jpg" alt="Unsolicited Feedback" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Unsolicited Feedback - The Big Hop - March 2026" >}}
 
 {{< accordion "PSC lights" >}}\
 
