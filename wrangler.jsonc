@@ -15,4 +15,7 @@
   "compatibility_flags": [
     "nodejs_compat"
   ]
+  "vars": {
+    "HUGO_VERSION": "0.160.0"
+  }
 }
