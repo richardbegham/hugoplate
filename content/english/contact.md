@@ -47,3 +47,8 @@ description: Contact Page
       </form>
   </div>
 </section>
+
+
+{{< button label="About" link="/about" style="solid" >}}
+{{< button label="...Previously" link="/previously" style="solid" >}}
+{{< button label="Currently..." link="/currently" style="solid" >}}
