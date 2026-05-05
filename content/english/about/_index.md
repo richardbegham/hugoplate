@@ -1,7 +1,7 @@
 ---
 title: "Richard Bowles, Lighting Designer and Director."
 meta_title: "About"
-description: “This is a summary of Richard Boules."
+description: “This is a summary of Richard Bowles."
 image: "/images/Richard-Thronecast2.jpg"
 layout: "about"
 date: 20 Mar 2026
@@ -24,6 +24,10 @@ For 15 years until recently, he working for Sky Television (UK) as a Lighting Di
 
 He is based near Windsor, just outside London, UK, and is currently seeking new opportunities.  
 Thanks to his Irish citizenship he is able to freely move about and work in both the UK and the EU.
+
+For some of what he's up to now (the ones that can be publicly discussed) have a peak at {{< button label="...Current Activity" link="/currently" style="outline" >}}>
+
+To find out much, much, more about his past work you can {{< button label="Explore Previous Productions..." link="/previously" style="outline" >}}
 
 If you have a project that you think he could help you with, then please {{< button label="Get in Contact" link="/contact" style="outline" >}}
 
@@ -70,7 +74,7 @@ To find out much, much, more about his past work you can {{< button label="Explo
 
 ## Studio Installation (Lighting)
 
-- Requirement Crystalisation & Development
+- Requirement Crystallisation & Development
 - Studio Automation
 - Project Management
 - Supplier Coordination
@@ -93,9 +97,9 @@ To find out much, much, more about his past work you can {{< button label="Explo
 - Compliance with relevant legal duties
 - Respect and Trust in the lighting team; never asking them to do something would not be prepared to do oneself.
 
-Equipment failure in a high-pressure, real-time environment is be expected - but many such failures can unique and can't be anticipated, so :
+Equipment failure in a high-pressure, real-time environment is be expected - but many such failures are unique and are difficult to anticipated, so :
 
-- Single-points of failure should be identified in advance and **Mitigation** prepared.
+- Single-points of failure should be identified in advance and **Mitigation** prepared (this includes key people)
 - Avoid introducing additional complications that can actually risk instead of decreasing
 - **Won't** make a Drama out of a Crisis
 - **Will** quickly determine a way out of the Crisis
@@ -114,5 +118,7 @@ This site only opened for previews at the end of March 2026, and is rapidly evol
 {{< /notice >}}
 {{< image src="images/Under-Construction-banner.jpg" caption="" alt="Under Construction graphic" height="878px" width="298px" position="center" option="q100" class="img-fluid" title="image title" webp="false" >}}
 
+{{< button label="About" link="/about" style="solid" >}}
 {{< button label="Get in Contact" link="/contact" style="outline" position="left" >}}
-{{< button label="Explore Previous Productions..." link="/previously" style="outline" position="right" >}}
+{{< button label="Explore Previous Productions..." link="/previously" style="outline">}}
+{{< button label="...And discover the Present" link="/currently" style="solid" >}}

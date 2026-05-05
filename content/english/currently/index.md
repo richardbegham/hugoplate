@@ -11,7 +11,7 @@ summary: "What's happened since leaving Sky."
 
 ## Post-Sky work
 
-The past year has been primarily focused as a much-needed extended period to decompress and focus on personal and family matters, together with starting on home improvments. 
+The firdt year has been primarily focused as a much-needed extended period to decompress and focus on personal and family matters, together with starting on home improvments. 
 
 There was still time for sone work-related matters : After many years of being too busy and being constantly rescheduled, Richard was finally able to rejoin the [Committee of the STLD](http://www.stld.org.uk/). 
 
@@ -19,32 +19,46 @@ This led to an interesting trip to see BBC Belfast Studios - as well as the city
 
 <hr>
 
-In addition, his small stock of PSC lights have been used as part of on-going voluntary support of the [Brooklands Museum Members' Talks](https://youtube.com/playlist?list=PLx4w0Uz8rNl-JqwKiLz6OENRh0v0L_h46&si=AeVNxjiS1AWpSFJo) to improve both the Live and YouTube visuals 
+In addition, his small stock of PSC lights (see below) have been used as part of his on-going voluntary support of the [Brooklands Museum Members' Talks](https://youtube.com/playlist?list=PLx4w0Uz8rNl-JqwKiLz6OENRh0v0L_h46&si=AeVNxjiS1AWpSFJo) to improve both the Live and YouTube visuals 
+
+For a taster of these, try the first one Richard was asked to do - which instantly got him hooked.  
+Fascinating...and hilarious :
+
+{{< youtube CmRPLC4NK2Y >}}
 
 {{< image src="images/Brooklands2.jpg" alt="Brooklands Members Talk" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Brooklands Members Talk - Tom Crean - April 2026" >}}
 
 {{< image src="images/Feedback1.jpg" alt="Unsolicited Feedback" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Unsolicited Feedback - The Big Hop - March 2026" >}}
 
-{{< accordion "PSC lights" >}}\
+<hr>
+
+## Some of Richard's "get you out of jail" PSC lights
 
 ### Dedolight DLHM4-300DMX
 
 - The classic Dedolight, 24V 150W, with integrated DMX ballast. 
-- Richard had the first batch of this new variet on the classic them when they first arriveds in 2006 that arriced innthelilvariety in the UK, and 20 years later, these rugged workhorses are still producing that **perfect quality, precisely adjustable, beautiful dedolight beam.** 
-
-{{< image src="images/Dedolight.jpg" caption="" alt="Dedolight DLHM4-300DMX" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Dedolight DLHM4-300DMX" >}}
+- Richard had the first batch of this variant on the classic theme when they first arrived in the UK, for use on _Space Pirates_ and 20 years later, and much use later, these rugged workhorses are still producing that **perfect quality, precisely adjustable, beautiful Dedolight beam.** 
 
 ### Wireless Uplighters
 
 - Fantastically flexible, versatile, and last for ages.
 - Even better than the original Smartbats (6 colours instead of 3, Brighter, Bigger Batteries, Powercon instead of IEC).
-- Adding extra sets of these is very mildly addictive! 🤣
+- Extra sets of these is very mildly addictive! 🤣
 
+### 2-Cell Blinders
 
-{{< /accordion >}}
+- LED version of the classic 2-cell Molephay, except without the miles of socapex and dimmers, or heat.
+- Variable-white colour temperature, single-cell control, even strobe should you be that way inclined.
+
+{{< slider dir="images/psc" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 <hr>
 
-{{< image src="images/getintouch.jpg" alt="Golden Get In Touch Envelope" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Unsolicited Feedback" >}}
+{{< image src="images/getintouch.jpg" alt="Golden Get In Touch Envelope" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Go on Go on Go on - Get in Touch!" >}}
 
 ...And this is where you come in - Get in touch, lets see what we can do together!
+
+{{< button label="Get in Touch" link="/contact" style="solid" >}}
+
+{{< button label="About" link="/about" style="solid" >}}
+{{< button label="...Previously" link="/previously" style="solid" >}}
