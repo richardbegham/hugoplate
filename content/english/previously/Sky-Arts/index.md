@@ -109,5 +109,6 @@ Featured two rival teams (similar to University CHallenge)
 
 #### Sky Central, The Hub, other buildings...
 
-Confidentially means can't share images of these, but... here's an undercover picture of the tables being set for refreshments at the side of the room! Holy secret image capture, Batman! Also shown is part of the way Richard spread the Sky Spectrum branding around the entire room in 360-degrees.
+Confidentially means can't share images of these, but... here's an undercover picture of the tables being set for refreshments at the side of the room, showing part of how Richard spread the Sky Spectrum branding to encircle (360-degrees) the entire room.
 {{< image src="images/SkyLE/Corporate-1.jpg" caption="" alt="Colourful Internal Corporate event." height="" width="499px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< sidenote >}} Holy secret image capture, Batman! {{< /sidenote >}}

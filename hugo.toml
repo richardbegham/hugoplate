@@ -34,6 +34,10 @@ disableAliases = false
 pagerSize = 10
 path = 'page'
 
+[sitemap]
+changeFreq = ""  # Default change frequency (empty string)
+filename = "sitemap.xml"  # Sitemap file name
+priority = -1  # Default priority (-1 means omitted from rendered sitemap)
 
 ############################# Build ##############################
 [build]

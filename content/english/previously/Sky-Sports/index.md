@@ -1,12 +1,13 @@
 ---
 title: "Sky Sports"
+tags: ['sky', 'sport']
 date: 28 Apr 2026
 draft: false
 language: en
 description: Sky Sports
 weight: 11
 #featured_image: images/.png
-summary: "Football. A LOT of people talking about football on MNF, SNF, FNF, WSL, EFL, WCQ..,! Also Formula 1! Boxing! Rugby! NFL! NBA! Golf! Bog snorkelling! ...and more..."
+summary: "Football. A LOT of people talking about football on MNF, SNF, FNF, WSL, EFL, WCQ. ...also... Formula 1! Boxing! Rugby! NFL! NBA! Golf! Bog snorkelling! ...and more..."
 ---
 
 {{< notice "info" >}}
@@ -23,7 +24,7 @@ Use the Icons below to jump specific sports.
 
 # Series / Lead Lighting Director for :
 
-{{< image src="images/logos/sky-sports-2020.png" caption="" alt="Sky Sports Logo" command="fill" option="q100" class="h-2 max-w-lg mx-auto " title="Sky Sports" webp="false" >}}
+{{< image src="images/logos/sky-sports-2020.png" caption="" alt="Sky Sports Logo" command="fill" position="center" option="q100" class="h-2 max-w-lg mx-auto " title="Sky Sports" webp="false" >}}
 
 ## ⚽️ Football ⚽️
 
@@ -211,7 +212,7 @@ For the Frosch vs Groves recording, Richard had promoter Eddie Hearn stood behin
 
 ### The F1 Show - Studio 6
 
-{{< image src="images/F1-Studio61.jpg" caption="The F1 Show (Studio 6 version)" alt="The F1 Show in Studio 6" height="" width="" position="center" class="img-fluid" >}}
+{{< image src="images/F1-Studio6.jpg" caption="The F1 Show (Studio 6 version)" alt="The F1 Show in Studio 6" height="" width="" position="center" class="img-fluid" >}}
 
 (To follow)
 
@@ -238,11 +239,22 @@ Even more mysterious rules than non-american football, but some fabulous half-ti
 
 ## 🤿 🏊🏽‍♂️ 🤿 Bog Snorkelling 🤿 🏊🏽‍♂️ 🤿
 
-...ok, that was a red herring.
+...ok, that was a red herring. 
+Red Herrings are often found swimming in peat bogs.
 
-Other Sports also had Studio-based commentary from time to time -  Golf, Cycling, NBA (Basketball), various non-UK football leagues, etc etc.
+Other Sports also had Studio-based commentary from time to time, which richard help light, but are not of particular note, including:
+ - Golf (various, including some AR Specials for Ryder and Master's Cups)
+ - Cycling
+ - NBA (Basketball)
+ - Various non-UK football leagues
+ - and more.
 
-In the early days, there were lots of 1-hour long discussion shows with people reminiscing about their past glories, expertly produced and often revealing very moving stories. These built up to from a vast archive, which continue to be dropped-in to fill in gaps in the schedules. Shows such as _Time of Our Lives_, _Sporting Heroes_, and so on had guests who were so famous that even Richard, with his total disinterest, in sport had heard of - everyone from Mike Tyson to Linford Christie to Sir Sterling Moss.
+Finally, in the early days, a number of occasionally fascinating discussion shows with famous former starts were recorded, before all Magazine and Chat Sports Shows were axed as part of cost-cutting measures in 2014 ![BT Sports](fn "in order to build a war-chest to fight the dramatic introduction of Sky Sports's first effective competitor, BT Sports - which had just been launched in revenge for Sky's rapid growth into Telecommunications, and which it was initially highly successful, thanks to buying-in some high-level former insider knowledge, precision-targetted Sky Sport's weak-spots. Unfortunately, thanks to subtle manipulations of politicians supposedly in the interest of viewers but in practice exactly the opposite, the only long-term beneficiaries were the already-overflowing bank accounts of the Premier League; domestic and pub viewers ended-up paying well-over twice as much for their subscriptions.")
+
+- Time of Our Lives
+- Sporting Heroes
+
+
 
 {{< notice "info" >}}
 p.s.
@@ -251,7 +263,7 @@ p.s.
 
 # Shortcuts
 
-{{< button label="Sky Sports - Top of Page" link="/previously/sky-sport" style="solid" >}}
+{{< button label="Sky Sports - Top of Page" link="/previously/sky-sports" style="solid" >}}
 
 {{< button label="About" link="/about" style="solid" >}}
 {{< button label="Get in Contact" link="/contact" style="outline" position="left" >}}
