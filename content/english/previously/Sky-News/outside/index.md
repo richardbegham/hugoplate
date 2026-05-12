@@ -7,9 +7,10 @@ description: The Sky Years - Sky News - The Outside Broadcasts
 weight: 15
 featured_image: "featured.png"
 summary: "Discussion, Debates, and Arm Waving - but this time On Location instead of the Studio."
+tags: ['sky', 'news']
 ---
 
-### HM The Queen Elizabeth II Christmas Speach 2018
+## HM The Queen Elizabeth II Christmas Speach (Kings College Chapel, Buckingham Palace, 2018)
 
 - Buckingham Palace
 - Kings Collage Chapel, Cambridge.
@@ -43,13 +44,11 @@ Lots of ground-supported truss, and as is often the way, not enough height.
 
 <hr>
 
-## NHS Future Funding
-
-### Guy's Hospital, London Bridge, 2018
+## NHS Future Funding (Guy's Hospital, London Bridge, 2018)
 
 {{< youtube "iVmBsBKUBo8" >}}
 
-### Shortcuts
+## Shortcuts
 
 {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
 {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}

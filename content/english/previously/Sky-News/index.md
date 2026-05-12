@@ -1,5 +1,6 @@
 ---
 title: "Sky News"
+tags: ['sky', 'news']
 date: 27 Mar 2026
 draft: false
 language: en
@@ -30,10 +31,13 @@ He successfully steared-through the transistion from a single large traditional 
 {{< notice "info" >}}
 To keep this readable, some of the content is presented in Tabular format and / or in subsections - you can jump ahead now, or scroll down for more.
 {{< /notice >}}
-{{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
-{{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
-{{< button label="The Studio Productions" link="/previously/sky-news/#full-studio-productions" style="outline" >}}
-{{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="outline" >}}
+
+## Sub Sections
+
+{{< button label="Link - The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
+{{< button label="Link - The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
+{{< button label="Link - The Studio Productions" link="/previously/sky-news/#full-studio-productions" style="outline" >}}
+{{< button label="Link - Going Outside to Broadcast" link="/previously/sky-news/outside" style="outline" >}}
 
 ## Prime Minister Debates.
 

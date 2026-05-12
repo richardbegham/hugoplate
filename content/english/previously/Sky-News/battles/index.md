@@ -1,5 +1,6 @@
 ---
 title: "Sky News - The Political Debates"
+tags: ['sky', 'news']
 date: 20 Mar 2026
 draft: false
 language: en
@@ -13,12 +14,12 @@ summary: "Live Debates between rival candidates for Prime Minster happened far m
 
 Attempts to give the UK a version of the head-to-head "US Presidential style" Debates had, for decades, been repeatedly rebuffed by whoever was in power at the time (as they had the most to loose), but in 2010, with no clear result ahead, all the parties gave-in and agreed to a very low-key version for the 2010 General Election. Richard wasn't involved in this, as had only just started Freelancing for Sky at that point; however this is mentioned because both that Debate - and Election that followed - had a result that can best be described as a **No-Score Draw** for all the teams involved...
 
-So, roll on the then-legally-fixed nice and predictable 5 year delay until the next one. And then... nobody could then have predicted the utter carnage the next five years would result in, even those encouraging the chaos from 1500 miles to the east.
+So, roll on the then-legally-fixed nice and predictable 5 year delay until the next one. And then... nobody could then have predicted the utter carnage the next five years would result in. {{< sidenote >}}, even those encouraging the chaos from 1500 miles to the east (...!) {{< /sidenote >}}
 
 {{< gallery dir="images/gallery/Debates" class="" height="100" width="100" webp="true" command="Fit" option="" zoomable="true"  >}}
 
 {{< notice "warning" >}}
-The videos shown below are of their time and have highly polarising political content - LightingDir.Com neither endorses or opposes any of the views expressed, however we do recommend use of the 'mute' button should your blood pressure rise at any point.
+The videos shown below are of their time and have highly polarising political content - LightingDir.Com neither endorses or opposes any of the views expressed; however we do recommend use of the 'mute' button should your blood pressure rise at any point.
 {{< /notice >}}
 
 {{< tabs >}}

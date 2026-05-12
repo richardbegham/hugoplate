@@ -1,5 +1,6 @@
 ---
 title: "Sky News - Election Nights"
+tags: ['sky', 'news']
 date: 24 Mar 2026
 draft: false
 language: en
@@ -45,7 +46,7 @@ _Oh, yes, he did in the end have all the incoming flights into Heathrow diverted
 
 <hr>
 
-{{< gallery dir="images/gallery/Exterior/" class="max-w-[400px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="images/gallery/Exterior/" >}}
 
 <hr>
 
