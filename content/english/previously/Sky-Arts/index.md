@@ -58,7 +58,7 @@ Bands on their way back from Glastonbury (etc) stopped-off for half a day, which
 
 The first series was done on an absolute shoe-string of a budget, squashed into Studio F almost knocking their heads on the Sharpie Washes. Jason Underwood did one of his classic sets, complete with giant rusty nuts (of course...).  
 Martin Profession very kindly loaned some Vi+-pers to add the basic rig of SharpieWashes and Generics, together with LED Creative's tubes, which the cameras loved shooting through and around. Andy Harris joined with his Vector, and did a sterling job programming all the lights.
-{{< slider dir="images/gallery/Sessions-1" class="max-w-[600px] ml-0" height="400" width="1400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/gallery/Sessions-1" class="max-w-[600px] ml-0"  >}}
 
 #### Season 2 : Studio 4/5
 
@@ -92,7 +92,7 @@ Various years and studios
 
 {{< /tab >}}
 {{< /tabs >}}
-{{< image src="images/SkyLE/Oscars2021.jpg" caption="" alt="Colourful Internal Corporate event." height="" width="499px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="images/SkyLE/Oscars2021.jpg" caption="Colourful Internal Corporate event." position="center" class="img-fluid" >}}
 
 <hr>
 
@@ -101,7 +101,10 @@ Various years and studios
 #### Studio F
 
 One-off series of an Arts-orientated quiz show.  
-Featured two rival teams (similar to University CHallenge)
+Featured two rival teams (similar to University Challenge), but more ...arty. 
+Think RADA vs British Museum, that kind of thing.
+
+{{< image src="images/Arts/CultureQuiz1.jpg" caption="The Great Culture Quiz on Sky Arts" position="center">}}
 
 <hr>
 
@@ -109,6 +112,6 @@ Featured two rival teams (similar to University CHallenge)
 
 #### Sky Central, The Hub, other buildings...
 
-Confidentially means can't share images of these, but... here's an undercover picture of the tables being set for refreshments at the side of the room, showing part of how Richard spread the Sky Spectrum branding to encircle (360-degrees) the entire room.
-{{< image src="images/SkyLE/Corporate-1.jpg" caption="" alt="Colourful Internal Corporate event." height="" width="499px" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+Confidentially means can't share any images of these, but... here's an undercover picture of the tables being set for refreshments at the side of the room, showing part of how Richard spread the Sky Spectrum branding to encircle (360-degrees) the entire room.
+{{< image src="images/SkyLE/Corporate-1.jpg" caption="" alt="Colourful Internal Corporate event." position="center"  >}}
 {{< sidenote >}} Holy secret image capture, Batman! {{< /sidenote >}}

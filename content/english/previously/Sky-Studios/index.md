@@ -251,9 +251,10 @@ Additional lights were added, giving a new outer 360-degree ring of Arri S60's w
 
 Lighting control also shifted from a dedicated Multi-Skilled Operator to the Camera MSO, which was a necessity by this point as none of the remaining MSO team were lighting specialists. A touchscreen system was developed based on feedback from the MSO's, designed to give a rapid recall of a standard base with the ability to tweak as needed. Despite initial request for multiple fader wings, it was notable that these, along with the main Gio console, were generally depreciated in favour of the touch-screen controls.
 
-MORE TO COME
-{{< image src="images/SkyBuilds/SSN/Problematic-Proposal.jpg" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" caption="The original camera track proposal... the lines in red indicate existing keylights that would be blocked"  webp="false" >}}
-{{< image src="images/SkyBuilds/SSN/SSN2020.jpg" height="200px" width="" position="center" command="fill" option="q100" class="img-fluid" class="img-fluid" caption="Refurbishment about to start. Note total lack of any house lighting."  webp="false" >}}
+**MORE TO COME**
+
+{{< image src="images/SkyBuilds/SSN/Problematic-Proposal.jpg" position="center" class="img-fluid" caption="The original camera track proposal... the lines in red indicate existing keylights that would be blocked"  webp="false" >}}
+{{< image src="images/SkyBuilds/SSN/SSN2020.jpg" position="center" class="img-fluid" caption="Refurbishment about to start. Note total lack of any house lighting.">}}
 
 <hr>
 

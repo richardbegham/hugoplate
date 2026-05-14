@@ -32,6 +32,8 @@ summary: "Television gets more bread'n'butter. Medai Servers and LED's start to 
 
 {{< gallery dir="images/OldShows/Space" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
+{{< gallery dir="images/2000s/BrainJitsu" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+
 ### 2008 - Starts Freelancing for Sky
 
 - Intially brought in to help program the lights for the refurbishment of Studio A for Sky News, this expanded into being asked to come back to provide ad-hoc relief cover for the staff Lighting Technical Operators. And, not long after, being asked to light various of their other in-house products, the first of which was, of course - _Football First_ (Sky Sport's version of Match of the Day, except with an actual Match not just bits of Matches.)
