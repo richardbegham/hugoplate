@@ -20,13 +20,13 @@ summary: "Responsible for the Lighting Design and Support for all of Sky News (U
 - Specified and Designed the studio lighting for all the studios in use and at that time, together with a resilient control system of hardware and software, all bespoke designed around the needs of, and feedback from, the operational end-users, in addition to personal operational experience.
 - All this was achieved in an environment of constantly evolving Production requirements, with their unpredictable studio guests and live events.
 
-He designed and built not just the lighting of their regular studio output, but built or refurbished all the dedicated Sky News studios across London. In addition, he was the Lighting Director for the majority of their major one-off and recurring productions elsewhere on the Sky Campus in both General Purpose Studios and Office spaces, as well as their biggest Outside Broadcasts.
+He designed not just the lighting of their regular studio output, but built or refurbished all the dedicated Sky News studios across London. In addition, he was the Lighting Director for the majority of their major one-off and recurring productions elsewhere on the Sky Campus in both General Purpose Studios and Office spaces, as well as their biggest Outside Broadcasts.
 
 These included pre-general election debates featuring the (then) Prime Ministers and Leaders of the Opposition, a landmark pre-Brexit Referendum debate, three General Election (and one US Election) Nights. He was also the Series Lighting Designer and Director for weekly shows _The Pledge_ and _The Great Debate_, as well as the two major all-day Outside Broadcasts _Big Ideas_.
 
 He successfully steered-through the transition from a single large traditional studio equipped with legacy tungsten lighting sources and manual control to a interconnected set of specialist studios across multiple locations fully-equipped with state-of-the-art efficient LED sources, designed with a wide tolerance for production fluidity. This was delivered together with a fully-bespoke multi-site remote control system used by a diverse team of non-lighting specialists.
 
-{{< slider dir="images/gallery/NewsTease" height="x10px" command="fit" >}}
+{{< slider dir="images/gallery/NewsTease" >}}
 
 {{< notice "info" >}}
 To keep this readable, some of the content is presented in Tabular format and / or in subsections - you can jump ahead now, or scroll down for more.
