@@ -25,11 +25,11 @@ summary: "A small collection of lights that are often useful get-out-of-jail-fre
 - LED version of the classic 2-cell Molephay, except without the miles of socapex and dimmers, or heat.
 - Variable-white colour temperature, single-cell control, even strobe should you be that way inclined.
 
-{{< slider dir="images/" class="max-w-[300px] ml-0"  >}}
+{{< slider dir="/lights/images/" class="max-w-[300px] ml-0"  >}}
 
 <hr>
 
-{{< image src="images/getintouch.jpg" alt="Golden Get In Touch Envelope" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Go on Go on Go on - Get in Touch!" >}}
+{{< image src="images/getintouch.jpg" alt="Golden Get In Touch Envelope" position="center" command="fill" option="q100" class="img-fluid" caption="Go on Go on Go on - Get in Touch!" >}}
 
 ...And this is where you come in - Get in touch, lets see what we can do together!
 
