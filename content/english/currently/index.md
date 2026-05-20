@@ -17,7 +17,7 @@ This led to an interesting trip to see BBC Belfast Studios - as well as the city
 
 <hr>
 
-For one day most months, his small stock of [PSC lights](lights) have been single-handidly been rigged and operated by Richard for his on-going voluntary work supporting of the [Brooklands Museum Members' Talks](https://youtube.com/playlist?list=PLx4w0Uz8rNl-JqwKiLz6OENRh0v0L_h46&si=AeVNxjiS1AWpSFJo) to improve both the Live and YouTube visuals 
+For one day most months, his small stock of [PSC lights](/lights) have been single-handidly been rigged and operated by Richard for his on-going voluntary work supporting of the [Brooklands Museum Members' Talks](https://youtube.com/playlist?list=PLx4w0Uz8rNl-JqwKiLz6OENRh0v0L_h46&si=AeVNxjiS1AWpSFJo) to improve both the Live and YouTube visuals 
 
 For a taster of these, try the first one Richard was asked to do - which instantly got him hooked.  
 Fascinating...and hilarious :

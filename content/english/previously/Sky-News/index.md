@@ -14,6 +14,8 @@ summary: "Responsible for the Lighting Design and Support for all of Sky News (U
 
 ## Lighting Design & Oversight
 
+#### Introduction
+
 - Designed and Oversaw the visual output for all the Sky News (UK) studios for over a decade which included the historic political dramas around _Brexit_ and the challenges of the _Covid-19 Pandemic_.
 - Ensured a clear and consistent visual presentation to a worldwide audience 24 hours a day throughout this period, delivered with zero on-air impacting issues.
 - Primary point of direct contact / support for all lighting matters to the Studio Directors (at a high design level) and the Technical Supervisors (at the operational detail level).
@@ -28,16 +30,16 @@ He successfully steered-through the transition from a single large traditional s
 
 {{< slider dir="images/gallery/NewsTease" >}}
 
+#### Sub Sections
+
 {{< notice "info" >}}
-To keep this readable, some of the content is presented in Tabular format and / or in subsections - you can jump ahead now, or scroll down for more.
+To keep the volume of content readable, it has been split into Sub-Sections and Pages - you can jump ahead now, or read on.
 {{< /notice >}}
 
-## Sub Sections
-
-{{< button label="Link - The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
-{{< button label="Link - The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
-{{< button label="Link - The Studio Productions" link="/previously/sky-news/#full-studio-productions" style="outline" >}}
-{{< button label="Link - Going Outside to Broadcast" link="/previously/sky-news/outside" style="outline" >}}
+- {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
+- {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
+- {{< button label="The Studio Productions" link="/previously/sky-news/#full-studio-productions" style="outline" >}}
+- {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="outline" >}}
 
 ## Prime Minister Debates.
 
@@ -59,17 +61,17 @@ And for Sky News, Election Night is when all the stops come out, records are bro
 
 Richard designed, built, and ran the lighting for the main overnight studio presentation for the UK General Elections in 2015, 2017, 2019, and also for the USA Election in 2020. Plus setup various Local Election Night Specials in the Millbank Newsroom.
 
-{{< button label="Subsection Link - The Biggest Nights of Political Tension ...Since The Last One" link="previously/sky-news/elections" style="solid" >}}
+{{< button label="Read more here about The Biggest Nights of Political Tension ...Since The Last One" link="previously/sky-news/elections" style="solid" >}}
 
 <hr>
 
 ## Flagship Outside Broadcasts
 
-All-Day Channel Takeovers or just a Very Grand Lady doing a piece to camera;  Richard's experience was sometimes called-for outside the studios.
+All-Day Channel Takeovers... or just a Very Grand Lady doing a piece to camera...  Richard's experience was sometimes called-for outside the fixed studios.
 
 {{< image src="images/SkyNews/Queen-2.jpg" caption="No introduction needed" alt="The Queen" height="" width="" position="center" >}}
 
-{{< button label="Subsection Link - Outside Broadcasts" link="previously/sky-news/outside" style="solid" >}}
+{{< button label="Read more here about Outside Broadcasts" link="previously/sky-news/outside" style="solid" >}}
 
 <hr>
 
@@ -95,10 +97,12 @@ The Iconic and unique studio, with its cameras hanging down from the ceiling, a 
 
 #### Studio 6 - double-ended Real and Virtual Studio
 
+(more info to follow)
 {{< gallery dir="images/SkyNews/Studio6" height="400" >}}
 
 #### Millbank - multi-purpose studio
 
+(more to follow)
 {{< gallery dir="images/SkyNews/StudioMillbank" >}}
 
 Plus other spaces used in many different ways over the years included the *Newsroom*, an *ENG Studio*, and the constantly-in-use *DTL (Down the Lines)* broom cupboard. Always a pleasure to visit this little self-contained island of peace, a contrast to the often quite ...fraught... scenes happening outside the adjacent Houses of Parliament.
@@ -107,6 +111,7 @@ Plus other spaces used in many different ways over the years included the *Newsr
 
 Quite an interesting design this. Not only were both of the studio spaces shared with a completely different broadcaster, with -their own totally different lighting system
 
+(MORE TO FOLLOW)
 {{< gallery dir="images/SkyNews/StudioCity" >}}
 
 {{< youtube "ZkEqOGKz4yWeZQlv" >}}
@@ -133,7 +138,7 @@ Filmed in the round with a gorgeous £150k glossy glass set - giving plenty of c
 
 Quite a lot of 2k's to gel and precisely set each week (basically, Key L - Frontal Fill - Key R - Backlight and repeat x5, plus some Decor) and a mass of practical LED to install and plug up, but it was one of the last shows with _proper_ studio lighting to do each week so nobody minded the early starts and the long rig time.
 
-After **9 month of weekly pilots** (...!), this ran weekly from 4 years (split between Richard & Malcolm), until cancelled in the first Covid Lockdown.
+After no less than **9 months** of weekly pilots (...!), to get the production content right, the set design, lighting, and other technical matters were settled within a few weeks, this then went on to run weekly from the best part of 4 years, with lighting duties split between Richard & Malcolm Reed, until its abrupt halt and then cancellation thanks to the first Covid Lockdown.
 
 {{< tabs >}}
 {{< tab "Lighter Argument" >}} {{< youtube "eHhtKJoFbAU" >}} {{< /tab >}}
@@ -146,8 +151,8 @@ After **9 month of weekly pilots** (...!), this ran weekly from 4 years (split b
 
 #### The Great Debate (2021-2022, Studio F)
 
-- Trevor Phillips presented an audience discussion show... where the audience is at home.
-- VR & AR used together with a real set
+- Trevor Phillips presented an audience discussion show... but with a twist.
+- VR (Green screen virtual video wall) & AR (ceiling replacement and floor graphics) used together with a real set
 - Originally started during Covid restrictions, hence why everyone is so far apart - and why the audience is at home!
 - Every episode was lit by Richard.
 
@@ -159,7 +164,11 @@ After **9 month of weekly pilots** (...!), this ran weekly from 4 years (split b
 
 This series of 3 shows presented by Sophie Ridge, just a year after things started, was an attempt to start the serious inquiry into what went right, and what went wrong, that was being increasingly demanded by the public at this time. Due to continuing proximity rules, all guests were at home and shown on video walls, and the camerawork was all on a Steadicam and Jib, shooting _in the round_ (360-degrees).
 
-{{< accordion "Educational: Expand for Design Choices" >}}
+{{< youtube "NVarHuLQNUY" >}}
+
+{{< notice "info" >}}
+Expand for Educational sections 
+{{< accordion "Overall Design Choices" >}}
 
 Due to the on-going Social Distancing rules at that time _(making the whole premise of this programme seem a bit ... **premature**)_ Richard made the decision to have a lighting rig made-up almost entirely of moving-lights. This would reduce the need for people working on the studio floor with a pole adjusting lights during rehearsals, as keeping distance from each other limited the total numbers on the floor at any one time to 13 people. The "Natural" air conditioning was cranked fully-open, and it was January. ❄️ ☃️ 🥶
 
@@ -167,29 +176,25 @@ Gallery staff had more challenging limits on their movements, essentially bolted
 
 3D modelling was extensively done beforehand to confirm positions and distances with the need to give wide coverage with a light as far back as possible but without clipping the set, or being too steep.
 
-{{< /accordion >}}{{< sidenote >}} for reasons that probably made sense for basic sports presentation 30 years ago, but not when doing complex LE type shows when the LD is up and down like a yo-yo and the tea never gets finished{{< /sidenote >}} 
-{{< image src="images/SkyNews/Studio45/CovidCrisis3D.jpg" position="center" caption="3D view for Covid Crisis" >}}
+{{< figure src="images/SkyNews/Studio45/CovidCrisis3D.jpg" >}}
 
+Main Luminaries 0used" >}}
 - **Vari-lite VL-1100 LED** were used as Keylights 
 - **Martin Mac Auras** as Backlights
 - **Martin TW-1** lit the scenic graphic panels from above
 - **Robert-Juliet Dalis** from below.
-{{< tabs >}}
-{{< tab="3D pre-positioning">}}
-{{< image src="images/SkyNews/Studio45/CovidCrisis3D.jpg" position="center" caption="3D view for Covid Crisis" >}}
-{{< /tab >}}
+{{< /accordion >}}
 
-{{< tab="Rigging Plot" >}}
-{{< image src="images/SkyNews/Studio45/CovidCrisisPlot.jpg" position="center" caption="Lighting Plot for Covid Crisis" >}}
-{{< /tab >}}
+{{< accordion "Lighting Plot" >}}
+Covid Crisis Lighting plot :
+{{< figure src="images/SkyNews/Studio45/CovidCrisisPlot.jpg" >}}
+Covid Crisis Magic Sheet by end of Show 1 :
+{{< figure src="images/SkyNews/Studio45/CovidCrisisMS.jpg" >}}
 
-{{< tab="Magic Sheet" >}}
-{{< image src="images/SkyNews/Studio45/CovidCrisisMS.jpg" position="center" caption="Magic Sheet for Covid Crisis" >}}
-{{< /tab >}}
-{{< /tabs >}}
-{{< accordion "Educational: Expand for comments on Key lighting used" >}}
-
-**Exercise : Compare the initial plot with the console MagicSheet (below) which shows the final version of the show.**
+Downloadable versions : {{< download text="Initial Plot" url="/images/SkyNews/Studio45/CovidCrisisPlot.jpg" />}} {{< download text="Magic Sheet" url="/images/SkyNews/Studio45/CovidCrisisMS.jpg" />}}
+<hr>
+Compare the initial plot with the console MagicSheet which shows the final version of the show.
+<hr>
 
 It should be immediatly clear that a lot more than originally anticipated of the existing studio tungsten 2k's had to be used in a line along the top edge of the studio. Probably because a static position became a long walk up and down with 180 flip mid-conversation The positions up on the platform was cut too late to move any lights around to new positions. All of which shows, how ever many angles you think you've got covered with moving lights, Production will always find a secret new one you hadn't thought of.
 
@@ -206,8 +211,8 @@ If the source is too close, you will inevitably get hot spots, even if using sof
 not your friend in a small studio. Fortunately, this studio can have lights up to 9m in the air - in reality they were probably about 5-6m up. as Sophie was stood too close to the wall to get anything in from above when facing that screen. The pre-production plot for this one-off production is shown below, as an example of how to approach the challenges of shooting in the round.  
 
 {{< /accordion >}}
+{{< /notice >}}
 
-{{< youtube "NVarHuLQNUY" >}}
 
 <hr>
 
