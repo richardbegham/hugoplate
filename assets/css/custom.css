@@ -18,11 +18,11 @@ span.sidenote {
         clear: right;
         transform: translateY(-50%);  /* center the sidenote around the sidenote reference.*/
 
-        width: 28%;  /* season to taste */
+        width: 20%;  /* season to taste */
         margin: 0;
         margin-bottom: 1.1rem;
         margin-top: 1.1rem;
-        margin-right: -35%;
+        margin-right: -25%;
         padding: 0.5rem;
         padding-top: 0;
         padding-bottom: 0;

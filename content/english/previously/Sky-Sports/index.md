@@ -21,11 +21,8 @@ Use the Icons below to jump specific sports.
 {{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" style="animated" >}}
 {{< button label="🤿" link="#---bog-snorkelling---" style="animated" >}}
 
-
-# Series / Lead Lighting Director for :
-
-{{< image src="images/logos/sky-sports-2020.png" caption="" alt="Sky Sports Logo" command="fill" position="center" option="q100" class="h-2 max-w-lg mx-auto " title="Sky Sports" webp="false" >}}
-
+{{< image src="images/logos/sky-sports-2020.png" alt="Sky Sports Logo" position="left" class="h-2 max-w-lg mx-auto" >}}
+#### Series / Lead Lighting Director for :
 ## ⚽️ Football ⚽️
 
 From almost his very first day as a Freelancer, Richard was lighting studio shows that mostly consisting of between 1 and 3 people, generally sat at a desk wearing suits and discussing football. _"..game of two halves...jumpers for goalposts..."_ and so on, but... there is one long-running production strand that takes football very seriously. 
@@ -36,12 +33,14 @@ Which, for a decade, Richard lit virtually every single broadcast of. On top of 
 
 ### Monday Night Football (MNF)
 
-{{< accordion "Expand for the long story" >}}
 #### The Studio G version - The Original
 
+{{< accordion "Expand for the long story" >}}
 Sky Sport's Premier League flagship production, led by the pundits Gary Neville and Jamie Carragher, delivers unusually long and highly detailed analysis during the studio-based pre-, mid-, & post- match coverage, along with more cameras deployed than for any other match. This had four different iterations over Richard's time, starting with the original Studio G production, first lit by Malcolm Reed (lots of MiStrip, Pixellines, a very unhelpful header, and an even more light-unfriendly £100k (back in 2011...) 103" Touchscreen...)
 
 The first day that Richard was due to go solo on this production, it had - very unexpectedly - had the plug pulled on it for the rest of that season half-way through the Rig, when the original presenters (Keys & Gray) were very abruptly & very publicly sacked, after tapes of some of their long-running unacceptable off-screen behaviors were [leaked to the Guardian.](https://www.theguardian.com/football/2011/jan/24/andy-gray-richard-keys-sexist-comments).
+
+{{< /accordion >}}
 
 MNF pioneered the use of giant interactive touch-screens for real-time analysis, with 2D and 3D computer graphics driven directly by the pundits controls - something that took the viewers a long time (and a lot of live mistakes!) to believe was actually true rather than pre-rendered. This was connected to incredibly detailed tracking and statistical analysis of every player in every Premier League (PL) match. They also pushed the limits of 3D graphics, with individual Hero / Walk-on clips of every PL player (shot on 2x 4k cameras, double-stacked on their side, at a time when HD was still a novelty for most people). This was mixed with insightful and fluff-free passionate commentary, to deliver an unprecedented quality - and duration! - of wrap-around analysis before, during, and after just one match. Even when it's a subject you can have no interest in, you can still tell when its being done better than anywhere else!
 
@@ -53,8 +52,12 @@ The upshot of this success was Sky Sports putting their hand in their pocket, an
 
 World-leading technologies stretched the boundaries of what could be achieved in a live studio environment with the Mixed-Reality set from 2013-2017 in Studio F, powerfully led by Senior Director Duncan East and Executive Producer Scott Melvin, who listened to and then demanded - and got - the best out of every single person working on the show, every single time.
   
-  {{<slider dir="images/gallery/MNF" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{<slider dir="images/gallery/MNF" class="max-h-[400px] ml-0" height="400" width="400" command="Fit"  webp="true" zoomable="true" >}}
 
+{{< sidenote >}}Yes, that IS a green xmas tree on a green screen. 
+Yes, Sarah did manage to get it to key, sort of. 
+No, it didn't go on air there. {{< /sidenote >}}
+{{< accordion "Expand for the technical challenges" >}}
 The opening Team walkthrough with the Presenter (Ed Chamberlain then later Dave Jones) was particularly challenging technically - starting on a MCU hard up against a green wall, doing a walk all around the Green Screen area weaving in and out of life-size players, then the camera would reveal the real set outside the green area as well, and he would walk across to the main desk, going through the boundary between Real and VR - all in one shot, live. A tricky challenge with the technology of the day and a very low ceiling meaning couldn't get the lights as far away as was need to avoid inverse square law problems.
 
 Extensive used of dead matt black paint (real) and textures (virtual) were used to conceal the join between the Real and the Virtual, and a little LED strip was also used to hide the join. Trying to keep both the green and black floors free from dust was a nightmare, despite the entire crew being badgered to wear overshoes by the Floor Manager Frankie...the breakthrough came when Richard released what was needed was not trying to make Reality impossibly perfect, but to make the Virtual a bit scruffy. Sales of blue plastic shoes plummeted.
@@ -68,22 +71,19 @@ After getting that right, whilst simultaneously wrestling with an Octopus  - the
 All the light used to even-out the green surfaces then had to be kept from bouncing out into the real set, which could not have the green key'ed out because of the video projectors and screens having ...green... football pitches in them. A fully virtual set would been easier, but that would not have given Production a fully-usable environment that could (...and occasionally was..) be switched-to immediately for the next three hours should any of the Virtual elements fail.
 
 If there was one thing that could be guaranteed, with all the bleeding-edge technology deployed across the board, was that something would fail whilst on-air every week. You just had to pray it wasn't your turn for the gremlins to hit...And if getting all this kit working once wasn't hard enough, the entire production, with all its temperamental parts had to be rigged from scratch *every week, in just one day*. An aspect that was a constant point of disbelief by technical visitors from other television networks from around the world.
+{{< /accordion >}}
 
 #### The Studio 1 version - Time to share...
 
-After spending 4 years out of the originally-commissioned 3 years in Studio F, the savings together with another couple of million pounds found down the back of a sofa to address the competition coming from an unexpected new direction (BT Sport) was spent on a new set. This time, instead of moving next door, they moved across the road to a proper purpose-built studio instead of a converted warehouse (finallY!), and built a permanent, dedicated, studio with less bleeding-edge technology and specialist subcontractors, putting to bed the years of technical gremlins that had plagued MNF since the start (...well, mostly). As a bonus, once built, for the following 13 days the space be used by a host of other Sports Productions, each of whom could have their own corner of the studio, all instantly ready to go...
+After spending 4 years out of the originally-commissioned 3 years in Studio F, the resultant savings, together with another couple of million pounds found down the back of a sofa, was used to combine MNF with efforts to address the increased competition coming from an unexpected new direction (BT Sport). This time, instead of moving next door, they moved across the road instead, and into a proper purpose-built studio instead of a converted warehouse (finally!). They built a permanent, dedicated, set, but with less bleeding-edge technology and specialist subcontractors, putting to bed the years of technical gremlins that had plagued the previous iteration of MNF since the start. And, once built, when it wasn't being used, it was available for a whole host of other Sports Productions, each of whom were supposed to have their own unique area of the studio all instantly ready to go... {{< sidenote >}} Well, that was the theory that was sold - The instantly ready aspect went straight out the window, together with being confined to unique areas, once the production teams got their teeth into a new space, with so many tempting possiblities compared to their previous decades spent stuck in glorified storerooms with a 3 chairs and a desk and maybe 5 shots possible. _But I digress..._ {{< /sidenote >}}
 
-The instant aspect went straight out the window once the practicalities sunk in of everyone wanting to use all of the studio space and mix things up each week, now that they had at last escaped years of static Presentation stuck in glorified broom cupboards where you had 3 chairs and a desk, maybe 5 shots possible, with no room for jib or steadicam. _But I digress..._
-
-The money got spent on lots and lots of video walls and graphics hardware, along with large colour-changing backlit LED panels that gave each sporting strand their own unique visual identity. They even had enough money left over was sufficient to build a similar-looking "little brother" set in an adjacent Studio. Moving across the road into Sky Studios also had the advantage that the Production Control Rooms and Studios can very quickly change their interconnections, allowing Production teams to set-up in one PCR whilst the studio is used by another, and then flip-over in as little as a single commercial break (provided they use the same or pre-prepared positions, as trying to reset lights, cameras, sound, set, and Talent in 3-5 minutes has physical limits. especially when the set constricts teh flow in and out of the only studio door.
+The money got spent on lots and lots of video walls and graphics hardware, along with large colour-changing backlit LED panels that gave each sporting strand their own unique visual identity. They even had enough money left over to build a similar-looking "little brother" set in the smaller Studio 3 nearby. {{< sidenote >}} Moving across the road into Sky Studios also had the advantage that the Production Control Rooms and Studios can very quickly change their interconnections, allowing Production teams to set-up in one PCR whilst the studio is used by another, and then flip-over in as little as a single commercial break... provided everyone used the same or pre-prepared positions, as trying to reset lights, cameras, sound, set, in 3-5 minutes would be extremly challenging (didn't stop it being attempted occasionally!)...that's barely enough time to swap two sets of Talent (and their snacks) around! {{< /sidenote >}}
 
 Focusing back onto Monday Night Football, one of the technologies they retained exclusive use of (ish...was borrowed a few times by F1 and Golf) was the Virtual Graphics - this time round, the new buzzing technology was Augmented Reality (AR). This overlays tracked 3D graphics on top of the camera output, without any of the problems caused by having to key of Green surfaces whilst not keying off any reflected or bounced Green lights, so is a fraction of the cost. This is great...right up until the entire illusion is shattered when the camera moves the wrong way and suddenly something that was in the background is now on top of the foreground or Talent. As a consequence of decided they really only needed to track the Jib camera experimental and not bother with having Peds shoot the 3D sequences, they invested in the far simpler and cheaper N-Cam system this tim, which requires far less continuous correcting and no magic wands required. But only works on one camera, you can't cut between two AR-equipped cameras. Which also saves on super-expensive Viz graphics machines.
 
 **STORY TO BE CONTINUED**
 
-{{< /accordion >}}
-
-{{< tabs "The Different Sets" >}}
+{{< tabs  >}}
 {{< tab "Studio G - The Original" >}}
 Gary Neville's TV Debut.
 
@@ -149,7 +149,7 @@ Very unusually for a men's football show, this was presented by Sarah-Jane Mee (
 {{< rawhtml >}}
 <section class="relative isolate overflow-hidden bg-gray-700 px-4 py-6">  
   <div class="mx-auto max-w-2xl lg:max-w-4xl">
-    <img src="https://www.lightingdir.com/images/SkySports/offsiderule1.jpg" alt="" class="mx-auto h-12" />
+    <img src="/images/SkySports/offsiderule.jpg" alt="" class="mx-auto h-12" />
     <figure class="mt-10">
       <div class="text-center text-xl/8 font-semibold text-white sm:text-2xl/9">No.<p></p></div>
       <blockquote class="text-center text-xl/8 font-semibold text-white sm:text-2xl/9">
@@ -161,7 +161,7 @@ Very unusually for a men's football show, this was presented by Sarah-Jane Mee (
           <svg viewBox="0 0 2 2" width="3" height="3" aria-hidden="true" class="fill-white">
             <circle r="1" cx="1" cy="1" />
           </svg>
-          <div class="text-gray-400">MNF Director</div>
+          <div class="text-gray-400">A.N. Senior Director</div>
         </div>
       </figcaption>
     </figure>
