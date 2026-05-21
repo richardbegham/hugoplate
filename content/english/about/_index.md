@@ -9,9 +9,13 @@ draft: false
 ---
 
 {{< notice title="Site Navigation" >}}
-The _Previously..._ section contains the majority of the content to explore, and will continue to be significantly expanded over time to give some educational insight into design choices.
+The _Previously..._ section contains the majority of the content to explore, and will continue to be significantly expanded over time. 
 
-_Tabbed views_ are used throughout this site to flip between related information, and to reduce lengthy scrolling.
+_Tabbed views_ are used throughout this site to flip between related information, and to reduce lengthy scrolling. 
+
+_Educational notes_ indicates some more detailed information about historical productions, which is given on the basis of fair-use in the hope that it may be of some interest to students of television lighting techniques.
+
+Feedback on the good, the bad, and the ugly is always welcome.
 {{< /notice >}}
 
 ## Introduction
@@ -25,7 +29,7 @@ For 15 years until recently, he working for Sky Television (UK) as a Lighting Di
 He is based near Windsor, just outside London, UK, and is currently seeking new opportunities.  
 Thanks to his Irish citizenship he is able to freely move about and work in both the UK and the EU.
 
-For some of what he's up to now (the ones that can be publicly discussed) have a peak at {{< button label="...Current Activity" link="/currently" style="outline" >}}>
+For some of what he's up to now (where can be discussed) have a peak at {{< button label="...Current Activity" link="/currently" style="animated" >}}>
 
 To find out much, much, more about his past work you can {{< button label="Explore Previous Productions..." link="/previously" style="outline" >}}
 

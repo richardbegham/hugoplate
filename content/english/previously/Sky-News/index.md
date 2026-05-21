@@ -85,7 +85,7 @@ The lighting for all the day-to-day use of these dedicated News studio spaces wa
 
 #### Studio A - The Legacy Studio
 
-Richard first supported and later expanded LD Don Hart's work in the large open space in the middle of Unit 1 {{< sidenote >}} when built, the largest studio sky had, but still essentially a tin shed box warehouse like all their studios before the opening of the Sky Studios building in 2011 (Studios 1-8) {{< /sidenote >}} with its very complex and demanding weight restrictions; through to its eventual closure at the end of Project Tardis (the move across the road into Sky Studios) {{< sidenote >}}The Structural Engineering specified the distance between lights and no expection was allowed, otherwise that once in 10 years snowstorm might collapse the whole building. {{< /sidenote >}}
+Richard first supported and later expanded LD Don Hart's work in the large open space in the middle of Unit 1 {{< sidenote >}} when built, the largest studio sky had, but still essentially a tin shed box warehouse like all their studios before the opening of the Sky Studios building in 2011 (Studios 1-8) {{< /sidenote >}} with its very complex and demanding weight restrictions; through to its eventual closure at the end of Project Tardis (the move across the road into Sky Studios) {{< sidenote >}}The Structural Engineering specified the distance between lights and no exception was allowed, otherwise that once in 10 years snowstorm might collapse the whole building. {{< /sidenote >}}
 
 His main change was for a huge 5k, 5m high videowall that replaced the original curved wall, and paid for itself in a couple of years in saved electricity as made of DLP Projector cubes instead of discrete LED (that nicely lit the opposite side of the build).This featured his introduction of the first ETC Source 4 LED fixtures when a vast new Video Wall with a different shape was introduced in 2013.
 
@@ -172,7 +172,7 @@ Expand for Educational sections
 
 Due to the on-going Social Distancing rules at that time _(making the whole premise of this programme seem a bit ... **premature**)_ Richard made the decision to have a lighting rig made-up almost entirely of moving-lights. This would reduce the need for people working on the studio floor with a pole adjusting lights during rehearsals, as keeping distance from each other limited the total numbers on the floor at any one time to 13 people. The "Natural" air conditioning was cranked fully-open, and it was January. ❄️ ☃️ 🥶
 
-Gallery staff had more challenging limits on their movements, essentially bolted to their seats with some perspex shields between each other and haldf the usual density. As the lighting positions at Sky are by default located at the furthest point from the doorsSky, we took advantage of the flexible infrastructure and promptly decamped to another gallery. {{< sidenote >}} for reasons that probably made sense for basic sports presentation 30 years ago, but not when doing complex LE type shows when the LD is up and down like a yo-yo and the tea never gets finished{{< /sidenote >}} 
+Gallery staff had more challenging limits on their movements, essentially bolted to their seats with some perspex shields between each other with half the usual staffing density. As the lighting positions at Sky are by default located at the furthest point from the doorsSky, we took advantage of the flexible infrastructure and promptly decamped to the adjacent gallery. {{< sidenote >}} located there for reasons that probably made sense for basic sports presentation 30 years ago, but not when doing complex LE type shows when the LD is up and down like a yo-yo and the tea never gets finished{{< /sidenote >}} 
 
 3D modelling was extensively done beforehand to confirm positions and distances with the need to give wide coverage with a light as far back as possible but without clipping the set, or being too steep.
 
@@ -191,14 +191,14 @@ Covid Crisis Lighting plot :
 Covid Crisis Magic Sheet by end of Show 1 :
 {{< figure src="images/SkyNews/Studio45/CovidCrisisMS.jpg" >}}
 
-Downloadable versions : {{< download text="Initial Plot" url="/images/SkyNews/Studio45/CovidCrisisPlot.jpg" />}} {{< download text="Magic Sheet" url="/images/SkyNews/Studio45/CovidCrisisMS.jpg" />}}
+Downloadable versions : {{< download url="/images/SkyNews/Studio45/CovidCrisisPlot.jpg" >}} 🗂️ Initial Plot {{< /download >}} {{< download url="/images/SkyNews/Studio45/CovidCrisisMS.jpg" >}} 🗂️ Magic Sheet {{< /download >}}
 <hr>
 Compare the initial plot with the console MagicSheet which shows the final version of the show.
 <hr>
 
-It should be immediatly clear that a lot more than originally anticipated of the existing studio tungsten 2k's had to be used in a line along the top edge of the studio. Probably because a static position became a long walk up and down with 180 flip mid-conversation The positions up on the platform was cut too late to move any lights around to new positions. All of which shows, how ever many angles you think you've got covered with moving lights, Production will always find a secret new one you hadn't thought of.
+It should be immediately clear that a lot more than originally anticipated of the existing studio tungsten 2k's had to be used in a line along the top edge of the studio. Probably because a static position became a long walk up and down with 180 flip mid-conversation The positions up on the platform was cut too late to move any lights around to new positions. All of which shows, how ever many angles you think you've got covered with moving lights, Production will always find a secret new one you hadn't thought of.
 
-Due to the steep video walls, when near the wall Sophie had to be lit from both sides - but, if all this light came in from a long way away, it would splash all over the set behind her, as well as have shadows from the cameras operators. Which is why there are a whole series of lights in a row instead of a single key further away. As long as these are at least a moderatly reasonable distance away, once carefully focused with a bit of back and forth and walking around they merge into one another. 
+Due to the steep video walls, when near the wall Sophie had to be lit from both sides - but, if all this light came in from a long way away, it would splash all over the set behind her, as well as have shadows from the cameras operators. Which is why there are a whole series of lights in a row instead of a single key further away. As long as these are at least a moderately reasonable distance away, once carefully focused with a bit of back and forth and walking around they merge into one another. 
 
 {{< sidenote >}} A _Scientific LD_ compares levels with a light meter. {{< /sidenote >}} 
 
@@ -206,7 +206,7 @@ Due to the steep video walls, when near the wall Sophie had to be lit from both 
 
 {{< sidenote >}} The _Artistic LD_ dons a pair of designer sunglasses, looks in completely the wrong direction, and says 'its meant to look lumpy' {{< /sidenote >}} 
 
-{{< sidenote >}} All are, of course, completly correct, for their particular production {{< /sidenote >}}
+{{< sidenote >}} All are, of course, completely correct, for their particular production {{< /sidenote >}}
 If the source is too close, you will inevitably get hot spots, even if using softer sources than Fresnels, which is why in tiny studios, the inverse square law is most definitely off the xmas card list....
 not your friend in a small studio. Fortunately, this studio can have lights up to 9m in the air - in reality they were probably about 5-6m up. as Sophie was stood too close to the wall to get anything in from above when facing that screen. The pre-production plot for this one-off production is shown below, as an example of how to approach the challenges of shooting in the round.  
 
@@ -232,7 +232,7 @@ not your friend in a small studio. Fortunately, this studio can have lights up t
 
 ### ...For I have stood on the Shoulders of Giants...
 
-**LD Don Hart** for explaining in intricate detail his Studio A lighting design before handing-it over in 2012, with its many quirky zoneing restrictions or even bans on rigging positions ...and even the types of luminaries alloweed in each sone... which were absolute dictates by Structural Engineers back when the studio was built in 2005.
+**LD Don Hart** for explaining in intricate detail his Studio A lighting design before handing-it over in 2012, with its many quirky zoning restrictions or even bans on rigging positions ...and even the types of luminaries allowed in each sone... which were absolute dictates by Structural Engineers back when the studio was built in 2005.
 
 **LD Dave Evans** for the cracking of the _~~Enigma Code~~_ **Glass Box Camera Challenge** with his original lighting-design, the principles of which he expertly communicated throughout the design process and then fully handed-over at Launch in 2017. 
 
@@ -242,15 +242,15 @@ Although all of the on-going Design and Development, together with much of the s
 
 The day-to-day output was thanks to tha care and attention to detail by the expansive team of **Technical Supervisors** and **Technical Operators**, who would internally communicate the essentials of any new production both 1:1 and in writing, which were sometimes ready in less time that it took to reach the Gallery after rehearsals! 
 
-Their end-user feedback on different choices of everything from button size and location to diagramatic and control methodolgy, as well as capturing and then automating any manual adjustments made over time, was absolutely fundamental to the continous evolution of their bespoke Tardis Control System.
+Their end-user feedback on different choices of everything from button size and location to diagrammatic and control methodology, as well as capturing and then automating any manual adjustments made over time, was absolutely fundamental to the continuous evolution of their bespoke Tardis Control System.
 
 ### The Lift from Above
 
-The support and feedback from Sky News throughout was essential, starting with the always conscise - and always absolutely spot-on - the (then) **Head of Sky News, John Ryley**, and the indispensible advance information and guidance total trust and backing given by the Head of Studio Output _Jon Bennet_ ssucceeded by _Ben Wickeham_ - through to the many Directors, Producers, and the wider team in Sky News; far too many to name-check!
+The support and feedback from Sky News throughout was essential, starting with the always concise - and always absolutely spot-on - the (then) **Head of Sky News, John Ryley**, and the indispensable advance information and guidance total trust and backing given by the Head of Studio Output _Jon Bennet_ succeeded by _Ben Wickeham_ - through to the many Directors, Producers, and the wider team in Sky News; far too many to name-check!
 
-And of course, the coopperation and trust of the on-screen **Talent** [^1] - most memorably Kay Burley over the years - with each of whom Richard worked to ensure they had very precise but reproducable positions with appropriate lighting customised to their individual needs. He even came up with an invisible-on-camera method to mark positions on the floor to replace the usual gaudy collection of temporary sticky tape...something very important to keep the studio looking crisp and clean with camerashots often taking in the wide expanses of high quality studio floor - which leads me on to thank the great team of Set Designers at **Jago**. 
+And of course, the cooperation and trust of the on-screen **Talent** [^1] - most memorably Kay Burley over the years - with each of whom Richard worked to ensure they had very precise but reproducible positions with appropriate lighting customised to their individual needs. He even came up with an invisible-on-camera method to mark positions on the floor to replace the usual gaudy collection of temporary sticky tape...something very important to keep the studio looking crisp and clean with camera shots often taking in the wide expanses of high quality studio floor - which leads me on to thank the great team of Set Designers at **Jago**. 
 
-[^1]: It was gratifying to often see a flicker of relief in their eyes when they saw that Richard was present for the build-up & launch of their latest regular strand or one-off special (often starting at some very unfriendly times of night), as they knew they could then stop worrying if they looked their best on-air (something not helped by the _variable_ setup of various studio monitors)
+{{< sidenote >}} Often flicker of relief in the Talent's eyes when they saw that Richard was present for the build-up & launch of their latest regular strand or one-off special - often starting at some very unfriendly times of night - as they knew they could then stop worrying if they looked their best on-air (something not helped by the _variable_ setup of various studio monitors) {{< /sidenote >}}
 
 {{< /accordion >}}
 
