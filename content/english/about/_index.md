@@ -15,6 +15,8 @@ _Tabbed views_ are used throughout this site to flip between related information
 
 _Educational notes_ indicates some more detailed information about historical productions, which is given on the basis of fair-use in the hope that it may be of some interest to students of television lighting techniques.
 
+Most images can be selected to zoom in.
+
 Feedback on the good, the bad, and the ugly is always welcome.
 {{< /notice >}}
 
@@ -33,9 +35,9 @@ For some of what he's up to now (where can be discussed) have a peak at {{< butt
 
 To find out much, much, more about his past work you can {{< button label="Explore Previous Productions..." link="/previously" style="outline" >}}
 
-If you have a project that you think he could help you with, then please {{< button label="Get in Contact" link="/contact" style="outline" >}}
+His side-interests include Designing and Making {{< button label="3D-Printed LED lights" link="/3D" style="outline" >}} amongst other things.
 
-To find out much, much, more about his past work you can {{< button label="Explore Previous Productions..." link="/previously" style="outline" >}}
+If you have a project that you think he could help you with, then please {{< button label="Get in Contact" link="/contact" style="outline" >}}
 
 {{< tabs >}}
 {{< tab "Multi-Camera" >}}
@@ -49,6 +51,7 @@ To find out much, much, more about his past work you can {{< button label="Explo
 - Children's / Young Adult Productions
 - Flagship Corporate Events / Conferences / Launches
 - Awards Ceremonies
+- Gigs and Performances
 
 {{< /tab >}}
 
@@ -60,6 +63,9 @@ To find out much, much, more about his past work you can {{< button label="Explo
 - Fast-turnaround studios
 - Remotely operated studios
 - Temporary spaces and Locations
+- Live Events
+- Conferences
+- Concerts 
 
 {{< /tab >}}
 
@@ -69,8 +75,11 @@ To find out much, much, more about his past work you can {{< button label="Explo
 
 - Lighting Design
 - Lighting Direction
+- Production Liaison
 - Lighting Console Operation
 - Lighting Team Coordination
+- Overall Visual Supervision
+- Pre-planning 
 
 {{< /tab >}}
 
@@ -85,9 +94,9 @@ To find out much, much, more about his past work you can {{< button label="Explo
 - Luminary Evaluation and Specification
 - Control Data Distribution
 - Electrical Requirements
-- Gold/Silver/Bronze Proposals where appropriate
+- Gold/Silver/Bronze level Proposals where appropriate
 - Experience with projects from <£10k to >£1m
-- Always aim to be within BUdget - Cost Overruns are a rare exception, not the norm
+- Always aim to be within Budget - Cost Overruns have always been a rare exception, never the norm
   {{< /tab >}}
 
 {{< tab "Philosophy" >}}
@@ -111,9 +120,9 @@ Equipment failure in a high-pressure, real-time environment is be expected - but
 No Silos here! Always have...
 
 - an _Understanding_ of...
-- a _Consideration_ of...
-- active _Liaison_ with...
-- ...all Other Production _Crafts_.
+- a _Consideration and Respect_ of...
+- an _Active Liaison_ with...
+- ...all Other _Crafts_.
 
 {{< /tab >}}
 {{< /tabs >}}

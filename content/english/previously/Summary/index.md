@@ -52,7 +52,7 @@ This list is (nother work in progress - there's probably loads more that I've fo
 
 ### Sky Sports News ###
 
-ç 2018 & 2020 relights
+(TO DO) 2018 & 2020 relights
 
 ### Football ⚽️
 

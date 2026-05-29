@@ -20,15 +20,16 @@ summary: "Responsible for the Lighting Design and Support for all of Sky News (U
 - Ensured a clear and consistent visual presentation to a worldwide audience 24 hours a day throughout this period, delivered with zero on-air impacting issues.
 - Primary point of direct contact / support for all lighting matters to the Studio Directors (at a high design level) and the Technical Supervisors (at the operational detail level).
 - Specified and Designed the studio lighting for all the studios in use and at that time, together with a resilient control system of hardware and software, all bespoke designed around the needs of, and feedback from, the operational end-users, in addition to personal operational experience.
-- All this was achieved in an environment of constantly evolving Production requirements, with their unpredictable studio guests and live events.
+- All this was achieved in an environment of constantly evolving Production requirements, with their unpredictable studio guests and Breaking News events.
 
 He designed not just the lighting of their regular studio output, but built or refurbished all the dedicated Sky News studios across London. In addition, he was the Lighting Director for the majority of their major one-off and recurring productions elsewhere on the Sky Campus in both General Purpose Studios and Office spaces, as well as their biggest Outside Broadcasts.
 
-These included pre-general election debates featuring the (then) Prime Ministers and Leaders of the Opposition, a landmark pre-Brexit Referendum debate, three General Election (and one US Election) Nights. He was also the Series Lighting Designer and Director for weekly shows _The Pledge_ and _The Great Debate_, as well as the two major all-day Outside Broadcasts _Big Ideas_.
+These included pre-general election debates featuring the (then) Prime Ministers and Leaders of the Opposition, a landmark pre-Brexit Referendum debate, and three General Election - and one US Election - Nights. He was also the Series Lighting Designer and Director for the weekly shows _The Pledge_ and _The Great Debate_, as well as the two major all-day Outside Broadcasts, _Big Ideas_.
 
-He successfully steered-through the transition from a single large traditional studio equipped with legacy tungsten lighting sources and manual control to a interconnected set of specialist studios across multiple locations fully-equipped with state-of-the-art efficient LED sources, designed with a wide tolerance for production fluidity. This was delivered together with a fully-bespoke multi-site remote control system used by a diverse team of non-lighting specialists.
+He successfully steered-through the transition from a single large traditional studio equipped with legacy tungsten lighting sources and manual control to a interconnected set of specialist studios distributed across multiple locations, all fully-equipped with state-of-the-art efficient LED sources and designed specifically with a wide tolerance for production fluidity. This was delivered together with a fully-bespoke multi-site remote control system designed around the needs of a large and diverse team of non-lighting specialists.
 
-{{< slider dir="images/gallery/NewsTease" >}}
+
+{{<  slider dir="images/gallery/NewsTease" Height="97x" Width="" Command="Crop">}}
 
 #### Sub Sections
 
@@ -246,9 +247,9 @@ Their end-user feedback on different choices of everything from button size and 
 
 ### The Lift from Above
 
-The support and feedback from Sky News throughout was essential, starting with the always concise - and always absolutely spot-on - the (then) **Head of Sky News, John Ryley**, and the indispensable advance information and guidance total trust and backing given by the Head of Studio Output _Jon Bennet_ succeeded by _Ben Wickeham_ - through to the many Directors, Producers, and the wider team in Sky News; far too many to name-check!
+The support and feedback from Sky News throughout was essential, starting with the always concise - and always absolutely spot-on - the (then) **Head of Sky News, John Ryley**, and the indispensable advance information and guidance total trust and backing given by the Heads of Studio Output _Jon Bennet_ and his successor _Ben Wickeham_ - through to the many Directors, Producers, and the wider team in Sky News; far too many to name-check!
 
-And of course, the cooperation and trust of the on-screen **Talent** [^1] - most memorably Kay Burley over the years - with each of whom Richard worked to ensure they had very precise but reproducible positions with appropriate lighting customised to their individual needs. He even came up with an invisible-on-camera method to mark positions on the floor to replace the usual gaudy collection of temporary sticky tape...something very important to keep the studio looking crisp and clean with camera shots often taking in the wide expanses of high quality studio floor - which leads me on to thank the great team of Set Designers at **Jago**. 
+And of course, the cooperation and trust of the on-screen **Talent** [^1] - most memorably Kay Burley over the years - with whom Richard worked to ensure they had very precise but reproducible positions they could find with appropriate and comfortable lighting customised to their individual needs. He even came up with an invisible-on-camera method to mark positions on the floor to replace the usual gaudy collection of temporary sticky tape...something very important to keep the studio looking crisp and clean with camera shots often taking in the wide expanses of high quality studio floor - which leads me on to thank the great team of Set Designers at **Jago**. 
 
 {{< sidenote >}} Often flicker of relief in the Talent's eyes when they saw that Richard was present for the build-up & launch of their latest regular strand or one-off special - often starting at some very unfriendly times of night - as they knew they could then stop worrying if they looked their best on-air (something not helped by the _variable_ setup of various studio monitors) {{< /sidenote >}}
 
