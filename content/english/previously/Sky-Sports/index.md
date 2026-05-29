@@ -14,6 +14,7 @@ summary: "Football. A LOT of people talking about football on MNF, SNF, FNF, WSL
 Use the Icons below to jump specific sports.
 {{< /notice >}}
 
+{{< button label="🏆" link="#-sports-specials-" style="animated" >}}
 {{< button label="⚽️" link="#-football-" style="animated" >}}
 {{< button label="🥊" link="#---boxing---" style="animated" >}}
 {{< button label="🏎️" link="#---f1---" style="animated" >}}
@@ -23,13 +24,38 @@ Use the Icons below to jump specific sports.
 
 {{< image src="images/logos/sky-sports-2020.png" alt="Sky Sports Logo" position="left" class="h-2 max-w-lg mx-auto" >}}
 #### Series / Lead Lighting Director for :
+
+## 🏆 Sports Specials 🏆
+
+
+### 🎮⚽️🎮 FIFA eClub UK Final 2019 
+
+
+{{< image src="images/SkySports/FIFA-eclub-3.jpg" caption="FIFA eClub 2019" height="" width="" position="left" class="img-fluid" >}}
+{{< image src="images/SkySports/FIFA-eclub-4.jpg" caption="FIFA eClub 2019" height="" width="" position="right" class="img-fluid" >}}
+
+### Game for Grenfall
+
+This unique event was for and very much with the local community affected by the Grenfall Disaster, and was held at Loftus Road. This featured not only a comedy football match, but a Commentary Box on the opposite site in a VIP booth (complete with low ceiling and glass sloping the wrong way), and a musical performance on the pitch from various acts
+
+### Gamechangers Awards with David Beckham
+
+The culmination of Sky's Gamechangers series saw it move across the road for a one-off special in Studio 4/5, featuring a very special guest in a reconfigured set. And lots of whizzy flashy lights.
+
+{{< image src="images/SkySports/GameChangers1.jpg" caption="Game Changers Awards" height="" width="" position="left" class="img-fluid" >}}
+{{< image src="images/SkySports/GameChangers2.jpg" caption="Game Changers Awards" height="" width="" position="right" class="img-fluid" >}}
+
 ## ⚽️ Football ⚽️
 
-From almost his very first day as a Freelancer, Richard was lighting studio shows that mostly consisting of between 1 and 3 people, generally sat at a desk wearing suits and discussing football. _"..game of two halves...jumpers for goalposts..."_ and so on, but... there is one long-running production strand that takes football very seriously. 
+From almost his very first day way back nearly 2 decades as a Freelancer, Richard was lighting studio shows that mostly consisting of between 1 and 3 people, generally sat at a desk wearing suits and discussing football. _"..game of two halves...jumpers for goalposts..."_ and so on.
+
+With so many matches across a myriad of different leagues and competitions of football from International to Local, with extended diversions into the Women's, Rugby, and American versions of Kick-Ball as weel, _Surely_, after such an intense and extended exposure, a detailed understanding of the _"Beautiful Game"_ {{< sidenote >}} or a bunch of millionaires running around a cold muddy field in the rain {{< /sidenote >}} would have rubbed-off on to him... [Surely...](#conclusion).
+
+But, there is one long-running production strand that takes football very seriously. 
 
 Very, very, seriously.
 
-Which, for a decade, Richard lit virtually every single broadcast of. On top of a myriad of other varieties and levels of football from International to Local, with extended diversion into Women's, Rugby, and American versions of Kick-Ball. _Surely_, after such an intense and extended exposure, a detailed understanding of the so-called _"Beautiful Game"_ of bunch of millionaires running around a cold muddy field in the rain would have rubbed-off on to him... [Surely...](#conclusion)
+And which, for a decade, Richard lit every single broadcast of. {{< sidenote >}} Very seriously. {{< /sidenote >}}
 
 ### Monday Night Football (MNF)
 
@@ -75,9 +101,9 @@ If there was one thing that could be guaranteed, with all the bleeding-edge tech
 
 #### The Studio 1 version - Time to share...
 
-After spending 4 years out of the originally-commissioned 3 years in Studio F, the resultant savings, together with another couple of million pounds found down the back of a sofa, was used to combine MNF with efforts to address the increased competition coming from an unexpected new direction (BT Sport). This time, instead of moving next door, they moved across the road instead, and into a proper purpose-built studio instead of a converted warehouse (finally!). They built a permanent, dedicated, set, but with less bleeding-edge technology and specialist subcontractors, putting to bed the years of technical gremlins that had plagued the previous iteration of MNF since the start. And, once built, when it wasn't being used, it was available for a whole host of other Sports Productions, each of whom were supposed to have their own unique area of the studio all instantly ready to go... {{< sidenote >}} Well, that was the theory that was sold - The instantly ready aspect went straight out the window, together with being confined to unique areas, once the production teams got their teeth into a new space, with so many tempting possiblities compared to their previous decades spent stuck in glorified storerooms with a 3 chairs and a desk and maybe 5 shots possible. _But I digress..._ {{< /sidenote >}}
+After spending 4 years out of the originally-commissioned 3 years in Studio F, the resultant savings, together with another couple of million pounds found down the back of a sofa, was used to combine MNF with efforts to address the increased competition coming from an unexpected new direction (BT Sport). This time, instead of moving next door, they moved across the road instead, and into a proper purpose-built studio instead of a converted warehouse (finally!). They built a permanent, dedicated, set, but with less bleeding-edge technology and specialist subcontractors, putting to bed the years of technical gremlins that had plagued the previous iteration of MNF since the start. And, once built, when it wasn't being used, it was available for a whole host of other Sports Productions, each of whom were supposed to have their own unique area of the studio all instantly ready to go... {{< sidenote >}} Well, that was the theory that was sold - The instantly ready aspect went straight out the window, together with being confined to unique areas, once the production teams got their teeth into a new space, with so many tempting possibilities compared to their previous decades spent stuck in glorified storerooms with a 3 chairs and a desk and maybe 5 shots possible. _But I digress..._ {{< /sidenote >}}
 
-The money got spent on lots and lots of video walls and graphics hardware, along with large colour-changing backlit LED panels that gave each sporting strand their own unique visual identity. They even had enough money left over to build a similar-looking "little brother" set in the smaller Studio 3 nearby. {{< sidenote >}} Moving across the road into Sky Studios also had the advantage that the Production Control Rooms and Studios can very quickly change their interconnections, allowing Production teams to set-up in one PCR whilst the studio is used by another, and then flip-over in as little as a single commercial break... provided everyone used the same or pre-prepared positions, as trying to reset lights, cameras, sound, set, in 3-5 minutes would be extremly challenging (didn't stop it being attempted occasionally!)...that's barely enough time to swap two sets of Talent (and their snacks) around! {{< /sidenote >}}
+The money got spent on lots and lots of video walls and graphics hardware, along with large colour-changing backlit LED panels that gave each sporting strand their own unique visual identity. They even had enough money left over to build a similar-looking "little brother" set in the smaller Studio 3 nearby. {{< sidenote >}} Moving across the road into Sky Studios also had the advantage that the Production Control Rooms and Studios can very quickly change their interconnections, allowing Production teams to set-up in one PCR whilst the studio is used by another, and then flip-over in as little as a single commercial break... provided everyone used the same or pre-prepared positions, as trying to reset lights, cameras, sound, set, in 3-5 minutes would be extremely challenging (didn't stop it being attempted occasionally!)...that's barely enough time to swap two sets of Talent (and their snacks) around! {{< /sidenote >}}
 
 Focusing back onto Monday Night Football, one of the technologies they retained exclusive use of (ish...was borrowed a few times by F1 and Golf) was the Virtual Graphics - this time round, the new buzzing technology was Augmented Reality (AR). This overlays tracked 3D graphics on top of the camera output, without any of the problems caused by having to key of Green surfaces whilst not keying off any reflected or bounced Green lights, so is a fraction of the cost. This is great...right up until the entire illusion is shattered when the camera moves the wrong way and suddenly something that was in the background is now on top of the foreground or Talent. As a consequence of decided they really only needed to track the Jib camera experimental and not bother with having Peds shoot the 3D sequences, they invested in the far simpler and cheaper N-Cam system this tim, which requires far less continuous correcting and no magic wands required. But only works on one camera, you can't cut between two AR-equipped cameras. Which also saves on super-expensive Viz graphics machines.
 
@@ -182,7 +208,12 @@ Anyway, Fascinating psychology.
 Half-wires in all the 2k's due exceedingly bright white shirts and very low studio ceilings _(the inverse-square law strikes again)_. 
 Packages that were consistently so late in being delivered that you'd start the day doing a Pre-recorded show, but by the time the tapes arrived, there wasn't time to edit it all together and had to overrun and go Live anyway. A precarious and potentially tense situation, delivered into calm happiness by the loverly Sara Chenery directing.
 
-Occasionally escaped Osterley and went on the road with this, too.
+Occasionally escaped Osterley and went on the road to various Arenas for this, too.
+
+- The O2 Arena (London)
+- Wembley Arena (London)
+- Manchester Arena
+- The Point, Dublin
 
 {{< image src="images/Ringside1.jpg" caption="Ringside" alt="Ringside" height="" width="" position="center" class="img-fluid" >}}
 
@@ -236,6 +267,14 @@ Surprisingly, one of the most challenging - and least predictable - Sky Sports' 
 Even more mysterious rules than non-american football, but some fabulous half-time shows for the Superbowls - and the opportunity to see what happens behind the scenes as to how those big complex stages appear in the middle of a field in less than 5 minutes : Answer, break them into large chunks, and get a lot of people to pick these chunks up at the same time. A LOT people ... 500+ !
 
 (More to follow)
+
+## 🪅 Sports Specials 🪅
+
+The 100 Launch Draft (Cricket)
+
+This was a major all-day take-over, 
+
+FIFA eClub 2019 (e-Football)
 
 ## 🤿 🏊🏽‍♂️ 🤿 Bog Snorkelling 🤿 🏊🏽‍♂️ 🤿
 

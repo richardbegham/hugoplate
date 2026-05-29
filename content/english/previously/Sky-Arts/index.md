@@ -1,5 +1,6 @@
 ---
 title: "Sky Entertainment"
+tags: ['sky', 'LE']
 date: 23 Mar 2026
 draft: false
 language: en
