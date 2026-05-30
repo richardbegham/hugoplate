@@ -6,9 +6,12 @@ language: en
 description: Summary of all shows
 weight: 10
 #featured_image: images/.png
-summary: "A list of all shows, focusing on the past 15 years."
+summary: "A list of all shows - primarily focusing on the past 15 years."
 ---
 
+
+{{< notice "Very Incomplete">}} This list is a work in progress - there's loads more to add...
+{{< /notice >}}
 ## Key
 
 | Symbol        | Primary Role | | _(can have multiple roles)_ |
@@ -21,15 +24,11 @@ summary: "A list of all shows, focusing on the past 15 years."
 
 {{< image src="images/logos/sky-news-logo.png" caption="" alt="Sky News Logo" height="" width="" position="center" command="fill" option="q100" class="h-2 max-w-lg mx-auto " title="Sky News Logo">}}
 
-{{< sidenote >}}
-This list is a work in progress - there's loads more...
-{{< /sidenote>}}
-
 ### Sky News - All Studio Output 2012 - 2023 ###
 
-- <span class="large-emoji">👫 💾</span> Studio A (Design : Don Hart)
+- <span class="large-emoji"> 👫 💾</span> Studio A (Design : Don Hart)
 
-- <span class="large-emoji"> 👨‍🎨 👑 💾</span> Studio 21 Glass Box (Initial Design : Dave Evans)
+- <span class="large-emoji"> 👫 👨‍🎨 👑 💾</span> Studio 21 Glass Box (Initial Design : Dave Evans)
 
 - <span class="large-emoji"> 👨‍🎨 👑 💾</span> Studio 6 Real & VR
 
@@ -39,20 +38,24 @@ This list is a work in progress - there's loads more...
 
 - <span class="large-emoji"> 👨‍🎨 👑 💾</span> Millbank Main, Newsroom, DTL, ENG
 
-### General Election - "Battle for..." Prime Minister, Referendum & Party Leadership Debates
+### "Battles for Number 10..." Prime Minister, Party Leadership. and Brexit Referendum Debates
 
- <span class="large-emoji"> 👨‍🎨 👑 </span> 2015, 2015, 2016 (Hub), 2017, 2019, 2022
+ <span class="large-emoji"> 👨‍🎨 👑 </span> 2015, 2015, 2016 (Hub), 2017, 2019, 2022 (F)
 
 ## Sky Sports
 {{< image src="images/logos/sky-sports-2020.png" caption="" alt="Sky Sports Logo" command="fill" position="center" option="q100" class="h-2 max-w-lg mx-auto " title="Sky Sports" >}}
 
 {{< sidenote >}}
-This list is (nother work in progress - there's probably loads more that I've forgotten...
+This list is Another work in progress - there's probably loads more that I've forgotten...
 {{< /sidenote>}}
 
 ### Sky Sports News ###
 
-(TO DO) 2018 & 2020 relights
+- <span class="large-emoji"> 👫 💾 </span> 2018 new heads relight (Design: Iain Davidson)
+- <span class="large-emoji"> 👨‍🎨 👑 💾</span>  2020 robotic cameras relight
+
+### Specials
+
 
 ### Football ⚽️
 
@@ -108,8 +111,9 @@ This list is (nother work in progress - there's probably loads more that I've fo
 
 - <span class="large-emoji">👨‍🎨 👑 👫 💾</span> Sky Studios 6, 5
 
-## Rugby Lions Tours 🏉
+## Rugby 🏉
 
+### The Lions on Tour (various)
 - <span class="large-emoji">👨‍🎨 👑 💾</span> Sky Studios 1, 4, F
 
 ## NFL (American Football inc. Superbowl) 🏈
@@ -132,7 +136,7 @@ This list is (nother work in progress - there's probably loads more that I've fo
 
 # Shortcuts
 
-{{< button label="About" link="/about" style="solid" >}}
-{{< button label="Get in Contact" link="/contact" style="outline" position="left" >}}
-{{< button label="Explore Previous Productions..." link="/previously" style="outline">}}
-{{< button label="...And discover the Present" link="/currently" style="solid" >}}
+{{< button label="About" link="/about" class="animated" >}}
+{{< button label="Get in Contact" link="/contact" class="animated" >}}
+{{< button label="Explore Previous Productions..." link="/previously" class="animated">}}
+{{< button label="...And discover the Present" link="/currently" class="animated" >}}

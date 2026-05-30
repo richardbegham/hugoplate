@@ -37,10 +37,10 @@ He successfully steered-through the transition from a single large traditional s
 To keep the volume of content readable, it has been split into Sub-Sections and Pages - you can jump ahead now, or read on.
 {{< /notice >}}
 
-- {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
-- {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
-- {{< button label="The Studio Productions" link="/previously/sky-news/#full-studio-productions" style="outline" >}}
-- {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="outline" >}}
+- {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" class="animated" >}}
+- {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" class="animated">}}
+- {{< button label="The Studio Productions" link="/previously/sky-news/#full-studio-productions" class="animated" >}}
+- {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" class="animated" >}}
 
 ## Prime Minister Debates.
 
@@ -48,9 +48,9 @@ Attempts to give the UK a version of the head-to-head "US Presidential style" De
 
 So, roll on a then-legally-fixed nice and predictable 5 year delay until the next one. Nobody could then have predicted the utter carnage the next five years would result in!
 
-{{< button label="Subsection Link - Who Wants To Be a Prime Minister?" link="previously/sky-news/battles" style="solid" >}}
+{{< button label="Subsection Link - Who Wants To Be a Prime Minister?" link="previously/sky-news/battles" class="animated" >}}
 
-{{< image src="images/SkyNews/No-audience-pressure-then.jpg" caption="The Boss is watching...No Audience Pressure, then..." alt="No Audience Pressure" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="No Audience Pressure"  webp="false" >}}
+{{< image src="images/SkyNews/No-audience-pressure-then.jpg" caption="The Boss is watching...No Audience Pressure, then..." alt="No Audience Pressure" height="" width="" position="center" command="fill" class="img-fluid" title="No Audience Pressure"   >}}
 
 <hr>
 
@@ -62,7 +62,7 @@ And for Sky News, Election Night is when all the stops come out, records are bro
 
 Richard designed, built, and ran the lighting for the main overnight studio presentation for the UK General Elections in 2015, 2017, 2019, and also for the USA Election in 2020. Plus setup various Local Election Night Specials in the Millbank Newsroom.
 
-{{< button label="Read more here about The Biggest Nights of Political Tension ...Since The Last One" link="previously/sky-news/elections" style="solid" >}}
+{{< button label="Read more here about The Biggest Nights of Political Tension ...Since The Last One" link="previously/sky-news/elections" class="animated" >}}
 
 <hr>
 
@@ -80,7 +80,7 @@ All-Day Channel Takeovers... or just a Very Grand Lady doing a piece to camera..
 
 ### Regular studio Output - Introduction
 
-The construction and build of these are covered in detail in the {{< button label="Studio Builds section" link="/previously/Sky-Studios" style="outline" >}}
+The construction and build of these are covered in detail in the {{< button label="Studio Builds section" link="/previously/Sky-Studios" class="animated" >}}
 
 The lighting for all the day-to-day use of these dedicated News studio spaces was designed and set by Richard, as well as providing Oversight and Support to the Technical Supervisors who had to operate them day-to-day. He was then frequently called-in to revise the lighting ahead of any major changes or unusual one-off usage. A random selection of example images are shown below :
 
@@ -257,11 +257,11 @@ And of course, the cooperation and trust of the on-screen **Talent** [^1] - most
 
 ### Navigation
 
-- {{< button label="Top of Page" link="/previously/sky-news" style="animated" >}} 
-- {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="animated" >}} 
-- {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="solid" >}} 
-- {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="solid" >}} 
-- {{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="solid" >}}
+- {{< button label="Top of Page" link="/previously/sky-news" class="animated" >}} 
+- {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" class="animated" >}} 
+- {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" class="animated" >}} 
+- {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" class="animated" >}} 
+- {{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" class="animated" >}}
 
-- {{< button label="...Previously" link="/previously" style="animated" >}} 
-- {{< button label="Home" link="/" style="animated" >}} 
+- {{< button label="...Previously" link="/previously" class="animated" >}} 
+- {{< button label="Home" link="/" class="animated" >}} 

@@ -20,6 +20,8 @@
   @apply border-dark text-text-dark dark:border-darkmode-primary dark:text-white
 }
 
+/* top menu boxes */
+
 .nav-link-animate::before {
   content: '';
   /* Start (not animated) position */
@@ -41,6 +43,8 @@
 .nav-link-animate:hover::after {
   @apply w-[calc(100%+10px)] h-[calc(100%+10px)];
 }
+
+/* normal buttons */
 
 /* Button Animation (Stops at 75%) */
 .btn-border-animate {

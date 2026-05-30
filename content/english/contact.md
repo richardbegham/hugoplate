@@ -11,7 +11,7 @@ description: Contact Page
 
 <section class="lg:pb-24">
   <div class="max-w-3xl px-4 mx-auto">
-      <img src="https://www.lightingdir.com/images/getintouch.jpg" alt="Left" class="h-auto" title="Giant Envelope saying 'get in touch'"  height=384px webp="false">
+      <img src="/images/getintouch.jpg" class="h-auto" title="Giant Envelope saying 'get in touch'" >
       <p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">Got a Project - large or small - that Richard can help you with?<br />Have a burning Question seeking an Answer?<br />Feedback about the website?<br />...Lunch?</p>
       <form name="contact" action="https://formsubmit.co/af30fc0fd05c2582bfd5ba4ce5435601" method="POST" class="space-y-8">
           <div class="my-4">
@@ -20,7 +20,7 @@ description: Contact Page
           </div>
           <div class="my-4">
               <label for="email" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-300"><strong>Your Email:</strong></label>
-              <input type="email" name="email" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-md rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light" placeholder="Your.Name@Example.Com" required>
+              <input type="email" name="email" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-md rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light" placeholder="Email.Address@Example.Com" required>
           </div>
           <div class="my-4">
               <label for="phone" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-300"><strong>Your Phone Number:</strong></label>
@@ -49,6 +49,7 @@ description: Contact Page
 </section>
 
 
-{{< button label="About" link="/about" style="solid" >}}
-{{< button label="...Previously" link="/previously" style="solid" >}}
-{{< button label="Currently..." link="/currently" style="solid" >}}
+
+{{< button label="About" link="/about" class="animated" >}}
+{{< button label="Explore Previous Productions..." link="/previously" class="animated">}}
+{{< button label="...And discover the Present" link="/currently" class="animated" >}}
