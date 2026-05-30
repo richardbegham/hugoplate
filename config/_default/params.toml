@@ -41,19 +41,6 @@ enable = true
 label = "The STLD"
 link = "https://www.stld.org.uk/"
 
-[llms]
-# Set to false to disable /llms.txt generation
-enable = true
-
-# Set to false to disable /llms-full.txt generation
-enable_full = true
-
-# Limit to specific paths (e.g. "/about/", "/blog/*", "/blog/**"). Empty = all pages.
-include = []
-
-# Exclude specific paths (same wildcard formats as include). Include takes priority on conflicts.
-exclude = []
-
 # LLMs Configuration
 # LLMs module: https://github.com/gethugothemes/hugo-modules/tree/master/llms-txt
 [llms]
