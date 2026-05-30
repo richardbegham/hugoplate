@@ -7,27 +7,27 @@ logo_darkmode = "images/logo-darkmode.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
-logo_height = "55px"
+logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "LightingDir.com"
+logo_text = "Hugoplate"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
 theme_switcher = true
 theme_default = "system" # available options [light/dark/system]
 # Main Sections
-mainSections = ["previously"]
+mainSections = ["blog"]
 # contact form action
-contact_form_action = "https://formsubmit.co/af30fc0fd05c2582bfd5ba4ce5435601" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright =  "Thankyou for visiting this website. Richard is currently actively seeking new opportunities in the UK and internationally. If you have a project that you think he could help you with, please get in touch via the Contact page."
+copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -41,16 +41,15 @@ enable = true
 label = "The STLD"
 link = "https://www.stld.org.uk/"
 
+# LLMs Configuration
+# LLMs module: https://github.com/gethugothemes/hugo-modules/tree/master/llms-txt
 [llms]
 # Set to false to disable /llms.txt generation
-enable = true
-
+generate_llms_txt = true
 # Set to false to disable /llms-full.txt generation
-enable_full = true
-
+generate_llms_full_txt = true
 # Limit to specific paths (e.g. "/about/", "/blog/*", "/blog/**"). Empty = all pages.
 include = []
-
 # Exclude specific paths (same wildcard formats as include). Include takes priority on conflicts.
 exclude = []
 
@@ -58,7 +57,7 @@ exclude = []
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
 [search]
 enable = true
-primary_color = "#121252"
+primary_color = "#121212"
 include_sections = ["blog"]
 show_image = true
 show_description = true
@@ -67,19 +66,19 @@ show_categories = true
 
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
-#[announcement]
-#enable = false
-#expire_days = 7
-#content = "<span class='text-center block'>♥️ Loving Hugoplate? <a class='underline' href='https://github.com/zeon-studio/hugoplate' target='_blank' rel='noopener'>Please ⭐️ on Github</a></span>"
+[announcement]
+enable = true
+expire_days = 7
+content = "<span class='text-center block'>♥️ Loving Hugoplate? <a class='underline' href='https://github.com/zeon-studio/hugoplate' target='_blank' rel='noopener'>Please ⭐️ on Github</a></span>"
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Lighting", "Design", "Television"]
-description = "Lighting Design and Direction for Broadcast Television"
-author = "richard bowles"
-twitter = ""
-image = "images/logo-big.png"
+keywords = ["Boilerplate", "Hugo"]
+description = "Hugo & Tailwindcss Starter"
+author = "zeon.studio"
+twitter = "zeon_studio"
+image = "images/og-image.png"
 
 
 # site verifications
@@ -96,8 +95,8 @@ mastodon = "" # Your verification code
 [cookies]
 enable = false
 expire_days = 60
-content = "This site does not use cookies or track you. But we thought it would be fun to annoy you anyway."
-button = "I hate you"
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
 
 # diagrams
 [mermaid]
@@ -123,3 +122,9 @@ enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+
+# OpenRemark Comments
+[open_remark]
+enable = true
+site_key = "cmq51sse6000504l2761vcywi"                 # your site key from the OpenRemark dashboard
+embed_url = "https://open-remark.zeon.studio/embed.js" # OpenRemark embed.js URL | Make sure it didn't change
