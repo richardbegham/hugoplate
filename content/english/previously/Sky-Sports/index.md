@@ -14,13 +14,13 @@ summary: "Football. A LOT of people talking about football on MNF, SNF, FNF, WSL
 Use the Icons below to jump specific sports.
 {{< /notice >}}
 
-{{< button label="🏆" link="#-sports-specials-" style="animated" >}}
-{{< button label="⚽️" link="#-football-" style="animated" >}}
-{{< button label="🥊" link="#---boxing---" style="animated" >}}
-{{< button label="🏎️" link="#---f1---" style="animated" >}}
-{{< button label="🏉" link="#-rugby-lions-tours-" style="animated" >}}
-{{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" style="animated" >}}
-{{< button label="🤿" link="#---bog-snorkelling---" style="animated" >}}
+{{< button label="🏆" link="#-sports-specials-" class="animated" >}}
+{{< button label="⚽️" link="#-football-" class="animated" >}}
+{{< button label="🥊" link="#---boxing---" class="animated">}}
+{{< button label="🏎️" link="#---f1---" class="animated" >}}
+{{< button label="🏉" link="#-rugby-lions-tours-" class="animated" >}}
+{{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" class="animated" >}}
+{{< button label="🤿" link="#---bog-snorkelling---" class="animated" >}}
 
 {{< image src="images/logos/sky-sports-2020.png" alt="Sky Sports Logo" position="left" class="h-2 max-w-lg mx-auto" >}}
 #### Series / Lead Lighting Director for :
@@ -64,7 +64,7 @@ And which, for a decade, Richard lit every single broadcast of. {{< sidenote >}}
 {{< accordion "Expand for the long story" >}}
 Sky Sport's Premier League flagship production, led by the pundits Gary Neville and Jamie Carragher, delivers unusually long and highly detailed analysis during the studio-based pre-, mid-, & post- match coverage, along with more cameras deployed than for any other match. This had four different iterations over Richard's time, starting with the original Studio G production, first lit by Malcolm Reed (lots of MiStrip, Pixellines, a very unhelpful header, and an even more light-unfriendly £100k (back in 2011...) 103" Touchscreen...)
 
-The first day that Richard was due to go solo on this production, it had - very unexpectedly - had the plug pulled on it for the rest of that season half-way through the Rig, when the original presenters (Keys & Gray) were very abruptly & very publicly sacked, after tapes of some of their long-running unacceptable off-screen behaviors were [leaked to the Guardian.](https://www.theguardian.com/football/2011/jan/24/andy-gray-richard-keys-sexist-comments).
+The first day that Richard was due to go solo on this production, it had half-way through the Rig, and very unexpectedly, the plug pulled for the rest of that season, when the original presenters (Keys & Gray) were very abruptly & very publicly sacked, after tapes of some of their long-running unacceptable off-screen behaviors were [leaked to the Guardian.](https://www.theguardian.com/football/2011/jan/24/andy-gray-richard-keys-sexist-comments).
 
 {{< /accordion >}}
 
@@ -304,7 +304,7 @@ p.s.
 
 {{< button label="Sky Sports - Top of Page" link="/previously/sky-sports" style="solid" >}}
 
-{{< button label="About" link="/about" style="solid" >}}
-{{< button label="Get in Contact" link="/contact" style="outline" position="left" >}}
-{{< button label="Explore Previous Productions..." link="/previously" style="outline">}}
-{{< button label="...And discover the Present" link="/currently" style="solid" >}}
+{{< button label="About" link="/about" class="animated" >}}
+{{< button label="Get in Contact" link="/contact" class="animated" >}}
+{{< button label="Explore Previous Productions..." link="/previously" class="animated">}}
+{{< button label="...And discover the Present" link="/currently" class="animated" >}}
