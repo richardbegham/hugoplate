@@ -17,10 +17,15 @@ This led to an interesting trip to see BBC Belfast Studios - as well as the city
 
 <hr>
 
-For one day most months, his small stock of [PSC lights](/lights) have been single-handidly been rigged and operated by Richard for his on-going voluntary work supporting of the [Brooklands Museum Members' Talks](https://youtube.com/playlist?list=PLx4w0Uz8rNl-JqwKiLz6OENRh0v0L_h46&si=AeVNxjiS1AWpSFJo) to improve both the Live and YouTube visuals 
+- {{< button label="Home" link="/" class="animated" >}} 
+{{< button label="About" link="/about" class="animated" >}} 
+{{< button label="Get in Touch" link="/contact"  class="animated" >}}
 
-For a taster of these, try the first one Richard was asked to do - which instantly got him hooked.  
-Fascinating...and hilarious :
+<hr>
+
+For one day most months, his small stock of {{< button label="PSC Lights" link="/lights" class="animated" >}} have been single-handidly been rigged and operated by Richard for his on-going voluntary work supporting of the {{< button label="Brooklands Museum Members' Talks" link="https://youtube.com/playlist?list=PLx4w0Uz8rNl-JqwKiLz6OENRh0v0L_h46&si=AeVNxjiS1AWpSFJo" class="animated" >}} to improve both their Live and YouTube visual impact. 
+
+For a taster of these, try the first one Richard was asked to do - which instantly got him hooked.  Fascinating...and hilarious - British eccentricity at its finest!
 
 {{< youtube CmRPLC4NK2Y >}}
 
@@ -30,11 +35,12 @@ Fascinating...and hilarious :
 
 <hr>
 
-{{< image src="images/getintouch.jpg" alt="Golden Get In Touch Envelope" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Go on Go on Go on - Get in Touch!" >}}
+{{< image src="images/getintouch.jpg" alt="Golden Get In Touch Envelope" position="center" command="fill" option="q100" class="img-fluid" caption="Go on Go on Go on - Get in Touch!" >}}
 
 ...And this is where you come in - Get in touch, lets see what we can do together!
 
-{{< button label="Get in Touch" link="/contact" style="solid" >}}
+<hr>
 
-{{< button label="About" link="/about" style="solid" >}}
-{{< button label="...Previously" link="/previously" style="solid" >}}
+- {{< button label="Home" link="/" class="animated" >}} 
+{{< button label="About" link="/about" class="animated" >}} 
+{{< button label="Get in Touch" link="/contact"  class="animated" >}}

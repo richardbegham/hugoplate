@@ -76,8 +76,8 @@ All AI image creations and modifications were done using standard free-tier [Goo
 > Design an icon of a large envelope angled at about 25 degrees with 2 people holding each end the one on the left kneeling the one on the right reaching up high. The background should be a stunning light display from a concert. Colour scheme should be muted blues and gold tones.
 {{< /notice >}}
 
-## Links
+<hr>
 
-- {{< button label="...Currently" link="/currently" class="animated" >}}
-{{< button label="...Previously" link="/previously" class="animated" >}} 
 - {{< button label="Home" link="/" class="animated" >}} 
+{{< button label="About" link="/about" class="animated" >}} 
+{{< button label="Get in Touch" link="/contact"  class="animated" >}}
