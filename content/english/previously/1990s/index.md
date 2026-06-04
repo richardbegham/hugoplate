@@ -11,9 +11,17 @@ featured_image: images/VeryOldShows/Austin2.png
 
 ## The Early Years
 
-As the 1990's dawned, [Richard](/about) plunged head-first into his University's Student's Union voluntary Stage Crew organisation; initially focusing on live Sound, but rapidly discovering that his real interest and instinctive abilities were in lighting. This gave him a great insight in to all the roles in Event Production as everyone had to be able to do everything! The first key skill everyone had to learn was coiling cables... which is something you never stop doing, although they are less coated in stale beer nowadays. whilst discovering and learning all about Event Production - and, of course, how to coil cables, something you never stop doing ... although they are less likely to be coated in beer on the floor of Buckingham Palace.), but rapidly discovering that his real interest was in lighting,. as an enthusiastic and dedicated amateur learning the basics of events and lighting at his University's Student Union, which had strong ties to the underground early Rave scene _(...with its surprisingly close cross-over with the local crusty folk-rock scene...)_ in North Wales, Richard without declined the career he was offered as a project manager in the defense industry for the insecurity of being a freelancer in the entertainment industry. He found sleeping on cold stages being paid in bread and beer more interesting, although financially dubious.
+As the 1990's dawned, [Richard](/about) plunged head-first into his University's Student's Union voluntary Stage Crew organisation; initially focusing on live Sound, but rapidly discovering that his real interest and instinctive abilities were in lighting. This gave him a great insight in to all the roles in Event Production as everyone had to be able to do everything!
 
-This decision proved to be a good one, and the pay increased. Well, it couldn't really decrease. His first year continued along the same lines, except scaled-up. Early shows were often large-scale all-night raves at legendary venues such as the Sanctuary in Milton Keynes. These shows were awash with the then new-fangled moving-lights with which Richard was at the time deeply obsessed by, seeing their serious and artistic uses beyond the flash'n'trash and unreliability most others did at that point. He established himself as an expert in the use of ground-breaking units such as the _Golden Scan 3, VL-5/6, NAT, Cyberlight,_ and later the _Mac-500 & 600_. And also using the revolutionary new digital control systems that abstractred the controls from their phyiscial values, chiefly the WholeHog II, ScanCommander (predecessor to the GrandMA) and then later the Compulite Sabre and Vector.
+The first key skill everyone had to learn was coiling cables - a vital skill which is something you will never stop doing, even when at Buckingham Palace, although thankfully they are less-often coated in stale beer {{< sidenote >}} or worse... {{< /sidenote >}} nowadays - whilst discovering and learning about all aspects Event Production. 
+
+With a mixture of live bands {{< sidenote >}}a few of which were actually good, even the crusty folk-rock ones{{< /sidenote >}} and the areas' strong ties to the local underground early Rave scene, Richard declined the career he originally had been heading-into as a project manager in the aerospace industry (despite a good job offer) for the insecurity of the entertainment industry.
+
+He found sleeping on cold stages being paid in bread and beer more interesting, although financially dubious.
+
+This decision proved to be a good one, and the pay increased. Well, it couldn't really decrease.
+
+His first year continued along the same lines as it had a university, except scaled-up. Early shows were often large-scale all-night raves at legendary venues such as the Sanctuary in Milton Keynes. These shows were awash with the then new-fangled moving-lights, with which Richard was at the time deeply obsessed by, seeing their serious and artistic uses beyond the flash'n'trash and unreliability that most others did at that point. With the blind confidence of youth, he positioned himself as an expert in the use of ground-breaking units such as the _Golden Scan 3, VL-5/6, NAT, Studio Color, Cyberlight,_ and later the _Mac-500 & 600_. Fortunately, after a few years of making them jump through hoops with semi-analogue controllers such the Jands Event, he started using the revolutionary new digital control systems that abstracted the controls from their physical values, chiefly the WholeHog II, ScanCommander (predecessor to the GrandMA) and then later the Compulite Sabre and Vector.
 
 ### Early Goals
 
@@ -32,7 +40,7 @@ _And then, just 6 months later, on the last day of the year - and still not yet 
 
 #### ...sort of...
 
-{{< slider dir="images/VeryOldShows/Wembley" class="max-w-[600px] ml-0" height="273" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< slider dir="images/VeryOldShows/Wembley" class="max-w-150 ml-0" height="273" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 Ok, so it was actually the _Wembley Exhibition & Conference Center_, not the _Wembley Arena_ next door, and definitely NOT the adjacent world-famous _*Wembley Stadium*_ ...which is what he meant...but didn't clearly state. Still, it's made a good story when down the pub ever since...
 
@@ -48,15 +56,19 @@ Which is just as well, because any further goals that might then have been set w
 
 But, long-term, many achievements happened instead that he would never have dreamed-of; taking him to places, situations, and meeting people from the very top to the very bottom.
 
-Plus a lot of people talking about football. A LOT of people. Football. Oh, Balls...
+{{< sidenote >}}
+And a lot of people talking about football. A LOT of people. Football. Oh, Balls...
+But that's a long way off at this point in time.
+{{< /sidenote >}}
 
-Anyway, we're getting ahead of ourselves.
+#### What else happened in this very early period after going "Pro"?
 
 Here are some of things that happened that can be talked about.
+{{< sidenote >}}
+None of which invovled football
+{{< /sidenote >}}
 
-And aren't, mostly, football.
-
-At some point in this year, did The Prodigy for the third time. Although, due to an staffing problem, rather bizarrely Richard ended-up doing their FOH sound instead of the lights. P
+At some point in this year, he did The Prodigy for the third time. Although, due to an staffing problem, rather bizarrely Richard ended-up doing their FOH live sound instead of the lights. We shall gloss over how poor it probably was.
 
 #### What else happened in this very early period after going "Pro"?
 

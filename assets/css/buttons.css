@@ -25,7 +25,7 @@
 .nav-link-animate::before {
   content: '';
   /* Start (not animated) position */
-  @apply absolute top-0 left-0 w-[10px] h-[10px] transition-all duration-300 ease-out;
+  @apply absolute top-0 left-0 w-2.5 h-2.5 transition-all duration-300 ease-out;
   border-top: 2px solid;
   border-left: 2px solid; 
 }
@@ -33,7 +33,7 @@
 .nav-link-animate::after {
   content: '';
   /* Start position */
-  @apply absolute bottom-0 right-0 w-[10px] h-[10px] transition-all duration-300 ease-out;
+  @apply absolute bottom-0 right-0 w-2.5 h-2.5 transition-all duration-300 ease-out;
   border-bottom: 2px solid;
   border-right: 2px solid;
 }
@@ -55,14 +55,14 @@
 .btn-border-animate::before {
   content: '';
   /* Start (not animated) position */
-  @apply absolute top-0 left-0 w-[10px] h-[10px] transition-all duration-300 ease-out;
+  @apply absolute top-0 left-0 w-2.5 h-2.5 transition-all duration-300 ease-out;
   border-top: 2px solid;
   border-left: 2px solid; 
 }
 
 .btn-border-animate::after {
   content: '';
-  @apply absolute bottom-0 right-0 w-[10px] h-[10px] transition-all duration-300 ease-out;
+  @apply absolute bottom-0 right-0 w-2.5 h-2.5 transition-all duration-300 ease-out;
   border-bottom: 2px solid;
   border-right: 2px solid;
 }

@@ -6,17 +6,38 @@ language: en
 banner:
   title: "Welcome to LightingDir.com"
   content: "The website of Richard Bowles"
-  image: "images/Under-Construction-big.png"
+  image: "images/logo-big.png"
+  content2: ""
 features:
+  - title: "Hello and welcome"
+    image: "images/gallery/Sessions-2/SESSION2015_016.jpg"
+    content: "This site is all about the Lighting work Richard Bowles has undertaken, most of which has been for Broadcast Television in the UK, along with a significant amount of Live Events (i.e. Concerts, Corporates, etc) across the UK, Europe, and elsewhere. Oh, and some Films."
+    button:
+      enable: true
+      label: "🚀 Click / Press / Lick here to find out lots more! 🚀"
+      link: "about"
+      class: "animated" 
+  - title: "Under Construction"
+    image: "images/Under-Construction-big.png"
+    content: "There's a _lot_ to add to this site, and that takes time to get right"
+    bulletpoints:
+      - "So please keep checking back for more!"
+      - "Last major update : Thursday 4th July 2026"
+    button:
+      enable: true
+      label: "🚀 This way! 🚀"
+      link: "about"
+      class: "animated" 
   - title: "AI Content"
     image: "images/Under-Construction-banner.jpg"
     content: "This image is one of a very small number of bespoke illustrative gen-AI imagery content used on this site."
     bulletpoints:
-      - "Except where listed, all the rest of the still images are real - as to be imperfect, is to be human..."
-      - "Anyway, enough of that, lets get on to the main content"
+      - "It's pretty obviously AI, but we just thought we'd take the opportunity to both point what an impressive _(although full of impossibilities)_ image it is from a very basic prompt, and then to link to our disclosure statement."
+      - "Except where explicitly stated, all the still images are real - as to be imperfect, is to be human..."
+      - "All video content is unmodified. ...Although if we could, that Britney debut from 1999..."
     button:
       enable: true
-      label: "🚀 Click / Press / Lick here to find out more! 🚀"
-      link: "about"
-      class: "animated" 
+      label: "Full AI Disclosure statement"
+      link: "AI"
+      class: "animated"
 ---

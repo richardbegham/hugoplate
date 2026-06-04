@@ -25,7 +25,7 @@ summary: "A small collection of lights that are often useful get-out-of-jail-fre
 - LED version of the classic 2-cell Molephay, except without the miles of socapex and dimmers, or heat.
 - Variable-white colour temperature, single-cell control, even strobe should you be that way inclined.
 
-{{< slider dir="/lights/images/" class="max-w-[300px] ml-0"  >}}
+{{< slider dir="/lights/images/" class="max-w-75 ml-0"  >}}
 
 <hr>
 

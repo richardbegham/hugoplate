@@ -49,7 +49,7 @@ The culmination of Sky's Gamechangers series saw it move across the road for a o
 
 From almost his very first day way back nearly 2 decades as a Freelancer, Richard was lighting studio shows that mostly consisting of between 1 and 3 people, generally sat at a desk wearing suits and discussing football. _"..game of two halves...jumpers for goalposts..."_ and so on.
 
-With so many matches across a myriad of different leagues and competitions of football from International to Local, with extended diversions into the Women's, Rugby, and American versions of Kick-Ball as weel, _Surely_, after such an intense and extended exposure, a detailed understanding of the _"Beautiful Game"_ {{< sidenote >}} or a bunch of millionaires running around a cold muddy field in the rain {{< /sidenote >}} would have rubbed-off on to him... [Surely...](#conclusion).
+With so many matches across a myriad of different leagues and competitions of football from International to Local, with extended diversions into the Women's, Rugby, and American versions of Kick-Ball as well, _Surely_, after such an intense and extended exposure, a detailed understanding of the _"Beautiful Game"_ {{< sidenote >}} or a bunch of millionaires running around a cold muddy field in the rain {{< /sidenote >}} would have rubbed-off on to him... [Surely...](#conclusion).
 
 But, there is one long-running production strand that takes football very seriously. 
 

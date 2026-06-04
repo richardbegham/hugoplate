@@ -28,8 +28,10 @@ These included pre-general election debates featuring the (then) Prime Ministers
 
 He successfully steered-through the transition from a single large traditional studio equipped with legacy tungsten lighting sources and manual control to a interconnected set of specialist studios distributed across multiple locations, all fully-equipped with state-of-the-art efficient LED sources and designed specifically with a wide tolerance for production fluidity. This was delivered together with a fully-bespoke multi-site remote control system designed around the needs of a large and diverse team of non-lighting specialists.
 
+<hr>
+{{<  gallery dir="images/gallery/NewsTease" Height="" Width="50" Command="Crop">}}
 
-{{<  slider dir="images/gallery/NewsTease" Height="97x" Width="" Command="Crop">}}
+<hr>
 
 #### Sub Sections
 
@@ -72,7 +74,7 @@ All-Day Channel Takeovers... or just a Very Grand Lady doing a piece to camera..
 
 {{< image src="images/SkyNews/Queen-2.jpg" caption="No introduction needed" alt="The Queen" height="" width="" position="center" >}}
 
-{{< button label="Read more here about Outside Broadcasts" link="previously/sky-news/outside" style="solid" >}}
+{{< button label="Read more here about Outside Broadcasts" link="previously/sky-news/outside" class="animated" >}}
 
 <hr>
 
@@ -96,10 +98,22 @@ The Iconic and unique studio, with its cameras hanging down from the ceiling, a 
 
 {{< gallery dir="images/SkyNews/Studio21" height="400" >}}  
 
+{{< youtube "4cvfhd06JMU" >}}
+
+
 #### Studio 6 - double-ended Real and Virtual Studio
 
-(more info to follow)
-{{< gallery dir="images/SkyNews/Studio6" height="400" >}}
+Although one studio, this was effectively two seperate studios. One end had a U-shaped Green Screen space, and the other had a U-shaped set of video walls surrounding a desk capable of up to 6 people sat around it (2 per side), and was originally designed for the _Sunrise_ breakfast show as well as for overnight / disaster recovery use.
+
+This was originally designed to fit on an unused area of the 2nd floor (above the coffee shop and next to the proposed new Newsrooom area)...until it was realised that section of the building was cantellevered over thin air, and would need substantial reinforcement to take the weight of the video walls. Oops. So it was then hurridly transposed to Studio 6 - eviciting Soccer Saturday to a smaller studio mid-season, which was a complex challenge to seamlessly achieve within in a week in its own right. And...then it was found that the cameras moved with the production, there was no budget left for Sony 4300 as per the Glass Box, resulting in a bodge to first source and then install LDK-8000 cameras into the galleries, which then in turn messed-up the intended lighting control position... {{< sidenote >}}And that's the vastly simplified story... {{< /sidenote >}}.
+
+In all big and interconnected projects, nothing pans-out entirely as intended!
+
+The intention was to feature live walks from the Virtual to the Real, similar to that in the then-current version of [MNF](/previously/sky-sports/#-football-) was found to both visually not work well (due to a hard transition as the presenter walked in and out of the chroma-key'ed space (needed because removing the green component of images in a video walls... does not end well) - and because it was just too long a walk). Inspired by the MNF set, the transition unfortunatly did not work as well, because shooting a mid-shot of the presenter talking in a studio with bright bright concrete and steel walls (to match the look of Studio 21) can't hide awkward transitions in the same way that black shoot-off and a very wide jib shot could.
+
+{{< youtube "Jq-ZTuh7OQg" >}}
+
+{{< youtube "MtA_lKXCT_E" >}}
 
 #### Millbank - multi-purpose studio
 
@@ -257,11 +271,11 @@ And of course, the cooperation and trust of the on-screen **Talent** [^1] - most
 
 ### Navigation
 
-- {{< button label="Top of Page" link="/previously/sky-news" class="animated" >}} 
+- {{< button label="Top of Page (Introduction)" link="/previously/sky-news" class="animated" >}} 
 - {{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" class="animated" >}} 
-- {{< button label="The Election Nights that followed" link="/previously/sky-news/elections" class="animated" >}} 
-- {{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" class="animated" >}} 
-- {{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" class="animated" >}}
+{{< button label="The Election Nights that followed" link="/previously/sky-news/elections" class="animated" >}} 
+{{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" class="animated" >}} 
+{{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" class="animated" >}}
 
 - {{< button label="...Previously" link="/previously" class="animated" >}} 
-- {{< button label="Home" link="/" class="animated" >}} 
+{{< button label="Home" link="/" class="animated" >}} 

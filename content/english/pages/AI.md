@@ -2,13 +2,14 @@
 title: AI Content Full disclosure
 date: 2026-04-09
 draft: false
-featured_image: images/getintouch.jpg
 language: en
 description: AI info page
 ---
 # Website code
 
-This site has been developed by hand and took far longer than anticipated. Its also far bigger and more detailed than anticipated, has head in some unexpected directions, and looks a lot better. A very typically human project. AI was consulted at times to help with some particularly challenging coding issues, and was found to be incredibly confident with its completely wrong answers.
+This site has been developed by hand and took far longer than anticipated. Its also far bigger and more detailed than anticipated, has ended-up heading-off in some unexpected directions, and is overall a lot better for it. A very typically Human project, especially when the Human (probably) had ADHD.
+
+AI was consulted at times to help with some particularly challenging coding issues, and was found to be incredibly confident with its often completely wrong answers.
 
 # Show Images
 
@@ -19,7 +20,7 @@ Use of Photoshop for enhancement is limited to basic photography tools such as _
 Images are taken from Original Studio Recordings or Off-Air Broadcast recordings, as well as Still Photography.
 
 
-# Excruciatingly detailed Full Disclosure of all AI visual content on this site
+# Excruciatingly detailed Full Disclosure of all AI content on this site
 
 All AI image creations and modifications were done using standard free-tier [Google Gemini & Nano Banana-2](https://gemini.google.com) .
 
@@ -77,5 +78,6 @@ All AI image creations and modifications were done using standard free-tier [Goo
 
 ## Links
 
-- {{< button label="...Previously" link="/previously" style="border-animate" >}}
-- {{< button label="...Currently" link="/currently" style="animate" >}}
+- {{< button label="...Currently" link="/currently" class="animated" >}}
+{{< button label="...Previously" link="/previously" class="animated" >}} 
+- {{< button label="Home" link="/" class="animated" >}} 
