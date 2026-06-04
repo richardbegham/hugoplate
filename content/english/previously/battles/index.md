@@ -5,7 +5,7 @@ date: 20 Mar 2026
 draft: false
 language: en
 description: The Sky Years - Sky News - The Political Debates
-weight: 13
+weight: 133
 parent: "previously/sky-news"
 summary: "Live Debates between rival candidates for Prime Minster happened far more often from 2015 than anyone expected!"
 ---
@@ -16,10 +16,10 @@ Attempts to give the UK a version of the head-to-head "US Presidential style" De
 
 So, roll on the then-legally-fixed nice and predictable 5 year delay until the next one. And then... nobody could then have predicted the utter carnage the next five years would result in. {{< sidenote >}}, even those encouraging the chaos from 1500 miles to the east (...!) {{< /sidenote >}}
 
-{{< gallery dir="images/gallery/Debates" class="" height="10px" width=""  command="clip" >}}
+{{< slider dir="images/gallery/Debates" >}}
 
 {{< notice "warning" >}}
-The videos shown below are of their time and have highly polarising political content - LightingDir.Com neither endorses or opposes any of the views expressed; however we do recommend use of the 🔇 _Mute_ button should your blood pressure rise at any point.
+The videos shown below are of their time and have highly polarising political content - LightingDir.Com neither endorses or opposes any of the views expressed; however we do recommend use of your  _Mute_ 🔇 button should your blood pressure rise at any point.
 {{< /notice >}}
 
 {{< tabs >}}
@@ -117,7 +117,7 @@ The results were very crisp and clean, thanks to a great time all working togeth
 
 ### Johnson vs Corbyn (Studio 4/5)
 
-#### Built, rehearsed, then cancelled due to Boris refusing to come
+Built, rehearsed, then cancelled due to Boris refusing to come
 
 Still, everyone got to rehearse the show again, just in case they had missed the previous four in as many years...
 
@@ -144,9 +144,7 @@ Turned-out they they both "won" in quick succession - although Sunack lasted in 
 
 ## Knights of Illumination Awards 2017
 
-A totally unexpected upshot of these debates, was that in 2017 Richard was honoured and amazed to receive a Nomination for **Best Small Studio** in the annual _Knight of Illumination Award_. This peer-nominated and judged award - now superseded by the [Profile Awards](https://profileawards.com/television-categories/) - was the lighting version of being nominated for a Brit.
-
-_Yes, Studio 4/5 may be the biggest TV studio Sky has, but its still a small studio compared to the ones used for the likes of Strictly / X-Factor / etc, let alone their own Film stages. Its also a very unhelpful sausage shape, but that's another story entirely._ 
+A totally unexpected upshot of these debates, was that in 2017 Richard was amazed at being honoured by receiving a Nomination in the annual _Knight of Illumination Award_  for the **Best Small Studio** category. This peer-nominated and judged award - now superseded by the [Profile Awards](https://profileawards.com/television-categories/) - was the lighting version of being nominated for a Brit. {{< sidenote >}} Yes, Studio 4/5 may be the biggest TV studio Sky has, but its still a small studio compared to the ones used for the likes of Strictly / X-Factor / etc, let alone their own Film stages. Its also a very unhelpful sausage shape, but that's another story entirely._ {{< /sidenote >}}
 
 {{< image src="images/KOI-2.jpg" caption="Where's Wally?" alt="All Nominees" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="All Nominees" >}}
 
@@ -155,9 +153,9 @@ _Yes, Studio 4/5 may be the biggest TV studio Sky has, but its still a small stu
 ## Navigation
 
 - {{< button label="News: Introduction" link="/previously/sky-news" class="animated" >}} 
-- {{< button label="News: Election Nights" link="/previously/sky-news/elections" class="animated" >}} 
-{{< button label="News: Outside Broadcasts" link="/previously/sky-news/outside" class="animated" >}} 
-{{< button label="News: Full Studio Productions" link="/previously/sky-news/#full-studio-productions" class="animated" >}}
+- {{< button label="News: Election Nights" link="/previously/elections" class="animated" >}} 
+{{< button label="News: Outside Broadcasts" link="/previously/outside" class="animated" >}} 
+{{< button label="News: Full Studio Productions" link="/previously/sky-news#full-studio-productions" class="animated" >}}
 
 - {{< button label="Home" link="/" class="animated" >}} 
 

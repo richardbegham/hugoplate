@@ -78,11 +78,11 @@ The upshot of this success was Sky Sports putting their hand in their pocket, an
 
 World-leading technologies stretched the boundaries of what could be achieved in a live studio environment with the Mixed-Reality set from 2013-2017 in Studio F, powerfully led by Senior Director Duncan East and Executive Producer Scott Melvin, who listened to and then demanded - and got - the best out of every single person working on the show, every single time.
   
-{{<slider dir="images/gallery/MNF" class="max-h-[400px] ml-0" height="400" width="400" command="Fit"  webp="true" zoomable="true" >}}
-
+{{<slider dir="images/gallery/MNF" class="max-w-150 ml-0">}}
 {{< sidenote >}}Yes, that IS a green xmas tree on a green screen. 
 Yes, Sarah did manage to get it to key, sort of. 
 No, it didn't go on air there. {{< /sidenote >}}
+
 {{< accordion "Expand for the technical challenges" >}}
 The opening Team walkthrough with the Presenter (Ed Chamberlain then later Dave Jones) was particularly challenging technically - starting on a MCU hard up against a green wall, doing a walk all around the Green Screen area weaving in and out of life-size players, then the camera would reveal the real set outside the green area as well, and he would walk across to the main desk, going through the boundary between Real and VR - all in one shot, live. A tricky challenge with the technology of the day and a very low ceiling meaning couldn't get the lights as far away as was need to avoid inverse square law problems.
 
@@ -101,9 +101,13 @@ If there was one thing that could be guaranteed, with all the bleeding-edge tech
 
 #### The Studio 1 version - Time to share...
 
-After spending 4 years out of the originally-commissioned 3 years in Studio F, the resultant savings, together with another couple of million pounds found down the back of a sofa, was used to combine MNF with efforts to address the increased competition coming from an unexpected new direction (BT Sport). This time, instead of moving next door, they moved across the road instead, and into a proper purpose-built studio instead of a converted warehouse (finally!). They built a permanent, dedicated, set, but with less bleeding-edge technology and specialist subcontractors, putting to bed the years of technical gremlins that had plagued the previous iteration of MNF since the start. And, once built, when it wasn't being used, it was available for a whole host of other Sports Productions, each of whom were supposed to have their own unique area of the studio all instantly ready to go... {{< sidenote >}} Well, that was the theory that was sold - The instantly ready aspect went straight out the window, together with being confined to unique areas, once the production teams got their teeth into a new space, with so many tempting possibilities compared to their previous decades spent stuck in glorified storerooms with a 3 chairs and a desk and maybe 5 shots possible. _But I digress..._ {{< /sidenote >}}
+After spending 4 years out of the originally-commissioned 3 years in Studio F, the resultant savings, together with another couple of million pounds found down the back of a sofa, was used to combine MNF with efforts to address the increased competition coming from an unexpected new direction (BT Sport). This time, instead of moving next door, they moved across the road instead, and into a proper purpose-built studio instead of a converted warehouse (finally!). They built a permanent, dedicated, set, but with less bleeding-edge technology and specialist subcontractors, putting to bed the years of technical gremlins that had plagued the previous iteration of MNF since the start. And, once built, when it wasn't being used, it was available for a whole host of other Sports Productions, each of whom were supposed to have their own unique area of the studio all instantly ready to go... 
 
-The money got spent on lots and lots of video walls and graphics hardware, along with large colour-changing backlit LED panels that gave each sporting strand their own unique visual identity. They even had enough money left over to build a similar-looking "little brother" set in the smaller Studio 3 nearby. {{< sidenote >}} Moving across the road into Sky Studios also had the advantage that the Production Control Rooms and Studios can very quickly change their interconnections, allowing Production teams to set-up in one PCR whilst the studio is used by another, and then flip-over in as little as a single commercial break... provided everyone used the same or pre-prepared positions, as trying to reset lights, cameras, sound, set, in 3-5 minutes would be extremely challenging (didn't stop it being attempted occasionally!)...that's barely enough time to swap two sets of Talent (and their snacks) around! {{< /sidenote >}}
+Well, that was the theory that was sold - The instantly ready aspect went straight out the window, together with being confined to unique areas, once the production teams got their teeth into a new space, with so many tempting possibilities compared to their previous decades spent stuck in glorified storerooms with a 3 chairs and a desk and maybe 5 shots possible. _But I digress..._ 
+
+The money got spent on lots and lots of video walls and graphics hardware, along with large colour-changing backlit LED panels that gave each sporting strand their own unique visual identity. They even had enough money left over to build a similar-looking "little brother" set in the smaller Studio 3 nearby.
+
+ Moving across the road into Sky Studios also had the advantage that the Production Control Rooms and Studios can very quickly change their interconnections, allowing Production teams to set-up in one PCR whilst the studio is used by another, and then flip-over in as little as a single commercial break... provided everyone used the same or pre-prepared positions, as trying to reset lights, cameras, sound, set, in 3-5 minutes would be extremely challenging (didn't stop it being attempted occasionally!)...that's barely enough time to swap two sets of Talent (and their snacks) around!
 
 Focusing back onto Monday Night Football, one of the technologies they retained exclusive use of (ish...was borrowed a few times by F1 and Golf) was the Virtual Graphics - this time round, the new buzzing technology was Augmented Reality (AR). This overlays tracked 3D graphics on top of the camera output, without any of the problems caused by having to key of Green surfaces whilst not keying off any reflected or bounced Green lights, so is a fraction of the cost. This is great...right up until the entire illusion is shattered when the camera moves the wrong way and suddenly something that was in the background is now on top of the foreground or Talent. As a consequence of decided they really only needed to track the Jib camera experimental and not bother with having Peds shoot the 3D sequences, they invested in the far simpler and cheaper N-Cam system this tim, which requires far less continuous correcting and no magic wands required. But only works on one camera, you can't cut between two AR-equipped cameras. Which also saves on super-expensive Viz graphics machines.
 
@@ -215,7 +219,7 @@ Occasionally escaped Osterley and went on the road to various Arenas for this, t
 - Manchester Arena
 - The Point, Dublin
 
-{{< image src="images/Ringside1.jpg" caption="Ringside" alt="Ringside" height="" width="" position="center" class="img-fluid" >}}
+{{< image src="images/Ringside1.jpg" caption="Ringside" alt="Ringside" position="center" class="max-w-150 ml-0" >}}
 
 ### The Gloves are Off
 
@@ -243,17 +247,22 @@ For the Frosch vs Groves recording, Richard had promoter Eddie Hearn stood behin
 
 ### The F1 Show - Studio 6
 
-{{< image src="images/F1-Studio6.jpg" caption="The F1 Show (Studio 6 version)" alt="The F1 Show in Studio 6" height="" width="" position="center" class="img-fluid" >}}
+(Info To follow)
 
-(To follow)
+{{< image src="images/F1-Studio6.jpg" caption="The F1 Show (Studio 6 version)" alt="The F1 Show in Studio 6" position="center" class="max-w-150 ml-0" >}}
 
 ### The F1 Show - Studio 4/5
 
-{{< image src="images/F1endofseason.jpg" caption="The F1 Show (Studio 4/5 version) - End of Season musical special" alt="End of Season musical special" height="" width="" position="center" class="img-fluid" >}}
+(Info To follow)
 
-(To follow)
+{{< image src="images/F1endofseason.jpg" caption="The F1 Show (Studio 4/5 version) - End of Season musical special" alt="End of Season musical special" position="center" class="max-w-150 ml-0" >}}
 
 ## 🏉 Rugby Lions Tours 🏉
+
+(Info To follow)
+
+{{< image src="images/SkySports/Lions1.jpeg" caption="The Lions Tour (Studio 1 Covid version)" alt="The Lions Tour" position="center"  class="max-w-150 ml-0" >}}
+{{< image src="images/SkySports/Lions2.jpeg" caption="Very subtle green-screen lighting" alt="The Lions Tour" position="center" class="max-w-150 ml-0" >}}
 
 (To follow)
 
