@@ -11,18 +11,6 @@ draft: false
 The Portrait above was from the last-ever chance to win a Volvo...sorry, the last-ever episode of Thronecast
 {{< /sidenote >}}
 
-{{< notice title="Site Navigation" >}}
-The _Previously..._ section contains the majority of the content to explore, and will continue to be significantly expanded over time. 
-
-_Tabbed views_ are used throughout this site to flip between related information, and to reduce lengthy scrolling. 
-
-_Educational notes_ indicates some more detailed information about historical productions, which is given on the basis of fair-use in the hope that it may be of some interest to students of television lighting techniques.
-
-Most images can be selected to zoom in, and Dark Mode can be toggled on/off in the top right corner.
-
-Feedback on the good, the bad, and the ugly is always welcome.
-{{< /notice >}}
-
 ## Introduction
 
 Richard Bowles has worked in the Entertainment/Media Industry since the early 1990s.
@@ -38,7 +26,7 @@ For 15 years until recently, he worked for Sky Television (UK) as a Lighting Dir
 He is based near Windsor, just outside London, UK, and is currently seeking new opportunities.  
 Thanks to his Irish citizenship he is able to freely move about and work in both the UK and the EU.
 
-For some of what he's up to now (where can be discussed) have a peak at {{< button label="...Current Activity" link="/currently" class="animated" >}}>
+For some of what he's up to now (where this can be discussed) have a peak at {{< button label="...Current Activity" link="/currently" class="animated" >}}>
 
 To find out much, much, more about his past work you can {{< button label="Explore Previous Productions..." link="/previously" class="animated" >}}
 

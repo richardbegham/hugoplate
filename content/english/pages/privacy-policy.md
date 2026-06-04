@@ -24,3 +24,9 @@ If you explicitly ask us to get in touch via email, we will process your name an
 - **Your Rights:** Under the UK GDPR, you have the right to access, rectify, or erase any personal data we hold about you. Contact Richard Bowles at GDPR@LightingDir.Com to exercise these rights.
 
 {{<image src="images/404torch.jpg" caption="" alt="a beam of light" height="" width="" position="center" option="q100" class="img-fluid" title="image title" webp="false">}}
+
+<hr>
+
+- {{< button label="Home" link="/" class="animated" >}} 
+{{< button label="About" link="/about" class="animated" >}} 
+{{< button label="Get in Touch" link="/contact"  class="animated" >}}

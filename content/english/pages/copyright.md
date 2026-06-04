@@ -16,26 +16,28 @@ All public content available on **www.lightingdir.com** was Created, Designed, a
 
 ### AI
 
-See the (bespoke illustrative gen-AI imagery){"AI"}  page.
+See the [gen-AI disclosure]("AI")  page.
 
 ### Technical Information & Drawings, Production and Behind-the-Scenes Photographs.
 
-- Any technical drawings, sketches, or diagrams included here were created specifically for **LightingDir.com** by their original author, Richard Bowles.
-- They are derived from the original works, or are scanned copies.
-- All the ones shown are Historical / Cancelled Productions - there are no plans given for any current Productions (active or inactive).
-- Please note, standard industry contracts dictate that the Copyright to such drawings and images is held by the Broadcaster or Production Company concerned, and not by the Lighting Designer or Console Operator who created them.
-- These are shown here under **Fair Dealing** provisions with the intention that they to be used by any Lighting Students or others with an interest to learn from. However, they are only a portion of the full package for productions, in particular no safety, rigging, dimensional, risk assessment, or method statements are included.
-- No Endorsement of LightingDir.Com has been given by, or sought from, any Broadcasters.
+- Any technical drawings, sketches, or diagrams included here were created by Richard Bowles.
+- No plans are given for any current Productions (even if currently inactive).
+- Please note that standard industry contracts dictate that the Copyright of production drawings and images is held by the Broadcaster or Production Company concerned, and not by the Lighting Designer, Console Operator, or Lighting Technician who created them.
+
 
 #### Reproduction  
-- Content may not be reproduced in any form other than on the website www.lightingdir.com
+- Content may not be reproduced in any form other than on the website www.lightingdir.com, except for Educational use by 
 
 #### Exceptions
-- Permission is granted for **Fair Dealing** (as defined by the UK Copyright, Designs and Patents Act 1988) for the purposes of private study, non-commercial research, criticism, or review.
+- Permission is granted for **Fair Dealing** (as defined by the UK Copyright, Designs and Patents Act 1988) / **Permitted Use for Teaching** (EU) / **Fair Use (USA)** for the purposes of Private study, Non-commercial research, Criticism, or Review.
+- In addition, under the same basis, Eductational Establishments may use content internally; provided that full credit and links are given to **www.lightingdir.com and Richard Bowles**.
 
 ### External Content
 
-We do not assert any copyright ownership over third-party content linked or embedded from external sites (such as YouTube). Those rights remain with the original creators or copyright holders. 
+- LightingDir.Com does not assert any copyright ownership over third-party content linked or embedded from external sites, such as YouTube,, and has been found by use of public search engines.
+- Any third-party content is out of our control, and may stop working at any time.
+- All rights over external content remains with the original creators or copyright holders, 
+- No Eedorsement of LightingDir.Com, or explict permission to use this content, has been given by the copyright holders and/or original Broadcasters.
 
 ### Cookies
 
@@ -63,7 +65,7 @@ None are used by this site.
 
 ### Website Code and Theme
 
-Website theme is based on the Open-Source [Hugoplate by Zeon Studio](https://hugoplate.netlify.app).
+Website theme is derived from the Open-Source [Hugoplate by Zeon Studio](https://hugoplate.netlify.app).
 
 Website is powered by [Hugo](https://gohugo.io), and is hosted by [Cloudflare](https://cloudflare.com).
 

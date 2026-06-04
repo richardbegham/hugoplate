@@ -28,6 +28,20 @@ features:
       label: "🚀 This way! 🚀"
       link: "about"
       class: "animated" 
+  - title: "Site Navigation"
+    image: "images/Under-Construction-big.png"
+    content: "Feedback on the good, the bad, and the ugly is always welcome."
+    bulletpoints:
+      - "The _Previously..._ section contains the majority of the content to explore, and will continue to be significantly expanded over time."
+      - "_Tabbed views_ are used throughout this site to flip between related information, and to reduce lengthy scrolling. "
+      - "_Educational notes_ indicates some more detailed information about historical productions, which may be of some interest to students of television lighting techniques."
+      - "Most images can be selected to zoom in"
+      - "**Dark Mode** can be toggled on/off in the top right corner."
+    button:
+      enable: true
+      label: "🚀 Previously 🚀"
+      link: "previously"
+      class: "animated" 
   - title: "AI Content"
     image: "images/Under-Construction-banner.jpg"
     content: "This image is one of a very small number of bespoke illustrative gen-AI imagery content used on this site."
