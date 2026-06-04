@@ -1,14 +1,14 @@
 {{ define "main" }}
   <!-- Banner -->
   {{ with .Params.banner }}
-    <section class="section pt-14">
+    <section class="section pt-4 pb-4">
       <div class="container">
         <div class="row justify-center">
-          <div class="lg:col-7 md:col-9 mb-8 text-center">
-            <h1 class="mb-4 text-h3 lg:text-h1">
+          <div class="lg:col-7 md:col-9 mb-2 text-center">
+            <h1 class="mb-2 text-h3 lg:text-h1">
               {{ .title | markdownify }}
             </h1>
-            <p class="mb-8">
+            <p class="mb-2">
               {{ .content | markdownify }}
             </p>
             {{ with .button }}
@@ -28,15 +28,15 @@
             {{/* image modules comes from https://github.com/gethugothemes/hugo-modules/tree/master/images */}}
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
           </div>
-          <div class="lg:col-7 md:col-9 mb-8 text-center">
-            <p class="mb-8">
+          <div class="lg:col-7 md:col-9 mb-2 text-center">
+            <p class="mb-2">
               {{ .content2 | markdownify }}
             </p>
           </div>
         </div>
       </div>
     </section>
-  {{ end }}
+    {{ end }}
   <!-- /Banner -->
 
   <!-- Features -->

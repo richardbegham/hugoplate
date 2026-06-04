@@ -18,14 +18,21 @@ Various studio and OB shows for Sky Arts, Sky Atlantic, etc.
 
 #### Studio 4/5
 
-Fan spin-off show hosted by Sue Perkins. Fascinating, in depth, hillerious. And of course, the chance to win a Volvo each week...
-Broadcast live immediatly after the first showing of each hotly-awaited episode of _Game of Thrones_  
-_(final series after being requested from the beginning but wasn't able to be released until then due conflicting with MNF. Iain Davidson's retirement, however, forced a reassement of this restriction.)_
+This was a spin-off Fan show Broadcast live each monday night directly after the world-premiere showing of every hotly-awaited episode of _Game of Thrones_. 
 
-Richard took Iain Davidson's KOI-award winning lighting design, and evolved it further - initially with the use of VL-1100 as keylights to address a challening fast studio turn-around for the first few episodes, and then with the use of two large sets of xmas fairy lights, used to change the tone as the discussion changed when Winter (finally...) Came... and then Winter Had Gone...
-{{< image src="images/SkyLE/Thronecast-1.jpg" caption="" alt="Thronecast" height="540px" width="960px" position="center"  option="q100" class="img-fluid" title="image title"  webp="false" >}}
-To keep the fans excited in the empty year before the final season, there was a special one-off quiz show _Gameshow of Thrones_ .
-{{< slider dir="images/gallery/GOT" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fill" option="" zoomable="true" >}}
+Hosted by the great Sue Perkins this was fascinating, in-depth, dark, and hilarious. {{< sidenote >}}And who can forget the legendary side-quest each week to win a Volvo...{{< /sidenote >}}
+
+Although asked each year, due to a clash with MNF, Richard was unable to do this, and most series were lit by Iain Davidson, for which he won an rightly won a KOI award. After Iain's retirement, and with MNF by this point easier to delegate, Richard came in to do a one-off specials as well as the final series {{< sidenote >}} plus later one of the follow-up _House of Dragons_ spin-offs, which was squashed ludicrously-tightly into the tiny Studio 8{{< /sidenote >}}
+
+With a very tight turn-around from another production in the same studio the night before, Richard took Iain Davidson's award winning lighting design, with a mixture of 2k fresnels and VL-4000 effects, and evolved it further with the use of VL-1100-LED and Source-4's as keylights to address a challenging fast studio turn-around, as well as a complex web of xmas fairy lights used to change the tone from warm to cold to warm again, reflecting the many changes in Westeros over this dramatic series.
+
+{{< image src="images/SkyLE/Thronecast-1.jpg" caption="Thronecast" alt="Thronecast" width="480" height="270" position="center" class="img-fluid" >}}
+
+To keep the fans excited in the gap year before the final season, there was a special one-off quiz show
+
+### Gameshow of Thrones
+
+{{< gallery2 dir="images/gallery/GOT"  >}}
 
 <hr>
 
@@ -35,7 +42,7 @@ To keep the fans excited in the empty year before the final season, there was a 
 
 Came-in for the final few episodes of this short-lived series.
 
-Another of Jason Underwood's sets, which somehow captured the slightly wierd, edgy, slightly disconcerting world of the HBO production. Except with less killer robots.
+Another of Jason Underwood's great sets, which somehow captured the slightly weird, edgy, slightly disconcerting world of the HBO production. Except with less killer robots.
 
 <hr>
 
@@ -45,9 +52,11 @@ Another of Jason Underwood's sets, which somehow captured the slightly wierd, ed
 
 A fan-show for Batman / Arrow /The Flash.
 
-Notable in particular for one of Jason Underwood's finest sets; it was so good, it convinced some Exec Producers from the States that it must have been one of their sets...!
+Notable in particular for one of Jason Underwood's finest sets; it was so good, it convinced some Exec Producers visiting from the States that we had somehow borrowed one of their sets...!
 
-And... the CosPlay audience...
+The fun of Catchbox microphones together with the CosPlay audience...
+
+{{< gallery2 dir="images/gallery/DC-Fancast/"  >}}
 
 <hr>
 
@@ -58,42 +67,43 @@ Bands on their way back from Glastonbury (etc) stopped-off for half a day, which
 #### Season 1 : Studio F
 
 The first series was done on an absolute shoe-string of a budget, squashed into Studio F almost knocking their heads on the Sharpie Washes. Jason Underwood did one of his classic sets, complete with giant rusty nuts (of course...).  
-Martin Profession very kindly loaned some Vi+-pers to add the basic rig of SharpieWashes and Generics, together with LED Creative's tubes, which the cameras loved shooting through and around. Andy Harris joined with his Vector, and did a sterling job programming all the lights.
-{{< slider dir="images/gallery/Sessions-1" class="max-w-[600px] ml-0"  >}}
+
+Martin Profession very kindly loaned some Vipers to add the basic rig of SharpieWashes and Generics from RML, together with LED Creative's perspex tubes which the cameras loved shooting through and around.
+
+Andy Harris did a sterling job programming all the lights on his Vector.
+
+{{< slider dir="images/gallery/Sessions-1" class="max-w-150 ml-0"  >}}
 
 #### Season 2 : Studio 4/5
 
-A year later, there was a better budget - and then some more was found, which gave enough for each act to have their own lighting "special" to give each their own look - from giant hanging bulbs to MORE sharpies, etc 🎉🥳 🍾. And this time, upgraded to the biggest studio, which was much better to rig moving lights in, as well as a decent ceiling height! This time could afford two dek operators, so Andy concentrated on the faces and the LED tubes, with the great _(...and greatly missed...)_ Alan Boyd joining to do all the movers on a GrandMA 2.
+A year later, there was a better budget - and then some more was found, which gave enough for each act to have their own lighting "special" to give each their own look - from giant hanging bulbs to MORE sharpies, etc 🎉🥳 🍾. And this time, upgraded to the biggest studio, which was much better to rig moving lights in, as well as a decent ceiling height! This time could afford two split the workload across two programmers, Andy concentrated on the faces and the LED tubes, and the great _(...and greatly missed...)_ Alan Boyd joining to do all the movers on a GrandMA 2.
 
-> The best Studio 4/5 has ever looked and sounded!
+This 2 week period remains the only time this studio has ever had the substantial live music performances it was originally conceived to have, and
+top credits to Alex May, the Sound Supervisor, for a great job at mixing the monitors and live sound, all from the middle of the studio floor. And also to everyone else on the crew for being world-class throughout.
 
-This 2 week period remains the only time this studio has ever had the substantial live music performances it was partly conceived to have,
-top credits to Alex May, the Sound Supervisor, for doing a great job from the middle of the studio floor, mixing monitors and live sound with all the different mixes.
+##### The best Studio 4/5 has ever looked and sounded!
 
-{{< slider dir="images/gallery/Sessions-2" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery2 dir="images/gallery/Sessions-2" class="max-w-150 ml-0" >}}
 
 <hr>
 
 ### Sky Cinema - Oscars Nomination & Awards Coverage (various)
 
-Oscars wrap-around live build-up and coverage - needed not only to provide context and chat, but to fill the many american advery breask - sadly done in chilly west london not california.
+Oscars wrap-around live build-up and coverage - needed not only to provide context and chat, but to fill the many american ad breaks - sadly done in chilly west london not california.
 
-Various years and studios
+Various years and studios - pictures of only two versions have survived :
 
-{{< tabs >}}
-{{< tab="Oscars 2018">}}
+#### Oscars 2018 - Studio F
 
-#### Studio F
+A luscious collection of vintage film-style tungsten lights from Version 2 lights augmented this set.
 
-{{< slider dir="images/gallery/Oscars" class="max-w-[600px] ml-0" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-{{< /tab>}}
-{{< tab="Oscars 2021" >}}
+{{< gallery2 dir="images/gallery/Oscars" >}}
 
-#### Oscars 2021 (Set&Light not TX) - Studio F
+#### Oscars 2021 - Studio F
 
-{{< /tab >}}
-{{< /tabs >}}
-{{< image src="images/SkyLE/Oscars2021.jpg" caption="Colourful Internal Corporate event." position="center" class="img-fluid" >}}
+Covid restrictions heavily limited  how close people could sit. Lights from RML were used to enhance another glamerous set.
+
+{{< image src="images/SkyLE/Oscars2021.jpg" caption="Oscars 2021 during the Set&Light phase" position="center" class="img-fluid" >}}
 
 <hr>
 
@@ -101,9 +111,10 @@ Various years and studios
 
 #### Studio F
 
-One-off series of an Arts-orientated quiz show.  
-Featured two rival teams (similar to University Challenge), but more ...arty. 
-Think RADA vs British Museum, that kind of thing.
+One-off series of an Arts-orientated quiz show. 
+
+This featured two rival teams, similar to University Challenge, but more ...arty. 
+Think RADA vs The British Museum - that kind of thing.
 
 {{< image src="images/Arts/CultureQuiz1.jpg" caption="The Great Culture Quiz on Sky Arts" position="center">}}
 
@@ -113,6 +124,6 @@ Think RADA vs British Museum, that kind of thing.
 
 #### Sky Central, The Hub, other buildings...
 
-Confidentially means can't share any images of these, but... here's an undercover picture of the tables being set for refreshments at the side of the room, showing part of how Richard spread the Sky Spectrum branding to encircle (360-degrees) the entire room.
-{{< image src="images/SkyLE/Corporate-1.jpg" caption="" alt="Colourful Internal Corporate event." position="center"  >}}
+Confidentially means can't share any images of these productions, but... here's a not very exciting undercover picture of the side-tables being set for refreshments, showing part of how Richard spread the Sky Spectrum branding encircle (360-degrees) the entire room.
 {{< sidenote >}} Holy secret image capture, Batman! {{< /sidenote >}}
+{{< image src="images/SkyLE/Corporate-1.jpg" caption="" alt="Colourful Internal Corporate event." position="center" width="400px" >}}

@@ -1,5 +1,6 @@
 ---
 title: "Lights"
+tag: "Equipment"
 draft: false
 language: en
 weight: 101
@@ -25,7 +26,7 @@ summary: "A small collection of lights that are often useful get-out-of-jail-fre
 - LED version of the classic 2-cell Molephay, except without the miles of socapex and dimmers, or heat.
 - Variable-white colour temperature, single-cell control, even strobe should you be that way inclined.
 
-{{< slider dir="/lights/images/" class="max-w-75 ml-0"  >}}
+{{< slider dir="gallery/PSClights/" class="max-w-75 ml-0"  >}}
 
 <hr>
 
@@ -33,7 +34,7 @@ summary: "A small collection of lights that are often useful get-out-of-jail-fre
 
 ...And this is where you come in - Get in touch, lets see what we can do together!
 
-{{< button label="Get in Touch" link="/contact" style="solid" >}}
+{{< button label="Get in Touch" link="/contact" class="aninmated" >}}
 
 {{< button label="About" link="/about" style="solid" >}}
 {{< button label="...Previously" link="/previously" style="solid" >}}

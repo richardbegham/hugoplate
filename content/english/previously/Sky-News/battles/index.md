@@ -16,10 +16,10 @@ Attempts to give the UK a version of the head-to-head "US Presidential style" De
 
 So, roll on the then-legally-fixed nice and predictable 5 year delay until the next one. And then... nobody could then have predicted the utter carnage the next five years would result in. {{< sidenote >}}, even those encouraging the chaos from 1500 miles to the east (...!) {{< /sidenote >}}
 
-{{< gallery dir="images/gallery/Debates" class="" height="100" width="100" webp="true" command="Fit" option="" zoomable="true"  >}}
+{{< gallery dir="images/gallery/Debates" class="" height="10px" width=""  command="clip" >}}
 
 {{< notice "warning" >}}
-The videos shown below are of their time and have highly polarising political content - LightingDir.Com neither endorses or opposes any of the views expressed; however we do recommend use of the 'mute' button should your blood pressure rise at any point.
+The videos shown below are of their time and have highly polarising political content - LightingDir.Com neither endorses or opposes any of the views expressed; however we do recommend use of the 🔇 _Mute_ button should your blood pressure rise at any point.
 {{< /notice >}}
 
 {{< tabs >}}
@@ -67,7 +67,7 @@ Not bad for something only supposed to happen once every 4-5 years ...!
 
 ### Corbyn vs Smith (Studio 4/5)
 
-Technically the only one of these not featuring a sitting or about-to-be prime minister, but very much the same production format. This was also unique for being the only iteration where the candidates actually went head-to-head against each other (terribly politely of course), instead of the Tories consistant avoidance of any direct comparison. 
+Technically the only one of these not featuring a sitting or about-to-be prime minister, but very much the same production format. This was also unique for being the only iteration where the candidates actually went head-to-head against each other (terribly politely of course), instead of the Tories consistent avoidance of any direct comparison. 
 
 Lighting-wise very stripped-back, as there was no budget to hire-in moving lights, but the look was still kept very clean and allowed for free movement across the studio floor for Q&A's.
 
@@ -125,7 +125,7 @@ Still, everyone got to rehearse the show again, just in case they had missed the
 
 Richard felt he was being chased by a giant Boris - like the killer beachball in The Prisoner...  
 
-![Whats that over your shoulder...](images/Giant-Boris.jpg)
+![What's that over your shoulder...](images/Giant-Boris.jpg)
 
 {{< /tab >}}
 
@@ -144,17 +144,20 @@ Turned-out they they both "won" in quick succession - although Sunack lasted in 
 
 ## Knights of Illumination Awards 2017
 
-A totally unexpected upshot of these debates, was that in 2017 Richard was honoured and amazed to receive a Nomination for **Best Small Studio** in the annual _Knight of Illumination Award_. This peer-nominated and judged award - now superceeded by the [Profile Awards](https://profileawards.com/television-categories/) - was the lighting version of being nominated for a Brit.
+A totally unexpected upshot of these debates, was that in 2017 Richard was honoured and amazed to receive a Nomination for **Best Small Studio** in the annual _Knight of Illumination Award_. This peer-nominated and judged award - now superseded by the [Profile Awards](https://profileawards.com/television-categories/) - was the lighting version of being nominated for a Brit.
 
 _Yes, Studio 4/5 may be the biggest TV studio Sky has, but its still a small studio compared to the ones used for the likes of Strictly / X-Factor / etc, let alone their own Film stages. Its also a very unhelpful sausage shape, but that's another story entirely._ 
 
-{{< image src="images/KOI-2.jpg" caption="Where's Wally?" alt="All Nominiees" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="All Nominiees"  webp="false" >}}
+{{< image src="images/KOI-2.jpg" caption="Where's Wally?" alt="All Nominees" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="All Nominees" >}}
+
+<hr>
 
 ## Navigation
 
-{{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
-{{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
-{{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="outline" >}}
-{{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="outline" >}}
-{{< button label="Sky News - Main Page" link="/previously/sky-news" style="solid" >}}
-{{< button label="...Previously" link="/previously" style="solid" >}}
+- {{< button label="News: Introduction" link="/previously/sky-news" class="animated" >}} 
+- {{< button label="News: Election Nights" link="/previously/sky-news/elections" class="animated" >}} 
+{{< button label="News: Outside Broadcasts" link="/previously/sky-news/outside" class="animated" >}} 
+{{< button label="News: Full Studio Productions" link="/previously/sky-news/#full-studio-productions" class="animated" >}}
+
+- {{< button label="Home" link="/" class="animated" >}} 
+

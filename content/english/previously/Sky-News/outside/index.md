@@ -48,11 +48,14 @@ Lots of ground-supported truss, and as is often the way, not enough height.
 
 {{< youtube "iVmBsBKUBo8" >}}
 
+<hr>
+
 ## Shortcuts
 
-{{< button label="The Many Battles for Number 10" link="/previously/sky-news/battles" style="outline" >}}
-{{< button label="The Election Nights that followed" link="/previously/sky-news/elections" style="outline" >}}
-{{< button label="Going Outside to Broadcast" link="/previously/sky-news/outside" style="outline" >}}
-{{< button label="The Full Studio Productions" link="/previously/sky-news/#full-studio-productions" style="outline" >}}
-{{< button label="Sky News - Main Page" link="/previously/sky-news" style="solid" >}}
-{{< button label="...Previously" link="/previously" style="solid" >}}
+- {{< button label="News: Introduction" link="/previously/sky-news" class="animated" >}} 
+- {{< button label="News: The Battles for Number 10" link="/previously/sky-news/battles" class="animated" >}}
+{{< button label="News: Election Nights" link="/previously/sky-news/elections" class="animated" >}}
+{{< button label="News: Full Studio Productions" link="/previously/sky-news/#full-studio-productions" class="animated" >}}
+
+- {{< button label="Home" link="/" class="animated" >}} 
+ 
