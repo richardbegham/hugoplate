@@ -227,11 +227,10 @@ To keep in-line with the previous Tardis project's naming schemes being both log
 
 ## Sky Sports Racing
 
-MUCH MORE TO COME
+##### MUCH MORE TO COME
 
-#### Richard testing reflectivity of different wall cladding materials for SSR on camera in Studio 6
 
-{{< image src="images/SkyBuilds/Testing-1.jpg" caption="" alt="Testing wall material" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Testing wall material"  webp="false" >}}
+{{< image src="images/SkyBuilds/Testing-1.jpg" caption="Richard testing reflectivity of different wall cladding materials for SSR on camera in Studio 6" alt="Testing wall material" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Testing wall material"  webp="false" >}}
 
 {{< gallery dir="images/SkyBuilds/SSR" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
@@ -251,7 +250,7 @@ Additional lights were added, giving a new outer 360-degree ring of Arri S60's w
 
 Lighting control also shifted from a dedicated Multi-Skilled Operator to the Camera MSO, which was a necessity by this point as none of the remaining MSO team were lighting specialists. A touchscreen system was developed based on feedback from the MSO's, designed to give a rapid recall of a standard base with the ability to tweak as needed. Despite initial request for multiple fader wings, it was notable that these, along with the main Gio console, were generally depreciated in favour of the touch-screen controls.
 
-**MORE TO COME**
+##### MORE TO COME
 
 {{< image src="images/SkyBuilds/SSN/Problematic-Proposal.jpg" position="center" class="img-fluid" caption="The original camera track proposal... the lines in red indicate existing keylights that would be blocked"  webp="false" >}}
 {{< image src="images/SkyBuilds/SSN/SSN2020.jpg" position="center" class="img-fluid" caption="Refurbishment about to start. Note total lack of any house lighting.">}}
@@ -284,10 +283,7 @@ Within just a couple of years, continuing the work of his predecesor Don Hart, h
 
 Over time, all the lighting electricians were successfully encouraged to embrace the benefits of consistent, quick, and repeatable cue-based operation, and the general standards of lighting faces improved - something critical as the studio cameras used during this timee quickly moved from SD to HD, side-tracked briefly into 3D, and then increased in resolution and colour-space to UHD. During this 10 years of rapid technology change, many of the lights in used were 20 years old at the start, and 30 years old at the end - and still pefectly suitable when used appropriately,
 
-```
+<hr>
 
-```
-
-```
-
-```
+- {{< button label="...Previously" link="/previously" class="animated" >}} 
+{{< button label="Home" link="/" class="animated" >}} 
