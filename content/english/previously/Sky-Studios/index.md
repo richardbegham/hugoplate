@@ -13,22 +13,44 @@ summary: "Lists the many fixed Studios Designed and Deployed whilst at Sky. All 
 
 ### Technology Innovation
 
-Richard introduced **LED lighting** for initially for energy-efficiency and increased reliability/reduced maintenance reasons, but this also enable the introduction of **Remote Operations** into these spaces; something that simply wasn't practical with traditional tungsten luminaries for many reasons; most critically, fire safety.
+Richard introduced **LED lighting** in stages across all their studios, initially for energy-efficiency and reliability reasons. Later this change was a fundamental component behind the introduction of **Remote Operations** into these spaces; something that simply wasn't possible with traditional tungsten luminaries. {{< sidenote >}} most critically - Fire Safety {{< /sidenote >}}
 
-From 2013, as a variety of studio and newsroom spaces were built / refurbished, he ensured that each was equipped with the best and most suitable LED luminaries available at those times, including:
+{{< accordion "Educatational note - Luminaries used" >}}
+Between 2013 and 2020, as the entire variety of studio and newsroom spaces were either built from scratch or refurbished, he ensured that each was equipped with the best and most suitable LED luminaries available at the time, including:
 
 - _ETC Source 4 Series 1 Studio initially then Series 2 Daylight_
 - _Arri SkyPanel S30RP & S60RP. L-series L7-DT_
 - _Litepanels Gemini 2x1 & 1x1, Astra 3X & 6X, Sola 4+_
 - _Dedolight DL-9_
+- _ChromaQ Spaceforce_
 
-By 2018 all studios were fully LED-lit, except for Millbank (at about 50%), which became fully LED in 2020.
+Quantities used for main fixed studios
+
+| | S4-II-D | L7-DT | S60-RP | S30-RP | SF |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 21 Glass Box | 15x | 11x | 14x | 19x | 0x |
+| 6 Real & VR | 13x | 7x | 32x | 9x | 6x |
+
+| | DL-9 | Astra 3X | Astra 6x | Sola 4+ |
+| :-: | :-: | :-: | :-: | :-: |
+| Millbank Main | 20x | 12x | 12x | 10x | 
+
+{{< /accordion >}}
 
 <hr>
 
 ### Project Tardis - Introduction
 
-A whole series of changes for Sky News came under the umbrella of _Project Tardis_ and its follow-on the City Studios. This mammoth project was to move Sky News out of their own building (Unit 1) across the road to Sky Studios, and in the process introduce cost savings by automating the Production workflow. This was originally expected to take 6 months, but unsurprisingly, it took 18 months, and the overall number of production staff reduced was a tiny handful - for example, Director's Assistants and Vision Mixers went, but were replaced by "Co-Producers" and a lot of faith in the Space Bar. Despite original optimistic promises,Cameras and Sound ended-up much the same as before, but sadly the Lighting Technical Operators did disappear, as that role was taken on by the Technical Supervisors.
+A whole series of changes for Sky News came under the umbrella of _Project Tardis_ and its follow-on the City Studios. This mammoth project was to move Sky News out of their own building (Unit 1) across the road to Sky Studios, and in the process introduce cost savings by automating the Production workflow.
+
+{{< accordion "Education note - Project Ambitions vs Reality" >}}
+
+This was originally expected to take 6 months, but actuallly took 18 months. The overall total number of production staff reduced was a tiny handful - for example, the _Director's Assistant_ and _Vision Mixer_ roles went, but were replaced by _Co-Producers_ ...and a lot of faith in the Space Bar.
+
+Despite original optimistic promises, both Cameras and Sound ended-up much the same as before (Remotely operated with FM assistance, apart from a Jib), but sadly the _Lighting Technical Operators_ did disappear, with their work taken on by the _Technical Supervisors_ (previously called _Technical Directors_ thanks to an earlier cost-cutting exercise).
+
+Like all massive and complex projects the reasons were many, however no doubt if it had been framed as an 18 month project with no job losses, it woudl have taken 3 years and resulted in increased staffing. Due to the unpredictable impact and costs of Wars, Elections, and other Disasters (...), any attempt at fixed budgets and timelines, let alone predictable work and utilisation patterns, are of little meaning to a News organisation.
+{{< /accordion >}}
 
 To fit Sky News into Sky Studios took substantial internal rebuilding efforts throughout to make enough space with a completely remodelled second floor, just  5 years after the building opened - everything from dressing rooms to edit suits had to be moved-about  _(something that became a recurring theme over the next few years, as ever-more technical things were squeezed to fit into a building that was compressed from its original intentions during Construction.)_ Hence the "Tardis" name - nothing to do with a rival broadcaster, everything to do with making lots of big things fit into a impossibly small space _although with less space-time distortion...well, apart from the dark mysterious bit at the back of the 4th floor with the mysterious technical equipment and mysterious people... oh wait, that's Engineering Support_.
 
