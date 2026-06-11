@@ -92,7 +92,9 @@ The lights were a dense 360-degree ring of Arri S60 Softlights, all with very na
 
 #### Project Tardis - Studio 6 (2017) - Real and Virtual Reality spaces
 
-TBA
+This was originally designed to fit on an unused area of the 2nd floor (above the coffee shop and next to the proposed new Newsrooom area)...until it was realised that section of the building was cantellevered over thin air, and would need substantial reinforcement to take the weight of the video walls. Oops. So it was then hurridly transposed to Studio 6 - eviciting Soccer Saturday to a smaller studio mid-season, which was a complex challenge to seamlessly achieve within in a week in its own right. And...then it was found that the cameras moved with the production, there was no budget left for Sony 4300 as per the Glass Box, resulting in a bodge to first source and then install LDK-8000 cameras into the galleries, which then in turn messed-up the intended lighting control position... {{< sidenote >}}And that's the vastly simplified story... {{< /sidenote >}}.
+
+In all big and interconnected projects, nothing pans-out entirely as intended!
 
 {{< gallery dir="images/SkyBuilds/Studio6" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
