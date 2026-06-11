@@ -126,7 +126,13 @@ No Silos here! Always have...
 {{< notice "Note" >}}
 This site only opened for previews at the end of March 2026, and is rapidly evolving; so apologies for any errors and the many, many, typos.  
 {{< /notice >}}
-{{< image src="images/Under-Construction-banner.jpg" caption="" alt="Under Construction graphic" height="" width="" position="center" class="img-fluid" >}}
+{{< image src="images/Under-Construction-banner.jpg" caption="" alt="Under Construction graphic" position="center" class="max-w-150 ml-0" >}}
+
+## Where's Wally?
+
+{{< gallery2 dir="/images/gallery/Wally/"  >}}
+
+<hr>
 
 {{< button label="About" link="/about" class="animated" >}}
 {{< button label="Get in Contact" link="/contact" class="animated" >}}
