@@ -29,7 +29,7 @@ These included pre-general election debates featuring the (then) Prime Ministers
 He successfully steered-through the transition from a single large traditional studio equipped with legacy tungsten lighting sources and manual control to a interconnected set of specialist studios distributed across multiple locations, all fully-equipped with state-of-the-art efficient LED sources and designed specifically with a wide tolerance for production fluidity. This was delivered together with a fully-bespoke multi-site remote control system designed around the needs of a large and diverse team of non-lighting specialists.
 
 <hr>
-{{<  gallery dir="images/gallery/NewsTease" Height="" Width="50" Command="Crop">}}
+{{<  gallery dir="images/gallery/newstease" Height="" Width="50" Command="Crop">}}
 
 <hr>
 
