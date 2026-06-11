@@ -29,7 +29,7 @@ These included pre-general election debates featuring the (then) Prime Ministers
 He successfully steered-through the transition from a single large traditional studio equipped with legacy tungsten lighting sources and manual control to a interconnected set of specialist studios distributed across multiple locations, all fully-equipped with state-of-the-art efficient LED sources and designed specifically with a wide tolerance for production fluidity. This was delivered together with a fully-bespoke multi-site remote control system designed around the needs of a large and diverse team of non-lighting specialists.
 
 <hr>
-{{<  gallery dir="images/gallery/newstease" Height="" Width="50" Command="Crop">}}
+{{<  gallery dir="images/gallery/NewsTease" Height="" Width="50" Command="Crop">}}
 
 <hr>
 
@@ -123,12 +123,9 @@ Plus other spaces used in many different ways over the years included the *Newsr
 
 #### City Studios 2 & 3 - shared spaces with CNBC
 
-Quite an interesting design this. Not only were both of the studio spaces shared with a completely different broadcaster, with -their own totally different lighting system
+Quite an interesting design this. Not only were both of the studio spaces shared with a completely different broadcaster, with their own totally different lighting system, but operational use needed to flip-flop for each broadcaster, ideally automatically, whilst presenting no risk of interference between the two systems,
 
-(MORE TO FOLLOW)
-{{< gallery dir="images/SkyNews/StudioCity" >}}
-
-{{< youtube "ZkEqOGKz4yWeZQlv" >}}
+{{< youtube "zRoxp3RcBuI" >}}
 
 <hr>
 
@@ -184,9 +181,9 @@ This series of 3 shows presented by Sophie Ridge, just a year after things start
 Expand for Educational sections 
 {{< accordion "Overall Design Choices" >}}
 
-Due to the on-going Social Distancing rules at that time _(making the whole premise of this programme seem a bit ... **premature**)_ Richard made the decision to have a lighting rig made-up almost entirely of moving-lights. This would reduce the need for people working on the studio floor with a pole adjusting lights during rehearsals, as keeping distance from each other limited the total numbers on the floor at any one time to 13 people. The "Natural" air conditioning was cranked fully-open, and it was January. ❄️ ☃️ 🥶
+Due to the on-going Social Distancing rules at that time _(making the whole premise of this programme seem a bit ... **premature**)_ Richard made the decision to have a lighting rig made-up almost entirely of moving-lights. This would reduce the need for people working on the studio floor with a pole adjusting lights during rehearsals, as keeping distance from each other limited the total numbers on the floor at any one time to 13 people. The "Natural" air conditioning was cranked fully-open, and it was January. ❄️ ☃️ 🥶 
 
-Gallery staff had more challenging limits on their movements, essentially bolted to their seats with some perspex shields between each other with half the usual staffing density. As the lighting positions at Sky are by default located at the furthest point from the doorsSky, we took advantage of the flexible infrastructure and promptly decamped to the adjacent gallery. {{< sidenote >}} located there for reasons that probably made sense for basic sports presentation 30 years ago, but not when doing complex LE type shows when the LD is up and down like a yo-yo and the tea never gets finished{{< /sidenote >}} 
+Gallery staff had more challenging limits on their movements, essentially bolted to their seats with some perspex shields between each other with half the usual staffing density. As the lighting positions at Sky are by default located at the furthest point from the doorsSky, we took advantage of the flexible infrastructure and promptly decamped to the adjacent gallery.  
 
 3D modelling was extensively done beforehand to confirm positions and distances with the need to give wide coverage with a light as far back as possible but without clipping the set, or being too steep.
 
@@ -207,26 +204,32 @@ Covid Crisis Magic Sheet by end of Show 1 :
 
 Downloadable versions : {{< download url="/images/SkyNews/Studio45/CovidCrisisPlot.jpg" >}} 🗂️ Initial Plot {{< /download >}} {{< download url="/images/SkyNews/Studio45/CovidCrisisMS.jpg" >}} 🗂️ Magic Sheet {{< /download >}}
 <hr>
-Compare the initial plot with the console MagicSheet which shows the final version of the show.
+
+Task : Compare the initial plot with the console MagicSheet which shows the final version of the show.
+
 <hr>
 
-It should be immediately clear that a lot more than originally anticipated of the existing studio tungsten 2k's had to be used in a line along the top edge of the studio. Probably because a static position became a long walk up and down with 180 flip mid-conversation The positions up on the platform was cut too late to move any lights around to new positions. All of which shows, how ever many angles you think you've got covered with moving lights, Production will always find a secret new one you hadn't thought of.
+It should be immediately clear that a lot more than originally anticipated of the existing studio tungsten 2k's had to be used in a line along the top edge of the studio. Probably because a static position became a long walk up and down with 180 flip mid-conversation The positions up on the platform was cut too late to move any lights around to new positions. All of which shows, how ever many angles you think you've got covered with moving lights, Production will always find a secret new one you hadn't thought of. 
 
 Due to the steep video walls, when near the wall Sophie had to be lit from both sides - but, if all this light came in from a long way away, it would splash all over the set behind her, as well as have shadows from the cameras operators. Which is why there are a whole series of lights in a row instead of a single key further away. As long as these are at least a moderately reasonable distance away, once carefully focused with a bit of back and forth and walking around they merge into one another. 
 
-{{< sidenote >}} A _Scientific LD_ compares levels with a light meter. {{< /sidenote >}} 
-
-{{< sidenote >}} An _Engineering LD_ uses the back of their hand and the Mk.1 EyeBall. {{< /sidenote >}} 
-
-{{< sidenote >}} The _Artistic LD_ dons a pair of designer sunglasses, looks in completely the wrong direction, and says 'its meant to look lumpy' {{< /sidenote >}} 
-
-{{< sidenote >}} All are, of course, completely correct, for their particular production {{< /sidenote >}}
 If the source is too close, you will inevitably get hot spots, even if using softer sources than Fresnels, which is why in tiny studios, the inverse square law is most definitely off the xmas card list....
 not your friend in a small studio. Fortunately, this studio can have lights up to 9m in the air - in reality they were probably about 5-6m up. as Sophie was stood too close to the wall to get anything in from above when facing that screen. The pre-production plot for this one-off production is shown below, as an example of how to approach the challenges of shooting in the round.  
 
+Footnote: 
+
+When it comes to setting a critical series of lights to cover a walk as smoothly as possible, there are three approaches :
+
+- A _Scientific LD_ compares levels with a light meter.
+
+- An _Engineering LD_ uses the back of their hand and the Mk.1 EyeBall.
+
+- The _Artistic LD_ dons a pair of designer sunglasses, looks in completely the wrong direction, and says 'its meant to look lumpy'.
+
+All are, of course, completely correct, for their particular production
+
 {{< /accordion >}}
 {{< /notice >}}
-
 
 <hr>
 
