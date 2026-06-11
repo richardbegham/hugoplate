@@ -44,7 +44,7 @@ To keep the volume of content readable, it has been split into Sub-Sections and 
 - {{< button label="The Studio Productions" link="/previously/sky-news#full-studio-productions" class="animated" >}}
 - {{< button label="Going Outside to Broadcast" link="/previously/outside" class="animated" >}}
 
-## Prime Minister Debates.
+## Prime Minister Debates
 
 Attempts to give the UK a version of the head-to-head "US Presidential style" Debates had for decades been repeatedly rebuffed by whoever is in power at the time, but with no clear result ahead, everyone gave-in and agreed to a very low-key version for the 2010 General Election. Richard wasn't involved in this, as had only just started Freelancing for Sky at that point, however the relevant thing is that both this Debate, and Election as a whole, resulted in what can be best described as a No-Score Draw for all teams involved...
 
@@ -52,7 +52,7 @@ So, roll on a then-legally-fixed nice and predictable 5 year delay until the nex
 
 {{< button label="Subsection Link - Who Wants To Be a Prime Minister?" link="previously/sky-news/battles" class="animated" >}}
 
-{{< image src="images/SkyNews/No-audience-pressure-then.jpg" caption="The Boss is watching...No Audience Pressure, then..." alt="No Audience Pressure" height="" width="" position="center" command="fill" class="img-fluid" title="No Audience Pressure"   >}}
+{{< image src="images/SkyNews/No-audience-pressure-then.jpg" caption="The Boss is watching...So no Audience Pressure there then..." alt="No Audience Pressure" position="center" >}}
 
 <hr>
 
@@ -100,15 +100,17 @@ The Iconic and unique studio, with its cameras hanging down from the ceiling, a 
 
 {{< youtube "4cvfhd06JMU" >}}
 
-
 #### Studio 6 - double-ended Real and Virtual Studio
 
 Although one studio, this was effectively two separate studios. One end had a U-shaped Green Screen space, and the other had a U-shaped set of video walls surrounding a desk capable of up to 6 people sat around it (2 per side), and was originally designed for the _Sunrise_ breakfast show as well as for overnight / disaster recovery use.
 
-{{< gallery dir="images/SkyNews/Studio6/" >}}
+{{< gallery2 dir="images/SkyNews/Studio6" height="400" >}}  
 
+The intention was to feature live walks from the Virtual to the Real, similar to that featured in the then-current version of [MNF](/previously/sky-sports/#-football-). This was found in practice to not work well for several reasons. Visually, it didn't work due to a very obvious hard transition as Green VR Key switched-off as the presenter walked in and out of the area (this had to be disabled as they then walked past the videowalls, which if all green content was removed from ...things would not end well.) This was avoided on MNF by being hidden in the black background and shooting as wide as possible, but not the case here. The final nail in the coffin (instead of blaming lighting and/or set design) was that simply took far too long to walk and the studio cameras couldn't clear sufficiently.
 
-The intention was to feature live walks from the Virtual to the Real, similar to that in the then-current version of [MNF](/previously/sky-sports/#-football-) was found to both visually not work well (due to a hard transition as the presenter walked in and out of the chroma-key'ed space (needed because removing the green component of images in a video walls... does not end well) - and because it was just too long a walk). Inspired by the MNF set, the transition unfortunatly did not work as well, because shooting a mid-shot of the presenter talking in a studio with bright bright concrete and steel walls (to match the look of Studio 21) can't hide awkward transitions in the same way that black shoot-off and a very wide jib shot could.
+However, the orignal concept continued, as the VR Studio developed over time, it still retained often the look of being the Glass Box at a glance.
+
+Another interesting aspect of the VR Studio usage was that virtual set designed coordinated the Richard so that there were identical virtual lights to reality, both in the distant background, and also overhead, so that should a real lamp ever magically appear in-vision on the Jib as it shot-off the virtual area set (easily done on a wide-angle lens) it would line-up with the virtual Arri L7's that had been seen momement earli!
 
 {{< youtube "Jq-ZTuh7OQg" >}}
 
@@ -117,9 +119,9 @@ The intention was to feature live walks from the Virtual to the Real, similar to
 #### Millbank - multi-purpose studio
 
 (more to follow)
-{{< gallery dir="images/SkyNews/StudioMillbank" >}}
+{{< gallery dir="/images/SkyNews/StudioMillbank" >}}
 
-Plus other spaces used in many different ways over the years included the *Newsroom*, an *ENG Studio*, and the constantly-in-use *DTL (Down the Lines)* broom cupboard. Always a pleasure to visit this little self-contained island of peace, a contrast to the often quite ...fraught... scenes happening outside the adjacent Houses of Parliament.
+Plus other spaces used in many different ways over the years included the **Newsroom**, an **ENG Studio**, and the constantly-in-use **DTL (Down the Lines)** broom cupboard. Always a pleasure to visit this little self-contained island of peace, a contrast to the often quite ...fraught... scenes happening outside the adjacent Houses of Parliament.
 
 #### City Studios 2 & 3 - shared spaces with CNBC
 
@@ -139,7 +141,7 @@ The first two were long-running series, and the others were major one-offs :
 
 #### The Pledge (2016-2020, Studio F)
 
-Lead Lighting Director for this highly-provocative weekly Debate show; recorded _As-Live_ a few hours before transmission - leaving just enough time for any edits for critical legal reasons...!
+Lead Lighting Director for this highly-provocative weekly Debate show; recorded _"As-Live"_ a few hours before transmission - leaving just enough time for any edits for critical legal reasons...!
 
 Five _...highly opinionated..._ pundits each in turn presented their topical idea, on everything from disposable coffee cups to immigration, to which the others panellists would then vocally argue for or against.
 
@@ -158,6 +160,15 @@ After no less than **9 months** of weekly pilots (...!), to get the production c
 {{< tab "Out-Takes" >}} {{< youtube "LrplanIc8qc" >}} {{< /tab >}}
 {{< /tabs >}}
 
+{{< notice "info" >}}
+Expand for Educational sections  
+{{< accordion "Lighting Plot" >}}
+
+{{< image src="images/SkyNews/The-Pledge-2019-v13.jpg" caption="The Pledge Lighting plan" alt="The Pledge Lighting Plot" position="center" >}}
+Downloadable version : {{< download url="/images/SkyNews/The-Pledge-2019-v13.pdf" >}} 🗂️ Lighting Plot {{< /download >}}
+
+{{< /accordion >}}
+{{< /notice >}}
 <hr>
 
 #### The Great Debate (2021-2022, Studio F)
@@ -178,10 +189,10 @@ This series of 3 shows presented by Sophie Ridge, just a year after things start
 {{< youtube "NVarHuLQNUY" >}}
 
 {{< notice "info" >}}
-Expand for Educational sections 
+Expand for Educational sections  
 {{< accordion "Overall Design Choices" >}}
 
-Due to the on-going Social Distancing rules at that time _(making the whole premise of this programme seem a bit ... **premature**)_ Richard made the decision to have a lighting rig made-up almost entirely of moving-lights. This would reduce the need for people working on the studio floor with a pole adjusting lights during rehearsals, as keeping distance from each other limited the total numbers on the floor at any one time to 13 people. The "Natural" air conditioning was cranked fully-open, and it was January. ❄️ ☃️ 🥶 
+Due to the on-going Social Distancing rules at that time _(making the whole premise of this programme seem a bit ... **premature**)_ Richard made the decision to have a lighting rig made-up almost entirely of moving-lights. This would reduce the need for people working on the studio floor with a pole adjusting lights during rehearsals, as keeping distance from each other limited the total numbers on the floor at any one time to 13 people. The "Natural" air conditioning was cranked fully-open, and it was January. ❄️ ☃️ 🥶  
 
 Gallery staff had more challenging limits on their movements, essentially bolted to their seats with some perspex shields between each other with half the usual staffing density. As the lighting positions at Sky are by default located at the furthest point from the doorsSky, we took advantage of the flexible infrastructure and promptly decamped to the adjacent gallery.  
 
@@ -189,11 +200,13 @@ Gallery staff had more challenging limits on their movements, essentially bolted
 
 {{< figure src="images/SkyNews/Studio45/CovidCrisis3D.jpg" >}}
 
-Main Luminaries 0used" >}}
-- **Vari-lite VL-1100 LED** were used as Keylights 
+Luminaries used >
+
+- **Vari-lite VL-1100 LED** were used as Keylights
 - **Martin Mac Auras** as Backlights
 - **Martin TW-1** lit the scenic graphic panels from above
-- **Robert-Juliet Dalis** from below.
+- **Robert-Juliet Dalis** from below for graphics, and as footlights.
+
 {{< /accordion >}}
 
 {{< accordion "Lighting Plot" >}}
@@ -209,14 +222,14 @@ Task : Compare the initial plot with the console MagicSheet which shows the fina
 
 <hr>
 
-It should be immediately clear that a lot more than originally anticipated of the existing studio tungsten 2k's had to be used in a line along the top edge of the studio. Probably because a static position became a long walk up and down with 180 flip mid-conversation The positions up on the platform was cut too late to move any lights around to new positions. All of which shows, how ever many angles you think you've got covered with moving lights, Production will always find a secret new one you hadn't thought of. 
+It should be immediately clear that a lot more than originally anticipated of the existing studio tungsten 2k's had to be used in a line along the top edge of the studio. Probably because a static position became a long walk up and down with 180 flip mid-conversation The positions up on the platform was cut too late to move any lights around to new positions. All of which shows, how ever many angles you think you've got covered with moving lights, Production will always find a secret new one you hadn't thought of.  
 
-Due to the steep video walls, when near the wall Sophie had to be lit from both sides - but, if all this light came in from a long way away, it would splash all over the set behind her, as well as have shadows from the cameras operators. Which is why there are a whole series of lights in a row instead of a single key further away. As long as these are at least a moderately reasonable distance away, once carefully focused with a bit of back and forth and walking around they merge into one another. 
+Due to the steep video walls, when near the wall Sophie had to be lit from both sides - but, if all this light came in from a long way away, it would splash all over the set behind her, as well as have shadows from the cameras operators. Which is why there are a whole series of lights in a row instead of a single key further away. As long as these are at least a moderately reasonable distance away, once carefully focused with a bit of back and forth and walking around they merge into one another.  
 
 If the source is too close, you will inevitably get hot spots, even if using softer sources than Fresnels, which is why in tiny studios, the inverse square law is most definitely off the xmas card list....
 not your friend in a small studio. Fortunately, this studio can have lights up to 9m in the air - in reality they were probably about 5-6m up. as Sophie was stood too close to the wall to get anything in from above when facing that screen. The pre-production plot for this one-off production is shown below, as an example of how to approach the challenges of shooting in the round.  
 
-Footnote: 
+Footnote:
 
 When it comes to setting a critical series of lights to cover a walk as smoothly as possible, there are three approaches :
 
@@ -239,7 +252,7 @@ All are, of course, completely correct, for their particular production
 - Notable for all the keylights being VL-1000 to cope with the continuous walking and 360-degree shooting style used
 - Due to the studio's sausage-shape resulting in a very short throw, throughout the show, the side keys for Key were very subtly bounced backwards and forwards by a manual LTP fader oscillating between two preset focuses.
 
-{{< youtube "xot9Hap0HZU" >}} 
+{{< youtube "xot9Hap0HZU" >}}
 
 <hr>
 
