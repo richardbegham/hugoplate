@@ -82,7 +82,7 @@ All-Day Channel Takeovers... or just a Very Grand Lady doing a piece to camera..
 
 ### Regular studio Output - Introduction
 
-The construction and build of these are covered in detail in the {{< button label="Studio Builds section" link="/previously/Sky-Studios" class="animated" >}}
+The construction and fit-out history of these is partially detailed in the {{< button label="Studio Builds section" link="/previously/Sky-Studios" class="animated" >}}
 
 The lighting for all the day-to-day use of these dedicated News studio spaces was designed and set by Richard, as well as providing Oversight and Support to the Technical Supervisors who had to operate them day-to-day. He was then frequently called-in to revise the lighting ahead of any major changes or unusual one-off usage. A random selection of example images are shown below :
 
@@ -90,11 +90,11 @@ The lighting for all the day-to-day use of these dedicated News studio spaces wa
 
 Richard first supported and later expanded LD Don Hart's work in the large open space in the middle of Unit 1 {{< sidenote >}} when built, the largest studio sky had, but still essentially a tin shed box warehouse like all their studios before the opening of the Sky Studios building in 2011 (Studios 1-8) {{< /sidenote >}} with its very complex and demanding weight restrictions; through to its eventual closure at the end of Project Tardis (the move across the road into Sky Studios) {{< sidenote >}}The Structural Engineering specified the distance between lights and no exception was allowed, otherwise that once in 10 years snowstorm might collapse the whole building. {{< /sidenote >}}
 
-His main change was for a huge 5k, 5m high videowall that replaced the original curved wall, and paid for itself in a couple of years in saved electricity as made of DLP Projector cubes instead of discrete LED (that nicely lit the opposite side of the build).This featured his introduction of the first ETC Source 4 LED fixtures when a vast new Video Wall with a different shape was introduced in 2013.
+His main change, and first big project, was in 2013 was a relight using the first of many ETC Source 4 LED fixtures. These were used for presentation in front of a huge 5m high 5k videowall that replaced the original discrete LED curved wall. This wall was made of DLP Projectors instead of discrete LED panels, and it paid for itself in just a couple of years in saved electricity alone! The saving in no longer having random coloured lights cast onto people's faces 20m away was of course priceless...
 
 #### Studio 21 - The Glass Box
 
-The Iconic and unique studio, with its cameras hanging down from the ceiling, a desk that span round, a videowall to point at, and absolutely no floor clutter. _Well, apart from four uplighters that Richard snuck in behind the pillars (and only visible when reflected in mirrors).
+The Iconic and unique studio, with its cameras hanging down from the ceiling, a desk that span round, a videowall to point at, and absolutely no floor tech or clutter allowed. _Well, apart from four uplighters that Richard snuck in behind the pillars (and only visible when reflected in mirrors)._
 
 {{< gallery2 dir="images/SkyNews/Studio21" height="400" >}}  
 
@@ -103,14 +103,10 @@ The Iconic and unique studio, with its cameras hanging down from the ceiling, a 
 
 #### Studio 6 - double-ended Real and Virtual Studio
 
-Although one studio, this was effectively two seperate studios. One end had a U-shaped Green Screen space, and the other had a U-shaped set of video walls surrounding a desk capable of up to 6 people sat around it (2 per side), and was originally designed for the _Sunrise_ breakfast show as well as for overnight / disaster recovery use.
+Although one studio, this was effectively two separate studios. One end had a U-shaped Green Screen space, and the other had a U-shaped set of video walls surrounding a desk capable of up to 6 people sat around it (2 per side), and was originally designed for the _Sunrise_ breakfast show as well as for overnight / disaster recovery use.
 
-This was originally designed to fit on an unused area of the 2nd floor (above the coffee shop and next to the proposed new Newsrooom area)...until it was realised that section of the building was cantellevered over thin air, and would need substantial reinforcement to take the weight of the video walls. Oops. So it was then hurridly transposed to Studio 6 - eviciting Soccer Saturday to a smaller studio mid-season, which was a complex challenge to seamlessly achieve within in a week in its own right. And...then it was found that the cameras moved with the production, there was no budget left for Sony 4300 as per the Glass Box, resulting in a bodge to first source and then install LDK-8000 cameras into the galleries, which then in turn messed-up the intended lighting control position... {{< sidenote >}}And that's the vastly simplified story... {{< /sidenote >}}.
+{{< gallery dir="images/SkyNews/Studio6/" >}}
 
-In all big and interconnected projects, nothing pans-out entirely as intended!
-
-{{< image src="images/SkyNews/Studio6/Studio6-divided1.jpeg" caption="Studio 6 (with desk moved out of shot)" alt="Studio 6" position="center" class="max-w-7.5 ml-0" >}}
-{{< image src="images/SkyNews/Studio6/Studio6-divided2.jpeg" caption="Studio 6 (reverse view)" alt="Studio 6" position="center" class="max-w-7.5 ml-0" >}}
 
 The intention was to feature live walks from the Virtual to the Real, similar to that in the then-current version of [MNF](/previously/sky-sports/#-football-) was found to both visually not work well (due to a hard transition as the presenter walked in and out of the chroma-key'ed space (needed because removing the green component of images in a video walls... does not end well) - and because it was just too long a walk). Inspired by the MNF set, the transition unfortunatly did not work as well, because shooting a mid-shot of the presenter talking in a studio with bright bright concrete and steel walls (to match the look of Studio 21) can't hide awkward transitions in the same way that black shoot-off and a very wide jib shot could.
 
