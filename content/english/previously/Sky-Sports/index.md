@@ -23,29 +23,30 @@ Use the Icons below to jump specific sports.
 {{< button label="🤿" link="#---bog-snorkelling---" class="animated" >}}
 
 {{< image src="images/logos/sky-sports-2020.png" alt="Sky Sports Logo" position="left" class="h-2 max-w-lg mx-auto" >}}
-#### Series / Lead Lighting Director for :
 
-## 🏆 Sports Specials 🏆
+## Series / Lead Lighting Director for
+
+### 🏆 Sports Specials 🏆
 
 
-### 🎮⚽️🎮 FIFA eClub UK Final 2019 
+#### 🎮⚽️🎮 FIFA eClub UK Final 2019 
 
 
 {{< image src="images/SkySports/FIFA-eclub-3.jpg" caption="FIFA eClub 2019" height="" width="" position="left" class="img-fluid" >}}
 {{< image src="images/SkySports/FIFA-eclub-4.jpg" caption="FIFA eClub 2019" height="" width="" position="right" class="img-fluid" >}}
 
-### Game for Grenfall
+#### Game for Grenfall
 
 This unique event was for and very much with the local community affected by the Grenfall Disaster, and was held at Loftus Road. This featured not only a comedy football match, but a Commentary Box on the opposite site in a VIP booth (complete with low ceiling and glass sloping the wrong way), and a musical performance on the pitch from various acts
 
-### Gamechangers Awards with David Beckham
+#### Gamechangers Awards with David Beckham
 
 The culmination of Sky's Gamechangers series saw it move across the road for a one-off special in Studio 4/5, featuring a very special guest in a reconfigured set. And lots of whizzy flashy lights.
 
 {{< image src="images/SkySports/GameChangers1.jpg" caption="Game Changers Awards" height="" width="" position="left" class="img-fluid" >}}
 {{< image src="images/SkySports/GameChangers2.jpg" caption="Game Changers Awards" height="" width="" position="right" class="img-fluid" >}}
 
-## ⚽️ Football ⚽️
+### ⚽️ Football ⚽️
 
 From almost his very first day way back nearly 2 decades as a Freelancer, Richard was lighting studio shows that mostly consisting of between 1 and 3 people, generally sat at a desk wearing suits and discussing football. _"..game of two halves...jumpers for goalposts..."_ and so on.
 
@@ -57,9 +58,9 @@ Very, very, seriously.
 
 And which, for a decade, Richard lit every single broadcast of. {{< sidenote >}} Very seriously. {{< /sidenote >}}
 
-### Monday Night Football (MNF)
+#### Monday Night Football (MNF)
 
-#### The Studio G version - The Original
+##### The Studio G version - The Original
 
 {{< accordion "Expand for the long story" >}}
 Sky Sport's Premier League flagship production, led by the pundits Gary Neville and Jamie Carragher, delivers unusually long and highly detailed analysis during the studio-based pre-, mid-, & post- match coverage, along with more cameras deployed than for any other match. This had four different iterations over Richard's time, starting with the original Studio G production, first lit by Malcolm Reed (lots of MiStrip, Pixellines, a very unhelpful header, and an even more light-unfriendly £100k (back in 2011...) 103" Touchscreen...)
@@ -68,7 +69,6 @@ The first day that Richard was due to go solo on this production, it had half-wa
 
 {{< /accordion >}}
 
-MNF pioneered the use of giant interactive touch-screens for real-time analysis, with 2D and 3D computer graphics driven directly by the pundits controls - something that took the viewers a long time (and a lot of live mistakes!) to believe was actually true rather than pre-rendered. This was connected to incredibly detailed tracking and statistical analysis of every player in every Premier League (PL) match. They also pushed the limits of 3D graphics, with individual Hero / Walk-on clips of every PL player (shot on 2x 4k cameras, double-stacked on their side, at a time when HD was still a novelty for most people). This was mixed with insightful and fluff-free passionate commentary, to deliver an unprecedented quality - and duration! - of wrap-around analysis before, during, and after just one match. Even when it's a subject you can have no interest in, you can still tell when its being done better than anywhere else!
 
 On 30th April 2012, MNF had its highest ever viewing figures - and also the then-highest for any sporting event on Sky _(until a free-to-air match during Covid)_ when 4.8 million tuned-in to watch Manchester City defeat Manchester United 1-0 on their way to their first top flight title since 1968 _(I had to look that bit up)_.
 
@@ -81,6 +81,7 @@ World-leading technologies stretched the boundaries of what could be achieved in
 {{<slider dir="images/gallery/MNF" class="max-w-150 ml-0">}}
 {{< sidenote >}}Yes, that IS a green xmas tree on a green screen. 
 Yes, Sarah did manage to get it to key, sort of. 
+MNF pioneered the use of giant interactive touch-screens for real-time analysis, with 2D and 3D computer graphics driven directly by the pundits controls - something that took the viewers a long time (and a lot of live mistakes!) to believe was actually true rather than pre-rendered. This was connected to incredibly detailed tracking and statistical analysis of every player in every Premier League (PL) match. They also pushed the limits of 3D graphics, with individual Hero / Walk-on clips of every PL player (shot on 2x 4k cameras, double-stacked on their side, at a time when HD was still a novelty for most people). This was mixed with insightful and fluff-free passionate commentary, to deliver an unprecedented quality - and duration! - of wrap-around analysis before, during, and after just one match. Even when it's a subject you can have no interest in, you can still tell when its being done better than anywhere else!
 No, it didn't go on air there. {{< /sidenote >}}
 
 {{< accordion "Expand for the technical challenges" >}}
@@ -166,12 +167,25 @@ Very unusually for a men's football show, this was presented by Sarah-Jane Mee (
 
 ##### Soccer Saturday (Supervisory LD)
 
-        The legend that was Jeff Stelling, Paul Merson, and of course...Chris Kamara.
-        Who else could make 4 hours of watching other people watch live football that you can't...be so funny, or so accessible?
-  
-> I don't know Jeff, you tell me...  
-[Chris Kamara](https://www.youtube.com/watch?v=rHyrN9PRioY) 
+The legend that was Jeff Stelling, Paul Merson, and of course...Chris Kamara.  
 
+Who else could make 4 hours of watching other people watch live football that you can't...be so funny, or so accessible?  
+  
+{{< notice "quote (before Richard's time, but the final clip just has to be seen again)" >}}
+
+{{< youtube "rHyrN9PRioY" >}}
+
+_Jeff Stelling_
+
+       We're off to Fratton Park, where there's been a Red Card, but for whom Chris Kamara...?  
+
+_Chris Kamara_
+
+       I don't know Jeff? 
+
+       I must have missed that, you tell me... 
+
+{{< /notice >}}
 
 #### Conclusion
 
@@ -243,17 +257,19 @@ For the Frosch vs Groves recording, Richard had promoter Eddie Hearn stood behin
 
 ## 🏎️ 🏎️ 🏎️ F1 🏎️ 🏎️ 🏎️
 
-(TBA)
-
 ### The F1 Show - Studio 6
 
-(Info To follow)
+The new sport that increased the workload high enough - and brough the budget - to recruit for a new LD position, raising the number to four in total, which over the next half-dozen years declined back down to two, and then, ultimately to none. Not that the workload got any lighter...
 
-{{< image src="images/F1-Studio6.jpg" caption="The F1 Show (Studio 6 version)" alt="The F1 Show in Studio 6" position="center" class="max-w-150 ml-0" >}}
+Sharing the studio with Soccer Saturday, in an inspired bit of set design by Jonathan Ryder-Richardson, the entire soccer saturday desk could be unclipped, detached, and wheeled out the scenedock door in a five minutes, replaced by some extra staging and a sofa.
+
+{{<  gallery2 dir="images/gallery/F1-6/" >}}
 
 ### The F1 Show - Studio 4/5
 
 (Info To follow)
+
+{{< image src="images/SkySports/F1-St45-1.jpg" caption="The F1 Show (Studio 4/5 version) - Mad Max promotional car" alt="Mad Max car" position="center" class="max-w-150 ml-0" >}}
 
 {{< image src="images/F1endofseason.jpg" caption="The F1 Show (Studio 4/5 version) - End of Season musical special" alt="End of Season musical special" position="center" class="max-w-150 ml-0" >}}
 
@@ -311,7 +327,7 @@ p.s.
 
 # Shortcuts
 
-{{< button label="Sky Sports - Top of Page" link="/previously/sky-sports" style="solid" >}}
+{{< button label="Sky Sports - Top of Page" link="/previously/sky-sports" class="animated" >}}
 
 {{< button label="About" link="/about" class="animated" >}}
 {{< button label="Get in Contact" link="/contact" class="animated" >}}
