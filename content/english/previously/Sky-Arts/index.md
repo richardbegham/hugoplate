@@ -18,7 +18,7 @@ Various studio and OB shows for Sky Arts, Sky Atlantic, etc.
 
 #### Studio 4/5
 
-This was a spin-off Fan show Broadcast live each monday night directly after the world-premiere showing of every hotly-awaited episode of _Game of Thrones_. 
+This was a spin-off Fan show Broadcast live each monday night directly after the world-premiere showing of every hotly-awaited episode of _Game of Thrones_  
 
 Hosted by the great Sue Perkins this was fascinating, in-depth, dark, and hilarious. {{< sidenote >}}And who can forget the legendary side-quest each week to win a Volvo...{{< /sidenote >}}
 
@@ -81,7 +81,7 @@ A year later, there was a better budget - and then some more was found, which ga
 This 2 week period remains the only time this studio has ever had the substantial live music performances it was originally conceived to have, and
 top credits to Alex May, the Sound Supervisor, for a great job at mixing the monitors and live sound, all from the middle of the studio floor. And also to everyone else on the crew for being world-class throughout.
 
-##### The best Studio 4/5 has ever looked and sounded!
+##### The best Studio 4/5 has ever looked and sounded
 
 {{< gallery2 dir="images/gallery/Sessions-2" class="max-w-150 ml-0" >}}
 
@@ -113,7 +113,7 @@ Covid restrictions heavily limited  how close people could sit. Lights from RML 
 
 One-off series of an Arts-orientated quiz show. 
 
-This featured two rival teams, similar to University Challenge, but more ...arty. 
+This featured two rival teams, similar to University Challenge, but more ...arty.  
 Think RADA vs The British Museum - that kind of thing.
 
 {{< image src="images/Arts/CultureQuiz1.jpg" caption="The Great Culture Quiz on Sky Arts" position="center">}}
@@ -122,8 +122,16 @@ Think RADA vs The British Museum - that kind of thing.
 
 ### Internal Corporates
 
-#### Sky Central, The Hub, other buildings...
+#### Sky Central, The Hub, & other buildings
 
 Confidentially means can't share any images of these productions, but... here's a not very exciting undercover picture of the side-tables being set for refreshments, showing part of how Richard spread the Sky Spectrum branding encircle (360-degrees) the entire room.
 {{< sidenote >}} Holy secret image capture, Batman! {{< /sidenote >}}
+
 {{< image src="images/SkyLE/Corporate-1.jpg" caption="" alt="Colourful Internal Corporate event." position="center" width="400px" >}}
+
+<hr>
+
+### Navigation
+
+- {{< button label="...Previously" link="/previously" class="animated" >}}  
+{{< button label="Home" link="/" class="animated" >}} 

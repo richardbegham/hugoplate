@@ -11,7 +11,7 @@ description: Contact Page
 
 <section class="lg:pb-24">
   <div class="max-w-3xl px-4 mx-auto">
-      <img src="/images/getintouch.jpg" class="h-auto" title="Giant Envelope saying 'get in touch'" >
+      <img src="images/getintouch.jpg" class="h-auto" alt="Giant Envelope saying 'get in touch'" >
       <p class="mb-8 font-light text-center text-gray-500 lg:mb-16 dark:text-gray-400 sm:text-xl">Got a Project - large or small - that Richard can help you with?<br />Have a burning Question seeking an Answer?<br />Feedback about the website?<br />...Lunch?</p>
       <form name="contact" action="https://formsubmit.co/af30fc0fd05c2582bfd5ba4ce5435601" method="POST" class="space-y-8">
           <div class="my-4">
@@ -47,8 +47,6 @@ description: Contact Page
       </form>
   </div>
 </section>
-
-
 
 {{< button label="About" link="/about" class="animated" >}}
 {{< button label="Explore Previous Productions..." link="/previously" class="animated">}}

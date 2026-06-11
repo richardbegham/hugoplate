@@ -284,6 +284,8 @@ And of course, the cooperation and trust of the on-screen **Talent** [^1] - most
 
 {{< /accordion >}}
 
+<hr>
+
 ### Navigation
 
 - {{< button label="Top of Page (Introduction)" link="/previously/sky-news" class="animated" >}} 
