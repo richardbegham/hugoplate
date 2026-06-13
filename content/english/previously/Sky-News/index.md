@@ -14,7 +14,7 @@ summary: "Responsible for the Lighting Design and Support for all of Sky News (U
 
 ## Lighting Design & Oversight
 
-#### Introduction
+### Introduction
 
 - Designed and Oversaw the visual output for all the Sky News (UK) studios for over a decade which included the historic political dramas around _Brexit_ and the challenges of the _Covid-19 Pandemic_.
 - Ensured a clear and consistent visual presentation to a worldwide audience 24 hours a day throughout this period, delivered with zero on-air impacting issues.
@@ -29,7 +29,7 @@ These included pre-general election debates featuring the (then) Prime Ministers
 He successfully steered-through the transition from a single large traditional studio equipped with legacy tungsten lighting sources and manual control to a interconnected set of specialist studios distributed across multiple locations, all fully-equipped with state-of-the-art efficient LED sources and designed specifically with a wide tolerance for production fluidity. This was delivered together with a fully-bespoke multi-site remote control system designed around the needs of a large and diverse team of non-lighting specialists.
 
 <hr>
-{{<  gallery dir="images/gallery/NewsTease" Height="" Width="50" Command="Crop">}}
+{{<  gallery dir="images/gallery/NewsTease/" Height="" Width="50" Command="Crop">}}
 
 <hr>
 
@@ -108,9 +108,9 @@ Although one studio, this was effectively two separate studios. One end had a U-
 
 The intention was to feature live walks from the Virtual to the Real, similar to that featured in the then-current version of [MNF](/previously/sky-sports/#-football-). This was found in practice to not work well for several reasons. Visually, it didn't work due to a very obvious hard transition as Green VR Key switched-off as the presenter walked in and out of the area (this had to be disabled as they then walked past the videowalls, which if all green content was removed from ...things would not end well.) This was avoided on MNF by being hidden in the black background and shooting as wide as possible, but not the case here. The final nail in the coffin (instead of blaming lighting and/or set design) was that simply took far too long to walk and the studio cameras couldn't clear sufficiently.
 
-However, the orignal concept continued, as the VR Studio developed over time, it still retained often the look of being the Glass Box at a glance.
+However, the original concept continued, as the VR Studio developed over time, it still retained often the look of being the Glass Box at a glance.
 
-Another interesting aspect of the VR Studio usage was that virtual set designed coordinated the Richard so that there were identical virtual lights to reality, both in the distant background, and also overhead, so that should a real lamp ever magically appear in-vision on the Jib as it shot-off the virtual area set (easily done on a wide-angle lens) it would line-up with the virtual Arri L7's that had been seen momement earli!
+Another interesting aspect over time with the VR Studio usage was that Virtual Set Designer coordinated the Richard so that there were identical virtual lights to reality, both in the distant background, and also overhead, so that should a real Arri L7 ever magically drift into vision on the Jib shot, it would not be jarring or totally unexpected to the viewer, who might not know (or care) that its VR, but does know that its a studio of some sort. In fact, some virtual designs contained many more lights than the budget for a real studio would be likely to stretch to! This also meant that the scenic parts of the the virtual set were lit from not just the same place and direction, but also the beam angle and diffusion of the virtual light was the same was illuminating the talent. Shadows are always the bane of green screen shooting, fortunately after much back and forth, the decision was made to have a real lino floor with real shadows.
 
 {{< youtube "Jq-ZTuh7OQg" >}}
 
@@ -119,7 +119,7 @@ Another interesting aspect of the VR Studio usage was that virtual set designed 
 #### Millbank - multi-purpose studio
 
 (more to follow)
-{{< gallery dir="/images/SkyNews/StudioMillbank" >}}
+{{< gallery dir="/images/SkyNews/StudioMillbank/" >}}
 
 Plus other spaces used in many different ways over the years included the **Newsroom**, an **ENG Studio**, and the constantly-in-use **DTL (Down the Lines)** broom cupboard. Always a pleasure to visit this little self-contained island of peace, a contrast to the often quite ...fraught... scenes happening outside the adjacent Houses of Parliament.
 
@@ -260,17 +260,19 @@ All are, of course, completely correct, for their particular production
 
 {{< accordion "The Without Whom Section (so many!)" >}}
 
-### ...For I have stood on the Shoulders of Giants...
+So much of this site could be seen as blowing one's own trumpet. But none of it would be possible without so many other people, and it would take another decade to list them all, so just a few key mentions :
+
+### ...For I have stood on the Shoulders of Giants
 
 **LD Don Hart** for explaining in intricate detail his Studio A lighting design before handing-it over in 2012, with its many quirky zoning restrictions or even bans on rigging positions ...and even the types of luminaries allowed in each sone... which were absolute dictates by Structural Engineers back when the studio was built in 2005.
 
-**LD Dave Evans** for the cracking of the _~~Enigma Code~~_ **Glass Box Camera Challenge** with his original lighting-design, the principles of which he expertly communicated throughout the design process and then fully handed-over at Launch in 2017. 
+**LD Dave Evans** for the cracking of the _~~Enigma Code~~_ **Glass Box Camera Challenge** with his original lighting-design, the principles of which he expertly communicated throughout the design process and then fully handed-over at Launch in 2017.  
 
-### ...The Backbone in the Backroom...
+### ...The Backbone in the Backroom
 
 Although all of the on-going Design and Development, together with much of the studio Tweaking and Support, was done by [Richard Bowles](/about) nothing would have got or stayed on air without the backbone of the great team of **Sky Production Electricians** _(originally consisting over 20x Staff plus a lot of Freelancers)_
 
-The day-to-day output was thanks to tha care and attention to detail by the expansive team of **Technical Supervisors** and **Technical Operators**, who would internally communicate the essentials of any new production both 1:1 and in writing, which were sometimes ready in less time that it took to reach the Gallery after rehearsals! 
+The day-to-day output was thanks to tha care and attention to detail by the expansive team of **Technical Supervisors** and **Technical Operators**, who would internally communicate the essentials of any new production both 1:1 and in writing, which were sometimes ready in less time that it took to reach the Gallery after rehearsals!  
 
 Their end-user feedback on different choices of everything from button size and location to diagrammatic and control methodology, as well as capturing and then automating any manual adjustments made over time, was absolutely fundamental to the continuous evolution of their bespoke Tardis Control System.
 
@@ -278,7 +280,7 @@ Their end-user feedback on different choices of everything from button size and 
 
 The support and feedback from Sky News throughout was essential, starting with the always concise - and always absolutely spot-on - the (then) **Head of Sky News, John Ryley**, and the indispensable advance information and guidance total trust and backing given by the Heads of Studio Output _Jon Bennet_ and his successor _Ben Wickeham_ - through to the many Directors, Producers, and the wider team in Sky News; far too many to name-check!
 
-And of course, the cooperation and trust of the on-screen **Talent** [^1] - most memorably Kay Burley over the years - with whom Richard worked to ensure they had very precise but reproducible positions they could find with appropriate and comfortable lighting customised to their individual needs. He even came up with an invisible-on-camera method to mark positions on the floor to replace the usual gaudy collection of temporary sticky tape...something very important to keep the studio looking crisp and clean with camera shots often taking in the wide expanses of high quality studio floor - which leads me on to thank the great team of Set Designers at **Jago**. 
+And of course, the cooperation and trust of the on-screen **Talent** [^1] - most memorably over the years being Kay Burley - with whom Richard worked-with to ensure they had appropriate and comfortable lighting customised to their individual needs. And together with the Floor Managers ensured they had precise but reproducible positions that they could readily find - developing a system of marks that could be seen by the Talent essential when multiple productions had different marks in the same small area, but crucially was completely invisible on camera. Which leads in turn to thank the great team of Set Designers at **Jago**.  
 
 {{< sidenote >}} Often flicker of relief in the Talent's eyes when they saw that Richard was present for the build-up & launch of their latest regular strand or one-off special - often starting at some very unfriendly times of night - as they knew they could then stop worrying if they looked their best on-air (something not helped by the _variable_ setup of various studio monitors) {{< /sidenote >}}
 
@@ -288,11 +290,11 @@ And of course, the cooperation and trust of the on-screen **Talent** [^1] - most
 
 ### Navigation
 
-- {{< button label="Top of Page (Introduction)" link="/previously/sky-news" class="animated" >}} 
-- {{< button label="The Many Battles for Number 10" link="/previously/battles" class="animated" >}} 
-{{< button label="The Election Nights that followed" link="/previously/elections" class="animated" >}} 
-{{< button label="Going Outside to Broadcast" link="/previously/outside" class="animated" >}} 
+- {{< button label="Top of Page (Introduction)" link="/previously/sky-news" class="animated" >}}
+- {{< button label="The Many Battles for Number 10" link="/previously/battles" class="animated" >}}
+{{< button label="The Election Nights that followed" link="/previously/elections" class="animated" >}}
+{{< button label="Going Outside to Broadcast" link="/previously/outside" class="animated" >}}
 {{< button label="The Full Studio Productions" link="/previously/sky-news#full-studio-productions" class="animated" >}}
 
-- {{< button label="...Previously" link="/previously" class="animated" >}} 
-{{< button label="Home" link="/" class="animated" >}} 
+- {{< button label="...Previously" link="/previously" class="animated" >}}
+- {{< button label="Home" link="/" class="animated" >}}

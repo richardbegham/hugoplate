@@ -21,7 +21,7 @@ summary: "Television gets more bread'n'butter. Medai Servers and LED's start to 
 
 - For a good chunk of the naughties, Richard worked closely with LD James Campbell (...RIP), intiially just a moving light programmer on long-running household names such as _Mastermind_, _Question of Sport_, and even (slightly bizarrely) _Crimewatch_. Over time, as Production requirements and Technology evolved, and shows started to shrink from full-size to fun-size studios, he started also operating the Key (face) lighting on show such as _Morgan & Platell_, _The Golden Lot_, etc. James gently imparted his great skill and craft for portraiture in a multi-camera enviroment, vital skills that have stood Richard in great stead ever since.
 
-{{< gallery dir="images/OldShows/James" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery2 dir="images/OldShows/James" height="400" >}}  
 
 ### Corporate Events
 
