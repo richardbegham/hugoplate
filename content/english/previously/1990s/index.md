@@ -30,9 +30,10 @@ So, as the great adventure into the unknown started, he was put on the spot on h
 
 > Q. What will be the biggest Venue and Person you will have lit in 10 years time?
 >
-> > A. Wembley and... Madonna!
+> > A. Wembley and... Madonna! 
 >
-> _(Flippent reply, with no expectation of achieving it, of course)_
+> _(Flippant reply, with no expectation of achieving it of course)_ 
+>
 
 _And then, just 6 months later, on the last day of the year - and still not yet 25...!_
 
@@ -65,7 +66,7 @@ But that's a long way off at this point in time.
 
 Here are some of things that happened that can be talked about.
 {{< sidenote >}}
-None of which invovled football
+None of which involved football
 {{< /sidenote >}}
 
 At some point in this year, he did The Prodigy for the third time. Although, due to an staffing problem, rather bizarrely Richard ended-up doing their FOH live sound instead of the lights. We shall gloss over how poor it probably was.
@@ -76,9 +77,9 @@ Quite a bit of time was spent touring round Europe, mostly Germany, including an
 
 Through a very complicated story involving the early Internet, Richard ended-up working for High End Systems for a while, and travelled from the USA 🇺🇸 to the Ukraine 🇺🇦
 
-- Towards the end of that seminal first decade, the opportuntiy arose - thanks to a very opportune random cup of tea at the fabulous Spot Co - to make the bold leap into Television Production. Starting with LDs _Chris Rigby_ & Oli Richards on The Pepsi Chart Show (C5) & at MTV Studios in Camden, things expanded to include the very delliberatly chaotically only half rehearsed - but a sememeorable - SM:TV/CD:UK (ITV).
+- Towards the end of that seminal first decade, the opportunity arose - thanks to a very opportune random cup of tea at the fabulous Spot Co - to make the bold leap into Television Production. Starting with LDs _Chris Rigby_ & _Oli Richards_ on The Pepsi Chart Show (C5), then on to random performances at MTV Studios in Camden, and then the 3 1/2 hour complete chaos on ITV on a saturday morning with the only ever half-rehearsed - but memorable - SM:TV/CD:UK.
 
-There's many moemnts from that show that have been lovingly recovered from old VHS recordings and put on YouTube. One histoiric moment though was one everyone involved in wish had stayed dumped in the bin of history and forgotten about though : Britney Spear's UK TV Debut. [^2] -
+There's many moments from that show that have been lovingly recovered from old VHS recordings and put on YouTube. One historic moment though was one that everyone involved in wishes had stayed firmly dumped and forgotten about in the bin of history : Britney Spears' UK TV Debut. [^2] -
 
 {{< accordion "Please don't look, its awful?" >}}
 
@@ -90,12 +91,12 @@ There's many moemnts from that show that have been lovingly recovered from old V
 
 {{< /accordion >}}
 
-At this time, promotional music performances were everywhere on broadcast TV. It was quite possible to do the same act 4 times on 4 different networks in the same week. Yes, I'm looking at you Texas.[^3]
+At this time, promotional music performances were everywhere on broadcast TV. It was quite possible to do the same act 4 times on 4 different networks in the same week. Yes, I'm looking at you Texas.
 
+{{< youtube "_5396YtadAw" >}}
 - Still on the musical performances, but sightly more classy, he also programmed & operated the lights in the gone-too-soon Earls Court 1 for the also-now-gone Luciano Pavarotti's 1998 performance (LD Mike Sutcliffe (Sottyy), for the BBC). Quite an experience.
-  He took his skills with moving-lights and discovered an intense fascination with what could be achieved on screen - and as the new Millenium approached, this became his primary focus, but before that, another unexpected opportuntiy arose!
+  He took his skills with moving-lights and discovered an intense fascination with what could be achieved on screen - and as the new Millennium approached, this became his primary focus, but before that, another unexpected opportunity arose!
 
-[^3]: [One in a Lunchtime]<iframe width="560" height="315" src="https://www.youtube.com/embed/_5396YtadAw?si=_5396YtadAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## 6 months in Pinewood Studios
 
@@ -115,7 +116,7 @@ Yes it looks crude in places by modern standards, but more than a quarter of a c
 
 David Mallet directing, DoP Nic Knowland.
 
-[Go Go Go Donny Osmond!](https://www.youtube.com/watch?v=MFCJ6qB26YA)
+{{< youtube "IqWkd3MczIc" >}}
 
 ### Jesus Christ Superstar
 
