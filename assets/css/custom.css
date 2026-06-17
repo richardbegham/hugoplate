@@ -1,7 +1,8 @@
-/* force font change because ...Hugoplate */
+/* force font change because ...Hugoplate
+    was: Codystar  */
 @theme {
   --font-primary: "Noto Sans", sans-serif;
-  --font-secondary: "Codystar", sans-serif;
+  --font-secondary: "Michroma", sans-serif; 
 }
 
 /* Add your own custom styles here */

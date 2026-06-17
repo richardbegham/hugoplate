@@ -51,7 +51,7 @@ features:
       - "All video content is unmodified. ...Although if we could, that Britney debut from 1999..."
     button:
       enable: true
-      label: "Full AI Disclosure statement"
-      link: "AI"
+      label: "Full AI Disclosure statesment"
+      link: "ai"
       class: "animated"
 ---
