@@ -1,0 +1,14 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $width := .Get "width" | default "800x" }}
+
+{{ $image := resources.Get $src }}
+{{ if $image }}
+  {{ $processed := $image.Resize $width }}
+  
+  <div class="perspective-container">
+    <img src="{{ $processed.RelPermalink }}" alt="{{ $alt }}" class="rounded-[20px]">
+  </div>
+{{ else }}
+  <p>Image not found: {{ $src }}</p>
+{{ end }}
