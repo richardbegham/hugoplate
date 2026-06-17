@@ -13,7 +13,7 @@ featured_image: images/VeryOldShows/Austin2.png
 
 As the 1990's dawned, [Richard](/about) plunged head-first into his University's Student's Union voluntary Stage Crew organisation; initially focusing on live Sound, but rapidly discovering that his real interest and instinctive abilities were in lighting. This gave him a great insight in to all the roles in Event Production as everyone had to be able to do everything!
 
-The first key skill everyone had to learn was coiling cables - a vital skill which is something you will never stop doing, even when at Buckingham Palace, although thankfully they are less-often coated in stale beer {{< sidenote >}} or worse... {{< /sidenote >}} nowadays - whilst discovering and learning about all aspects Event Production. 
+The first key skill everyone had to learn was coiling cables - a vital skill which is something you will never stop doing, even when at Buckingham Palace, although thankfully they are less-often coated in stale beer {{< sidenote >}} or worse... {{< /sidenote >}} nowadays - whilst discovering and learning about all aspects Event Production.  
 
 With a mixture of live bands {{< sidenote >}}a few of which were actually good, even the crusty folk-rock ones{{< /sidenote >}} and the areas' strong ties to the local underground early Rave scene, Richard declined the career he originally had been heading-into as a project manager in the aerospace industry (despite a good job offer) for the insecurity of the entertainment industry.
 
@@ -41,43 +41,40 @@ _And then, just 6 months later, on the last day of the year - and still not yet 
 
 #### ...sort of...
 
-{{< slider dir="images/VeryOldShows/Wembley" class="max-w-150 ml-0" height="273" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
-
-Ok, so it was actually the _Wembley Exhibition & Conference Center_, not the _Wembley Arena_ next door, and definitely NOT the adjacent world-famous _*Wembley Stadium*_ ...which is what he meant...but didn't clearly state. Still, it's made a good story when down the pub ever since...
+{{< slider dir="images/VeryOldShows/Wembly" >}}
+Ok, so it was actually the _Wembley Exhibition & Conference Center_, not the _Wembley Arena_ next door, and definitely NOT the adjacent world-famous _*Wembley Stadium*_ ...which is what he meant...but didn't clearly state. Still, it's made a good story down the pub ever since...
 
 Three decades on, he's still not done the Stadium, but he has done the Arena a few times.
 
-Madonna, on the other hand, took a further 11 years. _...So, a pretty good estimate all-in-all then...!_
+Madonna, on the other hand, took a further 11 years. {{< sidenote >}}So - a pretty good estimate all-in-all then! {{< /sidenote >}}
 
 #### OK, we're not setting goals any more!
 
 <hr>
 
-Which is just as well, because any further goals that might then have been set would probably have been way off, as direction of travel changed many times in those early years.
+Which is just as well, because any further goals that might then have been set would probably have been way off, as direction of travel changed many times in those early years. {{< sidenote >}}And a lot of people talking about football. A LOT of people. Football. Oh, Balls...{{< /sidenote >}}
 
-But, long-term, many achievements happened instead that he would never have dreamed-of; taking him to places, situations, and meeting people from the very top to the very bottom.
-
-{{< sidenote >}}
-And a lot of people talking about football. A LOT of people. Football. Oh, Balls...
-But that's a long way off at this point in time.
-{{< /sidenote >}}
+But, long-term, many unexpected achievements happened instead that he would never have dreamed-of; taking him to places around the world, and meeting people from the very top to the very bottom.
 
 #### What else happened in this very early period after going "Pro"?
 
-Here are some of things that happened that can be talked about.
-{{< sidenote >}}
-None of which involved football
-{{< /sidenote >}}
+Here are some of things that happened that can be remembered {{< sidenote >}}None of which involved football{{< /sidenote >}}
 
-At some point in this year, he did The Prodigy for the third time. Although, due to an staffing problem, rather bizarrely Richard ended-up doing their FOH live sound instead of the lights. We shall gloss over how poor it probably was.
-
-#### What else happened in this very early period after going "Pro"?
+At some point in his first year, he did The Prodigy for the third time, but this time getting paid for it. Very bizarrely however, due to some last-minute staffing issue, Richard ended-up doing the FOH {{< sidenote >}}Front of House{{< /sidenote >}} Sound instead of the Lights. Fortunately, no one We shall gloss over how poor it probably was.
 
 Quite a bit of time was spent touring round Europe, mostly Germany, including an amazing month in Vienna as the snow melted.
 
-Through a very complicated story involving the early Internet, Richard ended-up working for High End Systems for a while, and travelled from the USA 🇺🇸 to the Ukraine 🇺🇦
+Through a very complicated story involving the early Internet, Richard ended-up working for High End Systems for a while, travelling everywhere from the USA 🇺🇸 to the Ukraine 🇺🇦
 
-- Towards the end of that seminal first decade, the opportunity arose - thanks to a very opportune random cup of tea at the fabulous Spot Co - to make the bold leap into Television Production. Starting with LDs _Chris Rigby_ & _Oli Richards_ on The Pepsi Chart Show (C5), then on to random performances at MTV Studios in Camden, and then the 3 1/2 hour complete chaos on ITV on a saturday morning with the only ever half-rehearsed - but memorable - SM:TV/CD:UK.
+{{< gallery2 dir="images/VeryOldShows" >}}
+
+_Photos : Austin x2 (TX, USA), Kiev (UKR), Antalya (Türkiye)_
+
+### The Big Step
+
+Towards the end of that seminal first decade, the opportunity arose - thanks a random cup of tea at the ~~fabulous~~ infamous 53 Northfields Road where the ~~infamous~~ fabulous Spot Co and Flying Pig Systems were based - to make the leap into Television Production.
+
+Thanks intially to being in the right place at the right time, Richard found himself the next day working with LDs _Chris Rigby_ & _Oli Richards_ on The Pepsi Chart Show (C5) at the Hannover Grand, wobbling some lights on a WholeHog II. Somehow he got asked back for the next week, and one thing rapidly led to another, as wobbly lights had suddenly become far more affordable yet few people knew how to use them. And Richard discovered he had the innate knack of looking at the television screen and tweaking the lights accordingly without needing prompting - something that many programmers coming from live events/theatre/etc still struggle with nowadays. being in high demand but withwith random performances at MTV Studios in Camden, and then the 3 1/2 hour complete chaos on ITV on a saturday morning with the only ever half-rehearsed - but memorable - SM:TV/CD:UK.
 
 There's many moments from that show that have been lovingly recovered from old VHS recordings and put on YouTube. One historic moment though was one that everyone involved in wishes had stayed firmly dumped and forgotten about in the bin of history : Britney Spears' UK TV Debut. [^2] -
 
@@ -94,6 +91,7 @@ There's many moments from that show that have been lovingly recovered from old V
 At this time, promotional music performances were everywhere on broadcast TV. It was quite possible to do the same act 4 times on 4 different networks in the same week. Yes, I'm looking at you Texas.
 
 {{< youtube "_5396YtadAw" >}}
+
 - Still on the musical performances, but sightly more classy, he also programmed & operated the lights in the gone-too-soon Earls Court 1 for the also-now-gone Luciano Pavarotti's 1998 performance (LD Mike Sutcliffe (Sottyy), for the BBC). Quite an experience.
   He took his skills with moving-lights and discovered an intense fascination with what could be achieved on screen - and as the new Millennium approached, this became his primary focus, but before that, another unexpected opportunity arose!
 
@@ -102,7 +100,7 @@ At this time, promotional music performances were everywhere on broadcast TV. It
 
 ### Joseph and his Amazing Technicolor Dreamcoat
 
-Lead Programmer on this production that sprawlled across 3 stages at Pinewood, including the famous 007 Stage.
+Lead Programmer on this production that sprawled across 3 stages at Pinewood, including the famous 007 Stage.
 
 At one point, had pretty much every moving light that was available in London at that time (apart from Vari\*Lites), across 3 stages.
 
@@ -120,10 +118,10 @@ David Mallet directing, DoP Nic Knowland.
 
 ### Jesus Christ Superstar
 
-After the delightfully over the top campness of Joseph, another Lloyd-Webber musical, except this one is Seriously Arty...
+After the delightfully over-the-top timeless camp of Joseph; another Lloyd-Webber musical followed-on just a few weeks later with the same lighting team. This time round though, the production went to the other extreme, with a beard-stroking Contemporary (for its time) Arty references throughout. {{< sidenote >}} So contemporary for its time that the baggy trousers have come back round in fashion once again... {{< /sidenote >}}
 
 {{< youtube R1MB3348rLQ >}}
 
 ### Gallery
 
-{{< gallery dir="images/VeryOldShows" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+

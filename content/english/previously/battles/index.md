@@ -29,7 +29,6 @@ The videos shown below are of their time and have highly polarising political co
 
 ### Cameron vs Millband (Studio 4/5)
 
-
 {{< accordion "Expand for the backstory about how it all began" >}}
 
 Conservative Central Office very much wanted to control the narrative, and didn't like the danger of people asking unpredictable questions, so they stonewalled all attempts for even a repeat of 2010's very flat Debate, to the point that all the broadcasters gave up on the idea. Then, in a last minute in attempt to be clever, they suddenly said _Yes - but we can only do it next week_ - knowing full well that it takes weeks to put a production team together, find and book a suitable location, design & build a set, install all the technical equipment and support infrastructure, and months to design graphics, find an evenly-balanced audience to ask questions, and so on...let alone arranging all the security needed for such a high-profile event. Well, if there's one thing News Broadcasters do differently to their colleagues elsewhere, its speed... and a massive rabbit got pulled-out of the hat in just 5 days...

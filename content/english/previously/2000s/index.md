@@ -7,7 +7,7 @@ language: en
 description: Television, Telly, more Telly!
 weight: 80
 featured_image: images/OldShows/AbbeyRoad.jpg
-summary: "Television gets more bread'n'butter. Media Servers and LED's start to appear and be used. A huge amount of Xmas dinners. And Richard starts Freelancing at Sky, where this section ends as he joins them as a full-time Staff LD."
+summary: "Television gets more bread'n'butter. Media Servers and LED's start to appear and be used. A huge amount of Xmas Dinners. And Richard starts Freelancing at Sky, where this section eventually ends as Freelance becomes full-time Staff LD."
 ---
 
 ## The Naughties
