@@ -28,23 +28,31 @@ Use the Icons below to jump specific sports.
 
 ### 🏆 Sports Specials 🏆
 
+#### 🎮⚽️🎮 FIFA eClub UK Final 2019  
 
-#### 🎮⚽️🎮 FIFA eClub UK Final 2019 
-
-
-{{< image src="images/SkySports/FIFA-eclub-3.jpg" caption="FIFA eClub 2019" height="" width="" position="left" class="img-fluid" >}}
-{{< image src="images/SkySports/FIFA-eclub-4.jpg" caption="FIFA eClub 2019" height="" width="" position="right" class="img-fluid" >}}
+<div class="flex items-center gap-4">
+ {{< image src="images/SkySports/FIFA-eclub-3.jpg" caption="IFA eClub 2019" height="" width="" position="center" class="img-fluid" >}}
+ {{< image src="images/SkySports/FIFA-eclub-4.jpg" caption="IFA eClub 2019" height="" width="" position="center" class="img-fluid" >}}
+</div>
 
 #### Game for Grenfall
 
 This unique event was for and very much with the local community affected by the Grenfall Disaster, and was held at Loftus Road. This featured not only a comedy football match, but a Commentary Box on the opposite site in a VIP booth (complete with low ceiling and glass sloping the wrong way), and a musical performance on the pitch from various acts
 
+(PICS TO FOLLOW)
+
 #### Gamechangers Awards with David Beckham
 
 The culmination of Sky's Gamechangers series saw it move across the road for a one-off special in Studio 4/5, featuring a very special guest in a reconfigured set. And lots of whizzy flashy lights.
 
-{{< image src="images/SkySports/GameChangers1.jpg" caption="Game Changers Awards" height="" width="" position="left" class="img-fluid" >}}
-{{< image src="images/SkySports/GameChangers2.jpg" caption="Game Changers Awards" height="" width="" position="right" class="img-fluid" >}}
+<div class="flex items-center gap-4">
+{{< image src="images/SkySports/GameChangers1.jpg" caption="Game Changers Awards" height="" width="" position="center" class="img-fluid" >}}
+{{< image src="images/SkySports/GameChangers2.jpg" caption="Game Changers Awards" height="" width="" position="center" class="img-fluid" >}}
+</div>
+
+#### The 100 Launch & Draft
+
+(to follow)
 
 ### ⚽️ Football ⚽️
 
@@ -52,7 +60,7 @@ From almost his very first day way back nearly 2 decades as a Freelancer, Richar
 
 With so many matches across a myriad of different leagues and competitions of football from International to Local, with extended diversions into the Women's, Rugby, and American versions of Kick-Ball as well, _Surely_, after such an intense and extended exposure, a detailed understanding of the _"Beautiful Game"_ {{< sidenote >}} or a bunch of millionaires running around a cold muddy field in the rain {{< /sidenote >}} would have rubbed-off on to him... [Surely...](#conclusion).
 
-But, there is one long-running production strand that takes football very seriously. 
+But, there is one long-running production strand that takes football very seriously.  
 
 Very, very, seriously.
 
@@ -69,20 +77,17 @@ The first day that Richard was due to go solo on this production, it had half-wa
 
 {{< /accordion >}}
 
-
 On 30th April 2012, MNF had its highest ever viewing figures - and also the then-highest for any sporting event on Sky _(until a free-to-air match during Covid)_ when 4.8 million tuned-in to watch Manchester City defeat Manchester United 1-0 on their way to their first top flight title since 1968 _(I had to look that bit up)_.
 
 #### The Studio F version - Simply The Best
 
-The upshot of this success was Sky Sports putting their hand in their pocket, and giving the go ahead to move into the studio next door for Sky's first-ever *Million Pound Production*.
+The upshot of this success was Sky Sports putting their hand in their pocket, and giving the go ahead to move into the studio next door for Sky's first-ever *Million Pound Set*.
 
-World-leading technologies stretched the boundaries of what could be achieved in a live studio environment with the Mixed-Reality set from 2013-2017 in Studio F, powerfully led by Senior Director Duncan East and Executive Producer Scott Melvin, who listened to and then demanded - and got - the best out of every single person working on the show, every single time.
+World-leading technologies stretched the boundaries of what could be achieved in a live studio environment with the Mixed-Reality set from 2013-2017 in Studio F, powerfully led by Senior Director Duncan East and Executive Producer Scott Melvin, who listened to and then demanded - and got - the best out of every single person working on the show, every single time. {{< sidenote >}}Yes, that IS a green xmas tree on a green screen. Yes, Sarah did manage to get it to key, sort of. No, it didn't go on air in that position.{{< /sidenote >}}
   
-{{<slider dir="images/gallery/MNF" class="max-w-150 ml-0">}}
-{{< sidenote >}}Yes, that IS a green xmas tree on a green screen. 
-Yes, Sarah did manage to get it to key, sort of. 
+{{<slider dir="images/gallery/MNF"command="fit" >}}
+
 MNF pioneered the use of giant interactive touch-screens for real-time analysis, with 2D and 3D computer graphics driven directly by the pundits controls - something that took the viewers a long time (and a lot of live mistakes!) to believe was actually true rather than pre-rendered. This was connected to incredibly detailed tracking and statistical analysis of every player in every Premier League (PL) match. They also pushed the limits of 3D graphics, with individual Hero / Walk-on clips of every PL player (shot on 2x 4k cameras, double-stacked on their side, at a time when HD was still a novelty for most people). This was mixed with insightful and fluff-free passionate commentary, to deliver an unprecedented quality - and duration! - of wrap-around analysis before, during, and after just one match. Even when it's a subject you can have no interest in, you can still tell when its being done better than anywhere else!
-No, it didn't go on air there. {{< /sidenote >}}
 
 {{< accordion "Expand for the technical challenges" >}}
 The opening Team walkthrough with the Presenter (Ed Chamberlain then later Dave Jones) was particularly challenging technically - starting on a MCU hard up against a green wall, doing a walk all around the Green Screen area weaving in and out of life-size players, then the camera would reveal the real set outside the green area as well, and he would walk across to the main desk, going through the boundary between Real and VR - all in one shot, live. A tricky challenge with the technology of the day and a very low ceiling meaning couldn't get the lights as far away as was need to avoid inverse square law problems.
@@ -135,13 +140,17 @@ The longest version to date, thanks to Covid extending everything.
 
 #### Premier League :
 
+- SNF : Saturday Night Football
+
+  A late kick-off so a saturday match could be shown live (due to a strict FA rules about not broadcasting matches live at 3pm on Saturdays)
+
+  Pretty horrible set, partly due to the use of 5x Projectors (none of which were bright enough for their screen sizes, but were all repurposed from older projects), but mostly due to an *enormous* header. Ugh. Best forgotten really.
+
 - FNF : Friday Night Football
 
   A very lively show before a single match. Kind of the opposite of MNF in approach.
 
-- SNF : Saturday Night Football
-
-  A late kick-off so a saturday match could be shown live (due to a strict FA rules about not broadcasting matches live at 3pm on Saturdays)
+  Still got those Projectors, but the Header is gone, and instead we have a lot of Monolith lightboxes. With massive heavy steel louvers balanced on top. One of those productions where the grid height really wasn't high enough.
 
 - FF : Football First 
 
@@ -149,12 +158,29 @@ Goals & brief Highlights of everything played that day, late on a saturday night
 Followed by a selected "Game of the day" in (almost) full.  
 Very unusually for a men's football show, this was presented by Sarah-Jane Mee (in the days before she switched-over to exclusively presenting for Sky News.)
 
+This later moved across the road and evolved into :
+
+- MC : Match Choice
+
+Using one end of the SNF / FNF sets, the studio dividing door could be hurriedly closed during the Ad break, provided cameras remembered to run their cables correctly about 11 hours earlier...
+
+<div class="flex items-center gap-4">
+{{< image src="images/SkySports/Football-PL.jpg" caption="Match Choice (St.5)" height="" width="" position="center" class="img-fluid" >}}
+{{< image src="images/SkySports/FF-1.jpg" caption="Football First (St.F)" height="" width="" position="center" class="img-fluid" >}}
+</div>
+
 #### English Football League (EFL)
 
        - The 3 divisions below the Premier League.
 
-         With Dave Prutts.  
-         ...Enough said
+         With Dave Prutts.
+  
+...Enough said {{< sidenote >}} He'd probably love this effect though {{< /sidenote >}}
+
+<div class="flex items-center gap-4">
+{{< perspective-image src="images/SkySports/EFL-2.jpg" caption="EFL Studio 1 (placeholder)" height="" width="" position="center" class="img-fluid" >}}
+{{< perspective-image src="images/SkySports/EFL-3.jpg" caption="EFL Studio 1 (placeholder)" height="" width="" position="center" class="img-fluid" >}}
+</div>
 
 #### Women's Super League (WSL)
 
@@ -164,6 +190,10 @@ Very unusually for a men's football show, this was presented by Sarah-Jane Mee (
 #### World Cup & Euros Qualifiers (WCQ)
 
         All the qualifying matches... apart from England's.
+<div class="flex items-center gap-4">
+{{< image src="images/SkySports/Euro-Qualifiers1.jpg" caption="Euro Qualifiers (Studio 4)" height="" width="" position="center" class="img-fluid" >}}
+{{< image src="images/SkySports/Euro-Qualifiers2.jpg" caption="Euro Qualifiers (Studio 4)" height="" width="" position="center" class="img-fluid" >}}
+</div>
 
 ##### Soccer Saturday (Supervisory LD)
 
@@ -278,28 +308,23 @@ Sharing the studio with Soccer Saturday, in an inspired bit of set design by Jon
 (Info To follow)
 
 {{< image src="images/SkySports/Lions1.jpeg" caption="The Lions Tour (Studio 1 Covid version)" alt="The Lions Tour" position="center"  class="max-w-150 ml-0" >}}
-{{< image src="images/SkySports/Lions2.jpeg" caption="Very subtle green-screen lighting" alt="The Lions Tour" position="center" class="max-w-150 ml-0" >}}
+{{< image src="images/SkySports/Lions2.jpeg" caption="Very careful green-screen lighting" alt="The Lions Tour" position="center" class="max-w-150 ml-0" >}}
 
-(To follow)
+Several versions of this over the years. The most interesting version was during Covid, where restrictions meant presenters and camera crews couldn't travel to South Africa, so amongst other things, a green screen setup in Osterley had a real monitor in it, perfectly aligned to an identical monitor at the pitchside. Then lights were dotted-around to ensure the light on the presenter matched the live lighting outside - complete with angle and colour changes through the day! One of the very few times pointing a Multi-Colour version of an LED Source 4 at a presenter is an advantage (note highlights on the side of his head compared to the sun).
+
+This turned-out to be so convincing that reports came in of people "down the pub" being totally convinced that the pitch side presentation was in face pitchside, even after it was pointed-out they had been in the studio 10 minutes earlier...
+
+Another aspect to the success of this greenscreen shoot was that for once it wasn't shoehorned into a tiny space with the lights only inches away. {{< sidenote >}}He's about to bang on about the inverse square law - again! {{< /sidenote >}}
 
 ## 🏈 NFL (American Football inc. Superbowl) 🏈
 
 Various Superbowl overnight wrap-abounds, and some of thee regular weekly wrap-around coverage over the years.
 
-Surprisingly, one of the most challenging - and least predictable - Sky Sports' shows from a lighting perspective, despite (or probably, thanks to being buried on a late night slot, Production has always been far more dynamic and spontaneous with talent rarely sat at a desk, often on their feet and very energised, plus cutting to and from the studio frequently with no warning thanks to US Networks inconsistency letting the world hear their DA (Director's Assistant) feed - i.e. oft-times, nobody in the UK gets to hear such vital information as "break in 30 seconds" and the first you know is when the feed crashes into an advert. So lights up and cameras on the Talent for 5-6 hours continuously, and breaks have to be split.
-
+Surprisingly, one of the most challenging - and least predictable - Sky Sports' shows from a lighting perspective, despite {{< sidenote >}} or probably, thanks to{{< /sidenote >}} being buried on a late night slot, Production has always been far more dynamic and spontaneous with talent rarely sat at a desk, often on their feet and very energised, plus cutting to and from the studio frequently with no warning thanks to US Networks inconsistency letting the world hear their DA (Director's Assistant) feed - i.e. oft-times, nobody in the UK gets to hear such vital information as "break in 30 seconds" and the first you know is when the feed crashes into an advert. So lights up and cameras on the Talent for 5-6 hours continuously, and breaks have to be split.
 
 Even more mysterious rules than non-american football, but some fabulous half-time shows for the Superbowls - and the opportunity to see what happens behind the scenes as to how those big complex stages appear in the middle of a field in less than 5 minutes : Answer, break them into large chunks, and get a lot of people to pick these chunks up at the same time. A LOT people ... 500+ !
 
 (More to follow)
-
-## 🪅 Sports Specials 🪅
-
-The 100 Launch Draft (Cricket)
-
-This was a major all-day take-over, 
-
-FIFA eClub 2019 (e-Football)
 
 ## 🤿 🏊🏽‍♂️ 🤿 Bog Snorkelling 🤿 🏊🏽‍♂️ 🤿
 
@@ -307,11 +332,12 @@ FIFA eClub 2019 (e-Football)
 Red Herrings are often found swimming in peat bogs.
 
 Other Sports also had Studio-based commentary from time to time, which richard help light, but are not of particular note, including:
+
  - Golf (various, including some AR Specials for Ryder and Master's Cups)
  - Cycling
  - NBA (Basketball)
  - Various non-UK football leagues
- - and more.
+ - and more. Its all a blur tbh. Game of two halves. Jumpers for Goalposts.
 
 Finally, in the early days, a number of occasionally fascinating discussion shows with famous former starts were recorded, before all Magazine and Chat Sports Shows were axed as part of cost-cutting measures in 2014 ![BT Sports](fn "in order to build a war-chest to fight the dramatic introduction of Sky Sports's first effective competitor, BT Sports - which had just been launched in revenge for Sky's rapid growth into Telecommunications, and which it was initially highly successful, thanks to buying-in some high-level former insider knowledge, precision-targetted Sky Sport's weak-spots. Unfortunately, thanks to subtle manipulations of politicians supposedly in the interest of viewers but in practice exactly the opposite, the only long-term beneficiaries were the already-overflowing bank accounts of the Premier League; domestic and pub viewers ended-up paying well-over twice as much for their subscriptions.")
 

@@ -41,10 +41,13 @@ _And then, just 6 months later, on the last day of the year - and still not yet 
 
 #### ...sort of...
 
-{{< slider dir="images/VeryOldShows/Wembly" >}}
-Ok, so it was actually the _Wembley Exhibition & Conference Center_, not the _Wembley Arena_ next door, and definitely NOT the adjacent world-famous _*Wembley Stadium*_ ...which is what he meant...but didn't clearly state. Still, it's made a good story down the pub ever since...
+{{< gallery2 dir="images/VeryOldShows/Wembley" >}}
 
-Three decades on, he's still not done the Stadium, but he has done the Arena a few times.
+Ok, so it was actually the _Wembley Exhibition & Conference Center_, not the _Wembley Arena_ next door, and definitely NOT the adjacent world-famous _*Wembley Stadium*_ ...which was where he meant - but didn't clearly state.
+
+Still, it's made a good story down the pub ever since...
+
+Three decades on, and he's still not done the Stadium (and has no desire to), but he has done the Arena a few times.
 
 Madonna, on the other hand, took a further 11 years. {{< sidenote >}}So - a pretty good estimate all-in-all then! {{< /sidenote >}}
 
@@ -122,6 +125,8 @@ After the delightfully over-the-top timeless camp of Joseph; another Lloyd-Webbe
 
 {{< youtube R1MB3348rLQ >}}
 
-### Gallery
+### Navigation
 
-
+- {{< button label="Next: The Millenium" link="/previously/2000s/" class=animated >}}
+- {{< button label="...Previously" link="/previously" class="animated" >}}
+- {{< button label="Home" link="/" class="animated" >}}

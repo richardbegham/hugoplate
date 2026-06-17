@@ -68,11 +68,12 @@ Also that year, Richard was in Trafalgar Square for a week for someone's wedding
 
 #### Richard in 2011
 
-{{< image src="images/Richard2011.jpg" caption="" alt="Richard in 2011" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Richard in 2011"  webp="false" >}}
+{{< image src="images/Richard2011.jpg" caption="One of the last times he still had hair" position="center" alt="Richard in 2011" >}}
 
 <hr>
 
 ### Navigation
 
+- {{< button label="Earlier: The 1990's" link="/previously/1990s/" class=animated >}}
 - {{< button label="...Previously" link="/previously" class="animated" >}}
 - {{< button label="Home" link="/" class="animated" >}}
