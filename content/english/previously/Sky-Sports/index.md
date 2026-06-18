@@ -173,7 +173,7 @@ Using one end of the SNF / FNF sets, the studio dividing door could be hurriedly
 
        - The 3 divisions below the Premier League.
 
-         With Dave Prutts.
+         With (mostly) Dave Prutts.
   
 ...Enough said {{< sidenote >}} He'd probably love this effect though {{< /sidenote >}}
 
