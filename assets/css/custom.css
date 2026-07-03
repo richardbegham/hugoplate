@@ -1,9 +1,12 @@
 /* force font change because ...Hugoplate
     was: Codystar  */
 @theme {
-  --font-primary: "Noto Sans", sans-serif;
+
+  --font-primary: "Noto San", sans-serif;
   --font-secondary: "Michroma", sans-serif; 
 }
+#  --font-primary: "Noto Sans", sans-serif;
+#   --font-secondary: "Michroma", sans-serif; 
 
 /* Add your own custom styles here */
 
@@ -82,4 +85,26 @@ span.sidenote small {
       rotate(0deg)
       scale(1)
       translateY(10px);
+}
+
+@font-face {
+  font-family: "budmo-jigglish";
+  src: url('/fonts/budmo-jigglish.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: "budmo-jiggler";
+  src: url('/fonts/budmo-jiggler.woff2') format('woff2');
+}
+
+h1 {
+  font-family: 'budmo-jiggler', sans-serif;
+  color: #fff;
+  font-size: 4.2rem;
+  text-shadow: 
+    0 0 3px #000,
+    0 0 5px #fff,
+    0 0 8px #ffdd00,
+    0 0 14px #ffdd00,
+    0 0 30px #ffaa00;
 }

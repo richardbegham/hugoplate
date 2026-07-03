@@ -35,8 +35,8 @@ features:
       - "The _Previously..._ section contains the majority of the content to explore, and will continue to be significantly expanded over time."
       - "_Tabbed views_ are used throughout this site to flip between related information, and to reduce lengthy scrolling. "
       - "_Educational notes_ indicates some more detailed information about historical productions, which may be of some interest to students of television lighting techniques."
-      - "Most images can be selected to zoom in"
-      - "**Dark Mode** can be toggled on/off in the top right corner."
+      - "Many images can be selected to zoom in"
+      - "**Dark Mode** can be toggled on/off in the top right corner.<br>(We think it looks best in Dark Mode though)"
     button:
       enable: true
       label: "🚀 Previously 🚀"
