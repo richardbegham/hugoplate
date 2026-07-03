@@ -77,15 +77,16 @@ The first day that Richard was due to go solo on this production, it had half-wa
 
 {{< /accordion >}}
 
-On 30th April 2012, MNF had its highest ever viewing figures - and also the then-highest for any sporting event on Sky _(until a free-to-air match during Covid)_ when 4.8 million tuned-in to watch Manchester City defeat Manchester United 1-0 on their way to their first top flight title since 1968 _(I had to look that bit up)_.
+On 30th April 2012, MNF had its highest ever viewing figures - and also the then-highest for any sporting event on Sky _(until a free-to-air match during Covid)_ when 4.8 million tuned-in to watch Manchester City defeat Manchester United 1-0 on their way to their first top flight title since 1968. {{< sidenote >}}Quoteing from a source that actually knows what its talking about wrt. football, unlike me.{{< /sidenote >}}
 
-#### The Studio F version - Simply The Best
+#### The Studio F version - Simply The Bestß
 
 The upshot of this success was Sky Sports putting their hand in their pocket, and giving the go ahead to move into the studio next door for Sky's first-ever *Million Pound Set*.
 
+{{< gallery2 dir="images/gallery/MßNF" class="max-w-150 ml-0" >}}
+
 World-leading technologies stretched the boundaries of what could be achieved in a live studio environment with the Mixed-Reality set from 2013-2017 in Studio F, powerfully led by Senior Director Duncan East and Executive Producer Scott Melvin, who listened to and then demanded - and got - the best out of every single person working on the show, every single time. {{< sidenote >}}Yes, that IS a green xmas tree on a green screen. Yes, Sarah did manage to get it to key, sort of. No, it didn't go on air in that position.{{< /sidenote >}}
-  
-{{<slider dir="images/gallery/MNF"command="fit" >}}
+
 
 MNF pioneered the use of giant interactive touch-screens for real-time analysis, with 2D and 3D computer graphics driven directly by the pundits controls - something that took the viewers a long time (and a lot of live mistakes!) to believe was actually true rather than pre-rendered. This was connected to incredibly detailed tracking and statistical analysis of every player in every Premier League (PL) match. They also pushed the limits of 3D graphics, with individual Hero / Walk-on clips of every PL player (shot on 2x 4k cameras, double-stacked on their side, at a time when HD was still a novelty for most people). This was mixed with insightful and fluff-free passionate commentary, to deliver an unprecedented quality - and duration! - of wrap-around analysis before, during, and after just one match. Even when it's a subject you can have no interest in, you can still tell when its being done better than anywhere else!
 
