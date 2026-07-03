@@ -16,7 +16,7 @@ Attempts to give the UK a version of the head-to-head "US Presidential style" De
 
 So, roll on the then-legally-fixed nice and predictable 5 year delay until the next one. And then... nobody could then have predicted the utter carnage the next five years would result in. {{< sidenote >}}, even those encouraging the chaos from 1500 miles to the east (...!) {{< /sidenote >}}
 
-{{< slider dir="images/gallery/Debates" >}}
+{{< gallery2 dir="images/gallery/Debates" class="max-w-150 ml-0" >}}
 
 {{< notice "warning" >}}
 The videos shown below are of their time and have highly polarising political content - LightingDir.Com neither endorses or opposes any of the views expressed; however we do recommend use of your  _Mute_ 🔇 button should your blood pressure rise at any point.
