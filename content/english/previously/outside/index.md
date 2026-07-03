@@ -28,7 +28,7 @@ We can show you the end result - this was very heavily softened in post-producti
 A vast space.  
 Thanks to the amazing Darren Fletcher at ELP and his team, this looked spectacular on a small budget and working within the "don't stand too close to me" period of Covid restrictions.
 
-{{< slider dir="images/gallery/BigIdeas-1" class="max-w-160 ml-0"  height="256" width="320" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery2 dir="images/gallery/BigIdeas-1" class="max-w-150 ml-0" >}}
 
 {{< youtube "PN1HoqkzuIU" >}}
 

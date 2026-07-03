@@ -150,7 +150,11 @@ Turned-out they they both "won" in quick succession - although Sunack lasted in 
 
 ## Knights of Illumination Awards 2017
 
-A totally unexpected upshot of these debates, was that in 2017 Richard was amazed at being honoured by receiving a Nomination in the annual _Knight of Illumination Award_  for the **Best Small Studio** category. This peer-nominated and judged award - now superseded by the [Profile Awards](https://profileawards.com/television-categories/) - was the lighting version of being nominated for a Brit. {{< sidenote >}} Yes, Studio 4/5 may be the biggest TV studio Sky has, but its still a small studio compared to the ones used for the likes of Strictly / X-Factor / etc, let alone their own Film stages. Its also a very unhelpful sausage shape, but that's another story entirely._ {{< /sidenote >}}
+A totally unexpected upshot of these debates happened in late 2017, when Richard was amazed to receiving a Nomination in the annual _Knight of Illumination Award_  for the **Best Small Studio** category for the __*2017 May vs Corbyn*__ debate (see above).
+
+This peer nominated and judged award - _now succeeded by the [Profile Awards](https://profileawards.com/television-categories/)_ - is the lighting version of being nominated for a Brit. {{< sidenote >}} Yes, Studio 4/5 may be the biggest TV studio Sky has, but its still a small studio compared to the ones used for the likes of Strictly / X-Factor / etc, let alone their own Film stages. Its also a very unhelpful sausage shape, but that's another story entirely._ {{< /sidenote >}}
+
+He didn't collect the Award, but was extremely chuffed to be nominated.
 
 {{< image src="images/KOI-2.jpg" caption="Where's Wally?" alt="All Nominees" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="All Nominees" >}}
 
