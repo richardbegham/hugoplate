@@ -12,7 +12,9 @@ summary: "It wasn't all News and Sport - occasionally Richard was able to do som
 
 ## Sky Entertainment
 
-Various studio and OB shows for Sky Arts, Sky Atlantic, etc.
+{{< image src="images/logos/sky-arts.png" alt="Sky Arts Logo" position="left" class="h-2 max-w-lg mx-auto" >}} {{< image src="images/logos/sky-cinema.png" alt="Sky Cinema Logo" position="center" class="h-2 max-w-lg mx-auto" >}} {{< image src="images/logos/sky-atlantic.png" alt="Sky Atlantic Logo" position="right" class="h-2 max-w-lg mx-auto" >}}
+
+Various studio and OB shows for Sky Arts, Sky Cinema, Sky Atlantic, Sky One, etc.
 
 ### Thronecast - Sky Atlantic
 
@@ -42,7 +44,11 @@ To keep the fans excited in the gap year before the final season, there was a sp
 
 Came-in for the final few episodes of this short-lived series.
 
-Another of Jason Underwood's great sets, which somehow captured the slightly weird, edgy, slightly disconcerting world of the HBO production. Except with less killer robots.
+Another of Jason Underwood's great sets, which somehow captured the slightly weird, edgy, slightly disconcerting world of the HBO production.
+
+Except with less killer robots.
+
+Host Lauren Laverne, with superfan Jamie East and celebrity guests.
 
 <hr>
 
@@ -72,7 +78,7 @@ Martin Profession very kindly loaned some Vipers to add the basic rig of Sharpie
 
 Andy Harris did a sterling job programming all the lights on his Vector.
 
-{{< slider dir="images/gallery/Sessions-1" class="max-w-150 ml-0"  >}}
+{{< gallery2 dir="images/gallery/Sessions-1" class="max-w-150 ml-0"  >}}
 
 #### Season 2 : Studio 4/5
 
