@@ -16,6 +16,26 @@ Attempts to give the UK a version of the head-to-head "US Presidential style" De
 
 So, roll on the then-legally-fixed nice and predictable 5 year delay until the next one. And then... nobody could then have predicted the utter carnage the next five years would result in. {{< sidenote >}}, even those encouraging the chaos from 1500 miles to the east (...!) {{< /sidenote >}}
 
+
+
+{{< accordion "Expand for the backstory about how it all began" >}}
+
+Conservative Central Office very much wanted to control the narrative, and didn't like the danger of people asking unpredictable questions, so they stonewalled all attempts for even a repeat of 2010's very flat Debate, to the point that all the broadcasters gave up on the idea. Then, in a last minute in attempt to be clever, they suddenly said _Yes - but we can only do it next week_ - knowing full well that it takes weeks to put a production team together, find and book a suitable location, design & build a set, install all the technical equipment and support infrastructure, and months to design graphics, find an evenly-balanced audience to ask questions, and so on...let alone arranging all the security needed for such a high-profile event. Well, if there's one thing News Broadcasters do differently to their colleagues elsewhere, its speed... and a massive rabbit got pulled-out of the hat in just 5 days...
+
+The call is made to John Ryley, Head of Sky News, and a date of just 5 days time is fixed. He then tells Head of Studios Jon Bennett to somehow make this happen somewhere, somehow. Jon realises that all the prestigious locations that had been planned-for over the previous 5 years just couldn't be secured in time, and the only place that might work in the timescale would be the big general-purpose studio across the road...however he'd never worked in it and didn't really know what worked in that space, and hadn't got time to go through the usual polite meetings with management and so on.
+
+Counting back from the moment of transmission (TX), allowing for presenter rehearsals on the day, technical rehearsals the day beforehand, ideally two days. Then add the build of the Set (even if it's basically video walls) will take at least two days to build, with lights/sound/cameras going in and around, which makes 4 days - and they had 5, and no plan, no crew, and no studio at this stage. Oops. But this is News, they achieve the impossible everyday. Now, Who could give him all the answers to the studio, and who needs to get in to the studio first...
+
+Jon (somehow) finds-out that Richard was working on _Ringside_ (Sky Sports Boxing magazine show) in the next building, and, highly-unusually, leaves News and has a very quiet and quick discussion in the corridor with Richard. Five minutes later - with Ringside unceremoniously offloaded onto his team with no explanation to anyone beyond "Very Sorry, I have to go. Right now. Will explain later." - the pair of them are in a taxi heading as fast as possible across town to meet with Production designers Jago. A short meeting later, with invaluable advise from Richard about what facilities the studio has (such as seating, cameras, power, rigging, etc) and how its been successfully used (or not) previously, they are heading back to Osterley on a train, which gives Richard the opportunity to sketch something out on the back of an envelope. Phone calls are made, an outline of the logistics involved is determined, many conversations are started with the cryptic phrase "Umm...do you know what I know...?", and that afternoon the schedule for pretty much everyone in the lighting department for the next week was upended without any explanation, as there was extensive knock-on effects with sports productions being relocated - but that's what lighting people are used to - and they all pulled-together magnificently.
+
+After all that, and the hurried nature of these designs, the production and lighting design turned-out to be so successful that it they went on to be repeated in an essentially similar form multiple times over the very turbulent (...!) period of politics that followed.
+
+And here's the entirely of Richard's show notes and design. Well, a napkin was good enough for the Space Shuttle initial design _(allegidly)_...
+
+{{< gallery2 dir="images/gallery/DebateDesign" class="max-w-150 ml-0" >}}
+
+{{< /accordion >}}
+
 {{< gallery2 dir="images/gallery/Debates" class="max-w-150 ml-0" >}}
 
 {{< notice "warning" >}}
@@ -29,19 +49,6 @@ The videos shown below are of their time and have highly polarising political co
 
 ### Cameron vs Millband (Studio 4/5)
 
-{{< accordion "Expand for the backstory about how it all began" >}}
-
-Conservative Central Office very much wanted to control the narrative, and didn't like the danger of people asking unpredictable questions, so they stonewalled all attempts for even a repeat of 2010's very flat Debate, to the point that all the broadcasters gave up on the idea. Then, in a last minute in attempt to be clever, they suddenly said _Yes - but we can only do it next week_ - knowing full well that it takes weeks to put a production team together, find and book a suitable location, design & build a set, install all the technical equipment and support infrastructure, and months to design graphics, find an evenly-balanced audience to ask questions, and so on...let alone arranging all the security needed for such a high-profile event. Well, if there's one thing News Broadcasters do differently to their colleagues elsewhere, its speed... and a massive rabbit got pulled-out of the hat in just 5 days...
-
-The call is made to John Ryley, Head of Sky News, and a date of just 5 days time is fixed. He then tells Head of Studios Jon Bennett to somehow make this happen somewhere, somehow. Jon realises that all the prestigious locations that had been planned-for over the previous 5 years just couldn't be secured in time, and the only place that might work in the timescale would be the big general-purpose studio across the road...however he'd never worked in it and didn't really know what worked in that space, and hadn't got time to go through the usual polite meetings with management and so on.
-
-Counting back from the moment of transmission (TX), allowing for presenter rehearsals on the day, technical rehearsals the day beforehand, ideally two days. Then add the build of the Set (even if it's basically video walls) will take at least two days to build, with lights/sound/cameras going in and around, which makes 4 days - and they had 5, and no plan, no crew, and no studio at this stage. Oops. But this is News, they achieve the impossible everyday. Now, Who could give him all the answers to the studio, and who needs to get in to the studio first...
-
-Jon (somehow) finds-out that Richard was working on _Ringside_ (Sky Sports Boxing magazine show) in the next building, and, highly-unusually, leaves News and has a very quiet and quick discussion in the corridor with Richard. Five minutes later - with Ringside unceremoniously offloaded onto his team with no explanation to anyone beyond "Very Sorry, I have to go. Right now. Will explain later." - the pair of them are in a taxi heading as fast as possible across town to meet with Production designers Jago. A short meeting later, with invaluable advise from Richard about what facilities the studio has (such as seating, cameras, power, rigging, etc) and how its been successfully used (or not) previously, they are heading back to Osterley on a train, which gives Richard the opportunity to sketch something out on the back of an envelope. Phone calls are made, an outline of the logistics involved is determined, many conversations are started with the cryptic phrase "Umm...do you know what I know...?", and that afternoon the schedule for pretty much everyone in the lighting department for the next week was upended without any explanation, as there was extensive knock-on effects with sports productions being relocated - but that's what lighting people are used to - and they all pulled-together magnificently.
-
-After all that, and the hurried nature of these designs, the production and lighting design turned-out to be so successful that it they went on to be repeated in an essentially similar form multiple times over the very turbulent (...!) period of politics that followed, as the rest of this section shows :
-
-{{< /accordion >}}
 
 A simple set - three video walls with a little bit of decorative LED, plus quite a nice desk. As much as could be order & built in 4 days!
 Richard added a black box truss above each screen with a row of precisely-spaced Martin Mac Auras as visual eye-candy for any vertical shoot off - and also to hide the camera used to shoot backwards at the audience. _(which was perched up on top of a wobbly Highlift with a 500:1 lens)_
