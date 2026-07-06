@@ -36,7 +36,7 @@ Thanks to the amazing Darren Fletcher at ELP and his team, this looked spectacul
 
 Once again Darren Fletcher at ELP helped make the impossible, possible.
 
-Lots of ground-supported truss, and as is often the way, not enough height.
+Lots of ground-supported truss, and as is often the way, not quite enough height in the venue.
 
 {{< youtube "6PVZleKL8Qk" >}}
 

@@ -79,11 +79,11 @@ The first day that Richard was due to go solo on this production, it had half-wa
 
 On 30th April 2012, MNF had its highest ever viewing figures - and also the then-highest for any sporting event on Sky _(until a free-to-air match during Covid)_ when 4.8 million tuned-in to watch Manchester City defeat Manchester United 1-0 on their way to their first top flight title since 1968. {{< sidenote >}}Quoteing from a source that actually knows what its talking about wrt. football, unlike me.{{< /sidenote >}}
 
-#### The Studio F version - Simply The Bestß
+#### The Studio F version - Simply The Best
 
 The upshot of this success was Sky Sports putting their hand in their pocket, and giving the go ahead to move into the studio next door for Sky's first-ever *Million Pound Set*.
 
-{{< gallery2 dir="images/gallery/MßNF" class="max-w-150 ml-0" >}}
+{{< gallery2 dir="images/gallery/MNF" class="max-w-150 ml-0" >}}
 
 World-leading technologies stretched the boundaries of what could be achieved in a live studio environment with the Mixed-Reality set from 2013-2017 in Studio F, powerfully led by Senior Director Duncan East and Executive Producer Scott Melvin, who listened to and then demanded - and got - the best out of every single person working on the show, every single time. {{< sidenote >}}Yes, that IS a green xmas tree on a green screen. Yes, Sarah did manage to get it to key, sort of. No, it didn't go on air in that position.{{< /sidenote >}}
 
