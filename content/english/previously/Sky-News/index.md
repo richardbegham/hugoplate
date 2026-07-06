@@ -110,11 +110,18 @@ The intention was to feature live walks from the Virtual to the Real, similar to
 
 However, the original concept continued, as the VR Studio developed over time, it still retained often the look of being the Glass Box at a glance.
 
-Another interesting aspect over time with the VR Studio usage was that Virtual Set Designer coordinated the Richard so that there were identical virtual lights to reality, both in the distant background, and also overhead, so that should a real Arri L7 ever magically drift into vision on the Jib shot, it would not be jarring or totally unexpected to the viewer, who might not know (or care) that its VR, but does know that its a studio of some sort. In fact, some virtual designs contained many more lights than the budget for a real studio would be likely to stretch to! This also meant that the scenic parts of the the virtual set were lit from not just the same place and direction, but also the beam angle and diffusion of the virtual light was the same was illuminating the talent. Shadows are always the bane of green screen shooting, fortunately after much back and forth, the decision was made to have a real lino floor with real shadows.
+Another interesting aspect over time with the VR Studio usage was that Virtual Set Designer coordinated with Richard so that there were identical virtual lights matching the ones in reality - This also meant that the scenic parts of the the virtual set were lit from the same place and direction, beam angle and diffusion, as that which hit the Talent, greatly enhancing the illusion. It also meant that should a real Arri L7 ever drift into vision on a very extreme Jib shot (which a couple of Kickers in the rear corners were prone to doing with some operators), it would not be jarring or totally unexpected to the viewer - who might not know (or care) that its VR, but does know that its a studio of some sort, and now a light has appeared in the foreground that they had previously seen in the distance - and the Real light appeared instead of the Virtual one
+
+In fact, some virtual designs contained many more lights than the budget for a real studio would have been able to stretch to, with every distant part of the building lit up! . Shadows are always the bane of green screen shooting, fortunately after much back and forth, the decision was made to have a real lino floor with real shadows.
 
 {{< youtube "Jq-ZTuh7OQg" >}}
-
+<p align="center" style="font-size: 0.9em; color: #777;">
+  Sunrise in Studio 6
+</p>
 {{< youtube "MtA_lKXCT_E" >}}
+<p align="center" style="font-size: 0.9em; color: #777;">
+  Example of VR in Studio 6
+</p>
 
 #### Millbank - multi-purpose studio
 
@@ -125,9 +132,14 @@ Plus other spaces used in many different ways over the years included the **News
 
 #### City Studios 2 & 3 - shared spaces with CNBC
 
-Quite an interesting design this. Not only were both of the studio spaces shared with a completely different broadcaster, with their own totally different lighting system, but operational use needed to flip-flop for each broadcaster, ideally automatically, whilst presenting no risk of interference between the two systems,
+Quite an interesting design this. Not only were both of the studio spaces shared with a completely different broadcaster, but each had their own totally different lighting control systems, situated miles apart in different buildings, with a need to flip-flop between each broadcaster, automatically with no manual patching, whilst presenting no risk of interference between the two systems outside the areas concerned.
+
+The solution to the above was both elegant and robust - and proven to be totally reliable and effectively transparent to operators on both sides throughout the entire 5 year lifespan of the studios. If you have a similar challenge, get in touch...
 
 {{< youtube "zRoxp3RcBuI" >}}
+<p align="center" style="font-size: 0.9em; color: #777;">
+  Example of City Studio 3 in use
+</p>
 
 <hr>
 

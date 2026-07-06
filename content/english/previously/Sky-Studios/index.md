@@ -33,7 +33,7 @@ Quantities used for main fixed studios
 
 | | DL-9 | Astra 3X | Astra 6x | Sola 4+ |
 | :-: | :-: | :-: | :-: | :-: |
-| Millbank Main | 20x | 12x | 12x | 10x | 
+| Millbank Main | 20x | 12x | 12x | 10x |
 
 {{< /accordion >}}
 
@@ -92,7 +92,7 @@ The lights were a dense 360-degree ring of Arri S60 Softlights, all with very na
 
 #### Project Tardis - Studio 6 (2017) - Real and Virtual Reality spaces
 
-This was originally designed to fit on an unused area of the 2nd floor (above the coffee shop and next to the proposed new Newsrooom area)...until it was realised that section of the building was cantellevered over thin air, and would need substantial reinforcement to take the weight of the video walls. Oops. So it was then hurridly transposed to Studio 6 - eviciting Soccer Saturday to a smaller studio mid-season, which was a complex challenge to seamlessly achieve within in a week in its own right. And...then it was found that the cameras moved with the production, there was no budget left for Sony 4300 as per the Glass Box, resulting in a bodge to first source and then install LDK-8000 cameras into the galleries, which then in turn messed-up the intended lighting control position... {{< sidenote >}}And that's the vastly simplified story... {{< /sidenote >}}.
+This was originally designed to fit on an unused area of the 2nd floor (above the coffee shop and next to the proposed new Newsroom area)...until it was realised that section of the building was cantilevered over thin air, and would need substantial reinforcement to take the weight of the video walls. Oops. So it was then hurriedly transposed to Studio 6 - evicting Soccer Saturday to a smaller studio mid-season, which was a complex challenge to seamlessly achieve within in a week in its own right. And...then it was found that the cameras moved with the production, there was no budget left for Sony 4300 as per the Glass Box, resulting in a bodge to first source and then install LDK-8000 cameras into the galleries, which then in turn messed-up the intended lighting control position... {{< sidenote >}}And that's the vastly simplified story... {{< /sidenote >}}.
 
 In all big and interconnected projects, nothing pans-out entirely as intended!
 
@@ -117,14 +117,15 @@ From the experience with the diffused daylight-enhanced Glass Box which had just
 To fill this brief, a unique and unprecedented control system had to be developed. This was done entirely by Richard, and, once on-air, this system ran 24/7 for 7 years as further studio spaces were developed and updates applied in short breaks
 
 {{< accordion "Control System Unique Specifications" >}}
+
 - Live simultaneous control of 7 studios across 4 sites on 2 continents.
-    - Making this quite probably the largest continuously-operating ETC Eos Network in world by geography.
+  - Making this quite probably the largest continuously-operating ETC Eos Network in world by geography.
 - Two main PCRs with ETC Eos series consoles running synchronised (Main + Backup)
 - Three local PCRs with consoles running the same software, but only local sessions, to avoid any network issues such as Latency/Bandwidth/Disconnections
 - Hardware VPNs were used to encapsulate and route the ...highly Corporate IT unfriendly... sACN lighting traffic through Broadcast networks without complications.
-    - all communications between Local and Central consoles was simply to hand or take control back and forth
-    - This was achieved by _Smoke Signals_ (see below).
-    - This system was then extended to interconnect with different broadcasters (SSN and CNBC) so that certain studio spaces could be shared, despite totally different control systems and without needing any manual interventions such as repatching.
+  - all communications between Local and Central consoles was simply to hand or take control back and forth
+  - This was achieved by _Smoke Signals_ (see below).
+  - This system was then extended to interconnect with different broadcasters (SSN and CNBC) so that certain studio spaces could be shared, despite totally different control systems and without needing any manual interventions such as repatching.
 - Hardware VPN used to encapsulate and route traffic across internal networks with no Corporate IT complications.
 - largest ETC Eos Network in world (by geography)
 - Conditional and Sequential controls whilst being entirely macro and magic-sheet driven
@@ -132,11 +133,9 @@ To fill this brief, a unique and unprecedented control system had to be develope
 
 {{< /accordion >}}
 
-
-
 <hr>
 
-### Tardis II - the Rise of the Tardis.
+### Tardis II - the Rise of the Tardis
 
 This wasn't really called Tardis II, but that's what the revised control system got called.
 
@@ -237,7 +236,7 @@ flowchart LR
 
 #### City Studios - within CNBC's studios in The City of London
 
-Located very unusually in the corner of CNBC's London Studio, and going On-Air just as they went Off-Air, this was a pair of two small studio spaces. This was triggered by the Sky News needing to move out of their existing studio space, and the then-recent takeover of Sky by Comcast looking to save money by reducing sites together with a hasty change of US News Network partnership (previously Fox, who were now no longer Friends...).
+Located very unusually in the corner of CNBC's London Studio, these were a pair of small studio spaces, staffed by just a single presenter and a technical supervisor, with guests able to quickly come and go from their near-by offices in the Square Mile. The move into a shared operational space was triggered by a combination of Sky News needing to move out of their previous studio space in the Gerkin, and the then-recent takeover of Sky by Comcast, who were looking to save money across the combined business by reducing sites.  together with a hasty change of their US News Network partnership - previously Fox, with whom were now no longer Friends...
 
 To keep in-line with the previous Tardis project's naming schemes being both logical, inconsistent, and confusing, these were called City 2 and City 3 (City 1 being reserved for CNBC's studio which they didn't call it, and City 3 was actually a sub-set of City 1)
 
@@ -245,7 +244,11 @@ To keep in-line with the previous Tardis project's naming schemes being both log
 
 {{< image src="images/SkyBuilds/City2.jpg" caption="" alt="City 2 Studio" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="City 2 Studio"  webp="false" >}}
 
-{{< youtube "LlbSJvn9GUM&t=42s" >}}
+{{< youtube "LlbSJvn9GUM" >}}
+<p align="center" style="font-size: 0.9em; color: #777;">
+  Example of City Studio 2 in use
+</p>
+
 #### City 3
 
 {{< image src="images/SkyBuilds/City3.jpg" caption="" alt="City 2 Studio" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="City 3 Studio"  webp="false" >}}
@@ -263,7 +266,6 @@ To keep in-line with the previous Tardis project's naming schemes being both log
 ## Sky Sports Racing
 
 ##### MUCH MORE TO COME
-
 
 {{< image src="images/SkyBuilds/Testing-1.jpg" caption="Richard testing reflectivity of different wall cladding materials for SSR on camera in Studio 6" alt="Testing wall material" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Testing wall material"  webp="false" >}}
 
@@ -319,5 +321,5 @@ Over time, all the lighting electricians were successfully encouraged to embrace
 
 <hr>
 
-- {{< button label="...Previously" link="/previously" class="animated" >}} 
-{{< button label="Home" link="/" class="animated" >}} 
+- {{< button label="...Previously" link="/previously" class="animated" >}}
+{{< button label="Home" link="/" class="animated" >}}
