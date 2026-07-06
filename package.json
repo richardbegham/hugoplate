@@ -29,7 +29,7 @@
     "prettier-plugin-go-template": "0.0.15",
     "prettier-plugin-tailwindcss": "^0.8.0",
     "tailwind-bootstrap-grid": "^7.0.0",
-    "tailwindcss": "^4.2.1",
+    "tailwindcss": "^4.3.0",
     "wrangler": "^4.74.0"
   }
 }

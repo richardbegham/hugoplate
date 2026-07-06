@@ -4,6 +4,7 @@ go 1.25.0
 
 require (
 	github.com/gethugothemes/hugo-modules/accordion v0.0.0-20260514051712-1e119c418ea0 // indirect
+	github.com/gethugothemes/hugo-modules/adsense v0.0.0-20260701054856-10b1d2cdc11a // indirect
 	github.com/gethugothemes/hugo-modules/components/announcement v0.0.0-20260514051712-1e119c418ea0 // indirect
 	github.com/gethugothemes/hugo-modules/components/cookie-consent v0.0.0-20260514051712-1e119c418ea0 // indirect
 	github.com/gethugothemes/hugo-modules/components/custom-script v0.0.0-20260514051712-1e119c418ea0 // indirect

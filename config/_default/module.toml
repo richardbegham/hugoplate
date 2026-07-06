@@ -1,9 +1,10 @@
 [hugoVersion]
 extended = true
-min = "0.151.0"
+min = "0.158.0"
+max = "0.165.0"
 
-# [[imports]]
-# path = "github.com/zeon-studio/hugoplate"
+[[imports]]
+path = "github.com/zeon-studio/hugoplate"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/llms-txt"
@@ -50,8 +51,8 @@ path = "github.com/gethugothemes/hugo-modules/gallery-slider"
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/components/preloader"
 
-[[imports]]
-path = "github.com/gethugothemes/hugo-modules/components/social-share"
+#[[imports]]
+#path = "github.com/gethugothemes/hugo-modules/components/social-share"
 
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/components/cookie-consent"
@@ -89,6 +90,9 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/site-verifications"
 [[imports]]
 path = "github.com/gethugothemes/hugo-modules/seo-tools/google-tag-manager"
 
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/components/open-remark"
+
 # [[imports]]
 # path = "github.com/gethugothemes/hugo-modules/seo-tools/baidu-analytics"
 
@@ -100,4 +104,3 @@ path = "github.com/gethugothemes/hugo-modules/seo-tools/google-tag-manager"
 
 # [[imports]]
 # path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"
-
