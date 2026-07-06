@@ -10,7 +10,8 @@ summaryLength = 10 # see https://gohugo.io/content-management/summaries/#automat
 
 # disable language
 disableLanguages = [
-] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
+]
+# example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = false # 
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false

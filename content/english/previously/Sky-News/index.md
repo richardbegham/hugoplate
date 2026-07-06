@@ -50,7 +50,7 @@ Attempts to give the UK a version of the head-to-head "US Presidential style" De
 
 So, roll on a then-legally-fixed nice and predictable 5 year delay until the next one. Nobody could then have predicted the utter carnage the next five years would result in!
 
-{{< button label="Subsection Link - Who Wants To Be a Prime Minister?" link="previously/sky-news/battles" class="animated" >}}
+{{< button label="Subsection Link - Who Wants To Be a Prime Minister?" link="/previously/battles" class="animated" >}}
 
 {{< image src="images/SkyNews/No-audience-pressure-then.jpg" caption="The Boss is watching...So no Audience Pressure there then..." alt="No Audience Pressure" position="center" >}}
 
@@ -74,7 +74,7 @@ All-Day Channel Takeovers... or just a Very Grand Lady doing a piece to camera..
 
 {{< image src="images/SkyNews/Queen-2.jpg" caption="No introduction needed" alt="The Queen" height="" width="" position="center" >}}
 
-{{< button label="Read more here about Outside Broadcasts" link="previously/sky-news/outside" class="animated" >}}
+{{< button label="Read more here about Outside Broadcasts" link="/previously/outside" class="animated" >}}
 
 <hr>
 
