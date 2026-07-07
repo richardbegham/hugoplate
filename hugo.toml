@@ -168,3 +168,10 @@ lazy = true
 [[params.plugins.js]]
 link = "plugins/youtube-lite.js" # https://github.com/gethugothemes/hugo-modules/tree/master/videos
 lazy = true
+[server]
+  [[server.redirects]]
+    force = false
+    from = '/**'
+    fromRe = ''
+    status = 404
+    to = '/404'

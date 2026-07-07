@@ -22,6 +22,8 @@ span.sidenote {
 
     /* sidenotes in desktop */
     @media (min-width: 960px) {
+        @apply text-text-dark dark:text-darkmode-text-dark;
+        
         display: block;
         position: relative;
         float: right;
@@ -38,7 +40,7 @@ span.sidenote {
         padding-bottom: 0;
         box-sizing: border-box;
         text-align: left;
-        background-color: initial;
+/*        background-color: initial; */
 
         /* Use a slightly smaller font and the secondary text color.*/
         font-size: 80%;
@@ -48,6 +50,7 @@ span.sidenote {
         border-left-color: #888;
         border-left-style: solid;
         border-left-width: 1px;
+  
     }
 }
 
