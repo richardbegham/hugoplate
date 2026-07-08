@@ -9,6 +9,6 @@
 # Default language must be last.
 [[redirects]]
   from = '/*'
-  to = '/404.html'
+  to = '/404-mine/'
   status = 404
   force = false
