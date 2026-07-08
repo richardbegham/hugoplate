@@ -22,7 +22,7 @@ features:
     content: "There's a _lot_ to add to this site, and that takes time to get right"
     bulletpoints:
       - "So please keep checking back for more!"
-      - "Last major update : Thursday 4th July 2026"
+      - "Last major update : Tuesday 8th July 2026"
     button:
       enable: true
       label: "🚀 This way! 🚀"
