@@ -45,6 +45,8 @@ enable = true
 source = 'assets/notwatching/hugo_stats\.json'
 target = 'css'
 
+##### or is it source = '(postcss|tailwind)\.config\.js' ######
+
 ############################# Modules ############################
 [module]
 [[module.mounts]]
