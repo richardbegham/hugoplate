@@ -1,5 +1,5 @@
 # Explicitly redirect old paths to new ones (301)
-/old-page    /about/    301
+#/old-page    /about/    301
 
 # Custom 404 routing rule (Matches missing files only)
-/*    /404.html    404
+/*    /en/404.html    404
