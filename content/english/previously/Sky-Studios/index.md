@@ -13,7 +13,7 @@ summary: "Lists the many fixed Studios Designed and Deployed whilst at Sky. All 
 
 ### Technology Innovation
 
-Richard introduced **LED lighting** in stages across all their studios, initially for energy-efficiency and reliability reasons. Later this change was a fundamental component behind the introduction of **Remote Operations** into these spaces; something that simply wasn't possible with traditional tungsten luminaries. {{< sidenote >}} most critically - Fire Safety {{< /sidenote >}}
+Richard introduced **LED lighting** in stages across all their studios, initially for energy-efficiency and reliability reasons. Later this change was a fundamental component that enabled the introduction of **Remote Operations** into all of these spaces; something that simply wouldn't have been possible with traditional tungsten luminaries. {{< sidenote >}}The most critical reasons being Fire & Electrical Safety. But no longer having to randomly change bulbs at short notice was operationally key as well{{< /sidenote >}}
 
 {{< accordion "Educational note - Luminaries used" >}}
 Between 2013 and 2020, as the entire variety of studio and newsroom spaces were either built from scratch or refurbished, he ensured that each was equipped with the best and most suitable LED luminaries available at the time, including:
@@ -51,12 +51,12 @@ Despite original optimistic promises, both Cameras and Sound ended-up much the s
 
 Like all massive and complex projects the reasons were many, however no doubt if it had been framed as an 18 month project with no job losses, it would have taken 3 years and resulted in increased staffing...
 
-Due to the unpredictable impact and costs of Wars, Elections, and other Disasters (...), any attempt at fixed budgets and timelines, let alone predictable work and utilisation patterns, are of little meaning to a News organisation.
+Due to the unpredictable impact and costs of Wars, Elections, and other disasters (...), any attempt at fixed budgets and timelines, let alone predictable work and utilisation patterns, are of little meaning to a News organisation.
 {{< /accordion >}}
 
-To fit Sky News into Sky Studios took substantial internal rebuilding efforts throughout to make enough space with a completely remodelled second floor, just  5 years after the building opened - everything from dressing rooms to edit suits had to be moved-about  _(something that became a recurring theme over the next few years, as ever-more technical things were squeezed to fit into a building that was compressed from its original intentions during Construction.)_ Hence the "Tardis" name - nothing to do with a rival broadcaster, everything to do with making lots of big things fit into a impossibly small space _although with less space-time distortion...well, apart from the dark mysterious bit at the back of the 4th floor with the mysterious technical equipment and mysterious people... oh wait, that's Engineering Support_.
+To fit Sky News into Sky Studios took substantial internal rebuilding efforts throughout to make enough space with a completely remodelled second floor, just  5 years after the building opened - everything from dressing rooms to edit suits had to be moved-about  _(something that became a recurring theme over the next few years, as ever-more technical things were squeezed to fit into a building that was compressed from its original intentions during Construction.)_ Hence the "Tardis" name - nothing to do with a rival broadcaster, everything to do with making lots of big things fit into a impossibly small space {{<sidenote>}}_although with less space-time distortion...well, apart from the dark mysterious bit at the back of the 4th floor with the indecipherable technical equipment and mysterious gnomic people... oh wait, that's Engineering Support_.{{</sidenote>}}
 
-Anyway, getting all the various aspects of this built and on-air tied-up Richard for a minimum of 2 days a week for 18 months, working on partial attachment to the loverly Projects Department. Whilst the lighting side he developed solo, he also was part of the technical evaluation teams for various related aspects, gaining valuable experience in not just the formal bid processes for multi-million pound contracts, but the disconnect between promises and deliverables.
+Anyway, getting all the various aspects of this built and on-air tied-up Richard for a minimum of 2 days a week for 18 months, working on partial attachment to the loverly Projects Department. And then someone forgot to cross-bill all that time! Whilst the lighting side he developed solo, he also was part of the technical evaluation teams for various related aspects, gaining valuable experience in not just the formal bid processes for multi-million pound contracts, but the disconnect between promises and deliverables.
 
 <hr>
 

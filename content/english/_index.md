@@ -11,7 +11,7 @@ banner:
 features:
   - title: "Hello and welcome"
     image: "images/gallery/Sessions-2/SESSION2015_016.jpg"
-    content: "This site is all about the Lighting work Richard Bowles has undertaken, most of which has been for Broadcast Television in the UK, along with a significant amount of Live Events (i.e. Concerts, Corporates, etc) across the UK, Europe, and elsewhere. Oh, and some Films."
+    content: "This site is all about the Lighting work Richard Bowles has undertaken, most of which has been for Broadcast Television in the UK, along with a significant amount of Live Events (i.e. Concerts, Corporates, etc) across the UK, Europe, and elsewhere. Oh, and some Films. Probably some other things long forgotten."
     button:
       enable: true
       label: "🚀 Click / Press / Lick here to find out lots more! 🚀"
