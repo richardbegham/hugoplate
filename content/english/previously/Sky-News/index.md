@@ -6,7 +6,7 @@ draft: false
 language: en
 description: The Sky Years - Sky News
 weight: 12
-featured_image: "featured.png"
+image: "GlassBox-3.jpg"
 summary: "Responsible for the Lighting Design and Support for all of Sky News (UK)'s studio output for over 10 years, from their regular daily shows to Prime Ministerial Election Debates, with anything and everything in between. He also designed & built multiple remotely-operated studios across London."
 ---
 

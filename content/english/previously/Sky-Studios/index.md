@@ -4,8 +4,8 @@ date: 17 Feb 2026
 draft: false
 language: en
 description: The Sky Years - Studio Design
-weight: 19
-featured_image: /assets/images/SkyBuilds/SafetyFirst.jpg
+weight: 159
+image: studio.png
 summary: "Lists the many fixed Studios Designed and Deployed whilst at Sky. All of which were delivered on budget, on time, and proved to be very reliable and exceed their initial requirements."
 ---
 

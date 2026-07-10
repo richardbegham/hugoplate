@@ -7,6 +7,7 @@ language: en
 description: The Sky Years - Sky News - The Political Debates
 weight: 133
 parent: "previously/sky-news"
+image: "battle.jpg"
 summary: "Live Debates between rival candidates for Prime Minster happened far more often from 2015 than anyone expected!"
 ---
 

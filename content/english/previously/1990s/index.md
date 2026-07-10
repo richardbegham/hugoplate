@@ -6,7 +6,7 @@ language: en
 weight: 90
 description: The early years
 summary: "The story of the beginning - from Raves to Globetrotting, and this section ends with a couple of Films..."
-featured_image: images/VeryOldShows/Austin2.png
+image: "featured.jpg"
 ---
 
 ## The Early Years

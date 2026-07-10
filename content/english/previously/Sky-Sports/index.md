@@ -6,7 +6,7 @@ draft: false
 language: en
 description: Sky Sports
 weight: 11
-#featured_image: images/.png
+image: "Euro-Qualifiers2.jpg"
 summary: "Football. A LOT of people talking about football on MNF, SNF, FNF, WSL, EFL, WCQ. ...also... Formula 1! Boxing! Rugby! NFL! NBA! Golf! Bog snorkelling! ...and more..."
 ---
 
@@ -56,9 +56,11 @@ The culmination of Sky's Gamechangers series saw it move across the road for a o
 
 ### ⚽️ Football ⚽️
 
-From almost his very first day way back nearly 2 decades as a Freelancer, Richard was lighting studio shows that mostly consisting of between 1 and 3 people, generally sat at a desk wearing suits and discussing football. _"..game of two halves...jumpers for goalposts..."_ and so on.
+From almost his very first day way back nearly 2 decades as a Freelancer, Richard was lighting studio shows that mostly consisting of between 1 and 3 people, generally sat at a desk wearing suits and discussing football. {{<sidenote>}}...game of two halves...jumpers for goalposts...{{</sidenote>}}
 
-With so many matches across a myriad of different leagues and competitions of football from International to Local, with extended diversions into the Women's, Rugby, and American versions of Kick-Ball as well, _Surely_, after such an intense and extended exposure, a detailed understanding of the _"Beautiful Game"_ {{< sidenote >}} or a bunch of millionaires running around a cold muddy field in the rain {{< /sidenote >}} would have rubbed-off on to him... [Surely...](#conclusion).
+With so many matches across a myriad of different leagues and competitions of football from International to Local, with extended diversions into the Women's, Rugby, and American versions of Kick-Ball as well, _Surely_, after such an intense and extended exposure, a detailed understanding of the _"Beautiful Game"_ {{< sidenote >}} or a bunch of millionaires running around a cold muddy field in the rain {{< /sidenote >}} would have rubbed-off on to him...
+
+[Surely...](#conclusion).
 
 But, there is one long-running production strand that takes football very seriously.  
 
@@ -70,14 +72,14 @@ And which, for a decade, Richard lit every single broadcast of. {{< sidenote >}}
 
 ##### The Studio G version - The Original
 
-{{< accordion "Expand for the long story" >}}
-Sky Sport's Premier League flagship production, led by the pundits Gary Neville and Jamie Carragher, delivers unusually long and highly detailed analysis during the studio-based pre-, mid-, & post- match coverage, along with more cameras deployed than for any other match. This had four different iterations over Richard's time, starting with the original Studio G production, first lit by Malcolm Reed (lots of MiStrip, Pixellines, a very unhelpful header, and an even more light-unfriendly £100k (back in 2011...) 103" Touchscreen...)
+Sky Sport's Premier League flagship production, led by the pundits Gary Neville and Jamie Carragher, delivers unusually long and highly detailed analysis during the studio-based pre-, mid-, & post- match coverage, along with more cameras deployed pitch-side than for any other match. This had four different iterations over Richard's time, starting with the original Studio G production, initially lit by Malcolm Reed, featuring lots of MiStrip, Pixellines, a very unhelpful header, and an even more light-unfriendly 103" Touchscreen costing £100k back in 2011... All lots of technology in a very cramped studio without a rig day or any fixed infrastructure - a high-pressure recipe for disaster.
 
-The first day that Richard was due to go solo on this production, it had half-way through the Rig, and very unexpectedly, the plug pulled for the rest of that season, when the original presenters (Keys & Gray) were very abruptly & very publicly sacked, after tapes of some of their long-running unacceptable off-screen behaviors were [leaked to the Guardian.](https://www.theguardian.com/football/2011/jan/24/andy-gray-richard-keys-sexist-comments).
+{{< accordion "Expand for the long backstory" >}}
+On the very first day that Richard was due to go solo on this production, after having had it handed-over by Malcolm, about half-way through the morning Rig, the plug was dramatically pulled for the rest of that season when the original presenters (Keys & Gray) were no longer untouchable and were [very abruptly & very publicly sacked due to leaked tapes of their behaviour](https://www.theguardian.com/football/2011/jan/24/andy-gray-richard-keys-sexist-comments).
 
 {{< /accordion >}}
 
-On 30th April 2012, MNF had its highest ever viewing figures - and also the then-highest for any sporting event on Sky _(until a free-to-air match during Covid)_ when 4.8 million tuned-in to watch Manchester City defeat Manchester United 1-0 on their way to their first top flight title since 1968. {{< sidenote >}}Quoteing from a source that actually knows what its talking about wrt. football, unlike me.{{< /sidenote >}}
+On 30th April 2012, MNF had its highest ever viewing figures - and also the then-highest for any sporting event on Sky _(until a free-to-air match during Covid)_ when 4.8 million tuned-in to watch Manchester City defeat Manchester United 1-0 on their way to their first top flight title since 1968. {{< sidenote >}}Apparently.{{< /sidenote >}}
 
 #### The Studio F version - Simply The Best
 
@@ -86,7 +88,6 @@ The upshot of this success was Sky Sports putting their hand in their pocket, an
 {{< gallery2 dir="images/gallery/MNF" class="max-w-150 ml-0" >}}
 
 World-leading technologies stretched the boundaries of what could be achieved in a live studio environment with the Mixed-Reality set from 2013-2017 in Studio F, powerfully led by Senior Director Duncan East and Executive Producer Scott Melvin, who listened to and then demanded - and got - the best out of every single person working on the show, every single time. {{< sidenote >}}Yes, that IS a green xmas tree on a green screen. Yes, Sarah did manage to get it to key, sort of. No, it didn't go on air in that position.{{< /sidenote >}}
-
 
 MNF pioneered the use of giant interactive touch-screens for real-time analysis, with 2D and 3D computer graphics driven directly by the pundits controls - something that took the viewers a long time (and a lot of live mistakes!) to believe was actually true rather than pre-rendered. This was connected to incredibly detailed tracking and statistical analysis of every player in every Premier League (PL) match. They also pushed the limits of 3D graphics, with individual Hero / Walk-on clips of every PL player (shot on 2x 4k cameras, double-stacked on their side, at a time when HD was still a novelty for most people). This was mixed with insightful and fluff-free passionate commentary, to deliver an unprecedented quality - and duration! - of wrap-around analysis before, during, and after just one match. Even when it's a subject you can have no interest in, you can still tell when its being done better than anywhere else!
 
@@ -106,11 +107,11 @@ All the light used to even-out the green surfaces then had to be kept from bounc
 If there was one thing that could be guaranteed, with all the bleeding-edge technology deployed across the board, was that something would fail whilst on-air every week. You just had to pray it wasn't your turn for the gremlins to hit...And if getting all this kit working once wasn't hard enough, the entire production, with all its temperamental parts had to be rigged from scratch *every week, in just one day*. An aspect that was a constant point of disbelief by technical visitors from other television networks from around the world.
 {{< /accordion >}}
 
-#### The Studio 1 version - Time to share...
+#### The Studio 1 version - Time to share
 
-After spending 4 years out of the originally-commissioned 3 years in Studio F, the resultant savings, together with another couple of million pounds found down the back of a sofa, was used to combine MNF with efforts to address the increased competition coming from an unexpected new direction (BT Sport). This time, instead of moving next door, they moved across the road instead, and into a proper purpose-built studio instead of a converted warehouse (finally!). They built a permanent, dedicated, set, but with less bleeding-edge technology and specialist subcontractors, putting to bed the years of technical gremlins that had plagued the previous iteration of MNF since the start. And, once built, when it wasn't being used, it was available for a whole host of other Sports Productions, each of whom were supposed to have their own unique area of the studio all instantly ready to go... 
+After spending 4 years out of the originally-commissioned 3 years in Studio F, the resultant savings, together with another couple of million pounds found down the back of a sofa, was used to combine MNF with efforts to address the increased competition coming from an unexpected new direction (BT Sport). This time, instead of moving next door, they moved across the road instead, and into a proper purpose-built studio instead of a converted warehouse (finally!). They built a permanent, dedicated, set, but with less bleeding-edge technology and specialist subcontractors, putting to bed the years of technical gremlins that had plagued the previous iteration of MNF since the start. And, once built, when it wasn't being used, it was available for a whole host of other Sports Productions, each of whom were supposed to have their own unique area of the studio all instantly ready to go...
 
-Well, that was the theory that was sold - The instantly ready aspect went straight out the window, together with being confined to unique areas, once the production teams got their teeth into a new space, with so many tempting possibilities compared to their previous decades spent stuck in glorified storerooms with a 3 chairs and a desk and maybe 5 shots possible. _But I digress..._ 
+Well, that was the theory that was sold - The instantly ready aspect went straight out the window, together with being confined to unique areas, once the production teams got their teeth into a new space, with so many tempting possibilities compared to their previous decades spent stuck in glorified storerooms with a 3 chairs and a desk and maybe 5 shots possible. _But I digress..._
 
 The money got spent on lots and lots of video walls and graphics hardware, along with large colour-changing backlit LED panels that gave each sporting strand their own unique visual identity. They even had enough money left over to build a similar-looking "little brother" set in the smaller Studio 3 nearby.
 
@@ -139,7 +140,7 @@ The longest version to date, thanks to Covid extending everything.
 
 ### Other long-running football productions
 
-#### Premier League :
+#### Premier League
 
 - SNF : Saturday Night Football
 
@@ -153,7 +154,7 @@ The longest version to date, thanks to Covid extending everything.
 
   Still got those Projectors, but the Header is gone, and instead we have a lot of Monolith lightboxes. With massive heavy steel louvers balanced on top. One of those productions where the grid height really wasn't high enough.
 
-- FF : Football First 
+- FF : Football First
 
 Goals & brief Highlights of everything played that day, late on a saturday night _(basically, like the BBC's Match of the Day)_  
 Followed by a selected "Game of the day" in (almost) full.  

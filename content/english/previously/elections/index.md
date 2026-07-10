@@ -6,7 +6,7 @@ draft: false
 language: en
 description: The Sky Years - Sky News- Election Nights"
 weight: 134
-featured_image: "featured.png"
+image: "elections.jpg"
 summary: "Responsible for the main studio lighting for the through-the-night coverage of the many Elections between 2015 and 2021...!"
 ---
 
@@ -30,7 +30,7 @@ Presented by Adam Boulton, who was perched up at a desk on a little island looki
 
 ## 2015 Exterior Lighting
 
-Just 4 days beforehand Election Day, Richard was asked if he could jazz-up the exterior of the site somehow, as a previous plan for Outdoor Projections had fallen thought. And there was this very difficult final hour of voting between 9 and 10pm where they had to avoid any discussion of politics, but could discuss the vote itself. And maybe encourage people to go and and vote, one last time... 
+Just 4 days beforehand Election Day, Richard was asked if he could jazz-up the exterior of the site somehow, as a previous plan for Outdoor Projections had fallen thought. And there was this very difficult final hour of voting between 9 and 10pm where they had to avoid any discussion of politics, but could discuss the vote itself. And maybe encourage people to go and and vote, one last time...
 
 > We need something eye-catching in a hurry - we liked what you did for the Exterior of the buildings for the Debate a couple of weeks ago, so here's (quite a large pot of money), we're not using the Sky News Helicopter that day, so if you want it... Oh, and should you need all the flights into Heathrow diverted...
 
@@ -87,7 +87,7 @@ Lighting was relatively conventional, however a lot of new rigging points had to
 
 <hr>
 
-## 2020 : US Election (Sky Central) during Covid-19.
+## 2020 : US Election (Sky Central) during Covid-19
 
 More modest setup than the year before, but still looking good.  
 This time the desk was spun round, putting the Glass Box studio in context better, and Ed was up on the Mez with a real video wall.
@@ -98,10 +98,9 @@ This time the desk was spun round, putting the Glass Box studio in context bette
 
 ## Shortcuts
 
-- {{< button label="News: Introduction" link="/previously/sky-news" class="animated" >}} 
+- {{< button label="News: Introduction" link="/previously/sky-news" class="animated" >}}
 - {{< button label="News: Battles for Number 10" link="/previously/battles" class="animated" >}}
-{{< button label="News: Outside Broadcasts" link="/previously/outside" class="animated" >}} 
+{{< button label="News: Outside Broadcasts" link="/previously/outside" class="animated" >}}
 {{< button label="News: Full Studio Productions" link="/previously/sky-news#full-studio-productions" class="animated" >}}
 
-- {{< button label="Home" link="/" class="animated" >}} 
- 
+- {{< button label="Home" link="/" class="animated" >}}
