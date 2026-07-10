@@ -113,6 +113,12 @@ All AI image creations and modifications were done using standard free-tier [Goo
 > draw a cartoon of a giant floating Copyright symbol above a crowd of lawyers with beams of blue and gold everywhere
 {{< /notice >}}
 
+### Summary
+
+{{< notice "quote" >}}
+> make a cartoon resolution 800x440 of an ancient scroll with list of unreadable writing apart from the title at the top reading "Past Shows" - the scroll should be on a pedestal in the middle of a tv studio surround by blue and gold beams
+{{< /notice >}}
+
 ### and, of course, THIS PAGE!
 
 {{< notice "quote" >}}

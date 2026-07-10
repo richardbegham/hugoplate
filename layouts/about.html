@@ -6,7 +6,7 @@
           {{ if .Params.image }}
             {{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Title "Class" "mx-auto rounded mb-6" ) }}
           {{ end }}
-          <h2 class="h3 mb-6">{{ .Title }}</h2>
+          <h1 class="h3 mb-6">{{ .Title }}</h1>
           <div class="content">{{ .Content }}</div>
         </div>
       </div>

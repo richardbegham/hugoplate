@@ -110,6 +110,15 @@ h1 {
     0 0 8px #ffdd00,
     0 0 14px #ffdd00,
     0 0 30px #ffaa00;
+  border: 0.2rem solid #fff;
+  border-radius: 2rem;
+  padding: 0.4em;
+  box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #bc13fe,
+              0 0 0.8rem #bc13fe,
+              0 0 2.8rem #bc13fe,
+              inset 0 0 1.3rem #bc13fe;
 }
 
 h2 {

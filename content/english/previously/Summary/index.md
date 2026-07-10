@@ -5,10 +5,9 @@ draft: false
 language: en
 description: Summary of all shows
 weight: 10
-#featured_image: images/.png
-summary: "A list of all shows - primarily focusing on the past 15 years."
+image: past.jpg
+summary: "A list of all shows in the past 15 years."
 ---
-
 
 {{< notice "Very Incomplete">}} This list is a work in progress - there's loads more to add...
 {{< /notice >}}
