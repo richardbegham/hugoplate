@@ -57,7 +57,6 @@ disableWatch = true
 source = 'hugo_stats.json'
 target = 'assets/notwatching/hugo_stats.json'
 
-
 ############################# Outputs ############################
 [outputs]
 home     = ["HTML", "RSS", "WebAppManifest", "SearchIndex", "llms", "llmsfull", "md"]

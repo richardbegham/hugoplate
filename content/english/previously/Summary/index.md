@@ -11,11 +11,12 @@ summary: "A list of all shows in the past 15 years."
 
 {{< notice "Very Incomplete">}} This list is a work in progress - there's loads more to add...
 {{< /notice >}}
+
 ## Key
 
-| Symbol        | Primary Role | | _(can have multiple roles)_ |
-| ------------: | :------- | :-------| :------|
-| <span class="large-emoji">👨‍🎨</span>| Lighting Designer | <span class="large-emoji">👑</span>| Lead or Sole Lighting Director |
+| Symbol        | Primary Role | :-- | _(can have multiple roles)_ |
+| ------------: | :------- | :------- | :------ |
+| <span class="large-emoji">👨‍🎨</span> | Lighting Designer | <span class="large-emoji">👑</span> | Lead or Sole Lighting Director |
 | <span class="large-emoji">👫</span> | Joint Lighting Director | <span class="large-emoji">🏃‍♂️‍➡️</span> | Ad-Hoc Lighting Director |
 | <span class="large-emoji">💾</span> | Programmer / Console Operator | <span class="large-emoji">🔦</span> | Lighting Technician |
 
@@ -23,7 +24,7 @@ summary: "A list of all shows in the past 15 years."
 
 {{< image src="images/logos/sky-news-logo.png" caption="" alt="Sky News Logo" height="" width="" position="center" command="fill" option="q100" class="h-2 max-w-lg mx-auto " title="Sky News Logo">}}
 
-### Sky News - All Studio Output 2012 - 2023 ###
+### Sky News - All Studio Output 2012 - 2023
 
 - <span class="large-emoji"> 👫 💾</span> Studio A (Design : Don Hart)
 
@@ -37,30 +38,40 @@ summary: "A list of all shows in the past 15 years."
 
 - <span class="large-emoji"> 👨‍🎨 👑 💾</span> Millbank Main, Newsroom, DTL, ENG
 
-### "Battles for Number 10..." Prime Minister, Party Leadership. and Brexit Referendum Debates
+### "Battles for Number 10" / Elections / etc 
 
- <span class="large-emoji"> 👨‍🎨 👑 </span> 2015, 2015, 2016 (Hub), 2017, 2019, 2022 (F)
+- <span class="large-emoji"> 👨‍🎨 👑 </span> 2015 - No.10 : Cameron vs Milliband (Studio 4/5)
+- <span class="large-emoji"> 👨‍🎨 👑 </span> 2015 - General Election : 2015 (Studio C)
+- <span class="large-emoji"> 👨‍🎨 👑 </span> 2015 - Labour Leadership : Corbyn vs Smith (Studio 4/5)
+- <span class="large-emoji"> 👨‍🎨 👑 </span> 2016 - Brexit : Cameron vs Gove (The Hub)
+- <span class="large-emoji"> 👨‍🎨 👑 </span> 2016 - In or Out? : Brexit Referendum (The Hub)
+- <span class="large-emoji"> 👨‍🎨 👑 </span> 2017 - No.10 : May vs Corbyn (Studio 4/5)
+- <span class="large-emoji"> 👨‍🎨 👑 </span> 2017 - General Election : 2017 (Studio A)
+- <span class="large-emoji"> 👨‍🎨 👑 </span> 2019 - ~~No.10 : Johnson vs Corbyn~~ (Studio 4/5)
+- <span class="large-emoji"> 👨‍🎨 👑 </span> 2019 - General Election : 2019 (Sky Central)
+- <span class="large-emoji"> 👨‍🎨 👑 </span> 2020 - USA Election : Biden vs Trump (Sky Central)
+- <span class="large-emoji"> 👨‍🎨 👑 </span> 2022 - Conservative Leadership : Sunack vs Truss (Studio F)
 
 ## Sky Sports
+
 {{< image src="images/logos/sky-sports-2020.png" caption="" alt="Sky Sports Logo" command="fill" position="center" option="q100" class="h-2 max-w-lg mx-auto " title="Sky Sports" >}}
 
 {{< sidenote >}}
 This list is Another work in progress - there's probably loads more that I've forgotten...
 {{< /sidenote>}}
 
-### Sky Sports News ###
+### Sky Sports News
 
 - <span class="large-emoji"> 👫 💾 </span> 2018 new heads relight (Design: Iain Davidson)
 - <span class="large-emoji"> 👨‍🎨 👑 💾</span>  2020 robotic cameras relight
 
 ### Specials
 
-
 ### Football ⚽️
 
 #### Monday Night Football (MNF)
 
-- <span class="large-emoji">👫 💾</span> Sky Studio G version 2011-2013  (MiStrip/Pixeline/etc) 
+- <span class="large-emoji">👫 💾</span> Sky Studio G version 2011-2013  (MiStrip/Pixeline/etc)
 - <span class="large-emoji">👨‍🎨 👑 💾</span> Sky Studio F version 2013-2017  (VR Green-Screen + Real mix)
 - <span class="large-emoji">👨‍🎨 👑 👫 💾</span> Sky Studio 1 version 2017-2020  (Multi-Sport studio)
 
@@ -106,13 +117,14 @@ This list is Another work in progress - there's probably loads more that I've fo
 
 ## F1 🏎️
 
-### The F1 Show 
+### The F1 Show
 
 - <span class="large-emoji">👨‍🎨 👑 👫 💾</span> Sky Studios 6, 5
 
 ## Rugby 🏉
 
-### The Lions on Tour (various)
+### The Lions on Tour (various years)
+
 - <span class="large-emoji">👨‍🎨 👑 💾</span> Sky Studios 1, 4, F
 
 ## NFL (American Football inc. Superbowl) 🏈
@@ -122,7 +134,7 @@ This list is Another work in progress - there's probably loads more that I've fo
 ## And also 🏊🏽‍♂️
 
 ### Golf (various, including some AR Specials for Ryder and Master's Cups)
- 
+
 - <span class="large-emoji">🏃‍♂️‍➡️ 💾</span> Sky Studios 1, 3, 4, F
 
 ### Cycling
@@ -133,7 +145,7 @@ This list is Another work in progress - there's probably loads more that I've fo
 
 - <span class="large-emoji">👨‍🎨 👫 💾</span> Sky Studios 1, 3, 4, F
 
-# Shortcuts
+## Shortcuts
 
 {{< button label="About" link="/about" class="animated" >}}
 {{< button label="Get in Contact" link="/contact" class="animated" >}}
