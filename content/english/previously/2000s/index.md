@@ -39,7 +39,7 @@ summary: "Television gets more bread'n'butter. Media Servers and LED's start to 
 
 - Initially brought in to help program the lights for the refurbishment of Studio A for Sky News, this expanded into being asked to come back to provide ad-hoc relief cover for the staff Lighting Technical Operators. And, not long after, being asked to light various of their other in-house products, the first of which was, of course - _Football First_ {{< sidenote >}} Sky Sport's version of Match of the Day, except with an actual Match as well as highlights. {{< /sidenote >}}
 
-{{< gallery dir="images/OldShows/SkyFL" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery2 dir="images/OldShows/SkyFL" height="400" >}}
 
 ### 2011 - His Biggest Show ...Ever?
 
@@ -64,7 +64,7 @@ Also its alleged to be the biggest _annual_ TV show in the world.
 
 Also that year, Richard was in Trafalgar Square for a week for someone's wedding.
 
-{{< gallery dir="images/OldShows/2011" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery2 dir="images/OldShows/2011" height="400" >}}
 
 #### Richard in 2011
 
