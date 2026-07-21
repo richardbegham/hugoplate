@@ -52,6 +52,17 @@ summary: "A list of all shows in the past 15 years."
 - <span class="large-emoji"> 👨‍🎨 👑 </span> 2020 - USA Election : Biden vs Trump (Sky Central)
 - <span class="large-emoji"> 👨‍🎨 👑 </span> 2022 - Conservative Leadership : Sunack vs Truss (Studio F)
 
+### Stand-alone Series, One-Off's, Outside Broadcasts
+
+- <span class="large-emoji"> 👨‍🎨 👑 👫 💾</span> The Pledge (Studio F)
+- <span class="large-emoji"> 👨‍🎨 👑 💾</span>The Great Debate (Studio F)
+- <span class="large-emoji"> 👨‍🎨 👑 </span>100 Women (Studio 4/5)
+- <span class="large-emoji"> 👨‍🎨 👑 </span>Covid Crisis - Learning the Lessons (Studio 4/5)
+- <span class="large-emoji"> 👨‍🎨 👑 💾</span>NHS - Fit for the Future? (Guys Hospital)
+- <span class="large-emoji"> 👨‍🎨 👑 💾</span>Big Ideas 1 (Magna, Rotherham)
+- <span class="large-emoji"> 👨‍🎨 👑 💾</span>Big Ideas 2 (Shoreditch)
+- <span class="large-emoji"> 👨‍🎨 👑 💾</span>The Queen's Christmas Speech (Kings College Chapel, Buckingham Palace)
+
 ## Sky Sports
 
 {{< image src="images/logos/sky-sports-2020.png" caption="" alt="Sky Sports Logo" command="fill" position="center" option="q100" class="h-2 max-w-lg mx-auto " title="Sky Sports" >}}
@@ -66,6 +77,11 @@ This list is Another work in progress - there's probably loads more that I've fo
 - <span class="large-emoji"> 👨‍🎨 👑 💾</span>  2020 robotic cameras relight
 
 ### Specials
+
+- <span class="large-emoji">👨‍🎨 👑 </span> The 100 Launch & First Draft
+- <span class="large-emoji">👨‍🎨 👑 </span> Game for Grenfall
+- <span class="large-emoji">👨‍🎨 👑 </span> FIFA eClub UK Final 2019
+- <span class="large-emoji">👨‍🎨 👑 </span> Gamechangers Awards with David Beckham
 
 ### Football ⚽️
 
@@ -86,12 +102,12 @@ This list is Another work in progress - there's probably loads more that I've fo
 #### Football First / Match Choice
 
 - <span class="large-emoji">👫 💾</span> Sky Studios F version
-- <span class="large-emoji">👨‍🎨 👫 💾</span> Sky Studios 5 version
+- <span class="large-emoji">👨‍🎨 👑 👫 💾</span> Sky Studios 5 version
 
 #### English Football League (EFL)
 
 - <span class="large-emoji">👨‍🎨 👑 👫 💾</span> Sky Studios 4/5 version
-- <span class="large-emoji">👨‍🎨 👑 👫 🏃‍♂️‍➡️ 💾</span> Sky Studios 1 version
+- <span class="large-emoji">👨‍🎨 👑 👫 💾</span> Sky Studios 1, 3 version
 
 #### Women's Super League (WSL)
 
@@ -99,7 +115,7 @@ This list is Another work in progress - there's probably loads more that I've fo
 
 #### World Cup & Euros Qualifiers (WCQ)
 
-- <span class="large-emoji">👨‍🎨 👑 👫 💾</span> Sky Studios 4/5
+- <span class="large-emoji">👨‍🎨 👑 👫 💾</span> Sky Studios 4/5, 1, 3
 
 #### Soccer Saturday (Supervisory LD)
 
@@ -135,7 +151,7 @@ This list is Another work in progress - there's probably loads more that I've fo
 
 ### Golf (various, including some AR Specials for Ryder and Master's Cups)
 
-- <span class="large-emoji">🏃‍♂️‍➡️ 💾</span> Sky Studios 1, 3, 4, F
+- <span class="large-emoji">🏃‍♂️‍➡️ 💾</span> Sky Studios 1, 3, 4, 7, F
 
 ### Cycling
 
@@ -144,6 +160,29 @@ This list is Another work in progress - there's probably loads more that I've fo
 ### NBA (Basketball)
 
 - <span class="large-emoji">👨‍🎨 👫 💾</span> Sky Studios 1, 3, 4, F
+
+## Sky Entertainments
+
+### Spin-off Fan Shows
+
+- <span class="large-emoji">👨‍🎨 👑 </span>Thronecast _(Game of Thrones)_ -season 8   Sky Studios 4
+- <span class="large-emoji">👨‍🎨 👑 </span>House of Dragon    Sky Studios 8
+- <span class="large-emoji">👨‍🎨 👑 💾</span> Westword _(Westworld)_  Sky Studios F
+- <span class="large-emoji">👨‍🎨 👑 💾</span> DC Heroes _(Arrow-verse)_   Sky Studios G
+
+### Quiz Shows
+
+- <span class="large-emoji">👨‍🎨 👑 </span>Gameshow of Thrones    Sky Studios 4/5
+- <span class="large-emoji">👨‍🎨 👑 </span>The Great Culture Quiz    Sky Studios F
+- 
+### Music
+
+- <span class="large-emoji">👨‍🎨 👑 </span>Sky Arts Sessions Season 1 & 2 Sky Studios F, 4/5
+
+### Film
+
+- <span class="large-emoji">>👨‍🎨 👑 💾</span> Oscars live wrap-around coverage 2018, 2021    Sky Studios F
+- <span class="large-emoji">>👨‍🎨 👫 💾</span> 35mm   Sky Studios 1, F, old 4
 
 ## Shortcuts
 

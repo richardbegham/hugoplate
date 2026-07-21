@@ -100,7 +100,9 @@ The Iconic and unique studio, with its cameras hanging down from the ceiling, a 
 
 {{< youtube "4cvfhd06JMU" >}}
 
-#### Studio 6 - double-ended Real and Virtual Studio
+#### Studio 6
+
+**Double-ended Real and Virtual Studio**
 
 Although one studio, this was effectively two separate studios. One end had a U-shaped Green Screen space, and the other had a U-shaped set of video walls surrounding a desk capable of up to 6 people sat around it (2 per side), and was originally designed for the _Sunrise_ breakfast show as well as for overnight / disaster recovery use.
 
@@ -123,14 +125,21 @@ In fact, some virtual designs contained many more lights than the budget for a r
   Example of VR in Studio 6
 </p>
 
-#### Millbank - multi-purpose studio
+#### Millbank Main
 
-(more to follow)
-{{< gallery dir="/images/SkyNews/StudioMillbank/" >}}
+**Multi-purpose studio**
 
-Plus other spaces used in many different ways over the years included the **Newsroom**, an **ENG Studio**, and the constantly-in-use **DTL (Down the Lines)** broom cupboard. Always a pleasure to visit this little self-contained island of peace, a contrast to the often quite ...fraught... scenes happening outside the adjacent Houses of Parliament.
+_(Detail to follow)_
 
-#### City Studios 2 & 3 - shared spaces with CNBC
+{{< gallery2 dir="/images/SkyNews/StudioMillbank/" height="400" >}}
+
+Aroudn the main studio, various other spaces were used in many different ways over the years, cheifly the **Newsroom**, the **ENG Studio**, and the constantly-in-use **DTL (Down the Lines)** broom cupboard.
+
+Always a pleasure to visit this little self-contained island of peace, a contrast to the often quite ...fraught... scenes happening right outside the studio in and around the adjacent Palace of Westminster.
+
+#### City Studios 2 & 3
+
+**Shared spaces with CNBC**
 
 Quite an interesting design this. Not only were both of the studio spaces shared with a completely different broadcaster, but each had their own totally different lighting control systems, situated miles apart in different buildings, with a need to flip-flop between each broadcaster, automatically with no manual patching, whilst presenting no risk of interference between the two systems outside the areas concerned.
 
@@ -143,27 +152,29 @@ The solution to the above was both elegant and robust - and proven to be totally
 
 <hr>
 
-### General-purpose studio Productions - Introduction
+## General-Purpose Studio Productions
 
-Other productions took place in the General-Purpose studios on Sky's Campus which were shared with Sky Sports (etc).
+### Introduction
+
+Other productions took place in the General-Purpose studios on Sky's Campus, which were usually used by Sky Sports.
 
 The first two were long-running series, and the others were major one-offs :
 
-<hr>
+### The Pledge
 
-#### The Pledge (2016-2020, Studio F)
+**2016-2020, Studio F**
 
 Lead Lighting Director for this highly-provocative weekly Debate show; recorded _"As-Live"_ a few hours before transmission - leaving just enough time for any edits for critical legal reasons...!
 
-Five _...highly opinionated..._ pundits each in turn presented their topical idea, on everything from disposable coffee cups to immigration, to which the others panellists would then vocally argue for or against.
+Five _...highly opinionated..._ pundits in turn presented their topical idea - on everything from disposable coffee cups to immigration, to which the others panellists would then vocally argue for or against. The show was very deliberately designed to provoke reactions & conversations on social media - and hopefully thinking and appreciation of different viewpoints outside viewers' individual echo chambers.
 
-No moderator or presenter, and the show was deliberately designed to provoke reactions & conversations on social media - and hopefully thinking - by viewers.
+With no moderator or presenter, this ran on the natural energy and timing of the panellists. To get the combination of diverse, fiery yet eloquent, guests right, the show had no less than a staggering **9 months (...!)** of full-production pilots each week, trying-out different mixtures of people - none of which was ever broadcast - representing a huge investment, only possible thanks to the breadth of in-house people and resources, and flexibility of funding that Sky had at the that time.
 
-Filmed in the round with a gorgeous £150k glossy glass set - giving plenty of challenges in a small studio to ensure the cameras and operators were at all times hidden, address with carefully avoiding lighting spill, precisely angled set pieces, black clothing and drapes, and a unique system to blank individual AutoCues.
+The Set design, Lighting, and all other technical aspects were determined within just the first 2-3 weeks, all created and decided by everyone on the production team working as a collective held together by the great **Jon Bennett**. The marathon pilot run was a search to find the right people, which resulted in a rotating group always carefully assembled to ensure that whatever your views, one of them would really, really, wind you up every week. Recurring key participants included **Nick Ferrari** {{< sidenote >}}biked-over straight from - and fired-up by - his LBC Breakfast show{{< /sidenote >}}, **June Sarpong**, **Rachel Johnson**, **Greg Dyke** and many more. {{< sidenote >}}Two, possibly more, were so convinced of their views that they dropped-out to fight Elections. Which they then lost.{{< /sidenote >}}As the show went on almost continously for 4 years, and could have continued indefinitely if Covid hadn't kyboshed it, all this extended piloting seems justified.
 
-Quite a lot of 2k's to gel and precisely set each week (basically, Key L - Frontal Fill - Key R - Backlight and repeat x5, plus some Decor) and a mass of practical LED to install and plug up, but it was one of the last shows with _proper_ studio lighting to do each week so nobody minded the early starts and the long rig time.
+Filmed in the round with a gorgeous £150k glossy glass set - giving plenty of challenges in a small studio to ensure the cameras and operators were at all times hidden, address with carefully avoiding lighting spill, precisely angled set pieces, black clothing and drapes, and a customised solution to un-blank individual AutoCues for each introduction.
 
-After no less than **9 months** of weekly pilots (...!), to get the production content right, the set design, lighting, and other technical matters were settled within a few weeks, this then went on to run weekly from the best part of 4 years, with lighting duties split between Richard & Malcolm Reed, until its abrupt halt and then cancellation thanks to the first Covid Lockdown.
+Quite a lot of 2k's to gel and precisely set each week (basically, Key L - Frontal Fill - Key R - Backlight and repeat x5, plus some Decor) and a mass of practical LED to install and plug up, but it was one of the last Sky shows with _proper old skool_ studio lighting to do from scratch every week, so nobody minded the early starts and the long rig time. Lighting lead was split between Richard & Malcolm Reed.
 
 {{< tabs >}}
 {{< tab "Lighter Argument" >}} {{< youtube "eHhtKJoFbAU" >}} {{< /tab >}}
@@ -173,17 +184,45 @@ After no less than **9 months** of weekly pilots (...!), to get the production c
 {{< /tabs >}}
 
 {{< notice "info" >}}
-Expand for Educational sections  
+Expand for Educational technical information.
 {{< accordion "Lighting Plot" >}}
 
-{{< image src="images/SkyNews/The-Pledge-2019-v13.jpg" caption="The Pledge Lighting plan" alt="The Pledge Lighting Plot" position="center" >}}
-Downloadable version : {{< download url="/images/SkyNews/The-Pledge-2019-v13.pdf" >}} 🗂️ Lighting Plot {{< /download >}}
+{{< figure src="images/SkyNews/The-Pledge-2019-v13.jpg">}}
+Downloadable version : {{< download url="/images/SkyNews/The-Pledge-2019-v13.jpg" >}} 🗂️ Lighting Plot {{< /download >}}
+{{< /accordion >}}
 
+{{< accordion "Principles of Light setting" >}}
+
+- Each person has 3 Key lights :
+  - Looking straight ahead at camera (for their introduction on Autocue, thereafter becoming a Frontal Fill)
+  - Looking at the person to their Left (F1 filter used to soften light somewhat, Malcolm would add 1/4 CTO, Richard just ran the lamp a bit lower...)
+  - Looking at the person to their Right (filters as above)
+  - plus a Backlight (with a top blackwrap to reduce the beam size down so similar to a 1kW Pup without having to change the head.
+  
+- Now repeat the process for the other 4 people - all have equal importance in the show (they each took turns to lead a topic).
+
+- The six-sided desk has an empty position, this gives a place for where the Viewer at home feels they are sitting, right in the middle of the arguments being vigorously bouncing back and forth.
+
+- N.B. Be careful of any lights clipped other people, or spilling onto the lightboxes that is the set, or onto any of the blacked-out cameras...
+
+- A couple of foreground lights high-up were pointed forwards wide-open, used purely to distract from the visual clutter of the lighting rig...which can't be hidden due to the low ceiling and the wide-angle lens (especially with the _...adventurous..._ angles favoured by some jib operators)
+{{< /accordion >}}
+
+{{< accordion "Luminaries used:" >}}
+
+   Studio F being a _"Fast Turnaround Studio"_, where many different productions can come and go rapidly (3 in 24 hours was quite common in the past), all the lights are left permanently rigged on pantographs and plugged-up, giving high degree of consistency from week to week. These pantographs hang from wheeled trollies, which slide up and down a short bar (two per bar). This bar in turn has fixed wheeled carriages at each end, giving transverse freedom of movement. Around 6 of these bars are in each set going the full width of the studio, and multiple rows ensuring that the entire ceiling (in theory) has a fully-saturated coverage of lights that can be bunched-up or spread-out anywhere as desired. Well, apart from _that_ bit of truss cutting the studio in two.
+
+   This flexibility can be both a blessing and a curse, depending on if you've left enough spare units to add things in later...but without blocking yourself from getting where you want. The main issue with all these rolling bar / track studios is cables getting tangelled, and the more flexibility you want the longer and more knotted the cables become. MEWPs are a necessity to get up there and fix things that have come unplugged (ladders are harder to work off and much more dangerous)
+
+   Anyway, back to the lights - these are primarily all 2k Fresnels, with barn-doors elongated by black-wrap folded and clip, usually to the long doors rotated vertically. This allows extremely precisely-sculpted shapes of light - in shapes you can't get with shutters on a profile lamp - all quickly set by a studio electrician standing on the floor by means of a long extendable pole with a hook on the end. Focusing lights this way looks very different to how it is done in Events or Theatre, but the principles are the same - one person, often standing in position, directing another to adjust the light generally towards them using idiosyncratic language and lots (!) of waving hands and arms around. Its very much a shared relationship, with each relying on the other, and sometimes can feel like  and very much relying on each other to know when to its evolved from the need for not just quick changes but being able to dive-in and tweak lights just as in those areas, the speed comes down to experiencehaving a experienced senior electrician / technician makes setting lights Just as in other areas, with an experienced team With experienced senior electricians, the lighting director only has to give some basic prompts working, setting these can feel like a The skilled use of these poles of a method of setting lights that is unique to television, as it allows rapid adjustments to lights both crude and delicate, right up to the last minute - and sometimes even when on-air (although out of vision though, of course!)
+
+   - At the same time, a mass of cables connect up the set, which exists classy edge-lit glass lightboxes.
 {{< /accordion >}}
 {{< /notice >}}
-<hr>
 
-#### The Great Debate (2021-2022, Studio F)
+### The Great Debate
+
+**2021-2022, Studio F**
 
 - Trevor Phillips presented an audience discussion show... but with a twist.
 - VR (Green screen virtual video wall) & AR (ceiling replacement and floor graphics) used together with a real set
@@ -192,9 +231,9 @@ Downloadable version : {{< download url="/images/SkyNews/The-Pledge-2019-v13.pdf
 
 {{< youtube "FB-YcxXzpMA" >}}
 
-<hr>
+### Covid Crisis - Learning the Lessons
 
-#### Covid Crisis - Learning the Lessons (2021, Studio 4/5)
+**2021, Studio 4/5**
 
 This series of 3 shows presented by Sophie Ridge, just a year after things started, was an attempt to start the serious inquiry into what went right, and what went wrong, that was being increasingly demanded by the public at this time. Due to continuing proximity rules, all guests were at home and shown on video walls, and the camerawork was all on a Steadicam and Jib, shooting _in the round_ (360-degrees).
 
@@ -256,17 +295,15 @@ All are, of course, completely correct, for their particular production
 {{< /accordion >}}
 {{< /notice >}}
 
-<hr>
+### One Hundred Women
 
-#### One Hundred Women (2018, Studio 4/5)
+**2018, Studio 4/5**
 
 - Kay Burley hosted all-female debate and audience to see what's improved, and what still needs to improve, for women.
 - Notable for all the keylights being VL-1000 to cope with the continuous walking and 360-degree shooting style used
 - Due to the studio's sausage-shape resulting in a very short throw, throughout the show, the side keys for Key were very subtly bounced backwards and forwards by a manual LTP fader oscillating between two preset focuses.
 
 {{< youtube "xot9Hap0HZU" >}}
-
-<hr>
 
 ## Credits and Thanks
 

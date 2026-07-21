@@ -4,7 +4,7 @@ draft: false
 language: en
 # Banner
 banner:
-  title: "Welcome to LightingDir.com"
+  title: "Welcome to Lighting Dir.com"
   content: "The website of Richard Bowles"
   image: "images/logo-big.png"
   content2: ""

@@ -128,7 +128,7 @@ Think RADA vs The British Museum - that kind of thing.
 
 ### Internal Corporates
 
-#### Sky Central, The Hub, & other buildings
+#### Sky Central, NW Corner, Cinema, The Hub, & other buildings
 
 Confidentially means can't share any images of these productions, but... here's a not very exciting undercover picture of the side-tables being set for refreshments, showing part of how Richard spread the Sky Spectrum branding encircle (360-degrees) the entire room.
 {{< sidenote >}} Holy secret image capture, Batman! {{< /sidenote >}}
