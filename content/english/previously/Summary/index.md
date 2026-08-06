@@ -22,8 +22,8 @@ summary: "A list of all shows in the past 15 years."
   
 ## Key
 
-| Symbol        | Primary Role | :-- | _(can have multiple roles)_ |
-| ------------: | :------- | :------- | :------ |
+| Symbol        | Primary Role | Symbol | _(can have multiple roles)_ |
+| ------------: | :------- | -------: | :------ |
 | <span class="text-3xl">👨‍🎨</span> | Lighting Designer | <span class="text-3xl">👑</span> | Lead or Sole Lighting Director |
 | <span class="text-3xl">👫</span> | Joint Lighting Director | <span class="text-3xl">🏃‍♂️‍➡️</span> | Ad-Hoc Lighting Director |
 | <span class="text-3xl">💾</span> | Programmer / Console Operator | <span class="text-3xl">🔦</span> | Lighting Technician |
@@ -95,7 +95,7 @@ summary: "A list of all shows in the past 15 years."
 - <span class="text-3xl"> 👨‍🎨 👑 💾</span> __NHS - Fit for the Future?__ (Guys Hospital)
 - <span class="text-3xl"> 👨‍🎨 👑 💾</span> __Big Ideas 1__ (Magna, Rotherham)
 - <span class="text-3xl"> 👨‍🎨 👑 💾</span> __Big Ideas 2__ (Shoreditch)
-- <span class="text-3xl"> 👨‍🎨 👑 💾</span> __The Queen's Christmas Speech__(Kings College Chapel, Buckingham Palace)
+- <span class="text-3xl"> 👫 💾</span> __The Queen's Christmas Speech__(Kings College Chapel, Buckingham Palace)
 
 ## Sky Sports
 
