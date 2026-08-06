@@ -231,7 +231,7 @@ summary: "A list of all shows in the past 15 years."
 - <span class="text-3xl">👫 💾 </span> __Googoosch Music Academy__, Season 1 2011     Capital Studios      Manoto
         LD: Stuart Gain
 
-- <span class="text-3xl">👫 💾 </span> __You Tube Awards 2012___   Abbey Road Studios      YouTube
+- <span class="text-3xl">👫 💾 </span> __You Tube Awards (UK) 2013___   Abbey Road Studios      YouTube
         LD: Tim Routledge
 - <span class="text-3xl">👫 💾 </span> __Gary Barlow Special 2012__   Apollo Manchester       ITV
         LD: Tim Routledge
