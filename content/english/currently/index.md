@@ -25,7 +25,7 @@ For a taster of these eccelectic events about cars and places, this was the firs
 
 {{< youtube CmRPLC4NK2Y >}}
 
-{{< image src="images/Brooklands2.jpg" alt="Brooklands Members Talk" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Brooklands Members Talk - Tom Crean - April 2026" >}}
+{{< image src="images/Brooklands3.jpg" alt="Brooklands Members Talk" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Brooklands Members Talk - Grand Prix Centenary - July 2026" >}}
 
 {{< image src="images/Feedback1.jpg" alt="Unsolicited Feedback" height="" width="" position="center" command="fill" option="q100" class="img-fluid" caption="Unsolicited Feedback - The Big Hop - March 2026" >}}
 

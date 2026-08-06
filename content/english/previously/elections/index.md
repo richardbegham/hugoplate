@@ -22,7 +22,7 @@ The most visually spectacular studio was the 2019 UK General Election, where lar
 
 Studio C, adjacent to the then-main Studio News Studio A, had previously only been used as a Green-Screen studio during the set refurbishment in 2010, and as a small _Situation Room_ during the MH370 mystery. Apart from that, its only other appearance on-air was for the General Election Night Special.
 
-Presented by Adam Boulton, who was perched up at a desk on a little island looking more than a bit like a 70's Sci-Fi set, surrounded a room full of 40x large screen monitors and Analysts hard at work. At the same time, in the main studio at the 5m high videowall lit by Richard back in 2013, Ed Conway and the Graphics team got very excited at their first big opportunity to stretch their legs - and arms. {{< sidenote >}}lesson learnt. Don't ask for 50 adjacent domestic screens to have the same colour balance unless you are prepared to be a remote and told to have a go yourself... {{< /sidenote >}}
+Presented by Adam Boulton, who was perched up at a desk on a little island looking more than a bit like a 70's Sci-Fi set, surrounded a room full of 40x large screen monitors and Analysts hard at work. At the same time, in the main studio at the 5m high videowall lit by Richard back in 2013, Ed Conway and the Graphics team got very excited at their first big opportunity to stretch their legs - and arms. {{< sidenote >}}lesson learnt. Don't ask for 50 tightly-packed domestic displays to have the same colour balance, unless you are prepared to be handed a pile of remotes and told to have a go yourself... {{< /sidenote >}}
 
 {{< youtube "HlZMORFyS7U" >}}
 

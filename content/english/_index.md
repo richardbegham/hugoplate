@@ -19,17 +19,17 @@ features:
       class: "animated" 
   - title: "Under Construction"
     image: "images/Under-Construction-big.png"
-    content: "There's a _lot_ to add to this site, and that takes time to get right"
+    content: "There's been a _lot_ to add to this site, and that takes time to get right"
     bulletpoints:
       - "So please keep checking back for more!"
-      - "Last major update : Tuesday 8th July 2026"
+      - "Last major update : Thursday 6th August 2026"
     button:
       enable: true
       label: "🚀 This way! 🚀"
       link: "about"
       class: "animated" 
   - title: "Site Navigation"
-    image: "images/Under-Construction-big.png"
+    image: "images/AI.jpg"
     content: "Feedback on the good, the bad, and the ugly is always welcome."
     bulletpoints:
       - "The _Previously..._ section contains the majority of the content to explore, and will continue to be significantly expanded over time."
