@@ -25,15 +25,19 @@ summary: "Television gets more bread'n'butter. Media Servers and LED's start to 
 
 ### Corporate Events
 
-- Away from Television, there was an eclectic mix of Live Events - mostly Corporate, many of which started to explore the use of the new Media Server systems and centring their presentation around video. Richard was an early user of the then cutting-edge Green Hippo Hippotizer media servers. Apart from the usual Conferences etc, the highlights ranged from opening the Mercedes-Benz world at Brooklands (an interesting coincidence, see later), to 7 successive seasons of Xmas Parties at The Brewery, a historic venue next to the Barbican in the City of London. These end-to-end themed events ran daily for 1 to 2 months each, with custom-produced video content created each year, all played back from Hippotizer media servers controlled by Richard's lighting console, to ensure perfect synchronisation between the lights, the video playback, and the desert.
-
+- Away from Television, there was an eclectic mix of Live Events - mostly Corporate, many of which started to explore the use of the new Media Server systems and centring their presentation around video. Richard was an early user of the then cutting-edge Green Hippo Hippotizer media servers. Apart from the usual Conferences etc, the highlights ranged from opening the Mercedes-Benz world at Brooklands (an interesting coincidence, see later), to 7 successive seasons of Xmas Parties at The Brewery, a historic venue next to the Barbican in the City of London. These end-to-end themed events ran daily for 1 to 2 months each, with custom-produced video content created each year, all played back from Hippotizer media servers controlled by Richard's lighting console, to ensure perfect synchronisation between the lights, the video playback, and the Desert.
+{{< sidenote >}}Let's Party like its 2004 - 2006 - 2007 - 2008 - 2009 - 2010 - 2011{{< /sidenote >}}
 {{< gallery2 dir="images/OldShows/Brewery" height="400" >}}  
 
 ### Childrens TV
 
-- two notable series in 2007, this time with LD Geoff Thonger, who was a joy to work with on*Space Pirates* for CBeebies was shot in Elstree Film Studios, next door to _Who Wants to be a Millionaire_ - although not working with their budgets, and a vision gallery that was literally the back of a small van. Rabbits were pulled-out of the proverbial hat, thanks to great team work and very helpful suppliers. It also was the first time Richard encountered the brilliant work of Set Designer Jason Underwood, who later designed many of Richard's favourite sets at Sky.
+Two notable series in 2007 for CBeebies (BBC), this time with LD Geoff Thonger, who was a joy to work with on *Space Pirates* and *Brain Jitsu*.
+ 
+- **_Space Pirates_** was shot in Elstree Film Studios, {{<sidenote>}}next door to _Who Wants to be a Millionaire_ - although not with their budget! {{</sidenote>}}, with a vision gallery that was literally the back of a small van. Rabbits were pulled-out of the proverbial hat, thanks to great team work and very helpful suppliers. It also was the first time Richard encountered the brilliant work of Set Designer Jason Underwood, who later designed many of Richard's favourite sets at Sky.
 
 {{< gallery2 dir="images/OldShows/Space" height="400" >}}  
+
+- **_Brain Jitsu_** at Duke's Island was a slight off-the-wall challenge show for groups of children, shot with an even smaller budget - the first time Richard encountered a television show being entirely shot with self-operated cameras and "we'll sort it out in the edit" approach to direction.
 
 ### 2008 - Starts Freelancing for Sky
 

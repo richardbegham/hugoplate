@@ -10,9 +10,6 @@ image: past.jpg
 summary: "A list of all shows in the past 15 years."
 ---
 
-{{< notice "Somewhat Incomplete">}} This list is a work in progress - probably more to add...
-{{< /notice >}}
-
 {{< button label="Studio Installations" link="#studio-installations" class="animated" >}}
 {{< button label="Sky News" link="#sky-news" class="animated">}}
 {{< button label="Sky Sports" link="#sky-sports" class="animated" >}}
@@ -24,16 +21,17 @@ summary: "A list of all shows in the past 15 years."
 
 | Symbol        | Primary Role | Symbol | _(can have multiple roles)_ |
 | ------------: | :------- | -------: | :------ |
-| <span class="text-3xl">👨‍🎨</span> | Lighting Designer | <span class="text-3xl">👑</span> | Lead or Sole Lighting Director |
-| <span class="text-3xl">👫</span> | Joint Lighting Director | <span class="text-3xl">🏃‍♂️‍➡️</span> | Ad-Hoc Lighting Director |
-| <span class="text-3xl">💾</span> | Programmer / Console Operator | <span class="text-3xl">🔦</span> | Lighting Technician |
+| <span class="text-3xl">👨‍🎨</span> | Lighting Designer | <span class="text-3xl">🏃‍♂️‍➡️</span> | Ad-Hoc Lighting Director |
+| <span class="text-3xl">👑</span> | Lead or Sole Lighting Director | <span class="text-3xl">💾</span> | Programmer / Console Operator |
+| <span class="text-3xl">👫</span> | Joint Lighting Director | <span class="text-3xl">🔦</span> | Lighting Technician |
 
 ## Studio Installations
 
-### Sky News - All Studio Output 2012 - 2023
+{{< button label="Find out more : Studio Installations" link="/previously/sky-studios/" class="animated" >}}
 
-- <span class="text-3xl"> 👫 💾 </span> Studio A
-  - (Design : Don Hart)
+### Sky News Studios
+
+- <span class="text-3xl"> 👫 💾 </span> Studio A New Videowall
 
 - <span class="text-3xl"> 👫 👨‍🎨 👑 💾</span> Studio 21 Glass Box
   - (Initial Design : Dave Evans)
@@ -46,18 +44,18 @@ summary: "A list of all shows in the past 15 years."
 
 - <span class="text-3xl"> 👨‍🎨 👑 💾</span> Millbank Main, Newsroom, DTL, ENG
 
-### Sky Sports News
+### Sky Sports News Studio
 
 - <span class="text-3xl"> 👫 💾 </span> 2018 Relight
   -  (Based on Design: Iain Davidson)
 - <span class="text-3xl"> 👨‍🎨 👑 💾</span> 2020 Robotic Cameras Relight
 
-### Sky Sports Racing
+### Sky Sports Racing Studio
 
 - <span class="text-3xl">👨‍🎨 👑 💾</span>
   - Sky Studios G
 
-### Sky Poker
+### Sky Poker Studio
 
 - <span class="text-3xl">👨‍🎨 👑 💾</span>
   - Sky Studios 3
@@ -71,6 +69,10 @@ summary: "A list of all shows in the past 15 years."
 ## Sky News
 
 {{< image src="images/logos/sky-news-logo.png" caption="" alt="Sky News Logo" height="" width="" position="center" command="fill" option="q100" class="h-2 max-w-lg mx-auto " title="Sky News Logo">}}
+
+### Responsible for all Studio Output 2012 to 2023
+
+{{< button label="Find out more : Sky News" link="/previously/sky-news/" class="animated" >}}
 
 ### "Battles for Number 10" / Elections / etc
 
@@ -100,6 +102,8 @@ summary: "A list of all shows in the past 15 years."
 ## Sky Sports
 
 {{< image src="images/logos/sky-sports-2020.png" caption="" alt="Sky Sports Logo" command="fill" position="center" option="q100" class="h-2 max-w-lg mx-auto " title="Sky Sports" >}}
+
+{{< button label="Find out more : Sky Sports" link="/previously/sky-sports/" class="animated" >}}
 
 ### Specials
 
@@ -226,9 +230,11 @@ summary: "A list of all shows in the past 15 years."
   
 ## Other Broadcasters...
 
-- <span class="text-3xl">👫 💾 </span> __Miss World__, 2011   Abbey Road Studios      YouTube
+{{< button label="Find out more : The 2000's" link="/previously/2000s/" class="animated" >}}
+
+- <span class="text-3xl"> 💾 </span> __Miss World__, 2011   Abbey Road Studios      YouTube
         LD: Stuart Gain
-- <span class="text-3xl">👫 💾 </span> __Googoosch Music Academy__, Season 1 2011     Capital Studios      Manoto
+- <span class="text-3xl"> 💾 </span> __Googoosch Music Academy__, Season 1 2011     Capital Studios      Manoto
         LD: Stuart Gain
 
 - <span class="text-3xl">👫 💾 </span> __You Tube Awards (UK) 2013___   Abbey Road Studios      YouTube
@@ -240,18 +246,20 @@ summary: "A list of all shows in the past 15 years."
 - <span class="text-3xl">👫 💾 </span> __Hope for Haiti Now__    Hospital Studios         CBS
         LD: Tim Routledge
 
-- <span class="text-3xl">👫 💾</span> __Royal Wedding Coverage__    Trafager Square and Central Methodist Hall    NBC
+- <span class="text-3xl"> 👫 💾</span> __Royal Wedding Coverage__    Trafager Square and Central Methodist Hall    NBC
         LD: LDG
 
-- <span class="text-3xl">👨‍🎨 👫 💾</span> __Dispatches__     Television Centre TC-8      BBC
+- <span class="text-3xl"> 💾</span> __Dispatches__     Television Centre TC-8      BBC
       - LD: James Campbell
-- <span class="text-3xl">👨‍🎨 👫 💾</span> __Dimblebey Lecture 2011 __    King's College, London      BBC
+- <span class="text-3xl"> 💾</span> __Dimbleby Lecture 2011 __    King's College, London      BBC
       - LD: James Campbell
-
 
 ## Non-Broadcast Events
 
-- <span class="text-3xl">👫 💾 </span>Corporate Xmas Parties 2007-2011        The Brewery, City of London.
+- <span class="text-3xl">👨‍🎨 👑 💾 </span>Corporate Xmas Parties 2004-2011        The Brewery, City of London.
+
+{{< notice "Somewhat Incomplete">}} This list is a work in progress - probably more to add...
+{{< /notice >}}
 
 ## Shortcuts
 

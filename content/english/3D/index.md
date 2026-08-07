@@ -12,6 +12,9 @@ featured_image: "images/Under-Construction-Big.jpg"
 
 Richard has many varied interests. {{< sidenote >}}...and ADHD{{< /sidenote >}} This one is, however, the ultimate fusion of decades of obsession with computers, electronics, and, of course, lighting.
 
+{{< notice "Incomplete">}} This section is a work in progress - please check back later...
+{{< /notice >}}
+
 <hr>
 
 {{< button label="About" link="/about" class="animated" >}}
