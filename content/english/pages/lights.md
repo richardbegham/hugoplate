@@ -8,12 +8,12 @@ description: "A small collection of lights that are often useful get-out-of-jail
 summary: "A small collection of lights that are often useful get-out-of-jail-free cards and can fit in the boot of the car."
 ---
 
-# Some of Richard's "get you out of jail" PSC lights
+## Some of Richard's "get you out of jail" PSC lights
 
-### Dedolight DLHM4-300DMX
+### Dedolight DLHM4-300-DMX
 
-- The classic Dedolight, 24V 150W, with integrated DMX ballast. 
-- Richard had the first batch of this variant on the classic theme when they first arrived in the UK, for use on _Space Pirates_ and 20 years later, and much use later, these rugged workhorses are still producing that **perfect quality, precisely adjustable, beautiful Dedolight beam.** 
+- The classic Dedolight, 24V 150W, with integrated DMX ballast.
+- Richard had the first batch of this variant on the classic theme when they first arrived in the UK, way back in 2007 for use on _Space Pirates_ and almost 20 years, and much use, later, these rugged workhorses are _still_ producing that **perfect quality, precisely adjustable, beautiful Dedolight beam.**
 
 ### Wireless Uplighters
 

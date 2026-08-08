@@ -15,7 +15,7 @@ summary: "Live Debates between rival candidates for Prime Minster happened far m
 
 Attempts to give the UK a version of the head-to-head "US Presidential style" Debates had, for decades, been repeatedly rebuffed by whoever was in power at the time (as they had the most to loose), but in 2010, with no clear result ahead, all the parties gave-in and agreed to a very low-key version for the 2010 General Election. Richard wasn't involved in this, as had only just started Freelancing for Sky at that point; however this is mentioned because both that Debate - and Election that followed - had a result that can best be described as a **No-Score Draw** for all the teams involved...
 
-So, roll on the then-legally-fixed nice and predictable 5 year delay until the next one. And then... nobody could then have predicted the utter carnage the next five years would result in. {{< sidenote >}}, even those encouraging the chaos from 1500 miles to the east (...!) {{< /sidenote >}}
+So, roll on the {{< sidenote >}}even those encouraging the chaos from 1500 miles to the east (...!) {{< /sidenote >}} then-legally-fixed nice and predictable 5 year delay until the next one. And then... nobody could then have predicted the utter carnage the next five years would result in.
 
 
 
@@ -27,11 +27,11 @@ The call is made to John Ryley, Head of Sky News, and a date of just 5 days time
 
 Counting back from the moment of transmission (TX), allowing for presenter rehearsals on the day, technical rehearsals the day beforehand, ideally two days. Then add the build of the Set (even if it's basically video walls) will take at least two days to build, with lights/sound/cameras going in and around, which makes 4 days - and they had 5, and no plan, no crew, and no studio at this stage. Oops. But this is News, they achieve the impossible everyday. Now, Who could give him all the answers to the studio, and who needs to get in to the studio first...
 
-Jon (somehow) finds-out that Richard was working on _Ringside_ (Sky Sports Boxing magazine show) in the next building, and, highly-unusually, leaves News and has a very quiet and quick discussion in the corridor with Richard. Five minutes later - with Ringside unceremoniously offloaded onto his team with no explanation to anyone beyond "Very Sorry, I have to go. Right now. Will explain later." - the pair of them are in a taxi heading as fast as possible across town to meet with Production designers Jago. A short meeting later, with invaluable advise from Richard about what facilities the studio has (such as seating, cameras, power, rigging, etc) and how its been successfully used (or not) previously, they are heading back to Osterley on a train, which gives Richard the opportunity to sketch something out on the back of an envelope. Phone calls are made, an outline of the logistics involved is determined, many conversations are started with the cryptic phrase "Umm...do you know what I know...?", and that afternoon the schedule for pretty much everyone in the lighting department for the next week was upended without any explanation, as there was extensive knock-on effects with sports productions being relocated - but that's what lighting people are used to - and they all pulled-together magnificently.
+Jon (somehow) finds-out that Richard was working on _Ringside_ (Sky Sports Boxing magazine show) in the next building, and, highly-unusually, leaves News and has a very quiet and quick discussion in the corridor with Richard. Five minutes later - with Ringside unceremoniously offloaded onto his team with no explanation to anyone beyond _"Very Sorry, I have to go. Right now. Will explain later."_ (...thankyou Sara!) - the pair of them are in a taxi heading as fast as possible across town to meet with Production designers Jago. A short meeting later, with invaluable advise from Richard about what facilities the studio has (such as seating, cameras, power, rigging, etc) and how its been successfully (or not) used previously, they are heading back to Osterley on a train, which gives Richard the opportunity to sketch something out on the back of an envelope. Phone calls are made, an outline of the logistics involved is determined, many conversations are started with the cryptic phrase "Umm...do you know what I know...?", and that afternoon the schedule for pretty much everyone in the lighting department for the next week was upended without any explanation, as there was extensive knock-on effects with sports productions being relocated - but that's what lighting people are used to - and they all pulled-together magnificently.
 
 After all that, and the hurried nature of these designs, the production and lighting design turned-out to be so successful that it they went on to be repeated in an essentially similar form multiple times over the very turbulent (...!) period of politics that followed.
 
-And here's the entirely of Richard's show notes and design. Well, a napkin was good enough for the Space Shuttle initial design _(allegidly)_...
+And here's the entirely of Richard's show notes and that on-the-train design. Well, a napkin was good enough for the Space Shuttle's initial design _(allegedly)_...
 
 {{< gallery2 dir="images/gallery/DebateDesign" class="max-w-150 ml-0" >}}
 
@@ -39,8 +39,8 @@ And here's the entirely of Richard's show notes and design. Well, a napkin was g
 
 {{< gallery2 dir="images/gallery/Debates" class="max-w-150 ml-0" >}}
 
-{{< notice "warning" >}}
-The videos shown below are of their time and have highly polarising political content - LightingDir.Com neither endorses or opposes any of the views expressed; however we do recommend use of your  _Mute_ 🔇 button should your blood pressure rise at any point.
+{{< notice "Tabs for different years" >}}
+**Warning:** he videos shown below are of their time and have highly polarising political content - LightingDir.Com neither endorses or opposes any of the views expressed; however we do recommend use of your  _Mute_ 🔇 button should your blood pressure rise at any point.
 {{< /notice >}}
 
 {{< tabs >}}
