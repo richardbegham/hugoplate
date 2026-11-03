@@ -101,6 +101,21 @@ main() {
     npm ci
   fi
 
+  echo "Checking Tailwind CLI resolution..."
+
+echo "Node:"
+node --version
+
+echo "Tailwind CLI package:"
+node -p "require.resolve('@tailwindcss/cli/dist/index.mjs')"
+
+echo "Tailwind executable:"
+ls -l node_modules/.bin/tailwindcss
+
+echo "Tailwind executable target:"
+readlink -f node_modules/.bin/tailwindcss
+
+
   # Build the project
   echo "Building the project..."
   hugo build --gc --minify
