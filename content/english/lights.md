@@ -41,6 +41,12 @@ However, for Budget, Efficacy, or size reasons; sometimes having to hand your ow
 - Variable colour temperature and single-cell control...they even strobe should you be that way inclined.
 - Useful as general area/audience lighting
 
+### Source 4 PAR
+
+{{< image src="/images/lights/Source4-PAR.jpg" alt="ETC Source 4 PAR" position="center" class="h-1 max-w-lg mx-auto" >}}
+
+- Sometimes the simpl[est tool can be the most powerful.
+
 <hr>
 
 {{< image src="images/getintouch.jpg" alt="Golden Get In Touch Envelope" position="center" command="fill" option="q100" class="img-fluid" caption="Go on Go on Go on - Get in Touch!" >}}

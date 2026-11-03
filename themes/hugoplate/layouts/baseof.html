@@ -17,14 +17,7 @@
   </head>
 
   <body class="flex flex-col min-h-screen">
-    <!-- cache partial only in production -->
-    {{ if hugo.IsProduction }}
-      {{ partialCached "preloader.html" . }}
-      {{ partialCached "gtm-noscript.html" . }}
-    {{ else }}
-      {{ partial "preloader.html" . }}
-
-
+ 
       <!-- tailwind size indicator -->
       {{ partial "components/tw-size-indicator.html" . }}
     {{ end }}

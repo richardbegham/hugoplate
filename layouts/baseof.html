@@ -30,6 +30,12 @@
     {{ end }}
 
 
+    <!-- announcement -->
+    {{ if templates.Exists "_partials/announcement.html" }}
+      {{ partialCached "announcement.html" . }}
+    {{ end }}
+
+
     <!-- header (don't cache it) -->
     {{ partial "essentials/header.html" . }}
     {{ partial "search-modal.html" (dict "Context" . ) }}
