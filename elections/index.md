@@ -90,7 +90,7 @@ Lighting was relatively conventional, however a lot of new rigging points had to
 ## 2020 : US Election (Sky Central) during Covid-19.
 
 More modest setup than the year before, but still loooking good.  
-This time the desk was spun round, putting the Glass Box studio in context better, and Ed was up on the Mez with a real video wall.
+This time the desk was spun round, putting the Glass Box studio behind this and so in better context, and Ed was also up on the Mez, but this time with a real video wall instead of a giant virtual one.
 
 {{< youtube "GNa3wDdrNzk" >}}
 

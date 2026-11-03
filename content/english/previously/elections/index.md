@@ -12,17 +12,17 @@ summary: "Responsible for the main studio lighting for the through-the-night cov
 
 ## Introduction
 
-Richard designed, built, and ran the through-the-night results coverage for the UK General Elections in 2015, 2017, and 2019, together with various Local Elections around the same time, and unusually, for the US Election in 2020 (from London due to Covid restrictions). Some more details below
-
-The most visually spectacular studio was the 2019 UK General Election, where large parts of the huge Sky Central office building were taken-over.  
-
+Richard designed, built, and ran the through-the-night results coverage for the UK General Elections in 2015, 2017, and 2019, together with various Local Elections around the same time, and unusually, for the US, Election in 2020 (made in London due to Covid restrictions). Further details below.
+w
 <hr>
 
-## 2015 UK General Election (Studio C)
+## 2015 UK General Election
+
+##### Studio C (Unit 1)
 
 Studio C, adjacent to the then-main Studio News Studio A, had previously only been used as a Green-Screen studio during the set refurbishment in 2010, and as a small _Situation Room_ during the MH370 mystery. Apart from that, its only other appearance on-air was for the General Election Night Special.
 
-Presented by Adam Boulton, who was perched up at a desk on a little island looking more than a bit like a 70's Sci-Fi set, surrounded a room full of 40x large screen monitors and Analysts hard at work. At the same time, in the main studio at the 5m high videowall lit by Richard back in 2013, Ed Conway and the Graphics team got very excited at their first big opportunity to stretch their legs - and arms. {{< sidenote >}}lesson learnt. Don't ask for 50 adjacent domestic screens to have the same colour balance unless you are prepared to be a remote and told to have a go yourself... {{< /sidenote >}}
+Presented by Adam Boulton, who was perched up at a desk on a little island looking more than a bit like a 70's Sci-Fi set, surrounded a room full of 40x large screen monitors and Analysts hard at work. At the same time, in the main studio at the 5m high videowall lit by Richard back in 2013, Ed Conway and the Graphics team got very excited at their first big opportunity to stretch their legs - and arms. {{< sidenote >}}lesson learnt. Don't ask for 50 adjacent domestic televisions to be adjusted to have the same colour balance... unless you are prepared to be handed a remote and told to have a go yourself... {{< /sidenote >}}
 
 {{< youtube "HlZMORFyS7U" >}}
 
@@ -32,27 +32,37 @@ Presented by Adam Boulton, who was perched up at a desk on a little island looki
 
 Just 4 days beforehand Election Day, Richard was asked if he could jazz-up the exterior of the site somehow, as a previous plan for Outdoor Projections had fallen thought. And there was this very difficult final hour of voting between 9 and 10pm where they had to avoid any discussion of politics, but could discuss the vote itself. And maybe encourage people to go and and vote, one last time... 
 
-> We need something eye-catching in a hurry - we liked what you did for the Exterior of the buildings for the Debate a couple of weeks ago, so here's (quite a large pot of money), we're not using the Sky News Helicopter that day, so if you want it... Oh, and should you need all the flights into Heathrow diverted...
+> We need something eye-catching in a hurry - we liked what you did for the Exterior of the Campus for the Debate a couple of weeks back, so we'd like to offer a ....quite a large pot of money News Heliopter that day, so...if you want it... Oh, and should the tukey become a ...turkey...a re0oacement will be withyou start again
 
-With no notice and most of the in-house team already committed to productions, the call for help went out immediately to Steve at RML for lights, along with Barry Dennison (then at ELP) for other kit and crew to make it all happen. A top lighting crew of 10, led by Seb Williams, promptly arrived and started stringing cables together for days.
+{{< notice "quote" >}}
+Hi Steve, its Richard. Can you send us in the morning all your really big searchlighty-type thingies please.
+<pause>
+Yes, ALL of them. Anything you can see a mile away.
+{{< /notice >}}
+
+With no notice and most of the in-house team and equipment already committed to Sports Productions, the call for help went out immediately to Steve at RML for big lights, and alsp to Barry Dennison (then at ELP) for the distro and crew to make it all happen. Barry came straight down, arriving after lunch with Seb Williams, fpr a site reeccee. {{< sidenote>}}Essentially, wander around the site, find some space with a suitable surface, then find something that fits in it and it can shine of something!r shines at it, scribble down and move on.?{{</sidenote>}} This resulted, first thing the next morning, in two trucks stuffed full of equipments. together with an excellent crew of 10 lighting technicians led by Seb Williams, promptly arriving, followed by days of stringing cables together.
+
+{{< gallery2 dir="images/gallery/Exterior/" >}}
 
 48x Mythos II were used to make a giant X in the sky (pushed together in a single beam once the polls closed), together with a boat load of VL-3500s, SGM P5s, PixelPars...and probably a load more...were used to light up 3 Buildings, and thanks to an unusually cooperate CAA, the resulting Helicopter footage remains the most spectacular the Sky Campus has ever looked. In fact, the footage kept randomly reappearing in unrelated programs for years afterwards... The giant X was apparently visible from Central London, although sadly the lack of the usual Hounslow fog made it less dramatic on camera than hoped. Whether or not anyone was moved to vote by this effort is unknown. Still, it exceeded expectations and ended-up being used on-air from a lot earlier in the evening, and for far longer, than originally scheduled.
 
-The colours used were the colours of the 7 main parties _(including the unhelpful closeness of "Gold" for The SNP and "Yellow" for the Lib Dems)_ which flowed-around the campus. Careful attention was made to ensure the various colours were always evenly-spaced and equally visible in order to ensure the perception of being totally unbiased, regardless of how the shots were cut in and out. A grand reveal of the exit poll results in a big lighting change was in all the excitement completely forgotten-about by Production, so didn't make it to air unfortunately. Not long afterwards, the helicopter ran low on fuel and went back to Gatwick.
+The colours used were the colours of the 7 main parties _(including the unhelpful closeness of "Gold" for The SNP and "Yellow" for the Lib Dems)_ which flowed-around the campus. Careful attention was made to ensure the various colours were always evenly-spaced and equally visible in order to ensure the perception of being totally unbiased, regardless of how the shots were cut in and out. A big lighting change during the grand reveal of the exit poll results, was carefully planned with all possible varients mapped=out... and then never made it on air, was in all the excitement completely forgotten-about by Production, so didn't make it to air unfortunately. Not long afterwards, the helicopter ran low on fuel and went back to Gatwick.
 
-{{< youtube "NaJCwy4HIao" >}}
+{{< gallery2 dir="images/gallery/Exterior2/" >}}
 
 _Oh, yes, he did in the end have all the incoming flights into Heathrow diverted in the end - but only to the North Runway, not Stansted. After some hasty mathematics about the combined beam size and intensity was presented to an unusually cooperative CAA to show they weren't lasers - and were at all times angled south away from the low-flying aircraft doing final approach... shame, as angling them towards the helicopter would have improved their impact from the air!_
 
 <hr>
 
-{{< gallery2 dir="images/gallery/Exterior/" >}}
+{{< youtube "NaJCwy4HIao" >}}
 
 <hr>
 
-## 2016 Exterior - Brexit Referendum (The Hub)
+## 2016 Exterior - Brexit Referendum
 
-The Sky Hub building was a frequent stand-in for Sky News's building (as it looked far prettier that the real one, and it was used as the location for the Brexit Debate) - had its exterior used in a very similar way for the Referendum night, as well as to celebrate the launch of The Pledge series. For both these occasions, custom gobos were fitted to a set of Mythos II, one letter per luminaire. Rapidly-emerging new technologies meant that a drone could now be used for a live camera feed instead of a helicopter, and this, together with all the beams of light being scattered and spread-out, plus a bit more time to plan, meant there was thankfully no need to divert all the planes at Heathrow again!.
+##### The Hub, Central Atrium
+
+The Hub building (originally built for the Exec and some halo departments) was a frequent visual stand-in for Sky News's building - as it looked far prettier that any of the others, including a nice reflective cladding. For one occasion, due to lack of availability of Studios 4/5, it was pressed-into service as the location for the *Brexit Debate* - had its exterior used in a very similar way for the Referendum night, as well as to celebrate the launch of The Pledge series. For both these occasions, custom gobos were fitted to a set of Mythos II, one letter per luminaire. Rapidly-emerging new technologies meant that a drone could now be used for a live camera feed instead of a helicopter, and this, together with all the beams of light being scattered and spread-out, plus a bit more time to plan, meant there was thankfully no need to divert all the planes at Heathrow again!.
 
 The words _*In or Out?*_ were flashed alternately on the apex of the building, reflecting the on-screen branding that had been used for weeks beforehand. When the result was finally declared, these were used to stop flashing and reveal the answer on screen. _🎶🎺🎺🎺🎵Dum Dum Deeeerrrr_
 
@@ -60,37 +70,47 @@ SuperSharpies were used this time round for beam effects, together with as many 
 
 {{< gallery dir="images/gallery/InOut/" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
+A similiar setup, except with Mythos II instead of SuperSharpies due to availability issues, was used in late 2015 for The Pledge laucnh.
 <hr>
 
-## 2017 : Here we go again (Studio A)
+## 2017 : Here we go again
 
-Due to the short-notice of this General Election, and the on-going Tardis project, there was only a modest setup constructed in a relatively unused part of Studio A studio.  
+##### Studio A (Unit 1)
 
-The archives and memory banks are still being searched for much to say about this night... but here's a rather optimistic trailer - especially Sophie's closing line...
+Due to the short-notice of this unexpected General Election, as well as the on-going Tardis project, this time only a modest setup was constructed and squeezed into a relatively unused part of Studio A studio.  
+
+The archives and memory banks are still being searched for much to say about this night... but here's a rather optimistic trailer, especially Sophie's closing line...
 
 {{< youtube "nk1woReSZ2w" >}}
 
 <hr>
 
-## 2019 : And Again (Sky Central)
+## 2019 : And Again
+
+##### Sky Central
 
 ...And just two years later, here we go yet again, once more with feeling...
 
-For this, the gigantic Sky Central building was thoroughly taken-over, for a spectacular integration of Augmented-Reality Graphics and Real Graphics.
+For this, the gigantic Sky Central building was thoroughly taken-over, for a spectacular integration of Augmented-Reality Graphics, Real Graphics, and Actual Real People.
 
-As well as every type of video Camera you can think of - a full Wire cam, a Technocane, a Jib, a SteadiCam, several Peds, Robots, Handhelds, DSLRs, Webcams... the works.
+Main Presentation Desk on the Mez, Ed downstairs taking over the salad bar (virtually), an Analysis area (in a tea-break area), and a big social media zone (in the opposite tea-break area)
 
-Lighting was relatively conventional, however a lot of new rigging points had to be installed over both the Mezzanine studio area and high above the main walkway. Lights used included Geminis, Arris, Source 4 LED, Mac Vipers, TitanTubes, and so on.
+All served by every type of broadcast Camera you can think of - a big Wire cam, a Technocane, a Jib, a SteadiCam, several Peds, Robots, Handhelds, DSLRs, Webcams... the works.
+
+Lighting was relatively conventional, mostly *Source-4-II Daylight* with a mix of *Geminis* and *Arris* for keys, together with a pair of *Mac Vipers* doing long-throw for Ed - backed up by 10-degree S4.  however a lot of new rigging points had to be installed over both the Mezzanine studio area and high above the main walkway. Lights used included Geminis, Arris, Source 4 LED, Mac Vipers, TitanTubes, and so on.
 
 {{< youtube "VaAQoFKVjbk" >}}
 {{< youtube "1EzNRsXYJm0" >}}
 
 <hr>
 
-## 2020 : US Election (Sky Central) during Covid-19.
+## 2020 : US Election - during Covid-19.
+
+##### Sky Central
 
 More modest setup than the year before, but still looking good.  
-This time the desk was spun round, putting the Glass Box studio in context better, and Ed was up on the Mez with a real video wall.
+This time the desk was spun round; putting the Glass Box studio in context better, and Ed was also up on the Mez, with a real video wall.
+And lots of One-Way stickers everywhere.
 
 {{< youtube "GNa3wDdrNzk" >}}
 

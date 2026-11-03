@@ -28,15 +28,15 @@ We can show you the end result - this was very heavily softened in post-producti
 A vast space.  
 Thanks to the amazing Darren Fletcher at ELP and his team, this looked spectacular on a small budget and working within the "don't stand too close to me" period of Covid restrictions.
 
-{{< gallery2 dir="images/gallery/BigIdeas-1" class="max-w-150 ml-0" >}}
+{{< gallery2 dir="images/gallery/BigIdeas" class="max-w-150 ml-0" >}}
 
 {{< youtube "PN1HoqkzuIU" >}}
 
 ## Big Ideas II (Shoreditch, 2022)
 
-Once again Darren Fletcher at ELP helped make the impossible, possible.
+Once again Darren Fletcher at ELP helped make the impossible, possible. Essentially a snall trade show with a presentation area.
 
-Lots of ground-supported truss, and as is often the way, not enough height.
+Lots of ground-supported truss needed to support a small number of lights, but as is often the way, not enough usable height in the room.
 
 {{< youtube "6PVZleKL8Qk" >}}
 

@@ -14,6 +14,7 @@ summary: "Football. A LOT of people talking about football on MNF, SNF, FNF, WSL
 Use the Icons below to jump specific sports.
 {{< /notice >}}
 
+{{< button label="🎮" link="#-esports-specials-" class="animated" >}}
 {{< button label="🏆" link="#-sports-specials-" class="animated" >}}
 {{< button label="⚽️" link="#-football-" class="animated" >}}
 {{< button label="🥊" link="#---boxing---" class="animated">}}
@@ -26,14 +27,43 @@ Use the Icons below to jump specific sports.
 
 ## Series / Lead Lighting Director for
 
-### 🏆 Sports Specials 🏆
+### 🎮⚽️🎮  eSports Specials 🎮⚽️🎮 
 
-#### 🎮⚽️🎮 FIFA eClub UK Final 2019  
+#### FIFA eClub UK Final 2019  
+
+- Sky Studios 4 & 5
+
+A lot of Custom-made lights.
+A lot of Moving lights
+A lot of Astera Tubes.
+A lot of Players in the Studio before us - argh!
 
 <div class="flex items-center gap-4">
  {{< image src="images/SkySports/FIFA-eclub-3.jpg" caption="IFA eClub 2019" height="" width="" position="center" class="img-fluid" >}}
  {{< image src="images/SkySports/FIFA-eclub-4.jpg" caption="IFA eClub 2019" height="" width="" position="center" class="img-fluid" >}}
 </div>
+
+#### FIFA Global Series UK Final
+
+- G-Finity, Fulham.
+
+<div class="flex items-center gap-4">
+ {{< image src="images/SkySports/GFinity2019-2.jpg" caption="" height="" width="" position="center" class="img-fluid" >}}
+ {{< image src="images/SkySports/GFinity2019-3.jpg" caption="GFinity FIFA Global Series 2019" height="" width="" position="center" class="img-fluid" >}}
+</div>
+
+<br>
+{{< button label="🎮" link="#-esports-specials-" class="animated" >}}
+{{< button label="🏆" link="#-sports-specials-" class="animated" >}}
+{{< button label="⚽️" link="#-football-" class="animated" >}}
+{{< button label="🥊" link="#---boxing---" class="animated">}}
+{{< button label="🏎️" link="#---f1---" class="animated" >}}
+{{< button label="🏉" link="#-rugby-lions-tours-" class="animated" >}}
+{{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" class="animated" >}}
+{{< button label="🤿" link="#---bog-snorkelling---" class="animated" >}}
+<br>
+
+### 🏆 Sports Specials 🏆
 
 #### Game for Grenfall
 
@@ -53,6 +83,20 @@ The culmination of Sky's Gamechangers series saw it move across the road for a o
 #### The 100 Launch & Draft
 
 (to follow)
+
+## Time of Our Lives
+
+## Sporting Hero
+<br>
+{{< button label="🎮" link="#-esports-specials-" class="animated" >}}
+{{< button label="🏆" link="#-sports-specials-" class="animated" >}}
+{{< button label="⚽️" link="#-football-" class="animated" >}}
+{{< button label="🥊" link="#---boxing---" class="animated">}}
+{{< button label="🏎️" link="#---f1---" class="animated" >}}
+{{< button label="🏉" link="#-rugby-lions-tours-" class="animated" >}}
+{{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" class="animated" >}}
+{{< button label="🤿" link="#---bog-snorkelling---" class="animated" >}}
+<br>
 
 ### ⚽️ Football ⚽️
 
@@ -77,7 +121,7 @@ The first day that Richard was due to go solo on this production, it had half-wa
 
 {{< /accordion >}}
 
-On 30th April 2012, MNF had its highest ever viewing figures - and also the then-highest for any sporting event on Sky _(until a free-to-air match during Covid)_ when 4.8 million tuned-in to watch Manchester City defeat Manchester United 1-0 on their way to their first top flight title since 1968. {{< sidenote >}}Quoteing from a source that actually knows what its talking about wrt. football, unlike me.{{< /sidenote >}}
+On 30th April 2012, MNF had its highest ever viewing figures - and also the then-highest for any sporting event on Sky _(until a free-to-air match during Covid)_ when 4.8 million tuned-in to watch Manchester City defeat Manchester United 1-0 on their way to their first top flight title since 1968. {{< sidenote >}}Quoteing from a source that actually knows what its talking about wrt. football - unlike me.{{< /sidenote >}}
 
 #### The Studio F version - Simply The Bestß
 
@@ -245,7 +289,16 @@ _Chris Kamara_
 {{< /rawhtml >}}
 {{</accordion>}}
 
-<hr>
+<br>
+{{< button label="🎮" link="#-esports-specials-" class="animated" >}}
+{{< button label="🏆" link="#-sports-specials-" class="animated" >}}
+{{< button label="⚽️" link="#-football-" class="animated" >}}
+{{< button label="🥊" link="#---boxing---" class="animated">}}
+{{< button label="🏎️" link="#---f1---" class="animated" >}}
+{{< button label="🏉" link="#-rugby-lions-tours-" class="animated" >}}
+{{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" class="animated" >}}
+{{< button label="🤿" link="#---bog-snorkelling---" class="animated" >}}
+<br>
 
 ## 🥊 🥊 🥊 Boxing 🥊 🥊 🥊
 
@@ -284,7 +337,16 @@ For the Frosch vs Groves recording, Richard had promoter Eddie Hearn stood behin
 
 {{<youtube "xvtRdj4M7oc">}}
 
-<hr>
+<br>
+{{< button label="🎮" link="#-esports-specials-" class="animated" >}}
+{{< button label="🏆" link="#-sports-specials-" class="animated" >}}
+{{< button label="⚽️" link="#-football-" class="animated" >}}
+{{< button label="🥊" link="#---boxing---" class="animated">}}
+{{< button label="🏎️" link="#---f1---" class="animated" >}}
+{{< button label="🏉" link="#-rugby-lions-tours-" class="animated" >}}
+{{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" class="animated" >}}
+{{< button label="🤿" link="#---bog-snorkelling---" class="animated" >}}
+<br>
 
 ## 🏎️ 🏎️ 🏎️ F1 🏎️ 🏎️ 🏎️
 
@@ -304,6 +366,17 @@ Sharing the studio with Soccer Saturday, in an inspired bit of set design by Jon
 
 {{< image src="images/F1endofseason.jpg" caption="The F1 Show (Studio 4/5 version) - End of Season musical special" alt="End of Season musical special" position="center" class="max-w-150 ml-0" >}}
 
+<br>
+{{< button label="🎮" link="#-esports-specials-" class="animated" >}}
+{{< button label="🏆" link="#-sports-specials-" class="animated" >}}
+{{< button label="⚽️" link="#-football-" class="animated" >}}
+{{< button label="🥊" link="#---boxing---" class="animated">}}
+{{< button label="🏎️" link="#---f1---" class="animated" >}}
+{{< button label="🏉" link="#-rugby-lions-tours-" class="animated" >}}
+{{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" class="animated" >}}
+{{< button label="🤿" link="#---bog-snorkelling---" class="animated" >}}
+<br>
+
 ## 🏉 Rugby Lions Tours 🏉
 
 (Info To follow)
@@ -317,6 +390,17 @@ This turned-out to be so convincing that reports came in of people "down the pub
 
 Another aspect to the success of this greenscreen shoot was that for once it wasn't shoehorned into a tiny space with the lights only inches away. {{< sidenote >}}He's about to bang on about the inverse square law - again! {{< /sidenote >}}
 
+<br>
+{{< button label="🎮" link="#-esports-specials-" class="animated" >}}
+{{< button label="🏆" link="#-sports-specials-" class="animated" >}}
+{{< button label="⚽️" link="#-football-" class="animated" >}}
+{{< button label="🥊" link="#---boxing---" class="animated">}}
+{{< button label="🏎️" link="#---f1---" class="animated" >}}
+{{< button label="🏉" link="#-rugby-lions-tours-" class="animated" >}}
+{{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" class="animated" >}}
+{{< button label="🤿" link="#---bog-snorkelling---" class="animated" >}}
+<br>
+
 ## 🏈 NFL (American Football inc. Superbowl) 🏈
 
 Various Superbowl overnight wrap-abounds, and some of thee regular weekly wrap-around coverage over the years.
@@ -326,6 +410,28 @@ Surprisingly, one of the most challenging - and least predictable - Sky Sports' 
 Even more mysterious rules than non-american football, but some fabulous half-time shows for the Superbowls - and the opportunity to see what happens behind the scenes as to how those big complex stages appear in the middle of a field in less than 5 minutes : Answer, break them into large chunks, and get a lot of people to pick these chunks up at the same time. A LOT people ... 500+ !
 
 (More to follow)
+
+<br>
+{{< button label="🎮" link="#-esports-specials-" class="animated" >}}
+{{< button label="🏆" link="#-sports-specials-" class="animated" >}}
+{{< button label="⚽️" link="#-football-" class="animated" >}}
+{{< button label="🥊" link="#---boxing---" class="animated">}}
+{{< button label="🏎️" link="#---f1---" class="animated" >}}
+{{< button label="🏉" link="#-rugby-lions-tours-" class="animated" >}}
+{{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" class="animated" >}}
+{{< button label="🤿" link="#---bog-snorkelling---" class="animated" >}}
+<br>
+
+<br>
+{{< button label="🎮" link="#-esports-specials-" class="animated" >}}
+{{< button label="🏆" link="#-sports-specials-" class="animated" >}}
+{{< button label="⚽️" link="#-football-" class="animated" >}}
+{{< button label="🥊" link="#---boxing---" class="animated">}}
+{{< button label="🏎️" link="#---f1---" class="animated" >}}
+{{< button label="🏉" link="#-rugby-lions-tours-" class="animated" >}}
+{{< button label="🏈" link="#-nfl-american-football-inc-superbowl-" class="animated" >}}
+{{< button label="🤿" link="#---bog-snorkelling---" class="animated" >}}
+<br>
 
 ## 🤿 🏊🏽‍♂️ 🤿 Bog Snorkelling 🤿 🏊🏽‍♂️ 🤿
 
@@ -342,8 +448,6 @@ Other Sports also had Studio-based commentary from time to time, which richard h
 
 Finally, in the early days, a number of occasionally fascinating discussion shows with famous former starts were recorded, before all Magazine and Chat Sports Shows were axed as part of cost-cutting measures in 2014 ![BT Sports](fn "in order to build a war-chest to fight the dramatic introduction of Sky Sports's first effective competitor, BT Sports - which had just been launched in revenge for Sky's rapid growth into Telecommunications, and which it was initially highly successful, thanks to buying-in some high-level former insider knowledge, precision-targetted Sky Sport's weak-spots. Unfortunately, thanks to subtle manipulations of politicians supposedly in the interest of viewers but in practice exactly the opposite, the only long-term beneficiaries were the already-overflowing bank accounts of the Premier League; domestic and pub viewers ended-up paying well-over twice as much for their subscriptions.")
 
-- Time of Our Lives
-- Sporting Heroes
 
 
 
