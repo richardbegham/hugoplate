@@ -1,3 +1,5 @@
+preferSymlinkedExecutables: true
+
 packages:
   - "."
 
