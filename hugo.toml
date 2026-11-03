@@ -173,7 +173,3 @@ lazy = true
 [security]
   [security.exec]
     allow = ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
-<<<<<<< HEAD
-    
-=======
->>>>>>> lightingdir
