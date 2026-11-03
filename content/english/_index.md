@@ -4,14 +4,14 @@ draft: false
 language: en
 # Banner
 banner:
-  title: "Welcome to LightingDir.com"
+  title: "Welcome to Lighting Dir.com"
   content: "The website of Richard Bowles"
   image: "images/logo-big.png"
   content2: ""
 features:
   - title: "Hello and welcome"
     image: "images/gallery/Sessions-2/SESSION2015_016.jpg"
-    content: "This site is all about the Lighting work Richard Bowles has undertaken, most of which has been for Broadcast Television in the UK, along with a significant amount of Live Events (i.e. Concerts, Corporates, etc) across the UK, Europe, and elsewhere. Oh, and some Films."
+    content: "This site is all about the Lighting work Richard Bowles has undertaken, most of which has been for Broadcast Television in the UK, along with a significant amount of Live Events (i.e. Concerts, Corporates, etc) across the UK, Europe, and elsewhere. Oh, and some Films. Probably some other things long forgotten."
     button:
       enable: true
       label: "🚀 Click / Press / Lick here to find out lots more! 🚀"
@@ -19,17 +19,17 @@ features:
       class: "animated" 
   - title: "Under Construction"
     image: "images/Under-Construction-big.png"
-    content: "There's a _lot_ to add to this site, and that takes time to get right"
+    content: "There's been a _lot_ to add to this site, and that takes time to get right"
     bulletpoints:
       - "So please keep checking back for more!"
-      - "Last major update : Thursday 4th July 2026"
+      - "Last major update : Thursday 6th August 2026"
     button:
       enable: true
       label: "🚀 This way! 🚀"
       link: "about"
       class: "animated" 
   - title: "Site Navigation"
-    image: "images/Under-Construction-big.png"
+    image: "images/AI.jpg"
     content: "Feedback on the good, the bad, and the ugly is always welcome."
     bulletpoints:
       - "The _Previously..._ section contains the majority of the content to explore, and will continue to be significantly expanded over time."

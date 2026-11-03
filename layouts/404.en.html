@@ -1,29 +1,45 @@
 {{ define "main" }}
-  <section class="section-sm text-center">
-    <div class="container">
-      <div class="row justify-center">
-        <div class="sm:col-10 md:col-8 lg:col-6">
-          <span
-            class="text-[8rem] block font-bold text-text-dark dark:text-darkmode-text-dark">
-            404
-          </span>
-          {{ if .Params.image }}
-            {{ partial "image" (dict "Src" .Params.image "Context" .Page "Alt" .Title "Class" "mx-auto rounded mb-6" ) }}
-          {{ end }}
-          <h1 class="h2 mb-4">Page not found</h1>
-          <div class="content">
-            <p>
-              The page you are looking for might have been removed, had its name
-              changed, or is temporarily unavailable.
-            </p>
-          </div>
-          <a
-            href="{{ site.BaseURL | relLangURL }}"
-            class="btn btn-primary mt-8">
-            Back to home
-          </a>
+    <section>
+        <div class="container text-center">
+            <div
+                class="from-body to-light dark:from-darkmode-body dark:to-darkmode-light rounded-2xl bg-linear-to-b px-8 py-14">
+                <h1>Error 404. Probably Fallen Down the Back of the Sofa.</h1>
+                <ul class="mt-6 inline-flex space-x-1 capitalize">
+                    <li><a class="text-primary dark:text-darkmode-primary" href=https://www.lightingdir.com />Home
+                        </a><span class="inlin-block mr-1">/</span></li>
+                    <li><span class="text-primary dark:text-darkmode-primary">Error 404. Probably fallen down the
+                            back of the sofa.</span></li>
+                </ul>
+            </div>
         </div>
-      </div>
-    </div>
-  </section>
+    </section>
+    <section class=section-sm>
+        <div class=container>
+            <div class="row justify-center">
+                <div class=lg:col-10>
+                    <div class=content>
+                        <figure class=img-center role=group
+                            aria-describedby="caption-The Talent missed their mark&mldr;"><img title loading=lazy
+                                decoding=async class="img img-fluid" width=727 height=763
+                                src=/images/404torch_hu_ae13a0279955ce4b.webp alt="Empty Spotlight"
+                                onerror='this.onerror="null",this.src="/images/404torch_hu_f984816593624fe.jpg"'>
+                            <figcaption id="caption-The Talent missed their mark&mldr;"
+                                class=caption-The-Talent-missed-their-mark>The Talent missed their mark&mldr;
+                            </figcaption>
+                        </figure>
+                        <script>window.addEventListener("load", e => { const t = GLightbox() })</script>
+                        <p>Oh dear. Sorry about that.</p>
+                        <p>Try one of these instead :</p>
+                        <p><a href=/about class="btn btn-border-animate"><span class="relative z-10">About</span>
+                            </a><a href=/contact class="btn btn-border-animate"><span class="relative z-10">Get in
+                                    Contact</span>
+                            </a><a href=/previously class="btn btn-border-animate"><span
+                                    class="relative z-10">Explore Previous Productions...</span>
+                            </a><a href=/currently class="btn btn-border-animate"><span class="relative z-10">...And
+                                    discover the Present</span></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 {{ end }}

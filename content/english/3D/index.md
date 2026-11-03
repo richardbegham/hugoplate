@@ -1,0 +1,23 @@
+---
+title: "3D-printed lights"
+meta_title: "3D printed lights"
+description: “A sidetrack into the rabbit hole of bespoke lights."
+date: 06 Aug 2026
+language: en
+draft: false
+featured_image: "images/Under-Construction-Big.jpg"
+---
+
+## Introduction
+
+Richard has many varied interests. {{< sidenote >}}...and ADHD{{< /sidenote >}} This one is, however, the ultimate fusion of decades of obsession with computers, electronics, and, of course, lighting.
+
+{{< notice "Incomplete">}} This section is a work in progress - please check back later...
+{{< /notice >}}
+
+<hr>
+
+{{< button label="About" link="/about" class="animated" >}}
+{{< button label="Get in Contact" link="/contact" class="animated" >}}
+{{< button label="Explore Previous Productions..." link="/previously" class="animated">}}
+{{< button label="...And discover the Present" link="/currently" class="animated" >}}

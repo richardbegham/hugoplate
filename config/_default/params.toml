@@ -16,7 +16,7 @@ logo_text = "LightingDir.com"
 navbar_fixed = true
 # theme-mode
 theme_switcher = true
-theme_default = "system" # available options [light/dark/system]
+theme_default = "dark" # available options [light/dark/system]
 # Main Sections
 mainSections = ["previously"]
 # contact form action
@@ -95,7 +95,7 @@ mastodon = "" # Your verification code
 [cookies]
 enable = false
 expire_days = 60
-content = "This site does not use cookies or track you. But we thought it would be fun to annoy you anyway."
+content = "This site does not use cookies to track you. But we thought it would be fun to annoy you anyway."
 button = "I hate you"
 
 # diagrams

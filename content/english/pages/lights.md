@@ -7,6 +7,7 @@ description: "A small collection of lights that are often useful get-out-of-jail
 summary: "A small collection of lights that are often useful get-out-of-jail-free cards and can fit in the boot of the car."
 ---
 
+<<<<<<< HEAD
 ## Richard's lights
 
 When working in everywhere from world-class studios to semi-derelict barns, there's often a whole range of lighting equipment available to use, either in-house or hired-in. The right light for one situation is not necessarily the right light for another.
@@ -19,13 +20,21 @@ However, for Budget, Efficacy, or size reasons; sometimes having to hand your ow
 - And all that whilst weighing-in at just a smidge over 3kg; making this a rare lights that you can safely rig one-handed! {{< sidenote >}} A memorable aspect of the original Vari*Lite VL-5 specification{{< /sidenote >}}
 
 {{< image src="/images/lights/astra-6x.jpg" alt="Astra 6X Panel light" position="center" class="h-1 max-w-lg mx-auto" >}}
+=======
+## Some of Richard's "get you out of jail" PSC lights
+>>>>>>> lightingdir
 
-### Dedolight DLHM4-300DMX
+### Dedolight DLHM4-300-DMX
 
+<<<<<<< HEAD
 - The classic Dedolight, 12V 150W, with integrated DMX ballast.
 - Richard had the first batch of this variant of the classic unit when they first arrived in the UK, for use on _Space Pirates_, and 20 years later - and much use later - these same rugged workhorses are still producing that **perfect quality, precisely adjustable, beautiful Dedolight beam.**
 
 {{< image src="/images/lights/Dedolight.jpg" alt="Dedolight" position="center" class="h-1 max-w-lg mx-auto" >}}
+=======
+- The classic Dedolight, 24V 150W, with integrated DMX ballast.
+- Richard had the first batch of this variant on the classic theme when they first arrived in the UK, way back in 2007 for use on _Space Pirates_ and almost 20 years, and much use, later, these rugged workhorses are _still_ producing that **perfect quality, precisely adjustable, beautiful Dedolight beam.**
+>>>>>>> lightingdir
 
 ### Wireless Uplighters
 

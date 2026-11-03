@@ -8,8 +8,11 @@ timeZone = "Europe/London"
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/summaries/#automatic-summary
 
+# disable language
 disableLanguages = [
-] 
+]
+# example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
+hasCJKLanguage = false # 
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
@@ -42,6 +45,8 @@ enable = true
 source = 'assets/notwatching/hugo_stats\.json'
 target = 'css'
 
+##### or is it source = '(postcss|tailwind)\.config\.js' ######
+
 ############################# Modules ############################
 [module]
 [[module.mounts]]
@@ -51,7 +56,6 @@ target = 'assets'
 disableWatch = true
 source = 'hugo_stats.json'
 target = 'assets/notwatching/hugo_stats.json'
-
 
 ############################# Outputs ############################
 [outputs]
@@ -169,4 +173,7 @@ lazy = true
 [security]
   [security.exec]
     allow = ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
+<<<<<<< HEAD
     
+=======
+>>>>>>> lightingdir

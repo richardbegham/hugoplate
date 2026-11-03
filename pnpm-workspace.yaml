@@ -1,3 +1,5 @@
+preferSymlinkedExecutables: true
+
 packages:
   - "."
 
@@ -6,3 +8,7 @@ allowBuilds:
   esbuild: true
   sharp: true
   workerd: true
+
+minimumReleaseAgeExclude:
+  - miniflare@4.20260706.0
+  - wrangler@4.108.0

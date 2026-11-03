@@ -10,9 +10,6 @@
 <link rel="dns-prefetch" href="//www.googletagmanager.com" />
 <link rel="dns-prefetch" href="//www.google-analytics.com" />
 <link rel="dns-prefetch" href="//fonts.googleapis.com" />
-<link rel="dns-prefetch" href="//connect.facebook.net" />
-<link rel="dns-prefetch" href="//platform.linkedin.com" />
-<link rel="dns-prefetch" href="//platform.twitter.com" />
 
 <!-- google fonts -->
 {{ $pf:= hugo.Data.theme.fonts.font_family.primary }}
@@ -51,7 +48,7 @@
 {{ end }}
 
 {{ $mainCSS := resources.Get "css/main.css" }}
-{{ $tailwindOpts := dict "inlineImports" true }}
+{{ $tailwindOpts := dict "inlineImports" true "skipInlineImportsNotFound" true }}
 {{ $tailwindCSS := $mainCSS | css.TailwindCSS $tailwindOpts }}
 
 {{ $styles = $styles | append $tailwindCSS }}
