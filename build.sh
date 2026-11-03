@@ -96,24 +96,31 @@ main() {
   fi
 
   # Install Node.js dependencies
-  if [[ -f package-lock.json ]]; then
-    echo "Installing Node.js dependencies..."
-    npm ci
+#  if [[ -f package-lock.json ]]; then
+#    echo "Installing Node.js dependencies..."
+#    npm ci
   fi
 
+  # Check Tailwind CLI resolution
   echo "Checking Tailwind CLI resolution..."
 
-echo "Node:"
-node --version
+  echo "Node.js:"
+  node --version
 
-echo "Tailwind CLI package:"
-node -p "require.resolve('@tailwindcss/cli/dist/index.mjs')"
+  echo "Tailwind CLI package:"
+  node -e "console.log(require.resolve('@tailwindcss/cli/package.json'))"
 
-echo "Tailwind executable:"
-ls -l node_modules/.bin/tailwindcss
+  echo "Tailwind CLI entry point:"
+  ls -l node_modules/@tailwindcss/cli/dist/index.mjs
 
-echo "Tailwind executable target:"
-readlink -f node_modules/.bin/tailwindcss
+  echo "Tailwind executable:"
+  ls -l node_modules/.bin/tailwindcss
+
+  echo "Tailwind executable target:"
+  readlink -f node_modules/.bin/tailwindcss
+
+  echo "Tailwind version:"
+  ./node_modules/.bin/tailwindcss --help
 
 
   # Build the project
