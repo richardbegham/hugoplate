@@ -101,17 +101,18 @@ main() {
 #    npm ci
 # fi
 
-  # Check Tailwind CLI resolution
-  echo "Checking Tailwind CLI resolution..."
+  # Ensure Hugo can identify Tailwind as a Node.js executable
+  echo "Configuring Tailwind CLI for Hugo..."
 
-  echo "Node.js:"
-  node --version
+  TAILWIND_ENTRY="$(realpath node_modules/@tailwindcss/cli/dist/index.mjs)"
 
-  echo "Tailwind CLI package:"
-  node -e "console.log(require.resolve('@tailwindcss/cli/package.json'))"
+  if [[ ! -f "${TAILWIND_ENTRY}" ]]; then
+    echo "ERROR: Tailwind CLI entry point not found: ${TAILWIND_ENTRY}"
+    exit 1
+  fi
 
-  echo "Tailwind CLI entry point:"
-  ls -l node_modules/@tailwindcss/cli/dist/index.mjs
+  # Replace pnpm's shell shim with a direct symlink to the Node.js script
+  ln -sfn "${TAILWIND_ENTRY}" node_modules/.bin/tailwindcss
 
   echo "Tailwind executable:"
   ls -l node_modules/.bin/tailwindcss
@@ -119,9 +120,8 @@ main() {
   echo "Tailwind executable target:"
   readlink -f node_modules/.bin/tailwindcss
 
-  echo "Tailwind version:"
-  ./node_modules/.bin/tailwindcss --help
-
+  echo "Testing Tailwind CLI:"
+  node_modules/.bin/tailwindcss --help
 
   # Build the project
   echo "Building the project..."
