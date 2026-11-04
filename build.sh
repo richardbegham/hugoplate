@@ -99,7 +99,7 @@ main() {
 #  if [[ -f package-lock.json ]]; then
 #    echo "Installing Node.js dependencies..."
 #    npm ci
-  fi
+# fi
 
   # Check Tailwind CLI resolution
   echo "Checking Tailwind CLI resolution..."
