@@ -7,13 +7,13 @@ language: en
 description: The Sky Years - Sky News- Election Nights"
 weight: 134
 image: "elections.jpg"
-summary: "Responsible for the main studio lighting for the through-the-night coverage of the many Elections between 2015 and 2021...!"
+summary: "Responsible for the main studio lighting for the through-the-night coverage of the many, many, Elections between 2015 and 2021...!"
 ---
 
 ## Introduction
 
 Richard designed, built, and ran the through-the-night results coverage for the UK General Elections in 2015, 2017, and 2019, together with various Local Elections around the same time, and unusually, for the US, Election in 2020 (made in London due to Covid restrictions). Further details below.
-w
+
 <hr>
 
 ## 2015 UK General Election
@@ -22,11 +22,7 @@ w
 
 Studio C, adjacent to the then-main Studio News Studio A, had previously only been used as a Green-Screen studio during the set refurbishment in 2010, and as a small _Situation Room_ during the MH370 mystery. Apart from that, its only other appearance on-air was for the General Election Night Special.
 
-<<<<<<< HEAD
-Presented by Adam Boulton, who was perched up at a desk on a little island looking more than a bit like a 70's Sci-Fi set, surrounded a room full of 40x large screen monitors and Analysts hard at work. At the same time, in the main studio at the 5m high videowall lit by Richard back in 2013, Ed Conway and the Graphics team got very excited at their first big opportunity to stretch their legs - and arms. {{< sidenote >}}lesson learnt. Don't ask for 50 adjacent domestic televisions to be adjusted to have the same colour balance... unless you are prepared to be handed a remote and told to have a go yourself... {{< /sidenote >}}
-=======
 Presented by Adam Boulton, who was perched up at a desk on a little island looking more than a bit like a 70's Sci-Fi set, surrounded a room full of 40x large screen monitors and Analysts hard at work. At the same time, in the main studio at the 5m high videowall - lit by Richard when installed back in 2013 - Ed Conway and the Graphics team got very excited at their first big opportunity to stretch their legs - and arms. {{< sidenote >}}Cautionary Tale : Don't ask for 50 tightly-packed domestic displays to have the same colour balance, unless you are prepared to be handed a pile of remotes and told to have a go yourself... {{< /sidenote >}}
->>>>>>> lightingdir
 
 {{< youtube "HlZMORFyS7U" >}}
 
@@ -38,7 +34,6 @@ Just four days before Election Day, Richard was asked if he could _jazz-up the e
 
 > We need something eye-catching in a hurry - we liked what you did for the Exterior of the Campus for the Debate a couple of weeks back, so we'd like to offer a ....quite a large pot of money News Heliopter that day, so...if you want it... Oh, and should the tukey become a ...turkey...a re0oacement will be withyou start again
 
-<<<<<<< HEAD
 {{< notice "quote" >}}
 Hi Steve, its Richard. Can you send us in the morning all your really big searchlighty-type thingies please.
 <pause>
@@ -52,13 +47,6 @@ With no notice and most of the in-house team and equipment already committed to 
 48x Mythos II were used to make a giant X in the sky (pushed together in a single beam once the polls closed), together with a boat load of VL-3500s, SGM P5s, PixelPars...and probably a load more...were used to light up 3 Buildings, and thanks to an unusually cooperate CAA, the resulting Helicopter footage remains the most spectacular the Sky Campus has ever looked. In fact, the footage kept randomly reappearing in unrelated programs for years afterwards... The giant X was apparently visible from Central London, although sadly the lack of the usual Hounslow fog made it less dramatic on camera than hoped. Whether or not anyone was moved to vote by this effort is unknown. Still, it exceeded expectations and ended-up being used on-air from a lot earlier in the evening, and for far longer, than originally scheduled.
 
 The colours used were the colours of the 7 main parties _(including the unhelpful closeness of "Gold" for The SNP and "Yellow" for the Lib Dems)_ which flowed-around the campus. Careful attention was made to ensure the various colours were always evenly-spaced and equally visible in order to ensure the perception of being totally unbiased, regardless of how the shots were cut in and out. A big lighting change during the grand reveal of the exit poll results, was carefully planned with all possible varients mapped=out... and then never made it on air, was in all the excitement completely forgotten-about by Production, so didn't make it to air unfortunately. Not long afterwards, the helicopter ran low on fuel and went back to Gatwick.
-=======
-With no notice and most of the in-house team already committed to productions, the call for help went out immediately to Steve at RML for lights, along with Barry Dennison (then at ELP) for other kit and crew to make it all happen. Barry was on site within a couple of hours, and the next morning a top lighting crew of 10, led by Seb Williams, promptly arrived and started stringing cables and lights together for days.
-
-48x Mythos II were used to make a giant X in the sky (pushed together in a single beam once the polls closed), together with a boat load of VL-3500s, SGM P5s, PixelPars...and probably a load more...were used to light up 3 Buildings, and thanks to an unusually cooperate CAA, the resulting Helicopter footage remains the most spectacular the Sky Campus has ever looked. In fact, the footage kept randomly reappearing in unrelated programs for years afterwards... The giant X was apparently visible from Central London, although sadly the lack of the usual Hounslow fog made it less dramatic on camera than hoped. Whether or not anyone was moved to vote by this effort is unknown. Still, it exceeded expectations and ended-up being used on-air from a lot earlier in the evening, and for far longer, than originally scheduled.
-
-The colours used were the colours of the 7 main parties _(including the unhelpful closeness of "Gold" for The SNP and "Yellow" for the Lib Dems)_ which flowed-around the campus. Careful attention was made to ensure the various colours were always evenly-spaced and equally visible in order to ensure the perception of being totally unbiased, regardless of how the shots were cut in and out. A grand reveal of the exit poll results in a big lighting change was... in all the excitement, completely forgotten-about by Production, so never made it to air unfortunately. Not long afterwards, the helicopter ran low on fuel and went back to Gatwick.
->>>>>>> lightingdir
 
 {{< gallery2 dir="images/gallery/Exterior2/" >}}
 
@@ -116,13 +104,9 @@ Lighting was relatively conventional, mostly *Source-4-II Daylight* with a mix o
 
 <hr>
 
-<<<<<<< HEAD
 ## 2020 : US Election - during Covid-19.
 
 ##### Sky Central
-=======
-## 2020 : US Election (Sky Central) during Covid-19
->>>>>>> lightingdir
 
 More modest setup than the year before, but still looking good.  
 This time the desk was spun round; putting the Glass Box studio in context better, and Ed was also up on the Mez, with a real video wall.

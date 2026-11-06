@@ -5,7 +5,7 @@ date: 30 oct 2026
 draft: false
 language: en
 weight: 181
-description: "A small collection of lights that are often useful get-out-of-jail-free cards and can fit in the boot of the car."
+description: "A varied collection of lights that are often useful get-out-of-jail-free cards and can fit in the boot of the car."
 summary: "Richard's small collection of lights that are useful get-out-of-jail-free cards."
 ---
 
@@ -35,7 +35,7 @@ However, for Budget, Efficacy, or Scale reasons; sometimes having your own light
 - These units have improved on the original Smartbat design with 6 colour emmitters instead of 3 (giving a wider colour gamut as well as increased output), as well as longer-lasting batteries and the more robust Powercon connectors instead of IEC.
 - Extra sets of these is very mildly addictive! 🤣
 
-{{< image src="/images/lights/uplighters1.jpg" alt="Battery uplighters" position="left" class="h-1 max-w-lg mx-auto" >}} {{< image src="/images/lights/uplighters2.jpg" alt="Battery uplighters" position="right" class="h-1 max-w-lg mx-auto" >}}
+{{< image src="/images/lights/uplighter.jpg" alt="Battery uplighters" position="center" class="h-1 max-w-lg mx-auto" >}}
 
 ### 2-Cell Blinders
 
@@ -43,11 +43,13 @@ However, for Budget, Efficacy, or Scale reasons; sometimes having your own light
 - Variable colour temperature and single-cell control...they even strobe should you be that way inclined.
 - Useful as general area/audience lighting
 
+{{< image src="/images/lights/2cell.jpg" alt="Two cell blinder" position="center" class="h-1 max-w-lg mx-auto" >}}
+
 ### Source 4 PAR
 
-{{< image src="/images/lights/Source4-PAR.jpg" alt="ETC Source 4 PAR" position="center" class="h-1 max-w-lg mx-auto" >}}
-
 - Sometimes the simpl[est tool can be the most powerful.
+  
+{{< image src="/images/lights/Source4-PAR.jpg" alt="ETC Source 4 PAR" position="center" class="h-1 max-w-lg mx-auto" >}}
 
 <hr>
 
