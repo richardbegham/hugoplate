@@ -1,17 +1,19 @@
 ---
-title: "Lights"
+title: "Richard's Lights"
+image: "featured.jpg"
+date: 30 oct 2026
 draft: false
 language: en
-weight: 101
+weight: 181
 description: "A small collection of lights that are often useful get-out-of-jail-free cards and can fit in the boot of the car."
-summary: "A small collection of lights that are often useful get-out-of-jail-free cards and can fit in the boot of the car."
+summary: "Richard's small collection of lights that are useful get-out-of-jail-free cards."
 ---
 
 ## Richard's lights
 
 When working in everywhere from world-class studios to semi-derelict barns, there's often a whole range of lighting equipment available to use, either in-house or hired-in. The right light for one situation is not necessarily the right light for another.
 
-However, for Budget, Efficacy, or size reasons; sometimes having to hand your own light-weight but powerful equipment is the most appropriate solution.
+However, for Budget, Efficacy, or Scale reasons; sometimes having your own light-weight but powerful equipment to hand is the most appropriate solution.
 
 ### Litepanels Astra X6
 
@@ -23,7 +25,7 @@ However, for Budget, Efficacy, or size reasons; sometimes having to hand your ow
 ### Dedolight DLHM4-300DMX
 
 - The classic Dedolight, 12V 150W, with integrated DMX ballast.
-- Richard had the first batch of this variant of the classic unit when they first arrived in the UK, for use on _Space Pirates_, and 20 years later - and much use later - these same rugged workhorses are still producing that **perfect quality, precisely adjustable, beautiful Dedolight beam.**
+- Richard had the fir   st batch of this variant of the classic unit when they first arrived in the UK, for use on _Space Pirates_, and 20 years later - and much use later - these same rugged workhorses are still producing that **perfect quality, precisely adjustable, beautiful Dedolight beam.**
 
 {{< image src="/images/lights/Dedolight.jpg" alt="Dedolight" position="center" class="h-1 max-w-lg mx-auto" >}}
 
@@ -49,7 +51,7 @@ However, for Budget, Efficacy, or size reasons; sometimes having to hand your ow
 
 <hr>
 
-{{< image src="images/getintouch.jpg" alt="Golden Get In Touch Envelope" position="center" command="fill" option="q100" class="img-fluid" caption="Go on Go on Go on - Get in Touch!" >}}
+{{< image src="/images/getintouch.jpg" alt="Golden Get In Touch Envelope" position="center" command="fill" option="q100" class="img-fluid" caption="Go on Go on Go on - Get in Touch!" >}}
 
 ...And this is where you come in - Get in touch, lets see what we can do together!
 

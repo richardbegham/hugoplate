@@ -4,9 +4,9 @@ draft: false
 language: en
 # Banner
 banner:
-  title: "Welcome to Lighting Dir.com"
+  title: "Welcome to LightingDir.com"
   content: "The website of Richard Bowles"
-  image: "images/logo-big.png"
+  image: "images/logo.png"
   content2: ""
 features:
   - title: "Hello and welcome"
@@ -19,10 +19,10 @@ features:
       class: "animated" 
   - title: "Under Construction"
     image: "images/Under-Construction-big.png"
-    content: "There's been a _lot_ to add to this site, and that takes time to get right"
+    content: "There's been a _lot_ to add to this site, and that takes time to get right. Will get there eventually..."
     bulletpoints:
       - "So please keep checking back for more!"
-      - "Last major update : Thursday 6th August 2026"
+      - "Last major update : Friday 6th November 2026"
     button:
       enable: true
       label: "🚀 This way! 🚀"
@@ -33,10 +33,10 @@ features:
     content: "Feedback on the good, the bad, and the ugly is always welcome."
     bulletpoints:
       - "The _Previously..._ section contains the majority of the content to explore, and will continue to be significantly expanded over time."
-      - "_Tabbed views_ are used throughout this site to flip between related information, and to reduce lengthy scrolling. "
-      - "_Educational notes_ indicates some more detailed information about historical productions, which may be of some interest to students of television lighting techniques."
-      - "Many images can be selected to zoom in"
-      - "**Dark Mode** can be toggled on/off in the top right corner.<br>(We think it looks best in Dark Mode though)"
+      - "_Currently_ is the more recent stuff."
+      - "Where possible, _Tabbed views_ are used throughout this site to flip between related information -  and to reduce lengthy scrolling!"
+      - "_Educational notes_ indicates detailed technical information about past productions - which might be of some interest to students of television lighting techniques."
+      - "Finally, **Dark Mode** can be toggled on/off in the top right corner.<br>(However, We think it looks best in Dark Mode)"
     button:
       enable: true
       label: "🚀 Previously 🚀"

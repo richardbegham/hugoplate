@@ -1,5 +1,6 @@
 ---
 title: "Sky Studio Designs"
+tags: ['sky', 'news', 'sport', 'studios']
 date: 17 Feb 2026
 draft: false
 language: en
