@@ -4,7 +4,7 @@ layout: single
 draft: false
 ---
 
-{{< image src="images/404.jpg" alt="Empty Spotlight" position="center" command="fill" option="q100" class="img-fluid" caption="The lights not in the wrong place - The Talent missed their mark..." >}}
+{{< image src="images/404torch.jpg" alt="Empty Spotlight" position="center" command="fill" option="q100" class="img-fluid" caption="The lights not in the wrong place - The Talent missed their mark..." >}}
 
 Oh dear. Sorry about that.
 
