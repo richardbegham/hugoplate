@@ -32,17 +32,21 @@ Presented by Adam Boulton, who was perched up at a desk on a little island looki
 
 Just four days before Election Day, Richard was asked if he could _jazz-up the exterior of the site somehow_, as a previous plan for big exterior Projections had fallen thought. And also, there is this very difficult final hour of voting between 9 and 10pm, when (by law) all discussions of politics has to be avoided, but they want to build the excitement towards the grand reveal of the Exit Poll at 10pm, so can discuss the process - and also maybe one last push to encourage people to go and vote at the last minute...
 
-> We need something eye-catching in a hurry - we liked what you did for the Exterior of the Campus for the Debate a couple of weeks back, so we'd like to offer a ....quite a large pot of money News Heliopter that day, so...if you want it... Oh, and should the tukey become a ...turkey...a re0oacement will be withyou start again
-
-{{< notice "quote" >}}
-Hi Steve, its Richard. Can you send us in the morning all your really big searchlighty-type thingies please.
-<pause>
-Yes, ALL of them. Anything you can see a mile away.
-{{< /notice >}}
-
 With no notice and most of the in-house team and equipment already committed to Sports Productions, the call for help went out immediately to Steve at RML for big lights, and alsp to Barry Dennison (then at ELP) for the distro and crew to make it all happen. Barry came straight down, arriving after lunch with Seb Williams, fpr a site reeccee. {{< sidenote>}}Essentially, wander around the site, find some space with a suitable surface, then find something that fits in it and it can shine of something!r shines at it, scribble down and move on.?{{</sidenote>}} This resulted, first thing the next morning, in two trucks stuffed full of equipments. together with an excellent crew of 10 lighting technicians led by Seb Williams, promptly arriving, followed by days of stringing cables together.
 
-{{< gallery2 dir="images/gallery/Exterior/" >}}
+{{< notice "quote" >}}
+Hi Steve, its Richard. Need some more lights for the Election. Can you send us ALL your really big searchlighty-type thingies in the morning please.
+<pause>
+Yes, ALL of them.
+
+Whatever you've got.
+
+Anything you can see a mile away.
+
+Oh, and how many Mythos have you got available?
+{{< /notice >}}
+
+{{< gallery2 dir="/images/gallery/Exterior/" >}}
 
 48x Mythos II were used to make a giant X in the sky (pushed together in a single beam once the polls closed), together with a boat load of VL-3500s, SGM P5s, PixelPars...and probably a load more...were used to light up 3 Buildings, and thanks to an unusually cooperate CAA, the resulting Helicopter footage remains the most spectacular the Sky Campus has ever looked. In fact, the footage kept randomly reappearing in unrelated programs for years afterwards... The giant X was apparently visible from Central London, although sadly the lack of the usual Hounslow fog made it less dramatic on camera than hoped. Whether or not anyone was moved to vote by this effort is unknown. Still, it exceeded expectations and ended-up being used on-air from a lot earlier in the evening, and for far longer, than originally scheduled.
 
@@ -93,7 +97,7 @@ The archives and memory banks are still being searched for much to say about thi
 
 For this, the gigantic Sky Central building was thoroughly taken-over, for a spectacular integration of Augmented-Reality Graphics, Real Graphics, and Actual Real People.
 
-Main Presentation Desk on the Mez, Ed downstairs taking over the salad bar (virtually), an Analysis area (in a tea-break area), and a big social media zone (in the opposite tea-break area)
+Main Presentation Desk on the Mez, Ed downstairs taking over the salad bar (virtually), an Analysis area in a tea-break area, and a big social media zone (in the opposite tea-break area)
 
 All served by every type of broadcast Camera you can think of - a big Wire cam, a Technocane, a Jib, a SteadiCam, several Peds, Robots, Handhelds, DSLRs, Webcams... the works.
 
@@ -104,11 +108,11 @@ Lighting was relatively conventional, mostly _Source-4-II Daylight_ with a mix o
 
 <hr>
 
-## 2020 : US Election - during Covid-19.
+## 2020 : US Election (during Covid-19)
 
 ##### Sky Central
 
-More modest setup than the year before, but still looking good.  
+More modest setup than the year before, just one area instead of 4, but still looking good.  
 This time the desk was spun round; putting the Glass Box studio in context better, and Ed was also up on the Mez, with a real video wall.
 And lots of One-Way stickers everywhere.
 
