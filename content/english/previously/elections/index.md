@@ -62,13 +62,13 @@ _Oh, yes, Richard did in the end have all the incoming flights into Heathrow div
 
 ##### The Hub, Central Atrium
 
-The Hub building (originally built for the Exec and some halo departments) was a frequent visual stand-in for Sky News's building - as it looked far prettier that any of the others, including a nice reflective cladding. For one occasion, due to lack of availability of Studios 4/5, it was pressed-into service as the location for the *Brexit Debate* - had its exterior used in a very similar way for the Referendum night, as well as to celebrate the launch of The Pledge series. For both these occasions, custom gobos were fitted to a set of Mythos II, one letter per luminaire. Rapidly-emerging new technologies meant that a drone could now be used for a live camera feed instead of a helicopter, and this, together with all the beams of light being scattered and spread-out, plus a bit more time to plan, meant there was thankfully no need to divert all the planes at Heathrow again!.
+The Hub building (originally built for the Exec and some halo departments) was a frequent visual stand-in for Sky News's building - as it looked far prettier that any of the others, including a nice reflective cladding. For one occasion, due to lack of availability of Studios 4/5, it was pressed-into service as the location for the _Brexit Debate_ - had its exterior used in a very similar way for the Referendum night, as well as to celebrate the launch of The Pledge series. For both these occasions, custom gobos were fitted to a set of Mythos II, one letter per luminaire. Rapidly-emerging new technologies meant that a drone could now be used for a live camera feed instead of a helicopter, and this, together with all the beams of light being scattered and spread-out, plus a bit more time to plan, meant there was thankfully no need to divert all the planes at Heathrow again!.
 
 The words _*In or Out?*_ were flashed alternately on the apex of the building, reflecting the on-screen branding that had been used for weeks beforehand. When the result was finally declared, these were used to stop flashing and reveal the answer on screen. _🎶🎺🎺🎺🎵Dum Dum Deeeerrrr_
 
 SuperSharpies were used this time round for beam effects, together with as many SGM P5s and PixelPars as could be fitted on the rest of the truck. The weather was not as promising, so weatherproof domes were used as a precaution.
 
-{{< gallery dir="images/gallery/InOut/" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
+{{< gallery dir="/images/gallery/InOut/" class="" height="400" width="400" webp="true" command="Fit" option="" zoomable="true" >}}
 
 A similiar setup, except with Mythos II instead of SuperSharpies due to availability issues, was used in late 2015 for The Pledge laucnh.
 <hr>
@@ -97,7 +97,7 @@ Main Presentation Desk on the Mez, Ed downstairs taking over the salad bar (virt
 
 All served by every type of broadcast Camera you can think of - a big Wire cam, a Technocane, a Jib, a SteadiCam, several Peds, Robots, Handhelds, DSLRs, Webcams... the works.
 
-Lighting was relatively conventional, mostly *Source-4-II Daylight* with a mix of *Geminis* and *Arris* for keys, together with a pair of *Mac Vipers* doing long-throw for Ed - backed up by 10-degree S4.  however a lot of new rigging points had to be installed over both the Mezzanine studio area and high above the main walkway. Lights used included Geminis, Arris, Source 4 LED, Mac Vipers, TitanTubes, and so on.
+Lighting was relatively conventional, mostly _Source-4-II Daylight_ with a mix of _Geminis_ and _Arris_ for keys, together with a pair of _Mac Vipers_ doing long-throw for Ed - backed up by 10-degree S4-II-Ds. TitanTubes and various LED pars were used to decorate the foregrounds and backgrounds. A lot of new rigging points had to be installed over both the Mezzanine studio area and high above the main walkway.
 
 {{< youtube "VaAQoFKVjbk" >}}
 {{< youtube "1EzNRsXYJm0" >}}
